@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: "Research Experience"
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Master of Science Student
+    company: Gallego Romero Laboratory
+   #supervisors: Dr. Irene Gallego Romero & Dr. Christina Azodi
+    company_url: 'https://igr-lab.science.unimelb.edu.au/'
+    location: Melbourne Integrative Genomics / The University of Melbourne
+    date_start: '2021-02-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        **Supervisors:** Dr. Irene Gallego Romero & Dr. Christina Azodi 
         
-        * Analysing
-        * Modelling
-        * Deploying
+        **Project Title:** Predicting the cross population portability of human eQTLs
+
+  - title: Undergraduate Research Opportunities Student (UROP)
+    company: Papenfuss Laboratory
+    supervisors: Prof. Tony Papenfuss & Dr. Stefano Mangiola 
+    company_url: 'https://igr-lab.science.unimelb.edu.au/'
+    location: Bioinformatics / The Walter and Eliza Hall Institute of Medical Research
+    date_start: '2019-11-01'
+    date_end: '2020-12-31'
+    description: |2-
+        **Supervisors:** Dr. Stefano Mangiola & Prof. Tony Papenfuss
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        **Project Title:** *Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression*
+        
+
+  - title: Monash University Winter Research Vacation Scholarship
+    company:  Connallon Laboratory
+    company_url: 'https://www.monash.edu/science/schools/biological-sciences'
+    location: School of Biological Sciences / Monash University
+    date_start: '2019-06-01'
+    date_end: '2020-07-31'
+    description: |2-
+        **Supervisors:** Dr. Filip Ruzicka & Dr. Tim Connallon
+        
+        **Project Title:** *Testing a Theory Involving the Inversion of Chromosomes*
+
 ---
