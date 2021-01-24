@@ -1,0 +1,473 @@
+---
+title: "Golgi Post "
+author: ''
+date: '2021-01-24'
+slug: golgi-post-introduction-to-the-golgi-for-primary-school-kids-and-beyond
+categories: Science Communication
+tags:
+- Cells
+- Golgi
+- Science Communication
+- Teaching
+- Animation 
+subtitle: ''
+summary: 'Cartoon introducing the Golgi Apparatus writen for senior primary school kids and beyond'
+authors: ['Isobel Beasley', 'Andreas Dorsch', 'Laura Wernet']
+lastmod: '2021-01-24T01:08:30+11:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Collaboration between Isobel Beasley, Andreas Dorsch and Laura Wernert
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(magick)
+library(animation)
+```
+```{r}
+image_read('header.gif')
+
+image_read('b.png') %>% 
+  image_scale(., "1000x")
+
+image_read('tree.gif') %>% 
+  image_annotate("Every living being,",
+                 size = 40, 
+                 font = "Palatino",
+                 location = "+80+60", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+    image_annotate("from the tallest tree...",
+                 size = 70, 
+                 font = "Palatino",
+                 weight = 700,
+                 location = "+130+130", 
+                 boxcolor = "white",
+                 color = "black")
+
+image_read('b.png') %>% 
+  image_scale(., "350x") 
+
+image_read('ant_leaf.gif') %>% 
+  image_scale(., "850x") %>% 
+    image_annotate("...to the tiniest ant..",
+                 size = 22, 
+                 font = "Palatino",
+                 location = "+640+230", 
+                 style = "italic",
+                 boxcolor = "white",
+                 color = "black") 
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('zoom.gif') %>% 
+  image_scale(., "850x") %>% 
+  image_annotate("is made of even smaller structures",
+                 size = 42,
+                  font = "Palatino",
+                 location = "+70+50", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+  image_annotate("called cells.",
+                 size = 50,
+                  font = "Palatino",
+                 style = "italic", 
+                 location = "+580+140", 
+                 boxcolor = "white",
+                 weight = 700,
+                 color = "black")  
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('cell_city_gif_1.png') %>% 
+  image_colorize(opacity = 20, color = 'white') %>% 
+  image_scale(., "850x") %>% 
+    image_annotate("Cells are like cities. ",
+                 size = 35,
+                  font = "Palatino",
+                 location = "+10+60", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+    image_annotate("Every organelle in the cell",
+                 size = 40,
+                  font = "Palatino",
+                 location = "+20+250", 
+                 boxcolor = "white",
+                 weight = 700,
+                 color = "black") %>% 
+      image_annotate("has an important role,",
+                 size = 40,
+                  font = "Palatino",
+                 location = "+100+350", 
+                 boxcolor = "white",
+                 weight = 700,
+                 color = "black") %>% 
+    image_annotate("like businesses and buildings do in cities.",
+                 size = 35,
+                  font = "Palatino",
+                 location = "+190+500", 
+                 boxcolor = "white",
+                 color = "black")   
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('cell_city.gif') %>% 
+  image_scale(., "850x") 
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('b.png') %>% 
+  image_scale(., "850x") %>%      
+  image_annotate("In cities the post office helps parcels get to the right address.",
+                 size = 26,
+                  font = "Palatino",
+                 location = "+10+20", 
+                 boxcolor = "white",
+                 color = "black") 
+
+image_read('golgi_and_post.gif') %>% 
+  image_scale(., "850x")  %>% 
+      image_annotate("The Golgi apparatus is the Post Office of the cell.",
+                 size = 35,
+                  font = "Palatino",
+                 location = "+50+20", 
+                 boxcolor = "white",
+                 weight = 700, 
+                 color = "black") 
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('post_collect.gif') %>% 
+  image_scale(., "850x")  %>% 
+         image_annotate("Whenever you send a parcel to a friend, ",
+                 size = 35,
+                  font = "Palatino",
+                 location = "+50+80", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+           image_annotate("a postie collects it from a post box.",
+                 size = 37,
+                  font = "Palatino",
+                 location = "+170+600", 
+                 boxcolor = "white",
+                 color = "black")
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('golgi_collect.gif') %>% 
+  image_scale(., "850x") %>% 
+    image_annotate("Whenever a cell wants to send something to another cell,",
+                 size = 26,
+                  font = "Palatino",
+                 location = "+20+50", 
+                 boxcolor = "white",
+                 color = "black")  %>% 
+    image_annotate("the Golgi Apparatus collects it from ",
+                 size = 29,
+                  font = "Palatino",
+                 location = "+110+100", 
+                 boxcolor = "white",
+                 weight = 700,
+                 color = "black")    %>%
+     image_annotate("the Endoplasmic Reticulum. ",
+                 size = 29,
+                  font = "Palatino",
+                 location = "+250+150", 
+                 boxcolor = "white",
+                 weight = 700,
+                 color = "black")  
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('sort.gif') %>% 
+  image_scale(., "850x") %>% 
+    image_annotate("Next, the post office sorts all",
+                 size = 30,
+                  font = "Palatino",
+                 location = "+400+50", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+      image_annotate("collected mail into size,",
+                 size = 30,
+                  font = "Palatino",
+                 location = "+470+100", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+      image_annotate("shape,",
+                 size = 30,
+                  font = "Palatino",
+                 location = "+520+150", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+      image_annotate("type,",
+                 size = 30,
+                  font = "Palatino",
+                 location = "+570+200", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+      image_annotate("and",
+                 size = 30,
+                  font = "Palatino",
+                 location = "+620+250", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+       image_annotate("delivery area.",
+                 size = 30,
+                  font = "Palatino",
+                 location = "+670+300", 
+                 boxcolor = "white",
+                 color = "black") 
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('sort_golgi.gif') %>% 
+  image_scale(. , "850x") %>%       
+  image_annotate("The Golgi Apparatus also sorts ",
+                 size = 30,
+                  font = "Palatino",
+                 location = "+60+50", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+  image_annotate("all the material it collects, ",
+                 size = 30,
+                  font = "Palatino",
+                 location = "+30+110", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+  image_annotate("by type",
+                 size = 30,
+                  font = "Palatino",
+                 location = "+1+170", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+    image_annotate("and delivery zone.",
+                 size = 30,
+                  font = "Palatino",
+                 location = "+50+230", 
+                 boxcolor = "white",
+                 color = "black") 
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('aus_post_dell.gif') %>% 
+  image_scale(., "850x") %>% 
+      image_annotate("When all the mail is sorted,",
+                 size = 25,
+                  font = "Palatino",
+                 location = "+50+10", 
+                 boxcolor = "white",
+                 color = "black") %>%       
+  image_annotate("posties are sent on their way to deliver the post.",
+                 size = 30,
+                  font = "Palatino",
+                 location = "+180+60", 
+                 boxcolor = "white",
+                 weight = 700,
+                 color = "black")
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('vesicle_text.gif')
+#  image_write(image_read('vesicle_del.gif') %>% 
+#    image_annotate("In the cell,",
+#                  size = 45,
+#                   font = "Palatino",
+#                  location = "+40+50",
+#                  boxcolor = "white",
+#                  color = "black") %>%
+#    image_annotate("the Golgi Apparatus ",
+#                  size = 36,
+#                   font = "Palatino",
+#                  location = "+10+420",
+#                  boxcolor = "white",
+#                  color = "black") %>%
+#      image_annotate("sends special",
+#                  size = 36,
+#                   font = "Palatino",
+#                  location = "+30+520",
+#                  boxcolor = "white",
+#                  color = "black") %>% 
+#      image_annotate("delivery trucks ",
+#                  size = 36,
+#                   font = "Palatino",
+#                  location = "+50+620",
+#                  boxcolor = "white",
+#                  color = "black")  #%>%
+#    image_annotate("called vesicles ",
+#                  size = 45,
+#                   font = "Palatino",
+#                  location = "+80+720",
+#                  boxcolor = "white",
+#                  weight = 700,
+#                  color = "black") %>%
+#      image_annotate("to deliver important materials",
+#                  size = 36,
+#                   font = "Palatino",
+#                  location = "+30+840",
+#                  boxcolor = "white",
+#    
+#                                color = "black") ) 
+#    image_write(image_read('vesicle_test.gif') %>%
+#      image_annotate("we need to live. ",
+#                  size = 36,
+#                   font = "Palatino",
+#                  location = "+440+900",
+#                  boxcolor = "white",
+#                  color = "black"),
+#      path = "vesicle_text.gif",
+#    format = "gif",
+#   density = 300)
+# # 
+# 
+# path = "vesicle_test.gif", 
+#    format = "gif",
+#   density = 300)
+# image_write(
+# image_read('vesicle_test.gif') %>% 
+#        image_annotate("delivery trucks ",
+#                  size = 36,
+#                   font = "Palatino",
+#                  location = "+50+620",
+#                  boxcolor = "white",
+#                  color = "black") %>% 
+#      image_annotate("called vesicles ",
+#                  size = 45,
+#                   font = "Palatino",
+#                  location = "+80+720",
+#                  boxcolor = "white",
+#                  weight = 700,
+#                  color = "black") %>% 
+#      image_annotate("to deliver important materials",
+#                  size = 36,
+#                   font = "Palatino",
+#                  location = "+30+840",
+#                  boxcolor = "white",
+#                  color = "black"), 
+# path = "vesicle_test.gif", 
+#    format = "gif",
+#   density = 300)
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+```
+
+```{r}
+image_read('b.png') %>% 
+  image_scale(., "850x") %>%     
+  image_annotate("...But the Golgi Apparatus can do waaaayyy more",
+                 size = 28,
+                  font = "Palatino",
+                 location = "+10+20", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+      image_annotate("than your typical postie!",
+                 size = 28,
+                  font = "Palatino",
+                 location = "+420+60", 
+                 boxcolor = "white",
+                 color = "black")
+
+image_read('b.png') %>% 
+  image_scale(., "350x") 
+
+image_read('lego_aus.gif') %>% 
+  image_scale(., "850x") %>% 
+       image_annotate("With Aus post,",
+                 size = 28,
+                  font = "Palatino",
+                 location = "+10+20", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+     image_annotate("if you want to send a lego castle to your best friend,",
+                 size = 28,
+                  font = "Palatino",
+                 location = "+30+80", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+     image_annotate("you need to build the castle and package it yourself.",
+                  size = 34,
+                  font = "Palatino",
+                 location = "+20+470", 
+                 boxcolor = "white",
+                 weight = 700,
+                 color = "black")
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+```
+```{r}
+image_read('lego_golgi.gif') %>% 
+  image_scale(., "850x") %>% 
+      image_annotate("...But if you could use Golgi post instead of Australia Post,",
+                 size = 28,
+                  font = "Palatino",
+                 location = "+10+20", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+        image_annotate("you could give your post office an unfinished lego set",
+                 size = 28,
+                  font = "Palatino",
+                 location = "+150+70", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+        image_annotate("... and Golgi post would build, ",
+                 size = 28,
+                  font = "Palatino",
+                 location = "+60+170", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+          image_annotate("package ",
+                 size = 28,
+                  font = "Palatino",
+                 location = "+350+310", 
+                 boxcolor = "white",
+                 color = "black") %>% 
+            image_annotate("and deliver it for you.",
+                 size = 28,
+                  font = "Palatino",
+                 location = "+520+450", 
+                 boxcolor = "white",
+                 color = "black") 
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('24.gif') %>% 
+   image_scale(., "850x") 
+
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('b.png') %>% 
+  image_scale(., "350x") %>% 
+  image_annotate("So...",
+                 size = 45,
+                  font = "Palatino",
+                 location = "+0+10", 
+                 boxcolor = "white",
+                 color = "black") 
+image_read('b.png') %>% 
+  image_scale(., "350x")
+
+image_read('end.png') %>% 
+   image_scale(., "850x") 
+
+
+```
