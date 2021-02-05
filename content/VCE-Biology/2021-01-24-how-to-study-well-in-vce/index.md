@@ -1,11 +1,11 @@
 ---
 weight: 1
 title: How to Study Well in VCE
-author: ''
+author: Isobel Beasley
 date: '2021-01-24'
 slug: how-to-study-well-in-vce
-categories: ['Study', 'VCE']
-tags: ['VCE', 'Study', 'Health and Welling']
+categories: ['Study', 'VCE', 'Advice', 'Health and Welling']
+tags: ['VCE', 'Study', 'Ádvice', 'Health and Welling']
 subtitle: 'And elsewhere'
 summary: 'Answers to the questions every VCE student asks: How should I study? How often? When? '
 authors: []
@@ -34,7 +34,7 @@ projects: []
 
 <p>&nbsp;</p>
 
-## <span style="color:#303F9F">And honestly, I'm *never* sure how to answer. </span> Everybody needs to hear a different answer.  Unfortunately, studying is a difficult skill to develop and is quite individualised. </span>
+## <span style="color:#303F9F">And honestly, I'm *never* sure how to answer. </span> Everybody needs to hear a different answer.  Unfortunately, studyis a difficult skill to develop and is quite individualised. </span>
 
 ## <span style="color:#303F9F"> However, I do think there are 4 principles which everyone could benefit from following a bit more (*including myself*). </span> Here I'm going to outline what I think they are, and some suggestions for how you can better implement them into your study.
 <p>&nbsp;</p>
@@ -43,8 +43,8 @@ projects: []
 
 *By the end of this post you should be equipped to:* 
 
-- [ ]  ***Apply the four principles to your study habits so studying better fits you*** (and your skills, schedule, interests etc.)
-- [ ]  ***Use your mistakes / failings to improve*** studying effectiveness
+- [ ]  ***Apply the four principles of good study to your own habits so studying better fits you*** (and your skills, schedule, interests etc.)
+- [ ]  ***Use your mistakes / failings to improve*** 
 - [ ]  ***Enjoy studying just a little more***
 - [ ]  ***Experiment with new study techniques to see what works for you***
     - [ ]  (Bonus Challenge) ***Be more kind to yourself and your body during VCE***
@@ -111,15 +111,15 @@ Part of this also falls into making study adapted to you and your lifestyle. You
 
 Sometimes you will make mistakes. In fact you'll probably make a lot of them. 
 
-When trying different study techniques, you may try one technique, take a test or do a SAC and find you do badly. That's ok! Truly, that's ok! In fact, if you step back for a minute and think about why you did badly (is it the technique? the topic? the style of questions?) that's actually really good! 
+When trying different study techniques, you may try one technique, take a test or do a SAC and find you do badly. That's ok! Truly, that's ok! In fact, if you step back for a minute and think about why you did badly (is it your study technique? the topic? the style of questions?) that's actually really good! 
 
-I know doing badly on a SAC, assignment, test, exam can suck (*Believe me*, I know. ***Boy do I know.***).  But doing badly can actually be a great thing - ***if you can learn from it***. So, take some time. Be comfortable with your mistakes, your bad test scores and work out what went wrong. What needs to change for next time? In the long run, you'll be a better student if you can accept your failings and come back stronger and smarter. (I promise - even messing up your ATAR is no biggie if you are willing to take the time to learn from your mistakes!)
+I know doing badly on a SAC, assignment, test, exam can suck (Believe me, *I know.* ***Boy, do I know.***).  But doing badly can actually be a great thing - ***if you can learn from it***. So, take some time. Be comfortable with your mistakes, your bad test scores and work out what went wrong. What needs to change for next time? In the long run, you'll be a better student if you can accept your failings and come back stronger and smarter. (I promise - even messing up your ATAR is no biggie if you are willing to take the time to learn from your mistakes!)
 
-If you think the reason you did badly is something out your control, go talk to someone about it.  Maybe they know something you don't. Maybe you need more support but don't know how to ask for it (been there done that 😕). Maybe they can just have your back a little whilst you're feeling a little hard done by. 
+If you think the reason you did badly is something out your control, go talk to someone about it.  Maybe they know something you don't. Maybe you need more support but don't know how to ask for it (... been there done that 😕). Maybe they can just have your back whilst you're feeling a little hard done by. 
 
 If there's no one in your life you feel comfortable talking to consider talking to a mental health professional (which could be through an online service such as headspace). Talking to someone about your situation can help get the disappointment and anger you feel out of your system. You could also go do something distracting and fun! 
 
-Sometimes you win and sometimes you lose. It's not worth wasting energy on something you cannot change. 
+Sometimes you win and sometimes you lose. If you truly cannot change it, it's not worth wasting energy on.
 
 ### **Tips / Ideas to try:** 
 
@@ -145,13 +145,15 @@ Sometimes you win and sometimes you lose. It's not worth wasting energy on somet
 One of the most important studying skills is knowing what to focus on. You cannot know absolutely everything there is to know about your subject - so what parts of the subject are you going study? What are you going to spend your precious time focusing on?
 
 The first step of this principle is breaking down big study topics into smaller areas and goals. Then, I would highly recommend asking yourself:
+
 >
 >1. ***What is examinable?*** (VCAA study designs really help here) 
 >2. ***What do I suck at?*** (dislike, find hard, don't know etc. - also see Principle 3.)
 >3. ***What is highly likely to come up?*** 
 > 4. ***What are the low hanging fruits?*** (i.e. the material that is easy for you to learn and get full marks on)
+>
 
-What you study in should focus on subject areas that fall under the most number of these questions. Prioritise studying different topics / ideas! ***Study smart - not hard!*** 
+What you study in should focus on subject areas that fall under the most number of these questions. Prioritise studying different topics and ideas! ***Study smart - not hard!*** 
 
 <p>&nbsp;</p>
 
