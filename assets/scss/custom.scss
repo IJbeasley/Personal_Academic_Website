@@ -1,0 +1,108 @@
+
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+@-webkit-keyframes yourfirstanimation {
+  from {opacity: 0; color: red;}
+  to {opacity: 1; color: black;}
+}
+
+@keyframes yourfirstanimation {
+  from {opacity: 0; color: red;}
+  to {opacity: 1; color: black;}
+}
+
+@-webkit-keyframes slide-from-left {
+  0% {-webkit-transform: translateX(-150%);transform: translateX(-150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+}
+
+@keyframes slide-from-left {
+  0% {-webkit-transform: translateX(-150%);transform: translateX(-150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+}
+
+@-webkit-keyframes fade-in {
+  0% {opacity: 0}
+  100% {opacity: 1}
+}
+
+@keyframes fade-in {
+  0% {opacity: 0}
+  100% {opacity: 1}
+}
+
+@-webkit-keyframes slide-from-right {
+  0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+}
+
+@keyframes slide-from-right {
+  0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+}
+
+@-webkit-keyframes slide-from-right-to-middle {
+  0% {-webkit-transform: translateX(200%);transform: translateX(200%)}
+  100% { -webkit-transform: translateX(10%); transform: translateX(10%); }
+}
+
+@keyframes slide-from-right-to-middle {
+  0% {-webkit-transform: translateX(200%);transform: translateX(200%)}
+  100% { -webkit-transform: translateX(10%); transform: translateX(10%); }
+}
+
+#profile {
+  -webkit-animation: slide-from-left 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+          animation: slide-from-left 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+}
+
+#about {
+   
+  .biography-title {
+  -webkit-animation: slide-from-right 2s forwards;
+          animation: slide-from-right 2s forwards;
+  }
+  
+  .main-content {
+  -webkit-animation: slide-from-right 2s forwards;
+          animation: slide-from-right 2s forwards;
+  -webkit-animation-delay: 100ms;
+          animation-delay: 100ms;
+}
+  
+  .interests-div {
+  opacity: 0;
+  -webkit-animation: fade-in 2s forwards;
+          animation: fade-in 2s forwards;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+}
+
+.education-div {
+  opacity: 0;
+  -webkit-animation: fade-in 2s forwards;
+          animation: fade-in 2s forwards;
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s;
+}
+  
+  
+} 
+
+
+#overview-title { 
+  -webkit-animation: slide-from-right-to-middle 2s forwards;
+          animation: slide-from-right-to-middle 2s forwards;
+}
+
+.article-container {
+  max-width: 850px;
+  padding: 0 20px 0 20px;
+  margin: 0 auto 0 auto;
+  font-size: 20px;
+}
