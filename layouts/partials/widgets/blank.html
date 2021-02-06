@@ -1,0 +1,80 @@
+
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $columns := $page.Params.design.columns | default "2" }}
+
+
+
+{{ $author := "" }}
+{{ if .author }}
+  {{ $author = .author }}
+{{ else }}
+  {{ $author = $page.Params.author }}
+{{end}}
+
+{{ $type := "" }}
+{{ if .type }}
+  {{ $type = .type }}
+{{ else }}
+  {{ $type = $page.Params.type }}
+{{end}}
+
+{{$type_page_path := (printf "/blank_type/%s" $type)}}
+{{$type_page :=site.GetPage $type_page_path}}
+{{ $type_detail := $type_page.Params }}
+
+
+
+{{ if ne $columns "1" }}
+  <div class="col-12 col-lg-8">
+    
+    <div id='overview-title'>
+      <h1 style="color:red"> {{ $type_page.Title | markdownify | emojify }}</h1>
+      
+ 
+
+      </div>
+      
+          
+      <div id='overview-subtitle'>
+      <h2 style="color:red"> {{ $type_detail.Subtitle }} </h2>
+      
+                 <ul class="network-icon" aria-hidden="true">
+        {{ range $type_detail.social }}
+        {{ $pack := or .icon_pack "fas" }}
+        {{ $pack_prefix := $pack }}
+        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+          {{ $pack_prefix = "fa" }}
+        {{ end }}
+        {{ $link := .link }}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        {{ $target := "" }}
+        {{ if not $scheme }}
+          {{ $link = .link | relLangURL }}
+        {{ else if in (slice "http" "https") $scheme }}
+          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
+        <li>
+          <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
+            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+      
+      
+      </div>
+
+      
+    <div id='overview-content', style="color:white"> 
+    {{ $type_page.Content }}
+    </div>
+    
+  </div>
+{{ else }}
+  <div class="col-12">
+    <h1 class='title', style="color:SlateBlue">{{ $page.Title | markdownify | emojify }}</h1>
+    {{ $page.Content }}
+  </div>
+{{ end }}
+
