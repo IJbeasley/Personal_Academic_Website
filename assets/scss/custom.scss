@@ -36,6 +36,16 @@
   100% {opacity: 1}
 }
 
+@keyframes delay-plz { 
+  0% {opacity: 0}
+  100% {opacity: 0}
+}
+
+@-webkit-keyframes delay-plz {
+  0% {opacity: 0}
+  100% {opacity: 0}
+}
+
 @-webkit-keyframes slide-from-right {
   0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
   100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
@@ -96,8 +106,23 @@
 
 
 #overview-title { 
-  -webkit-animation: slide-from-right-to-middle 2s forwards;
-          animation: slide-from-right-to-middle 2s forwards;
+  -webkit-animation: slide-from-right 2s forwards;
+          animation: slide-from-right 2s forwards;
+}
+
+#overview-subtitle { 
+  -webkit-animation: slide-from-right 2s forwards;
+          animation: slide-from-right 2s forwards;
+}
+
+#overview-content { 
+    opacity: 0;
+    -webkit-animation: fade-in 5s forwards;
+          animation: fade-in 5s forwards;
+    -webkit-animation-delay: 1.8s;
+          animation-delay: 1.8s;
+          
+      
 }
 
 .article-container {
@@ -105,4 +130,39 @@
   padding: 0 20px 0 20px;
   margin: 0 auto 0 auto;
   font-size: 20px;
+}
+
+ .navbar {
+  height: 70px;
+  background: $sta-menu-primary;
+/* this is the part that takes out the shadow & the only edit */
+  box-shadow: none;  
+  font-size: 14px;
+  font-weight: 120 !important;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  padding: 0 1rem;
+ } 
+
+ .card-simple {
+  background: #fff;
+/* this is the part that takes out the shadow */
+  box-shadow: none;
+  border: 1px solid rgba(0,0,0,.09);
+  border-radius: 3px;
+  margin-top: 20px;
+  padding: 15px 20px 15px 20px;
+}
+
+.card {
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: #fff;
+/* this is the part that takes out the shadow */
+  box-shadow: none;
+  transition: all 0.2s ease-out;
 }
