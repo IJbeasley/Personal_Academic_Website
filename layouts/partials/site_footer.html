@@ -1,0 +1,33 @@
+<footer class="site-footer">
+  
+  <p class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+  </p>
+
+  {{/* Display copyright license. */}}
+  {{ partial "site_footer_license" . }}
+  
+   <p style="font-size:1.1vw">© Isobel Beasley 2021 | Source code avaliable
+   <a href="https://github.com/IJbeasley/Personal_Academic_Website" target="_blank" rel="noopener"> here </a>
+   </p> 
+   
+  <p class="powered-by">
+    {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
+    {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
+    {{ if not (and $is_sponsor $hide_published_with_footer) }}
+    <p>
+  
+    Built with 
+    <a href="https://github.com/IJbeasley/Personal_Academic_Website" target="_blank" rel="noopener"> <i class="fab fa-github"></i></a>, 
+    the
+    <a href="https://cran.r-project.org/" target="_blank" rel="noopener">
+      <i class="fab fa-r-project"></i>
+    </a>
+    
+    <a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener"> Blogdown </a> package, 
+    and the <a href="https://github.com/wowchemy/starter-academic" target="_blank" rel="noopener">Academic Template</a> 
+    for the <a href="https://github.com/gohugoio/hugo"  target="_blank" rel="noopener">Hugo </a> based open source website builder <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> 
+    {{ end }}
+    </p>
+  </p>
+</footer>
