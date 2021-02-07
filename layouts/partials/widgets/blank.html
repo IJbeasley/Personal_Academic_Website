@@ -28,6 +28,11 @@
 
 
 {{ if ne $columns "1" }}
+{{ if $type_detail.list}} 
+
+{{ $type_page.Content | markdownify | emojify }}
+
+{{else}}
 
   <div class="col-12 col-lg-8">
     <br> 
@@ -75,6 +80,7 @@
     </div>
     
   </div>
+{{end}}
 {{ else }}
   <div class="col-12">
     <h1 class='title'>{{ $page.Title | markdownify | emojify }}</h1>
