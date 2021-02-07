@@ -1,26 +1,28 @@
 ---
-bio: "Interests: Genetics, Modeling, Educational Inclusion, Diversity"
+bio: "Genetics, Mathematical Modelling, Educational Inclusion and Diversity"
 
 education:
   courses:
   - course: Master of Science (BioSciences)
-    specialization: Genetics 🧬
+    specialisation: "Specialisation: Genetics 🧬"
     institution: The University of Melbourne
     year: 2021 - 
   - course: Bachelor of Biomedicine 
-    specialization: Genetics 🧬
+    specialisation: "Major: Genetics 🧬"
     institution: The University of Melbourne
     year: 2017-2020
   - course: Diploma in Mathematical Sciences
-    specialization: Statistics and Stochastic Processes 
+    specialisation: "Specialisation: Statistics and Stochastic Processes 📊 "
     institution: The University of Melbourne
     year: 2017-2020
 email: "isobel.beasley@unimelb.edu.au"
 highlight_name: false
 interests:
 - Population Genetics
-- Evolution
+- Animal Evolution
+- Genetic Regulation and Epigenetics
 - Educational Access and Inclusion
+- Equity in Scientific Research
 organizations:
 - name: The University of Melbourne
   url: https://www.unimelb.edu.au/
@@ -55,8 +57,7 @@ superuser: true
 title: Isobel Beasley 
 ---
 
-I'm a Master of Science Student in the [Gallego Romero Lab](https://igr-lab.science.unimelb.edu.au/) working under the supervision of Dr. Irene Gallego Romero and Dr. Christina Azodi. 
+I'm a Master of Science Student in the [Gallego Romero Lab](https://igr-lab.science.unimelb.edu.au/) working under the supervision of [Dr. Irene Gallego Romero](https://findanexpert.unimelb.edu.au/profile/806586-irene-gallego-romero) and [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi). 
 
-His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 

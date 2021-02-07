@@ -19,3 +19,6 @@ social:
   link: https://orcid.org/
 ---
 
+Currently, 
+
+As a undergraduate I also spent a year  [TABI]({{< relref "/project/TABI" >}})

@@ -25,15 +25,16 @@
 
 
 
+
+
 {{ if ne $columns "1" }}
+
   <div class="col-12 col-lg-8">
     <br> 
     <div id='overview-title'>
       <h1 style="color:white;font-size:5vw"> {{ $type_page.Title | markdownify | emojify }}</h1>
-      
- 
-
       </div>
+
       
           
       <div id='overview-subtitle'>
@@ -68,7 +69,7 @@
       <br> 
 
       
-    <div id='overview-content', style="color:white;font-size:1.2vw"> 
+    <div id='overview-content' style="color:white;font-size:1.2vw"> 
     <br> 
     {{ $type_page.Content }}
     </div>
@@ -76,8 +77,9 @@
   </div>
 {{ else }}
   <div class="col-12">
-    <h1 class='title', style="color:SlateBlue">{{ $page.Title | markdownify | emojify }}</h1>
-    {{ $page.Content }}
+    <h1 class='title'>{{ $page.Title | markdownify | emojify }}</h1>
+    <p>{{ $type_page.Content }}</p>
+    
   </div>
   
   <br> 

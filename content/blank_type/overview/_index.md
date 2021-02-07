@@ -1,6 +1,6 @@
 ---
-title: Welcome! I'm Isobel!
-subtitle: Tags 
+title: Hi, I'm Isobel!
+subtitle:  Master of Science Student | Genetics 
 social:
 - icon: envelope
   icon_pack: fas
@@ -8,18 +8,24 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/7qb8m/
 - icon: github
   icon_pack: fab
   link: https://github.com/IJbeasley
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/7qb8m/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/
-
 ---
+ <p>&nbsp;</p> 
+ 
+ Welcome to my personal website! 
+ 
 
+ Here I share the myriad of different things I’m working on, from [academic research]({{< relref "/research" >}}), to [science blogs]({{< relref "/writing" >}}), to teaching materials for high school students in [VCE Biology]({{< relref "/vce-biology" >}}).
+
+[Learn More About Me :arrow_right:](#about)
+
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
