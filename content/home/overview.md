@@ -11,12 +11,13 @@ headless: false
 
 # Order that this section appears on the page.
 weight: 10
+author: admin
 
-title: Welcome!
-subtitle:
+
+type: overview
 
 design:
-  columns: "1"
+  columns: 1
   background:
     image: headers/DNA_background.jpg
     image_darken: 0.6
@@ -28,3 +29,4 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
+Test

@@ -27,9 +27,9 @@
 
 {{ if ne $columns "1" }}
   <div class="col-12 col-lg-8">
-    
+    <br> 
     <div id='overview-title'>
-      <h1 style="color:red"> {{ $type_page.Title | markdownify | emojify }}</h1>
+      <h1 style="color:white;font-size:5vw"> {{ $type_page.Title | markdownify | emojify }}</h1>
       
  
 
@@ -37,7 +37,7 @@
       
           
       <div id='overview-subtitle'>
-      <h2 style="color:red"> {{ $type_detail.Subtitle }} </h2>
+      <h2 style="color:white"> {{ $type_detail.Subtitle }} </h2>
       
                  <ul class="network-icon" aria-hidden="true">
         {{ range $type_detail.social }}
@@ -64,9 +64,12 @@
       
       
       </div>
+      
+      <br> 
 
       
-    <div id='overview-content', style="color:white"> 
+    <div id='overview-content', style="color:white;font-size:1.2vw"> 
+    <br> 
     {{ $type_page.Content }}
     </div>
     
@@ -76,5 +79,7 @@
     <h1 class='title', style="color:SlateBlue">{{ $page.Title | markdownify | emojify }}</h1>
     {{ $page.Content }}
   </div>
+  
+  <br> 
 {{ end }}
 
