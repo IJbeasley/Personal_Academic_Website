@@ -4,8 +4,10 @@ header:
   image: ""
 title: Science Communication
 view: 
+type: no_title
 ---
 
+# <span style="color:#D32F2F"> Science Communication </span>
 
 making science engaging and 
 

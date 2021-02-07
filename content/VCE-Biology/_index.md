@@ -2,7 +2,8 @@
 header:
   caption: ""
   image: ""
-title: 
+title: VCE Biology 
+type: no_title
 background:
   color: 'navy'
   # Text color (true=light or false=dark).
