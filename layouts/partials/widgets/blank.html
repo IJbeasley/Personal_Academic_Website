@@ -36,16 +36,20 @@
 
   <div class="col-12 col-lg-8">
     <br> 
+<div class="wrap-collabsible">
+
+
     <div id='overview-title'>
-      <h1 style="color:white;font-size:5vw"> {{ $type_page.Title | markdownify | emojify }}</h1>
+      
+      <h1 style="color:#D2524B;font-size:5vw"> {{ $type_page.Title | markdownify | emojify }}</h1>
       </div>
 
       
           
-      <div id='overview-subtitle'>
-      <h2 style="color:white"> {{ $type_detail.Subtitle }} </h2>
+      <div id='overview-subtitle'> <span style="color:#118AB2"> 
+      <h2 style="color:#118AB2"> {{ $type_detail.Subtitle }} </h2>
       
-                 <ul class="network-icon" aria-hidden="true">
+                 <ul style='color:#118AB2', class="network-icon" aria-hidden="true">
         {{ range $type_detail.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
@@ -61,25 +65,40 @@
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
         <li>
-          <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
+          <a style="color:#118AB2" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
             <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
           </a>
         </li>
         {{ end }}
+        
+      </span> 
       </ul>
-      
       
       </div>
       
       <br> 
+      
+      {{if $type_detail.drop}}
+  <br> 
+  <input id="collapsible" class="toggle" type="checkbox">
+  <label for="collapsible" class="lbl-toggle"> {{ $type_detail.drop | markdownify | emojify }} </label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p> {{ $type_page.Content  | markdownify | emojify }}
+      </p>
+    </div>
+  </div>
+</div>
+{{else}}
 
       
-    <div id='overview-content' style="color:white;font-size:1.2vw"> 
+    <div id='overview-content' style="color:#118AB2;font-size:1.2vw"> 
     <br> 
     {{ $type_page.Content }}
     </div>
     
   </div>
+{{end}}
 {{end}}
 {{ else }}
   <div class="col-12">
