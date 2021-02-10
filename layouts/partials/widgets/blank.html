@@ -28,6 +28,8 @@
 
 
 {{ if ne $columns "1" }}
+
+
 {{ if $type_detail.list}} 
 
 {{ $type_page.Content | markdownify | emojify }}
@@ -37,7 +39,6 @@
   <div class="col-12 col-lg-8">
     <br> 
 <div class="wrap-collabsible">
-
 
     <div id='overview-title'>
       
@@ -108,5 +109,6 @@
   </div>
   
   <br> 
-{{ end }}
+
+{{end}}
 

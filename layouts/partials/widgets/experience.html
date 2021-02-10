@@ -9,6 +9,7 @@
   {{ if $page.Params.experience }}
   {{ $exp_len := len $page.Params.experience }}
   {{ range $idx, $key := sort $page.Params.experience ".date_start" "desc" }}
+  
   <div class="row experience">
     <!-- Timeline -->
     <div class="col-auto text-center flex-column d-none d-sm-flex">
@@ -29,9 +30,12 @@
       <div class="card">
         <div class="card-body">
           <div class="card-title exp-title text-muted mt-0 mb-1">
+
           <h5 style="color:#D2524B"> {{.title | markdownify | emojify}}</h4> </div> 
           <h6 class="card-title exp-company text-muted my-0" style='font-size:0.9vw'>
-            {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
+            {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}
+            
+            {{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
           </h6>
           <div class="text-muted exp-meta">
             {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
