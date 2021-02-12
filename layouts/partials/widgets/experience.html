@@ -31,12 +31,19 @@
         <div class="card-body">
           <div class="card-title exp-title text-muted mt-0 mb-1">
 
-          <h5 style="color:#D2524B"> {{.title | markdownify | emojify}}</h4> </div> 
-          <h6 class="card-title exp-company text-muted my-0" style='font-size:0.9vw'>
+          <h5 style="color:#D2524B">
+          <span class="experience-title">  
+           {{.title | markdownify | emojify}}
+          </span> 
+          </h4> 
+          </div> 
+          <h6 class="card-title exp-company text-muted my-0">
+            <span class="company-title-text">
             {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}
             
             {{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
           </h6>
+          </span> 
           <div class="text-muted exp-meta">
             {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
             {{ if .date_end}}
@@ -49,7 +56,13 @@
               <span>{{.}}</span>
             {{end}}
           </div>
-          {{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
+          <span id="exp-descript">
+          {{with .description}} </span>
+          <div class="card-text">
+          <span id="exp-descript">  
+          {{. | markdownify | emojify}}
+          </span> 
+          </div>{{end}}
         </div>
       </div>
     </div>

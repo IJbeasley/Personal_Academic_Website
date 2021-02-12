@@ -276,5 +276,29 @@ input[type='checkbox'] {
 
 
 .employ-text{
-  font-size: calc(0.5rem + 0.5vw);
+  font-size: calc(0.8rem + 0.00vw);
+}
+
+.edu-title{
+  font-size: calc(0.8rem + 0.3vw);
+}
+
+.edu-title-top{
+  font-size: calc(1rem + 0.4vw);
+}
+
+.employ-text-par{
+  font-size: calc(0.7rem + 0.1vw);
+}
+
+.company-title-text {
+  font-size: calc(0.85rem + 0.1vw);
+}
+
+.experience-title{
+  font-size: calc(0.95rem + 0.1vw);
+}
+
+#exp-descrip{
+  font-size: calc(1rem + 0.5vw);
 }
