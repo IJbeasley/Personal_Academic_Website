@@ -19,7 +19,7 @@ list: true
   
   <div class="card-subtitle my-0 article-metadata">
   
-  <p style="font-size:1vw"> The University of Melbourne | BioSciences, Genetics </p> 
+  <p class='employ-text'> The University of Melbourne | BioSciences, Genetics </p> 
 
   
 </div>
@@ -44,7 +44,7 @@ list: true
   </h4> 
   
   <div class="card-subtitle my-0 article-metadata">
-  <p style="font-size:1vw"> The University of Melbourne  | Genetics </p>
+  <p class=''employ-text''> The University of Melbourne  | Genetics </p>
   <ul style="font-size:1vw;margin-top:-10px;padding-left:40px">  
   <span style="padding-left:-20px"> Clubs and Societies </span>
   <li> Melbourne University Debating Society (MUDS) </li>
@@ -69,7 +69,7 @@ list: true
   </h4> 
   
   <div class="card-subtitle my-0 article-metadata">
-  <p style="font-size:1vw"> The University of Melbourne  | Statistics and Stochastic Process </p>
+  <p class='employ-text'> The University of Melbourne  | Statistics and Stochastic Process </p>
 
    
 </div>
@@ -88,7 +88,7 @@ list: true
   </h4> 
   
   <div class="card-subtitle my-0 article-metadata">
-  <p style="font-size:1vw"> Glasgow University Dialectic Society | College of Medical, Veterinary and Life Sciences  </p>
+  <p class='employ-text'> Glasgow University Dialectic Society | College of Medical, Veterinary and Life Sciences  </p>
 
    
 </div>
@@ -108,7 +108,7 @@ list: true
   </h4> 
   
   <div class="card-subtitle my-0 article-metadata">
-  <p style="font-size:1vw"> King's College London | Human Anatomy and Physiology  </p>
+  <p class='employ-text'> King's College London | Human Anatomy and Physiology  </p>
 
    
 </div>

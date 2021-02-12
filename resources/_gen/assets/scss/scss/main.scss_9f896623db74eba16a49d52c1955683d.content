@@ -9449,12 +9449,22 @@ html[dir="rtl"] body {
   -webkit-animation: slide-from-right 2s forwards;
   animation: slide-from-right 2s forwards; }
 
+.overview-title-text {
+  font-size: calc(3rem + 3vw); }
+
+.overview-icons {
+  font-size: calc(3rem + 2vw); }
+
 #overview-subtitle {
   -webkit-animation: slide-from-right 2s forwards;
   animation: slide-from-right 2s forwards; }
 
+.overview-subtitle-text {
+  font-size: calc(1.7rem + 0.4vw); }
+
 #overview-content {
   opacity: 0;
+  font-size: calc(1.3rem + 0.001vw);
   -webkit-animation: fade-in 5s forwards;
   animation: fade-in 5s forwards;
   -webkit-animation-delay: 1.8s;
@@ -9558,3 +9568,16 @@ input[type='checkbox'] {
 .toggle:checked + .lbl-toggle {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0; }
+
+.specialisation {
+  font-size: calc(0.5rem + 0.4vw); }
+
+.course {
+  font-size: calc(0.8rem + 0.4vw);
+  font-weight: bolder; }
+
+.portrait-title {
+  font-size: calc(0.9rem + 0.5vw); }
+
+.employ-text {
+  font-size: calc(0.5rem + 0.5vw); }
