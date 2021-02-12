@@ -1,5 +1,5 @@
 ---
-title: Hi, I'm Isobel!
+title: Hi, I'm Isobel! 
 subtitle:  Master of Science Student | Genetics 
 social:
 - icon: envelope
@@ -23,9 +23,11 @@ social:
  Welcome to my personal website! 
  
 
- Here I share the myriad of different things I’m working on, from [academic research]({{< relref "/research" >}}), to [science blogs]({{< relref "/writing" >}}), to teaching materials for high school students in [VCE Biology]({{< relref "/vce-biology" >}}).
+ Here I share the myriad of different things I’m working on, from 
+ [<span style='color:#118AB2'>academic research</span>]({{< relref "/research" >}}) to [<span style='color:#118AB2'>science blogs </span>]({{< relref "/writing" >}}), to teaching materials for high school students in [<span style='color:#118AB2'>VCE Biology</span>]({{< relref "/vce-biology" >}}).
 
-[Learn More About Me :arrow_right:](#about)
+
+[Learn More About Me :arrow_right:](#about) 
 
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 

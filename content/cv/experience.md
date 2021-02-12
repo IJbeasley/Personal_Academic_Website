@@ -39,7 +39,7 @@ experience:
     company_url: 'https://igr-lab.science.unimelb.edu.au/'
     location: Bioinformatics / The Walter and Eliza Hall Institute of Medical Research
     date_start: '2019-11-01'
-    date_end: '2020-02-28'
+    date_end: '2021-02-28'
     description: |2-
         **Supervisors:** [Dr. Stefano Mangiola](https://www.researchgate.net/profile/Stefano_Mangiola) & [Prof. Tony Papenfuss](https://www.wehi.edu.au/people/tony-papenfuss)
         

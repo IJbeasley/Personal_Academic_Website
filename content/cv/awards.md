@@ -25,7 +25,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+- certificate_url: "media/LiCA_Certificate.pdf"
   date_end: ''
   date_start: "2020-10-01"
   description: ""
@@ -33,7 +33,7 @@ item:
   organization_url: 
   title: Leaders in communities Award (LiCA)
   url: https://students.unimelb.edu.au/careers/get-career-ready/leadership-and-employability-programs/leaders-in-communities-award-lica
-- certificate_url: 
+- certificate_url: "media/Create_a_Subject_Challenge_Certificate_Isobel_Beasley.pdf"
   date_end: ""
   date_start: "2020-07-20"
   description: 
@@ -88,15 +88,16 @@ item:
   organization: Undergraduate Research Opportunities Program Conference
   organization_url: 
   title: Best Presentation (Day 1 of Conference)
-  url: 
+  url: "media/UROP-Conference-2020.pdf"
+  description: <span style='font-size:1vw'> &nbsp; <a href="media/UROP-Conference-2020.pdf"> <i class="far fa-file-pdf"></i>  Slides  </a> &nbsp;  &nbsp;<a href="media/UROP_Conference_Beasley_Final.mp4"> <i class="fas fa-video"></i> Prerecorded Video </a>  </span>
 - certificate_url: 
   date_end: ""
   date_start: "2019-10-25"
   description: 
   organization: Let's Torque
-  organization_url: 
+  organization_url: "https://www.letstorque.org/"
   title: Let's Torque STEM Public Speaking Competition (Grand Finalist)
-  url: 
+  url: "https://www.letstorque.org/"
 
 
 

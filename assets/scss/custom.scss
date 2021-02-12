@@ -251,3 +251,16 @@ input[type='checkbox'] {
   border-bottom-left-radius: 0;
 }
 
+ .tab-right { margin-left: 60px; }
+ 
+.white-box{
+  background: #FFFFFF;
+  width: 750px;
+  border-bottom: 1px solid rgba(245, 245, 245, .45);
+  border-top: 1px solid rgba(245, 245, 245, .45);
+  border-left: 1px solid rgba(245, 245, 245, .45);
+  border-right: 1px solid rgba(245, 245, 245, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}

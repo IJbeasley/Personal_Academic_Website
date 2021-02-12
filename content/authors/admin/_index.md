@@ -1,22 +1,21 @@
 ---
-bio: "Genetics, Mathematical Modelling, Educational Inclusion and Diversity"
-
+title: "Isobel Beasley"
 education:
   courses:
   - course: Master of Science (BioSciences)
-    specialisation: "Specialisation: Genetics 🧬"
+    specialisation: "Specialisation: Genetics \U0001F9EC"
     institution: The University of Melbourne
-    year: 2021 - 
-  - course: Bachelor of Biomedicine 
-    specialisation: "Major: Genetics 🧬"
+    year: 2021 -
+  - course: Bachelor of Biomedicine
+    specialisation: "Major: Genetics \U0001F9EC"
     institution: The University of Melbourne
     year: 2017-2020
   - course: Diploma in Mathematical Sciences
-    specialisation: "Specialisation: Statistics and Stochastic Processes 📊 "
+    specialisation: "Specialisation: Statistics and Stochastic Processes \U0001F4CA "
     institution: The University of Melbourne
     year: 2017-2020
-email: "isobel.beasley@unimelb.edu.au"
-highlight_name: false
+email: isobel.beasley@unimelb.edu.au
+highlight_name: no
 interests:
 - Population Genetics
 - Animal Evolution
@@ -26,7 +25,7 @@ interests:
 organizations:
 - name: The University of Melbourne
   url: https://www.unimelb.edu.au/
-laboratory: 
+laboratory:
 - name: Gallego Romero Lab
 - url: https://igr-lab.science.unimelb.edu.au/
 role: Master of Science Student
@@ -49,13 +48,10 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
-superuser: true
-title: Isobel Beasley 
+superuser: yes
+bio: Genetics, Mathematical Modelling, Educational Inclusion and Diversity
 ---
+
 
 I'm a Master of Science Student in the [Gallego Romero Lab](https://igr-lab.science.unimelb.edu.au/) working under the supervision of [Dr. Irene Gallego Romero](https://findanexpert.unimelb.edu.au/profile/806586-irene-gallego-romero) and [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi). 
 

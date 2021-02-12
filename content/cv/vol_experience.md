@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Co-coordinator of “Speak Up” (Debating and Public Speaking) Program
-    company:  Australia and South Asia Healthcare Association (ASHA) Lectures -
-   #supervisors: Dr. Irene Gallego Romero & Dr. Christina Azodi
+    url: https://ashalectures.org/our-team
+    company:  Australia and South Asia Healthcare Association (ASHA) Lectures
     company_url: 'https://ashalectures.org/'
     location:  
     date_start: '2019-01-01'
@@ -35,7 +35,7 @@ experience:
         * Developed and ran a 3-session training program to help newly recruited members prepare for their first coaching sessions (2019)
 
 
-
+    
   - title: VCE Lecturer, Public Speaking and Debating Coach
     company: Australia and South Asia Healthcare Association (ASHA) Lectures
     company_url: 'https://ashalectures.org/'
@@ -43,20 +43,26 @@ experience:
     date_start: '2017-01-01'
     date_end: ''
     description: |2-
+        * Produced, administered, and recorded interactive webinars on VCE Biology (over Zoom, combining Microsoft PowerPoint and poll everywhere, 2020)
+        * Organised and created free written content (e.g. tests, notes, past exam solutions) designed for VCE Biology students available through the ASHA Lectures Facebook page
+        * Prepared and delivered tailored debating coaching sessions for small to medium groups (~5-40) of students for schools
 
   - title: VCE Summer School (VCESS) Tutor
     company:  The University of Melbourne Student Union (UMSU)
     company_url: 'https://umsu.unimelb.edu.au/getinvolved/summerschool/'
-    location: 
+    location: Biology and Specialist Mathematics
     date_start: '2018-01-01'
     date_end: ''
-    description: |2-
+    description: |2- 
+    
+
   - title: Peer Mentor
     company:  Faculty of Science | The University of Melbourne
-    company_url: 
-    location: 
+    company_url: 'https://students.unimelb.edu.au/student-support/advice-and-help/peer-mentor-program'
+    location: Bachelor of Science 
     date_start: '2020-02-01'
-    date_end: '2020-07-01'
+    date_end: '2020-07-31'
     description: |2-
-
+        <a href="media\MPMP_Reference.pdf"> <span style='font-size:1vw'>Letter of Reference </span> </a>
+        
 ---

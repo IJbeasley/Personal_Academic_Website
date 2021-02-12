@@ -12,16 +12,11 @@
   name = "About Me"
   url = "#about"
   weight = 20
-  
-[[main]]
-  name = "Research Publications"
-  url = "#publications"
-  weight = 30
 
 [[main]]
   name = "Research"
-  url = "#experience"
-  weight = 40
+  url = "research/"
+  weight = 30
 
 #[[main]]
 #  name = "Research Experience"
@@ -48,10 +43,16 @@
   url = "cv/"
   weight = 90
 
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 100
+
+
+# Add courses tab? consider for VCE Biolgy 2021 ? 
+
+#[[main]]
+#  name = "Courses"
+#  url = "courses/"
+#  weight = 100
+  
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
