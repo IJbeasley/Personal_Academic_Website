@@ -1,7 +1,19 @@
+[build]
+command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
+publish = "public"
+HUGO_VERSION = "0.80.0"
+
+[context.production.environment]
+command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+HUGO_VERSION = "0.80.0"
 
 # netlify.toml
 [context.deploy-preview]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
+HUGO_VERSION = "0.80.0"
 
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
+HUGO_VERSION = "0.80.0"
