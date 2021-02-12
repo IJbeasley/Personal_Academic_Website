@@ -25,22 +25,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+- certificate_url: '/media/LiCA_Certificate_Beasley.pdf'
   date_end: ''
   date_start: "2020-10-01"
   description: ""
   organization: The University of Melbourne
   organization_url: 
-  title: Leaders in communities Award (LiCA)
+  title: Leaders in Communities Award (LiCA)
   url: https://students.unimelb.edu.au/careers/get-career-ready/leadership-and-employability-programs/leaders-in-communities-award-lica
-- certificate_url: 
+- certificate_url: '/media/Create_a_Subject_Challenge.pdf'
   date_end: ""
   date_start: "2020-07-20"
   description: 
   organization: School of Biomedical Sciences | The University of Melbourne
   organization_url: 
   title: Create a Subject Challenge (Finalist)
-  url: 
+  url: https://biomedicalsciences.unimelb.edu.au/study/create-a-subject-challenge
 - certificate_url: 
   date_end: ''
   date_start: "2014-10-01"
@@ -84,7 +84,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-06-25"
-  description: 
+  description: <a href='/media/UROP_Conference_Beasley_Final.mp4' class="desc-test"><i class="fas fa-video"> Prerecorded Video </i> </a> &nbsp; &nbsp; <a href='/media/UROP-Conference-2020.pdf' class="desc-test"> <i class="far fa-file-pdf"> UROP Conference Slides PDF </i> </a> 
   organization: Undergraduate Research Opportunities Program Conference
   organization_url: 
   title: Best Presentation (Day 1 of Conference)
@@ -96,7 +96,7 @@ item:
   organization: Let's Torque
   organization_url: 
   title: Let's Torque STEM Public Speaking Competition (Grand Finalist)
-  url: 
+  url: https://www.letstorque.org/
 
 
 

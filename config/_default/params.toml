@@ -39,6 +39,12 @@ font_size = "M"
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 site_type = "Person"
 
+title = "Isobel Beasley"
+
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://www.isobelbeasley.com/"
+
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
 local_business_type = ""
