@@ -70,45 +70,42 @@
   <div class="col-12 col-lg-8">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-    {{ if and $page.Params.widget $page.Title }}<h1 class='biography-title'>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+    {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
 
-    
-    <div class='main-content'>
-  {{ $person_page.Content }}
-</div>
-    
-    
+    <div class="article-style">
+      {{ $person_page.Content }}
+    </div>
 
     <div class="row">
 
       {{ with $person.interests }}
-       <div class="interests-div col-md-5">
-    <h3>{{ i18n "interests" | markdownify }}</h3>
-    <ul class="ul-interests">
-      {{ range . }}
-      <li>{{ . | markdownify | emojify }}</li>
+      <div class="col-md-5">
+        <h3>{{ i18n "interests" | markdownify }}</h3>
+        <ul class="ul-interests">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      </div>
       {{ end }}
-    </ul>
-  </div>
-  {{ end }}
 
       {{ with $person.education }}
-  <div class="education-div col-md-7">
-    <h3>{{ i18n "education" | markdownify }}</h3>
-    <ul class="ul-edu fa-ul">
-      {{ range .courses }}
-      <li>
+      <div class="col-md-7">
+        <h3>{{ i18n "education" | markdownify }}</h3>
+        <ul class="ul-edu fa-ul">
+          {{ range .courses }}
+          <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course", style="color:#D2524B">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="specialisation", style="font-size:0.75vw">{{.specialisation}} </p>
+              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
-           </div>
-      </li>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
       {{ end }}
-    </ul>
-  </div>
-  {{ end }}
+
     </div>
   </div>
 </div>
