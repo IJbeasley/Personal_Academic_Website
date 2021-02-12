@@ -27,22 +27,21 @@ experience:
    #supervisors: Dr. Irene Gallego Romero & Dr. Christina Azodi
     company_url: 'https://igr-lab.science.unimelb.edu.au/'
     location: Melbourne Integrative Genomics / The University of Melbourne
-    date_start: '2021-02-01'
+    date_start: '2021-03-01'
     date_end: ''
     description: |2-
-        **Supervisors:** Dr. Irene Gallego Romero & Dr. Christina Azodi 
+        **Supervisors:** [Dr. Irene Gallego Romero](https://findanexpert.unimelb.edu.au/profile/806586-irene-gallego-romero) & [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi) 
         
-        **Project Title:** Predicting the cross population portability of human eQTLs
+        **Project Title:** *Predicting the cross population portability of human eQTLs*
 
   - title: Undergraduate Research Opportunities Student (UROP)
     company: Papenfuss Laboratory
-    supervisors: Prof. Tony Papenfuss & Dr. Stefano Mangiola 
     company_url: 'https://igr-lab.science.unimelb.edu.au/'
     location: Bioinformatics / The Walter and Eliza Hall Institute of Medical Research
     date_start: '2019-11-01'
-    date_end: '2020-12-31'
+    date_end: '2020-02-28'
     description: |2-
-        **Supervisors:** Dr. Stefano Mangiola & Prof. Tony Papenfuss
+        **Supervisors:** [Dr. Stefano Mangiola](https://www.researchgate.net/profile/Stefano_Mangiola) & [Prof. Tony Papenfuss](https://www.wehi.edu.au/people/tony-papenfuss)
         
         **Project Title:** *Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression*
         
@@ -54,7 +53,7 @@ experience:
     date_start: '2019-06-01'
     date_end: '2020-07-31'
     description: |2-
-        **Supervisors:** Dr. Filip Ruzicka & Dr. Tim Connallon
+        **Supervisors:** [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) & [Dr. Tim Connallon](https://www.monash.edu/science/schools/biological-sciences/staff/timc)
         
         **Project Title:** *Testing a Theory Involving the Inversion of Chromosomes*
 
