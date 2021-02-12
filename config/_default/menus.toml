@@ -13,10 +13,10 @@
   url = "#about"
   weight = 20
   
-[[main]]
-  name = "Research Publications"
-  url = "#publications"
-  weight = 30
+#[[main]]
+#  name = "Research Publications"
+#  url = "#publications"
+#  weight = 30
 
 [[main]]
   name = "Research"
@@ -48,10 +48,10 @@
   url = "cv/"
   weight = 90
 
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 100
+#[[main]]
+#  name = "Courses"
+#  url = "courses/"
+#  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
