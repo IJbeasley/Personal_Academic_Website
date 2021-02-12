@@ -10,7 +10,6 @@ subtitle: 'And elsewhere'
 summary: 'Answers to the questions every VCE student asks: How should I study? How often? When? '
 authors: []
 lastmod: '2021-01-24T03:27:04+11:00'
-reading_time: true
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.

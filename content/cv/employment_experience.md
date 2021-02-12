@@ -23,43 +23,37 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Academic Support Worker
-    company:  Student Equity and Disability Support | The University of Melbourne
-    company_url: "https://students.unimelb.edu.au/student-support/student-equity-and-disability-support"
-    location: 
+    company:  The University of Melbourne
+   #supervisors: Dr. Irene Gallego Romero & Dr. Christina Azodi
+    company_url: 'https://igr-lab.science.unimelb.edu.au/'
+    location:  / The University of Melbourne
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
 
-        
+        **Project Title:** *Predicting the cross population portability of human eQTLs*
 
   - title: Tutor & VCE Biology Workshop Presenter
-    company: Triumph Tuoring
-    company_url: "https://www.triumphtutoring.com.au/"
-    location: Biology, Chemistry & Psychology
+    company: Triumph Tutoring
+    company_url: 'https://igr-lab.science.unimelb.edu.au/'
+    location: Bioinformatics / The Walter and Eliza Hall Institute of Medical Research
     date_start: '2017-01-01'
     date_end: '2019-08-28'
     description: |2-
-        * Trained and supported new tutors through the direction and production of training videos, example questions and lesson plans
-        * Conducted one-on-one tuition classes for VCE students in Biology, Chemistry and Psychology
-        * Designed syllabus and lesson plans for exam workshops in VCE Biology
-
-  - title: Private Tutor
-    company: Self-employment
-    company_url: 
-    location: Biology, Chemistry, Psychology & Mathematics 
-    date_start: '2017-01-01'
-    date_end: 
-    description: |2-
-        * Facilitate one-on-one tutoring sessions with 
-
+        **Supervisors:** [Dr. Stefano Mangiola](https://www.researchgate.net/profile/Stefano_Mangiola) & [Prof. Tony Papenfuss](https://www.wehi.edu.au/people/tony-papenfuss)
+        
+        **Project Title:** *Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression*
         
 
   - title: Junior Adjudicator
     company:  Debating Association of Victoria (DAV)
-    company_url: "https://www.dav.com.au/"
+    company_url: 'https://www.monash.edu/science/schools/biological-sciences'
     location: 
     date_start: '2017-01-01'
     date_end: '2020-01-01'
     description: |2-
-        * Guided students in developing their skills through praising areas of strength and providing achievable goals for improving at regional high school competitions
+        **Supervisors:** [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) & [Dr. Tim Connallon](https://www.monash.edu/science/schools/biological-sciences/staff/timc)
+        
+        **Project Title:** *Testing a Theory Involving the Inversion of Chromosomes*
+
 ---

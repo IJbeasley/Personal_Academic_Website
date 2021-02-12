@@ -19,7 +19,7 @@ list: true
 
 design:
   columns: 1
-  background: 
+  background:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---

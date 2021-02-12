@@ -1,0 +1,30 @@
+# Theme metadata
+name = "my_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#D90429"
+
+# Menu
+
+menu_primary = "#FFFFFF"
+menu_text =  "#071013"
+menu_text_active = "#60BAE6"
+menu_title = "#D2524B"
+
+# Backgrounds
+background = "#F5F5F5"
+home_section_odd = "#F5F5F5"
+home_section_even = "#F5F5F5"
+
+dark_background = ""
+dark_home_section_odd = ""
+dark_home_section_even = ""
+
+link = "#118AB2" 
+link_hover = "#D90429"
+
+
+## 3A3335 black coffee
