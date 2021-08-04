@@ -100,7 +100,11 @@ list: true
   </span> 
   
   <div class="card-subtitle my-0 article-metadata">
-  <p class='employ-text'> Glasgow University Dialectic Society | College of Medical, Veterinary and Life Sciences  </p>
+  <p class='employ-text'> The University of Glasgow | College of Medical, Veterinary and Life Sciences  </p> 
+  <ul style="margin-top:-10px;padding-left:40px">  
+  <span style="padding-left:-20px"> Clubs and Societies </span>
+  <li> Glasgow University Dialectic Society </li>
+  </ul> 
 
    
 </div>

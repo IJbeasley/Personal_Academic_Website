@@ -4,10 +4,10 @@ subtitle:  Master of Science Student | Genetics
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:isobel.beasley@unimelb.edu.au
+  link: mailto:ibeasley@student.unimelb.edu.au
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://mobile.twitter.com/ijbeasley
 - icon: github
   icon_pack: fab
   link: https://github.com/IJbeasley
@@ -16,7 +16,7 @@ social:
   link: https://osf.io/7qb8m/
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/
+  link: https://orcid.org/0000-0001-6857-1692
 ---
  <p>&nbsp;</p> 
  
