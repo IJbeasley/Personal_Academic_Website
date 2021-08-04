@@ -1,5 +1,5 @@
 ---
-bio: "Genetics, Mathematical Modelling, Educational Inclusion and Diversity"
+bio: "Genetics, Mathematical Modeling, Educational Inclusion and Diversity"
 
 education:
   courses:
@@ -19,7 +19,7 @@ email: "isobel.beasley@unimelb.edu.au"
 highlight_name: false
 interests:
 - Population Genetics
-- Animal Evolution
+- Evolution
 - Genetic Regulation and Epigenetics
 - Educational Access and Inclusion
 - Equity in Scientific Research
@@ -36,7 +36,7 @@ social:
   link: mailto:isobel.beasley@unimelb.edu.au
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ijbeasley
 - icon: osf
   icon_pack: ai
   link: https://osf.io/7qb8m/
@@ -45,19 +45,19 @@ social:
   link: https://github.com/IJbeasley
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-
+  link: https://orcid.org/0000-0001-6857-1692
+# - icon: graduation-cap
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
+
 superuser: true
 title: Isobel Beasley 
 ---
 
-I'm a Master of Science Student in the [Gallego Romero Lab](https://igr-lab.science.unimelb.edu.au/) working under the supervision of [Dr. Irene Gallego Romero](https://findanexpert.unimelb.edu.au/profile/806586-irene-gallego-romero) and [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi). 
+I'm a Master of Science Student within the School of BioSciences at Melbourne University. Under the supervision of [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) and [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi), my Masters research is focusing on using machine learning methods to predict whether known genetic associations in humans (specifically eQTLs) are consistent across populations (more [here](../project/pop_spec_eqtl/)). I'm also passionate about science communication and improving educational access; I aim to support disadvantaged high school students through providing debating coaching, lecturing and [learning materials](vce-biology). 
 
 
 
