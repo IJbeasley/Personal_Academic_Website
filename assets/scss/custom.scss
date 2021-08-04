@@ -104,8 +104,11 @@
 }
 
 #overview-title { 
-  -webkit-animation: slide-from-right 2s forwards;
-          animation: slide-from-right 2s forwards;
+  opacity: 0;
+  -webkit-animation: fade-in 3s forwards;
+          animation: fade-in 3s forwards;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
 }
 
 .overview-title-text {
@@ -117,8 +120,11 @@
 }
 
 #overview-subtitle { 
-  -webkit-animation: slide-from-right 2s forwards;
-          animation: slide-from-right 2s forwards;
+  opacity: 0;
+  -webkit-animation: fade-in 3s forwards;
+          animation: fade-in 3s forwards;
+  -webkit-animation-delay: 2.5s;
+          animation-delay: 2.5s;
 }
 
 .overview-subtitle-text{
@@ -130,8 +136,8 @@
     font-size: calc(1.3rem + 0.001vw);
     -webkit-animation: fade-in 5s forwards;
           animation: fade-in 5s forwards;
-    -webkit-animation-delay: 1.8s;
-          animation-delay: 1.8s;
+    -webkit-animation-delay: 4.5s;
+          animation-delay: 4.5s;
           
 }
 
