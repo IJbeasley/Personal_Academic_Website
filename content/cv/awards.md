@@ -89,6 +89,13 @@ item:
   organization_url: 
   title: Best Presentation (Day 1 of Conference)
   url: 
+- certificate_url:
+  date_end: ""
+  date_start: "2021-03-18"
+  description:
+  organization: The University of Melbourne
+  organization_url: 
+  title: "Dean’s Leadership Award - Women in Science"
 - certificate_url: 
   date_end: ""
   date_start: "2019-10-25"
@@ -97,8 +104,4 @@ item:
   organization_url: 
   title: Let's Torque STEM Public Speaking Competition (Grand Finalist)
   url: https://www.letstorque.org/
-
-
-
-
 ---

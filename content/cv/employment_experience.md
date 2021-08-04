@@ -24,14 +24,12 @@ date_format: Jan 2006
 experience:
   - title: Academic Support Worker
     company:  The University of Melbourne
-   #supervisors: Dr. Irene Gallego Romero & Dr. Christina Azodi
     company_url: 'https://igr-lab.science.unimelb.edu.au/'
     location:  / The University of Melbourne
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
 
-        **Project Title:** *Predicting the cross population portability of human eQTLs*
 
   - title: Tutor & VCE Biology Workshop Presenter
     company: Triumph Tutoring
@@ -40,9 +38,6 @@ experience:
     date_start: '2017-01-01'
     date_end: '2019-08-28'
     description: |2-
-        **Supervisors:** [Dr. Stefano Mangiola](https://www.researchgate.net/profile/Stefano_Mangiola) & [Prof. Tony Papenfuss](https://www.wehi.edu.au/people/tony-papenfuss)
-        
-        **Project Title:** *Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression*
         
 
   - title: Junior Adjudicator
@@ -52,8 +47,5 @@ experience:
     date_start: '2017-01-01'
     date_end: '2020-01-01'
     description: |2-
-        **Supervisors:** [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) & [Dr. Tim Connallon](https://www.monash.edu/science/schools/biological-sciences/staff/timc)
-        
-        **Project Title:** *Testing a Theory Involving the Inversion of Chromosomes*
 
 ---

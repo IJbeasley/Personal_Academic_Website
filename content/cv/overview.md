@@ -17,14 +17,11 @@ author: admin
 type: cv
 
 design:
+  # Use a 1-column layout
   columns: 1
+  # Use a dark navy background with light text.
   background:
-    image: headers/DNA_background.jpg
-    image_darken: 0.6
-    image_parallax: true
-    image_position: center
-    image_size: cover
+    color: '#dedcdc'
     text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+
 ---

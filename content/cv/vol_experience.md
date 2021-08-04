@@ -24,7 +24,6 @@ date_format: Jan 2006
 experience:
   - title: Co-coordinator of “Speak Up” (Debating and Public Speaking) Program
     company:  Australia and South Asia Healthcare Association (ASHA) Lectures -
-   #supervisors: Dr. Irene Gallego Romero & Dr. Christina Azodi
     company_url: 'https://ashalectures.org/'
     location:  
     date_start: '2019-01-01'

@@ -22,29 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+
   - title: Master of Science Student
     company: Gallego Romero Laboratory
-   #supervisors: Dr. Irene Gallego Romero & Dr. Christina Azodi
     company_url: 'https://igr-lab.science.unimelb.edu.au/'
-    location: Melbourne Integrative Genomics / The University of Melbourne
+    location: Melbourne Integrative Genomics / The University of Melbourne and St Vincent Institute of Medical Research 
     date_start: '2021-03-01'
     date_end: ''
     description: |2-
         **Supervisors:** [Dr. Irene Gallego Romero](https://findanexpert.unimelb.edu.au/profile/806586-irene-gallego-romero) & [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi) 
         
-        **Project Title:** *Predicting the cross population portability of human eQTLs*
+        **Project Title:** [Predicting the cross population portability of human eQTLs](../project/pop_spec_eqtl/)
 
-  - title: Undergraduate Research Opportunities Student (UROP)
+  - title: Undergraduate Research Opportunities Student (UROP) / Research Assistant
     company: Papenfuss Laboratory
     company_url: 'https://igr-lab.science.unimelb.edu.au/'
     location: Bioinformatics / The Walter and Eliza Hall Institute of Medical Research
     date_start: '2019-11-01'
-    date_end: '2020-02-28'
+    date_end: ''
     description: |2-
         **Supervisors:** [Dr. Stefano Mangiola](https://www.researchgate.net/profile/Stefano_Mangiola) & [Prof. Tony Papenfuss](https://www.wehi.edu.au/people/tony-papenfuss)
         
-        **Project Title:** *Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression*
+        **Project Title:** [Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression](../project/TABI/)
+  # - title: Research Assistant 
+  #   company: Papenfuss Laboratory
+  #   company_url: 'https://igr-lab.science.unimelb.edu.au/'
+  #   location: Bioinformatics / The Walter and Eliza Hall Institute of Medical Research
+  #   date_start: '2021-06-01'
+  #   date_end: '2021-07-30'
+  #   description: |2-
+  #       **Supervisors:** [Dr. Stefano Mangiola](https://www.researchgate.net/profile/Stefano_Mangiola) & [Prof. Tony Papenfuss](https://www.wehi.edu.au/people/tony-papenfuss)
+  #       
+  #       **Project Title:** *Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression*
+  - title: Science and Technology Internship
+    company: Connallon Laboratory
+    company_url: 'https://igr-lab.science.unimelb.edu.au/'
+    location: School of Biological Sciences / Monash University
+    date_start: '2021-03-01'
+    date_end: '2021-06-01'
+    description: |2-
+        **Supervisors:** [Dr. Tim Connallon](https://connallonresearch.wordpress.com/)
         
+        **Project Title:** [Evolutionary dynamics of palindromes on the X chromosomes](../project/monash_internship/)
 
   - title: Monash University Winter Research Vacation Scholarship
     company:  Connallon Laboratory
@@ -55,6 +75,6 @@ experience:
     description: |2-
         **Supervisors:** [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) & [Dr. Tim Connallon](https://www.monash.edu/science/schools/biological-sciences/staff/timc)
         
-        **Project Title:** *Testing a Theory Involving the Inversion of Chromosomes*
-
+        **Project Title:** [Testing a Theory Involving the Inversion of Chromosomes](../project/monash-winter/)
+        
 ---
