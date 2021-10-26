@@ -47,7 +47,7 @@ experience:
         **Project Title:** [Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression](../project/TABI/)
   # - title: Research Assistant 
   #   company: Papenfuss Laboratory
-  #   company_url: 'https://igr-lab.science.unimelb.edu.au/'
+  #   company_url: 'https://papenfusslab.org'
   #   location: Bioinformatics / The Walter and Eliza Hall Institute of Medical Research
   #   date_start: '2021-06-01'
   #   date_end: '2021-07-30'
@@ -57,7 +57,7 @@ experience:
   #       **Project Title:** *Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression*
   - title: Science and Technology Internship
     company: Connallon Laboratory
-    company_url: 'https://igr-lab.science.unimelb.edu.au/'
+    company_url: 'https://connallonresearch.wordpress.com/'
     location: School of Biological Sciences / Monash University
     date_start: '2021-03-01'
     date_end: '2021-06-01'
@@ -68,7 +68,7 @@ experience:
 
   - title: Monash University Winter Research Vacation Scholarship
     company:  Connallon Laboratory
-    company_url: 'https://www.monash.edu/science/schools/biological-sciences'
+    company_url: 'https://connallonresearch.wordpress.com/'
     location: School of Biological Sciences / Monash University
     date_start: '2019-06-01'
     date_end: '2020-07-31'
