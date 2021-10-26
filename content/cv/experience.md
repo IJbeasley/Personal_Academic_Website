@@ -31,7 +31,7 @@ experience:
     date_start: '2021-03-01'
     date_end: ''
     description: |2-
-        **Supervisors:** [Dr. Irene Gallego Romero](https://findanexpert.unimelb.edu.au/profile/806586-irene-gallego-romero) & [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi) 
+        **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/) 
         
         **Project Title:** [Predicting the cross population portability of human eQTLs](../project/pop_spec_eqtl/)
 
