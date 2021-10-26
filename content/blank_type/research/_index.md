@@ -1,6 +1,5 @@
 ---
 title: Research Overview
-subtitle: 
 social:
 - icon: envelope
   icon_pack: fas
@@ -21,4 +20,4 @@ social:
 
 Currently, my master's research is focused on using machine learning to investigate what genetic associations (specifically eQTLs) are shared across populations (more here).
 
-Previously, I have helped develop a Bayesian method for testing differential mRNA abundance, [TABI]({{< relref "/project/TABI" >}}),  evolutionary models to explore the evolution of palindromes on X chromosomes and collate datasets to test for the overlap of sexually antagonistic variants and inversions. 
+Previously, I have helped develop a Bayesian method for testing differential mRNA abundance, [TABI]({{< relref "/project/TABI" >}}). Additionally, I have worked with evolutionary models to explore the evolution of palindromes on X chromosomes and collated datasets to test for the overlap of sexually antagonistic variants and inversions.

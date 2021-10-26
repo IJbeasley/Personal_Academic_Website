@@ -27,7 +27,7 @@ experience:
   - title: Master of Science Student
     company: Gallego Romero Laboratory
     company_url: 'https://igr-lab.science.unimelb.edu.au/'
-    location: Melbourne Integrative Genomics / The University of Melbourne and St Vincent Institute of Medical Research 
+    location: Melbourne Integrative Genomics / The University of Melbourne and St Vincent's Institute of Medical Research 
     date_start: '2021-03-01'
     date_end: ''
     description: |2-

@@ -16,7 +16,7 @@ social:
   link: https://osf.io/7qb8m/
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-6857-1692
+  link: https://orcid.org/0000-0001-6857-1692 
 ---
 
 Skip to: [Education](#education), [Scholarships and Awards](#awards),  [Publications](#publications), [Conference Presentations](#talks), [Research Experience](#experience), [Key Skills](#cv_skills), [Voluntary Experience](#vol_experience), 

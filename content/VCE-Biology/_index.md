@@ -29,7 +29,7 @@ design:
 
 ## Introduction: 
 
-> Since graduating high school in 2016 I have taught VCE Biology for many different students and organisations. Naturally, this means I've written and spoken a lot about VCE Biology. I've collected some of this material below, and plan to expand it for the upcoming study design (2022-). The [ASHA Lecture](https://ashalectures.org/vce-resources) webpage also has plenty of free resources to support you in your biology journal. Hopefully you find this material useful! 
+> Since graduating high school in 2016 I have taught VCE Biology for many different students and organisations. Naturally, this means I've written and spoken a lot about VCE Biology. I've collected some of this material below, and am currently working on expanding it for the upcoming study design (2022-). The [ASHA Lecture](https://ashalectures.org/vce-resources) webpage also has plenty of free resources to support you in your biology journey. Hopefully you find this material useful! 
 
 <p>&nbsp;</p>
 

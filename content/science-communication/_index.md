@@ -9,9 +9,7 @@ type: no_title
 
 # <span style="color:#D32F2F"> Science Communication </span>
 
-making science engaging and 
-
-> Note: If you're looking for resources I've written VCE Biology then [look here]({{< relref "/vce-biology" >}}), else if you're interested in my academic writing and presentations then try here 
+> Note: If you're looking for resources I've written VCE Biology then [look here]({{< relref "/vce-biology" >}}), else if you're interested in my academic writing and presentations then try [look here]({{< relref "/research" >}})
 
 
 

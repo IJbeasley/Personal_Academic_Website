@@ -5,11 +5,11 @@ author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: introduction-to-the-eukaryotic-cell
 categories: []
-tags: []
-subtitle: ''
+tags: ['VCE', 'Biology', 'Organelles', 'Plasma Membranes', 'Cells']
+subtitle: 'Membranes and Organelles'
 summary: 'How is it that such a small unit is able to build, organise and export such complex proteins?'
 authors: []
-lastmod: '2021-01-24T02:41:23+11:00'
+lastmod: '2021-02-26T02:41:23+11:00'
 featured: no
 image:
   caption: ''
@@ -19,26 +19,24 @@ projects: []
 ---
 
 
+### This lesson is all about the wonderful ways in which the Eukaryotic cell is able to organise and coordinate complicated chemical reactions. In short, organelles and membranes. 
 
-{{< video src="content/vce-biology/photos/its-an-organelle.mp4" controls="yes" >}}
-
-
-For truly *truly* unbelievably terrible VCE Biology songs check out: [VCE Bio ninja](http://vce.bioninja.com.au/additional-resources/biology-songs/)
 
 ## Learning Objectives:
 
 *By the end of this session you should be able to:* 
 
-- [ ]  Correctly label essential components of Eukaryotic cells *(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
-- [ ]  Define the roles of essential components of Eukaryotic cells *(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
-- [ ]  Predict the mode of transport of a substance across the cell membrane when given relative size and polarity (in particular, whether a substance is likely to be able to directly cross the plasma membrane - or whether it is going to need a protein)
-    - [ ]  (Bonus) Agree that cells are very cool
+- Correctly label essential components of Eukaryotic cells *(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
+- Define the roles of essential components of Eukaryotic cells *(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
+- Predict the mode of transport of a substance across the cell membrane when given relative size and polarity (in particular, whether a substance is likely to be able to directly cross the plasma membrane - or whether it is going to need a protein)
+    - (Bonus) Agree that cells are very cool
 
-Associated VCAA Study Design Dot Points:                                                                                           *- the role of different organelles including ribosomes, endoplasmic reticulum, Golgi apparatus and associated vesicles in the export of a protein product from the cell through exocytosis                                                                                   - the fluid mosaic model of the structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity*
+### Associated VCAA Study Design Dot Points:                                                                                           
+*- the role of different organelles including ribosomes, endoplasmic reticulum, Golgi apparatus and associated vesicles in the export of a protein product from the cell through exocytosis*                                                                                   
+*- the fluid mosaic model of the structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity*
 
----
 
-## **Why cells are cool as (~5 mins)**
+## **Why cells are cool as**
 
 ![vce-biology/photos/Zoom_plant_cell.png](photos/Zoom_plant_cell.png)
 
