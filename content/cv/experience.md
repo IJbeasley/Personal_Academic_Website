@@ -64,7 +64,7 @@ experience:
     description: |2-
         **Supervisors:** [Dr. Tim Connallon](https://connallonresearch.wordpress.com/)
         
-        **Project Title:** [Evolutionary dynamics of palindromes on the X chromosomes](../project/monash_internship/)
+        **Project Title:** [The evolutionary dynamics of palindromes on the X chromosome](../project/monash_internship/)
 
   - title: Monash University Winter Research Vacation Scholarship
     company:  Connallon Laboratory
