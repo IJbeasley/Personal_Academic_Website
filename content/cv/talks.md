@@ -27,18 +27,34 @@ date_format: Jan 2006
 
 item:
 - certificate_url: 
-  date_end: 'Oral Presentation'
-  date_start: "2020-11-10"
+  date_end: ''
+  date_start: "2020-07-15"
   description: "Oral Presentation"
-  organization: EBML Australia Postgraduate Symposium 
+  organization: "Undergraduate Research Opportunities Program (UROP) Conference" 
+  organization_url: 
+  title: "Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression"
+  url: 
+- certificate_url: 
+  date_end: ''
+  date_start: "2020-09-20"
+  description: "Poster Presentation"
+  organization: "Online Conference for Undergraduate Research in Australia (OCURA)"
+  organization_url: 
+  title: "Estimating the Time Frame of Changes to Gene Expression in Progressive Diseases"
+  url:   
+- certificate_url: 
+  date_end: ''
+  date_start: "2021-11-10"
+  description: "Oral Presentation"
+  organization: "EBML Australia Postgraduate Symposium" 
   organization_url: 
   title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
   url: 
 - certificate_url: 
   date_end: ''
-  date_start: "2020-11-10"
+  date_start: "2020-11-23"
   description: "Oral Presentation"
-  organization: EBML Australia Postgraduate Symposium 
+  organization: "Australian Bioinformatics and Computational Biology Society (ABACBS) Conference"
   organization_url: 
   title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
   url: 
