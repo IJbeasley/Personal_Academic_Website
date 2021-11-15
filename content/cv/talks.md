@@ -27,12 +27,19 @@ date_format: Jan 2006
 
 item:
 - certificate_url: 
-  date_end: ''
+  date_end: 'Oral Presentation'
   date_start: "2020-11-10"
   description: "Oral Presentation"
-  organization: EAPS 
+  organization: EBML Australia Postgraduate Symposium 
   organization_url: 
   title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
   url: 
-
+- certificate_url: 
+  date_end: ''
+  date_start: "2020-11-10"
+  description: "Oral Presentation"
+  organization: EBML Australia Postgraduate Symposium 
+  organization_url: 
+  title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
+  url: 
 ---
