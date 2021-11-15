@@ -36,5 +36,13 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-
+item:
+- certificate_url: 
+  date_end: ''
+  date_start: "2020-11-10"
+  description: "Oral Presentation"
+  organization: EAPS 
+  organization_url: 
+  title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
+  url: 
 
