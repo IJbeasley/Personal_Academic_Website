@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
----
+
 item:
 - certificate_url: 
   date_end: ''
@@ -35,3 +35,4 @@ item:
   title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
   url: 
 
+---
