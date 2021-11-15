@@ -37,7 +37,7 @@ item:
 - certificate_url: 
   date_end: ''
   date_start: "2020-09-20"
-  description: "Poster Presentation"
+  description: "[Poster Presentation](https://osf.io/rhnsz/)"
   organization: "Online Conference for Undergraduate Research in Australia (OCURA)"
   organization_url: 
   title: "Estimating the Time Frame of Changes to Gene Expression in Progressive Diseases"
