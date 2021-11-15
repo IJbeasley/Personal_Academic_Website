@@ -47,9 +47,9 @@ experience:
     company:  The University of Melbourne Student Union (UMSU)
     company_url: 'https://umsu.unimelb.edu.au/getinvolved/summerschool/'
     location: 
-    date_start: '2018-01-01'
+    date_start: 
     date_end: ''
-    description: |2-
+    description: |2- "- 2018, 2021"
   - title: Peer Mentor
     company:  Faculty of Science | The University of Melbourne
     company_url: 

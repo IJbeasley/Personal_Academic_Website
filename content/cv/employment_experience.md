@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: "Employment"
+title: "Employment (non-research)"
 subtitle:
 
 # Date format for experience
@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Academic Support Worker
     company:  The University of Melbourne
-    company_url: 'https://igr-lab.science.unimelb.edu.au/'
-    location:  / The University of Melbourne
+    company_url: 
+    location:  The University of Melbourne
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
@@ -33,8 +33,8 @@ experience:
 
   - title: Tutor & VCE Biology Workshop Presenter
     company: Triumph Tutoring
-    company_url: 'https://igr-lab.science.unimelb.edu.au/'
-    location: Bioinformatics / The Walter and Eliza Hall Institute of Medical Research
+    company_url: 
+    location: 
     date_start: '2017-01-01'
     date_end: '2019-08-28'
     description: |2-
@@ -42,7 +42,7 @@ experience:
 
   - title: Junior Adjudicator
     company:  Debating Association of Victoria (DAV)
-    company_url: 'https://www.monash.edu/science/schools/biological-sciences'
+    company_url: 
     location: 
     date_start: '2017-01-01'
     date_end: '2020-01-01'

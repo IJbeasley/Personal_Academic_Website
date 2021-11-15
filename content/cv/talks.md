@@ -29,12 +29,11 @@ item:
 - certificate_url: 
   date_end: ''
   date_start: "2020-07-15"
-  description: "- Oral Presentation
-  <a href='/media/UROP_Conference_Beasley_Final.mp4' class="desc-test"><i class="fas fa-video"> Prerecorded Video </i> </a> &nbsp; &nbsp; <a href='/media/UROP-Conference-2020.pdf' class="desc-test"> <i class="far fa-file-pdf"> UROP Conference Slides PDF </i> </a> "
+  description: <a href='/media/UROP_Conference_Beasley_Final.mp4' class="desc-test"><i class="fas fa-video">Prerecorded Video</i> </a> &nbsp; &nbsp; <a href='/media/UROP-Conference-2020.pdf' class="desc-test"> <i class="far fa-file-pdf"> UROP Conference Slides PDF </i> </a> 
   organization: "Undergraduate Research Opportunities Program (UROP) Conference" 
   organization_url: 
   title: "Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression"
-  url: 
+  url:  
 - certificate_url: 
   date_end: ''
   date_start: "2020-09-20"
@@ -46,7 +45,7 @@ item:
 - certificate_url: 
   date_end: ''
   date_start: "2021-11-10"
-  description: "Oral Presentation"
+  description: "- Oral Presentation"
   organization: "EBML Australia Postgraduate Symposium" 
   organization_url: 
   title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
@@ -54,7 +53,7 @@ item:
 - certificate_url: 
   date_end: ''
   date_start: "2020-11-23"
-  description: "Oral Presentation"
+  description: "- Oral Presentation"
   organization: "Australian Bioinformatics and Computational Biology Society (ABACBS) Conference"
   organization_url: 
   title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
