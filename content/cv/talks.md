@@ -29,7 +29,8 @@ item:
 - certificate_url: 
   date_end: ''
   date_start: "2020-07-15"
-  description: "Oral Presentation"
+  description: "- Oral Presentation
+  <a href='/media/UROP_Conference_Beasley_Final.mp4' class="desc-test"><i class="fas fa-video"> Prerecorded Video </i> </a> &nbsp; &nbsp; <a href='/media/UROP-Conference-2020.pdf' class="desc-test"> <i class="far fa-file-pdf"> UROP Conference Slides PDF </i> </a> "
   organization: "Undergraduate Research Opportunities Program (UROP) Conference" 
   organization_url: 
   title: "Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression"
@@ -37,7 +38,7 @@ item:
 - certificate_url: 
   date_end: ''
   date_start: "2020-09-20"
-  description: "[Poster Presentation](https://osf.io/rhnsz/)"
+  description: "- [Poster Presentation](https://osf.io/vc9s8/)"
   organization: "Online Conference for Undergraduate Research in Australia (OCURA)"
   organization_url: 
   title: "Estimating the Time Frame of Changes to Gene Expression in Progressive Diseases"
