@@ -12,7 +12,7 @@ active: true
 weight: 20
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Scholarships & Awards'
+title: 'Conference Presentations'
 subtitle:
 
 # Date format
@@ -27,10 +27,10 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ''
-  date_start: "2020-10-01"
-  description: ""
+  date_start: "2020-11-10"
+  description: "Oral Presentation"
   organization: EAPS 
   organization_url: 
-  title: 
-  url: https://students.unimelb.edu.au/careers/get-career-ready/leadership-and-employability-programs/leaders-in-communities-award-lica
+  title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
+  url: 
 
