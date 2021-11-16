@@ -8,10 +8,10 @@ links:
 - icon: github
   icon_pack: fab
   url: https://github.com/stemangiola/TABI
-- icon: biorxiv
-  icon_pack: ai
-  name: Preprint
-  url: https://www.biorxiv.org/
+#- icon: biorxiv
+#  icon_pack: ai
+#  name: Preprint
+#  url: https://www.biorxiv.org/
 - icon: osf
   icon_pack: ai
   name: OCURA 2020 Conference Abstract & Poster
@@ -35,7 +35,7 @@ tags:
 - Cancer
 - RNAseq
 title: "TABI: Transcriptomic Analyses through Bayesian Inference (2019-2021)"
-subtitle: "Supervised by: Dr. Stefano Mangiola & Prof. Tony Papenfuss"
+subtitle: "Supervised by: [Dr. Stefano Mangiola](https://github.com/stemangiola) & [Prof. Tony Papenfuss](https://papenfusslab.org/bio_papenfuss)"
 url_code: 
 url_pdf: 
 url_confererence: 
