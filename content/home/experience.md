@@ -26,13 +26,13 @@ experience:
     company: Gallego Romero Laboratory
    #supervisors: Dr. Irene Gallego Romero & Dr. Christina Azodi
     company_url: 'https://igr-lab.science.unimelb.edu.au/'
-    location: Melbourne Integrative Genomics / The University of Melbourne
+    location: Melbourne Integrative Genomics / The University of Melbourne and St Vincent's Institute of Medical Research
     date_start: '2021-03-01'
     date_end: ''
     description: |2-
         **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi) 
         
-        **Project Title:** *Predicting the cross population portability of human eQTLs*
+        **Project Title:** [*Predicting the cross population portability of human eQTLs*](project/pop_spec_eqtl)
 
   - title: Undergraduate Research Opportunities Student (UROP) / Research Assistant
     company: Papenfuss Laboratory
@@ -43,7 +43,7 @@ experience:
     description: |2-
         **Supervisors:** [Dr. Stefano Mangiola](https://www.researchgate.net/profile/Stefano_Mangiola) & [Prof. Tony Papenfuss](https://www.wehi.edu.au/people/tony-papenfuss)
         
-        **Project Title:** *Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression*
+        **Project Title:** [*Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression*](project/tabi)
         
 
   - title: Monash University Winter Research Vacation Scholarship
@@ -55,6 +55,6 @@ experience:
     description: |2-
         **Supervisors:** [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) & [Dr. Tim Connallon](https://www.monash.edu/science/schools/biological-sciences/staff/timc)
         
-        **Project Title:** *Testing a Theory Involving the Inversion of Chromosomes*
+        **Project Title:** [*Testing a Theory Involving the Inversion of Chromosomes*](project/monash-winter)
 
 ---
