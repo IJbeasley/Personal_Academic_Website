@@ -1,5 +1,5 @@
 ---
-bio: "Genetics, Mathematical Modeling, Educational Inclusion and Diversity"
+bio: "Genetics, Statistics, Educational Inclusion and Diversity"
 
 education:
   courses:
@@ -33,7 +33,7 @@ role: Master of Science Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:isobel.beasley@unimelb.edu.au
+  link: mailto:ibeasley@student.unimelb.edu.au
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ijbeasley

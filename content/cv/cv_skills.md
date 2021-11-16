@@ -9,7 +9,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 80
 
 title: Key Skills
 subtitle:
