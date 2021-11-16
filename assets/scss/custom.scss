@@ -105,10 +105,10 @@
 
 #overview-title { 
   opacity: 0;
-  -webkit-animation: fade-in 3s forwards;
-          animation: fade-in 3s forwards;
-  -webkit-animation-delay: 1s;
-          animation-delay: 1s;
+  -webkit-animation: fade-in 2.5s forwards;
+          animation: fade-in 2.5s forwards;
+  -webkit-animation-delay: 0.5s;
+          animation-delay: 0.5s;
 }
 
 .overview-title-text {
@@ -121,10 +121,10 @@
 
 #overview-subtitle { 
   opacity: 0;
-  -webkit-animation: fade-in 3s forwards;
-          animation: fade-in 3s forwards;
-  -webkit-animation-delay: 2.5s;
-          animation-delay: 2.5s;
+  -webkit-animation: fade-in 2.5s forwards;
+          animation: fade-in 2.5s forwards;
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
 }
 
 .overview-subtitle-text{
@@ -136,8 +136,8 @@
     font-size: calc(1.3rem + 0.001vw);
     -webkit-animation: fade-in 5s forwards;
           animation: fade-in 5s forwards;
-    -webkit-animation-delay: 4.5s;
-          animation-delay: 4.5s;
+    -webkit-animation-delay: 3s;
+          animation-delay: 3s;
           
 }
 
