@@ -30,16 +30,16 @@ experience:
     date_start: '2021-03-01'
     date_end: ''
     description: |2-
-        **Supervisors:** [Dr. Irene Gallego Romero](https://findanexpert.unimelb.edu.au/profile/806586-irene-gallego-romero) & [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi) 
+        **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi) 
         
         **Project Title:** *Predicting the cross population portability of human eQTLs*
 
-  - title: Undergraduate Research Opportunities Student (UROP)
+  - title: Undergraduate Research Opportunities Student (UROP) / Research Assistant
     company: Papenfuss Laboratory
-    company_url: 'https://igr-lab.science.unimelb.edu.au/'
+    company_url: 'https://papenfusslab.org/'
     location: Bioinformatics / The Walter and Eliza Hall Institute of Medical Research
     date_start: '2019-11-01'
-    date_end: '2020-02-28'
+    date_end: ''
     description: |2-
         **Supervisors:** [Dr. Stefano Mangiola](https://www.researchgate.net/profile/Stefano_Mangiola) & [Prof. Tony Papenfuss](https://www.wehi.edu.au/people/tony-papenfuss)
         
@@ -48,7 +48,7 @@ experience:
 
   - title: Monash University Winter Research Vacation Scholarship
     company:  Connallon Laboratory
-    company_url: 'https://www.monash.edu/science/schools/biological-sciences'
+    company_url: 'https://connallonresearch.wordpress.com/'
     location: School of Biological Sciences / Monash University
     date_start: '2019-06-01'
     date_end: '2020-07-31'
