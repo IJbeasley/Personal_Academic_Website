@@ -14,7 +14,7 @@ links:
   name: ESEB 2019 Conference Poster
   url: "media/ESEB_2019_poster_Filip_Ruzicka_Monash_University.pdf" 
 slides: 
-summary: "Supervised by: Dr. Filip Ruzicka and Dr. Tim Connallon. A short winter vacation project investigating the relationship between the location of inversions and sexually anatogistic genes"
+summary: "Supervised by: [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) and [Dr. Tim Connallon](https://connallonresearch.wordpress.com/). A short winter vacation project investigating the relationship between the location of inversions and sexually anatogistic genes"
 tags:
 - Evolutionary Theory
 - R
@@ -22,7 +22,7 @@ tags:
 - Inversions
 - Sexual Antagonism 
 title: "Testing a theory for the evolution of inversions (Winter 2019)"
-subtitle: "Supervised by: Dr. Filip Ruzicka and Dr. Tim Connallon"
+subtitle: "Supervised by: [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) and [Dr. Tim Connallon](https://connallonresearch.wordpress.com/)"
 url_code: ""
 url_pdf: 
 #url_slides: " "
