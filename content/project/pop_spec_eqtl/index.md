@@ -34,7 +34,7 @@ tags:
 - Genomics
 - Population Genetics
 title: "Predicting the cross population portability of human eQTLs (Masters Project, 2021 - )"
-subtitle: "Supervised by: Dr. Irene Gallego Romero & Dr. Christina Azodi"
+subtitle: "Supervised by: [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/)"
 url_code: 
 url_pdf: 
 url_confererence: 
