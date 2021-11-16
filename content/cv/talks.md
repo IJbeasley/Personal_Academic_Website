@@ -32,9 +32,9 @@ item:
 - certificate_url: 
   date_end: ''
   date_start: "2020-07-15"
-  description: "Contributing authors: Isobel J Beasley, [Stefano Mangiola](https://github.com/stemangiola), [Tony Papenfuss](https://papenfusslab.org/bio_papenfuss/) \n
-                - [Prerecorded Video of Oral Presentation](/media/UROP_Conference_Beasley_Final.mp4) \n
-                - [UROP Conference Slides PDF](/media/UROP-Conference-2020.pdf)"
+  description: 'Contributing authors: Isobel J Beasley, [Stefano Mangiola](https://github.com/stemangiola), [Tony Papenfuss](https://papenfusslab.org/bio_papenfuss/) <br> <ul>
+                <li> [<i class="fas fa-video"></i> Prerecorded Video of Oral Presentation](/media/UROP_Conference_Beasley_Final.mp4) </li>
+                <li> [<i class="far fa-file-pdf"> </i> UROP Conference Slides PDF](/media/UROP-Conference-2020.pdf) </li> </ul>'
   organization: "Undergraduate Research Opportunities Program (UROP) Conference" 
   organization_url: 
   title: "Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression"
@@ -44,7 +44,7 @@ item:
   date_start: "2020-09-20"
   description: 'Contributing authors: Isobel J Beasley, [Stefano Mangiola](https://github.com/stemangiola), [Tony Papenfuss](https://papenfusslab.org/bio_papenfuss/) <br> <ul>
                 <li> [Poster Presentation](https://osf.io/vc9s8/) </li>
-                <li> [Poster and Abstract  <i class="ai fa-osf"> </i>](https://osf.io/vc9s8/) </li> </ul>'
+                <li> [<i class="ai ai-osf"> </i> Poster and Abstract](https://osf.io/rhnsz) </li> </ul>'
   organization: "Online Conference for Undergraduate Research in Australia (OCURA)"
   organization_url: 
   title: "Estimating the Time Frame of Changes to Gene Expression in Progressive Diseases"
@@ -52,7 +52,8 @@ item:
 - certificate_url: 
   date_end: ''
   date_start: "2021-11-10"
-  description: "Contributing authors: Isobel J Beasley, [Christina B Azodi](https://azodichr.github.io/), [Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) \n - Oral Presentation \n - [Abstract](/talk/predicting-the-cross-population-portability-of-human-expression-quantitative-trait-loci)"
+  description: "Contributing authors: Isobel J Beasley, [Christina B Azodi](https://azodichr.github.io/), [Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) <br>
+               <ul> <li> Oral Presentation </li>  <li> [Abstract](/talk/predicting-the-cross-population-portability-of-human-expression-quantitative-trait-loci) </li> </ul>" 
   organization: "European Molecular Biology Laboratory (EBML) Australia Postgraduate Symposium" 
   organization_url: 
   title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
