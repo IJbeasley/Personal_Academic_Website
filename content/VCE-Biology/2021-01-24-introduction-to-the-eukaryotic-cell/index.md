@@ -2,14 +2,14 @@
 weight: 2
 title: Introduction to the Eukaryotic Cell
 author: 'Isobel Beasley'
-date: '2021-01-24'
+date: '2021-01-26'
 slug: introduction-to-the-eukaryotic-cell
-categories: []
-tags: ['VCE', 'Biology', 'Organelles', 'Plasma Membranes', 'Cells']
+categories: ['VCE', 'Biology', 'Unit 3', 'Organelles', 'Cells', 'Eurkaryotic', 'Endoplasmic Reticulum', 'Golgi Apparatus', 'Vesicles']
+tags: ['VCE', 'Biology', 'Unit 3', 'Organelles', 'Cells']
 subtitle: 'Membranes and Organelles'
 summary: 'How is it that such a small unit is able to build, organise and export such complex proteins?'
 authors: []
-lastmod: '2021-02-26T02:41:23+11:00'
+lastmod: '2021-11-26T02:41:23+11:00'
 featured: no
 image:
   caption: ''
@@ -18,33 +18,62 @@ image:
 projects: []
 ---
 
+<h2 style="color:#D32F2F">
 
-### This lesson is all about the wonderful ways in which the Eukaryotic cell is able to organise and coordinate complicated chemical reactions. In short, organelles and membranes. 
+Introduction:
 
+</h2>
 
-## Learning Objectives:
+> This page is about the wonderful ways in which the Eukaryotic cell is able to organise and coordinate complicated chemical reactions. In short, organelles and membranes. 
 
-*By the end of this session you should be able to:* 
+<br>
+
+<h2 style="color:#D32F2F">
+
+Learning Objectives:
+
+</h2>
+
+*By the end of this page you should be able to:* 
 
 - Correctly label essential components of Eukaryotic cells *(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
 - Define the roles of essential components of Eukaryotic cells *(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
-- Predict the mode of transport of a substance across the cell membrane when given relative size and polarity (in particular, whether a substance is likely to be able to directly cross the plasma membrane - or whether it is going to need a protein)
-    - (Bonus) Agree that cells are very cool
 
-### Associated VCAA Study Design Dot Points:                                                                                           
-*- the role of different organelles including ribosomes, endoplasmic reticulum, Golgi apparatus and associated vesicles in the export of a protein product from the cell through exocytosis*                                                                                   
-*- the fluid mosaic model of the structure of the plasma membrane and the movement of hydrophilic and hydrophobic substances across it based on their size and polarity*
+<br>
+
+<h2 style="color:#D32F2F">
+
+Associated VCAA 2022 Study Design Dot Points:    
+
+</h2> 
+
+- *the role of rough endoplasmic reticulum, Golgi apparatus and associated vesicles in the export of proteins from a cell via the protein secretory pathway*               
+
+<br> 
 
 
-## **Why cells are cool as**
+# Structures within the 
 
-![vce-biology/photos/Zoom_plant_cell.png](photos/Zoom_plant_cell.png)
+![Plant Cell Outline, Credit: Isobel Beasley, and Andreas Dorsch 2020](../../VCE-Biology/Zoom_plant_cell.png)
+
+<p align = "center">
+Plant Cell Outline, Credit: Isobel Beasley, and Andreas Dorsch 2020 
+</p>
+
+<br> 
+
+![](../../media/ABACB_2021_Slides_High_Quality.gif)
+
 
 ## What do you do already know about cells?
 
-## / *Poll Time:*
+<iframe src="https://pollev-embeds.com/discourses/ODZWtjez9nXfAgQesfr9N/respond" width="800px" height="600px"></iframe>
 
-*Important Understanding Questions:* 
+<br> 
+
+
+
+Now, let's start with some introductory understanding questions. 
 
 - What *is* a cell?
 
@@ -52,7 +81,7 @@ projects: []
 
     *It means that the cell is the smallest building block that all living things have in common.*
 
-    [https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-basic-cell-structures/v/introduction-to-the-cell](https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-basic-cell-structures/v/introduction-to-the-cell)
+    [More detailed explanation from Khan Academy](https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-basic-cell-structures/v/introduction-to-the-cell)
 
     **Introduction to the cell** (Khan academy)
 
