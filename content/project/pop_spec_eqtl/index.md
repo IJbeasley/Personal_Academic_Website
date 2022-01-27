@@ -2,7 +2,7 @@
 date: "2021-07-20T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: "Created with [BioRender.com](BioRender.com)"
   focal_point: Smart
 links:
 # - icon: github
@@ -25,7 +25,7 @@ links:
 #   name: UROP 2020 Conference Presentation 
 #   url: "media/UROP_Conference_Beasley_Final.mp4"
 slides: 
-summary: 
+summary: "My masters research project investigating the evolutionary, functional and expression properties of eQTLs which are specific to their discovery population, supervised by: [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/)"
 tags:
 - Machine Learning
 - R
@@ -33,7 +33,8 @@ tags:
 - eQTLs
 - Genomics
 - Population Genetics
-title: "Predicting the cross population portability of human eQTLs (Masters Project, 2021 - )"
+- Diversity
+title: "Predicting the cross population portability of human eQTLs (Masters Research Project, 2021 - )"
 subtitle: "Supervised by: [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/)"
 url_code: 
 url_pdf: 
@@ -41,5 +42,3 @@ url_confererence:
 url_slides: ""
 url_video: ""
 ---
-
-
