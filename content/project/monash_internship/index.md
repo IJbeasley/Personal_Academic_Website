@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: 
-summary: "Supervised by: [Dr. Tim Connallon](https://connallonresearch.wordpress.com/). A semester long internship investigating the relationship between the location of inversions and sexually anatogistic genes"
+summary: "A semester long internship developing models to understand the evolutionary dynamics of palindromes on the X chromosome, supervised by: [Dr. Tim Connallon](https://connallonresearch.wordpress.com/) "
 tags:
 - Evolutionary Theory
 - R
