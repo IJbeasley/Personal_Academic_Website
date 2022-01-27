@@ -5,16 +5,16 @@ image:
   caption: "Created with [BioRender.com](BioRender.com)"
   focal_point: Smart
 links:
-- icon: google-scholar
-  icon_pack: ai
-  name: 
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: google-scholar
+#  icon_pack: ai
+#  name: 
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: file-pdf
   icon_pack: fas
   name: ESEB 2019 Conference Poster
   url: "media/ESEB_2019_poster_Filip_Ruzicka_Monash_University.pdf" 
 slides: 
-summary: "A short winter vacation project investigating the association between inversions and sexually anatogistic genes, Supervised by: [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) and [Dr. Tim Connallon](https://connallonresearch.wordpress.com/). "
+summary: "A short winter vacation project investigating the association between inversions and sexually anatogistic genes, supervised by: [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) and [Dr. Tim Connallon](https://connallonresearch.wordpress.com/). "
 tags:
 - Evolutionary Theory
 - R
