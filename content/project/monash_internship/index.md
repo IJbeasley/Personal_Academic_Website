@@ -2,7 +2,7 @@
 date: "2021-07-19T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: "karyotype-15 icon by Servier https://smart.servier.com/ is licensed under CC-BY 3.0 Unported https://creativecommons.org/licenses/by/3.0/"
   focal_point: Smart
 links:
 slides: 
