@@ -2,7 +2,7 @@
 date: "2021-02-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: "Example fit of TABI to mRNA expression data over a continous covariate"
   focal_point: Smart
 links:
 - icon: github
