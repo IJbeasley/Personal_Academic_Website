@@ -1,5 +1,5 @@
 [build]
-command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects.txt"
+command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects"
 publish = "public"
 HUGO_VERSION = "0.80.0"
 
@@ -17,5 +17,3 @@ HUGO_VERSION = "0.80.0"
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
 HUGO_VERSION = "0.80.0"
-
-# help 
