@@ -18,14 +18,11 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0001-6857-1692
 ---
- <p>&nbsp;</p> 
- 
-
 Welcome to my personal website!  
 
-Here I share the myriad of different things I’m working on, from [academic research]({{< relref "/research" >}}), to [science blogs]({{< relref "/writing" >}}), to teaching materials for high school students in [VCE Biology]({{< relref "/vce-biology" >}}). 
+Here I share the myriad of different things I’m working on, from <a href='/research' style="color:#D90429">academic research</a>, to <a href = "/writing" style="color:#D90429">science blogs</a>, to teaching materials for high school students in <a href = "/vce-biology" style="color:#D90429">VCE Biology</a>.
 
-[Learn More About Me :arrow_right:](#about)
+<a href = "../#about" style="color:#D90429"> Learn More About Me</a>:arrow_right:
 
 <p> </p>
 
