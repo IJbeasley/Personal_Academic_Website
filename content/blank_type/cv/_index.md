@@ -21,4 +21,4 @@ social:
 ---
 My CV (last updated Feb 2022) can be found below. 
 
-Skip to: <a href="#education" style="color:#D90429">Education</a>, <a href="#scholarships" style="color:#D90429"> Scholarships</a>, <a href="#awards" style="color:#D90429">Awards</a>,  <a href="#talks" style="color:#D90429">Conference Presentations</a>, <a href="#research_experience" style="color:#D90429">Research Experience</a>, <a href="#vol_experience" style="color:#D90429">Voluntary Experience</a>, <a href="#cv_skills" style="color:#D90429">Key Skills</a>.
+Skip to: <a href="#education" style="color:#D90429">Education</a>, <a href="#publications" style="color:#D90429">Publications</a>, <a href="#scholarships" style="color:#D90429"> Scholarships</a>, <a href="#awards" style="color:#D90429">Awards</a>,  <a href="#talks" style="color:#D90429">Conference Presentations</a>, <a href="#research_experience" style="color:#D90429">Research Experience</a>, <a href="#vol_experience" style="color:#D90429">Voluntary Experience</a>, <a href="#cv_skills" style="color:#D90429">Key Skills</a>.
