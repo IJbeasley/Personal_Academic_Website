@@ -54,7 +54,7 @@ experience:
   #   description: |2-
   #       **Supervisors:** [Dr. Stefano Mangiola](https://www.researchgate.net/profile/Stefano_Mangiola) & [Prof. Tony Papenfuss](https://www.wehi.edu.au/people/tony-papenfuss)
   #       
-  #       **Project Title:** *Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression*
+  #       **Project Title:** *Pseudo-temporal mapping of transcriptomic changes to prostate cancer disease progression*
   - title: Science and Technology Internship
     company: Connallon Laboratory
     company_url: 'https://connallonresearch.wordpress.com/'
@@ -75,6 +75,6 @@ experience:
     description: |2-
         **Supervisors:** [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) & [Dr. Tim Connallon](https://www.monash.edu/science/schools/biological-sciences/staff/timc)
         
-        **Project Title:** [Testing a Theory Involving the Inversion of Chromosomes](../project/monash-winter/)
+        **Project Title:** [Testing a theory involving the inversion of chromosomes](../project/monash-winter/)
         
 ---
