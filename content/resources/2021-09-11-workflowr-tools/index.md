@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Using workflowr and gitlab with R projects
+title: Workflowr wrapper tools 
 author: ''
 date: '2021-09-11'
 slug: workflowr-tools
