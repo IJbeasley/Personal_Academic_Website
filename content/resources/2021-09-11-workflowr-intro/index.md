@@ -1,4 +1,5 @@
 ---
+weight: 1
 title: Using workflowr and gitlab with R projects
 author: ''
 date: '2021-09-11'
