@@ -23,12 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+
  - title: Research Assistant
    company: Gallego Romero Laboratory
    company_url: 'https://igr-lab.science.unimelb.edu.au/'
-   location: Melbourne Integrative Genomics / The University of Melbourne and St Vincent's Institute of Medical Research
+   location: Melbourne Integrative Genomics 
    date_start: '2023-03-01'
-   date_end: '2023-07-01'
+   date_end: '2023-07-11'
    description: |2-
         **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/)
  
