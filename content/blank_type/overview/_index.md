@@ -3,21 +3,24 @@ title: Hi, I'm Isobel!
 subtitle:  "Interdisciplinary Master of Science Graduate 
 Genetics, Statistics, and Coding"
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:ibeasley@student.unimelb.edu.au
-- icon: twitter
-  icon_pack: fab
-  link: https://mobile.twitter.com/ijbeasley
-- icon: github
-  icon_pack: fab
-  link: https://github.com/IJbeasley
 - icon: osf
   icon_pack: ai
   link: https://osf.io/7qb8m/
+- icon: envelope
+  icon_pack: fas
+  link: mailto:ibeasley@student.unimelb.edu.au
+- icon: github
+  icon_pack: fab
+  link: https://github.com/IJbeasley
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.unimelb.edu.au/ibeasley
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6857-1692
+- icon: twitter
+  icon_pack: fab
+  link: https://mobile.twitter.com/ijbeasley
 - icon: stop
   icon_pack: fas
   link: https://bsky.app/profile/ijbeasley.bsky.social
