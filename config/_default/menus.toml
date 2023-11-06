@@ -22,6 +22,11 @@
   name = "Research"
   url = "research/"
   weight = 40
+  
+  [[main]]
+  name = "Research resources"
+  url = "resources/"
+  weight = 50
 
 #[[main]]
 #  name = "Research Experience"
@@ -42,6 +47,7 @@
   name = "Science Communication"
   url = "science-communication/"
   weight = 80
+
 
 [[main]]
   name = "CV"
