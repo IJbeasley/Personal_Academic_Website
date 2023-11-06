@@ -18,7 +18,7 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6857-1692
-- icon: fa-square-full
+- icon: envelope
   icon_pack: fas
   link: https://bsky.app/profile/ijbeasley.bsky.social
 ---
