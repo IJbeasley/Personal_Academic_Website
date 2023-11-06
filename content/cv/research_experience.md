@@ -27,7 +27,7 @@ experience:
     company: Gallego Romero Laboratory
     company_url: 'https://igr-lab.science.unimelb.edu.au/'
     location: Melbourne Integrative Genomics / The University of Melbourne and St Vincent's Institute of Medical Research 
-    date_start: '2023-03-01'
+    date_start: '2023-04-01'
     date_end: '2023-07-31'
     description: |2-
         **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/) 
@@ -70,7 +70,7 @@ experience:
     company_url: 'https://connallonresearch.wordpress.com/'
     location: School of Biological Sciences / Monash University
     date_start: '2021-03-01'
-    date_end: '2021-06-01'
+    date_end: '2021-07-01'
     description: |2-
         **Supervisors:** [Dr. Tim Connallon](https://connallonresearch.wordpress.com/)
         
@@ -80,7 +80,7 @@ experience:
     company:  Connallon Laboratory
     company_url: 'https://connallonresearch.wordpress.com/'
     location: School of Biological Sciences / Monash University
-    date_start: '2019-06-01'
+    date_start: '2019-07-01'
     date_end: '2020-07-31'
     description: |2-
         **Supervisors:** [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) & [Dr. Tim Connallon](https://www.monash.edu/science/schools/biological-sciences/staff/timc)
