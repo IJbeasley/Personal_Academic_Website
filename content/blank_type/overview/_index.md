@@ -1,6 +1,6 @@
 ---
 title: Hi, I'm Isobel!
-subtitle:  "Interdisciplinary Masters of Science Graduate 
+subtitle:  "Interdisciplinary Master of Science Graduate 
 Genetics, Statistics, and Coding"
 social:
 - icon: envelope
@@ -18,8 +18,8 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6857-1692
-- icon: fa-square
-  icon_pack: fab
+- icon: fa-square-o
+  icon_pack: fa
   link: https://bsky.app/profile/ijbeasley.bsky.social
 ---
 Welcome to my personal website!  
