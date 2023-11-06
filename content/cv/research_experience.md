@@ -24,16 +24,16 @@ date_format: Jan 2006
 experience:
 
 
- - title: Research Assistant
-   company: Gallego Romero Laboratory
-   company_url: 'https://igr-lab.science.unimelb.edu.au/'
-   location: Melbourne Integrative Genomics 
-   date_start: '2023-03-01'
-   date_end: '2023-07-11'
-   description: |2-
-        **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/)
- 
- **Project Title:** [Predicting the cross population portability of human eQTLs](../project/pop_spec_eqtl/)
+ # - title: Research Assistant
+ #   company: Gallego Romero Laboratory
+ #   company_url: 'https://igr-lab.science.unimelb.edu.au/'
+ #   location: Melbourne Integrative Genomics 
+ #   date_start: '2023-03-01'
+ #   date_end: '2023-07-11'
+ #   description: |2-
+ #        **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/)
+ # 
+ # **Project Title:** [Predicting the cross population portability of human eQTLs](../project/pop_spec_eqtl/)
         
         
 
@@ -48,16 +48,16 @@ experience:
         
         **Project Title:** [Predicting the cross population portability of human eQTLs](../project/pop_spec_eqtl/)
 
-  # - title: Undergraduate Research Opportunities Student (UROP) / Research Assistant
-  #   company: Papenfuss Laboratory
-  #   company_url: 'https://papenfusslab.org'
-  #   location: Bioinformatics / The Walter and Eliza Hall Institute of Medical Research
-  #   date_start: '2019-11-01'
-  #   date_end: '2021-04-01'
-  #   description: |2-
-  #       **Supervisors:** [Dr. Stefano Mangiola](https://github.com/stemangiola) & [Prof. Tony Papenfuss](https://www.wehi.edu.au/people/tony-papenfuss)
-  #       
-  #       **Project Title:** [Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression](../project/TABI/)
+  - title: Undergraduate Research Opportunities Student (UROP) / Research Assistant
+    company: Papenfuss Laboratory
+    company_url: 'https://papenfusslab.org'
+    location: Bioinformatics / The Walter and Eliza Hall Institute of Medical Research
+    date_start: '2019-11-01'
+    date_end: '2021-04-01'
+    description: |2-
+        **Supervisors:** [Dr. Stefano Mangiola](https://github.com/stemangiola) & [Prof. Tony Papenfuss](https://www.wehi.edu.au/people/tony-papenfuss)
+
+        **Project Title:** [Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression](../project/TABI/)
   # - title: Research Assistant 
   #   company: Papenfuss Laboratory
   #   company_url: 'https://papenfusslab.org'
