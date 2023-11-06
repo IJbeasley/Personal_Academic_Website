@@ -24,18 +24,16 @@ date_format: Jan 2006
 experience:
 
 
- # - title: Research Assistant
- #   company: Gallego Romero Laboratory
- #   company_url: 'https://igr-lab.science.unimelb.edu.au/'
- #   location: Melbourne Integrative Genomics 
- #   date_start: '2023-03-01'
- #   date_end: '2023-07-11'
- #   description: |2-
- #        **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/)
- # 
- # **Project Title:** [Predicting the cross population portability of human eQTLs](../project/pop_spec_eqtl/)
-        
-        
+ - title: Research Assistant
+   company: Gallego Romero Laboratory
+   company_url: 'https://igr-lab.science.unimelb.edu.au/'
+   location: KMB
+   date_start: '2023-03-01'
+   date_end: '2023-07-11'
+   description: |2-
+        **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/)
+
+ **Project Title:** [Predicting the cross population portability of human eQTLs](../project/pop_spec_eqtl/)
 
   - title: Master of Science Student
     company: Gallego Romero Laboratory
