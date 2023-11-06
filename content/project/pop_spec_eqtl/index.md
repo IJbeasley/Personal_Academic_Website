@@ -5,11 +5,17 @@ image:
   caption: "Created with [BioRender.com](BioRender.com)"
   focal_point: Smart
 links:
-# - icon: github
-#   icon_pack: fab
-#   url: https://github.com/stemangiola/TABI
+- icon: gitlab
+  icon_pack: fab
+  name: "git repository"
+  url: https://gitlab.unimelb.edu.au/igr-lab/pop_spec_eqtl_ml
+- icon: globe
+  icon_pack: fas
+  name: "workflowr page"
+  url: https://gitlab.unimelb.edu.au/igr-lab/pop_spec_eqtl_ml  
+  https://igr-lab.pages.gitlab.unimelb.edu.au/pop_spec_eqtl_ml/index.html
 # - icon: biorxiv
-#   icon_pack: ai
+#   icon_pack: aiBiocManager::install("rhdf5filters")
 #   name: Preprint
 #   url: https://www.biorxiv.org/
 # - icon: osf
