@@ -10,7 +10,7 @@ subtitle: ''
 summary: 'An introduction to using workflowr with a university or institutional gitlab account'
 authors: []
 lastmod: '2023-11-05T04:23:36+11:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
