@@ -28,7 +28,7 @@ experience:
     company_url: 'https://igr-lab.science.unimelb.edu.au/'
     location: Melbourne Integrative Genomics / The University of Melbourne and St Vincent's Institute of Medical Research 
     date_start: '2021-03-01'
-    date_end: '2022-11-29'
+    date_end: '2023-07-31'
     description: |2-
         **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/) 
         
