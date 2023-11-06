@@ -18,8 +18,8 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6857-1692
-- icon: fa-square-o
-  icon_pack: fa
+- icon: fa-square-full
+  icon_pack: fas
   link: https://bsky.app/profile/ijbeasley.bsky.social
 ---
 Welcome to my personal website!  
