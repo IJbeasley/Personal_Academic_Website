@@ -19,7 +19,7 @@ projects: []
 ---
 
 
-The information below was originally written when I was a Masters student to help lab members with less experience with R and git to start using workflowr to produce  reproducible documentation of their data analyses. But hopefully, its also useful to broader audience: anyone who has a little bit of experience R coding, and is ready to expand their skills into R projects and git. 
+The information below was originally written when I was a Masters student to help fellow lab members with less experience with R and git to start using workflowr to produce  reproducible documentation of their data analyses. But hopefully it's also useful to broader audience: anyone who has a little bit of experience R coding, and is ready to expand their skills into R projects and git. 
 
 ## What is workflowr?
 
