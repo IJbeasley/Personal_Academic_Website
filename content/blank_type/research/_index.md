@@ -26,8 +26,8 @@ social:
 
 Skip to: 
 
-<a href="#publications" style="color:#D90429"> Miscellaneous research resources </a>
-<a href="#publications" style="color:#D90429">research publications</a>, <a href="/research/#talks" style="color:#D90429">recent conference presentations</a> or <a href="#projects" style="color:#D90429">research projects</a>.
+<a href="#resources" style="color:#D90429"> Miscellaneous research resources,  </a>
+<a href="#publications" style="color:#D90429"> research publications</a>, <a href="/research/#talks" style="color:#D90429">recent conference presentations</a> or <a href="#projects" style="color:#D90429">research projects</a>.
 
 <br>
 
