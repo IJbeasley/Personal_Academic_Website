@@ -1,6 +1,7 @@
 ---
 title: Hi, I'm Isobel!
-subtitle:  Interdisciplinary Masters of Science Graduate | Genetics, Statistics, and Coding 
+subtitle:  Interdisciplinary Masters of Science Graduate 
+Genetics, Statistics, and Coding 
 social:
 - icon: envelope
   icon_pack: fas
@@ -23,7 +24,7 @@ social:
 ---
 Welcome to my personal website!  
 
-Here I share the myriad of different things I’m working on, from <a href='/research' style="color:#D90429">academic research</a>, to <a href = "/writing" style="color:#D90429">science blogs</a>, to teaching materials for high school students studying <a href = "/vce-biology" style="color:#D90429">VCE Biology</a>.
+Here I share the myriad of different things I’m working on, from <a href='/research' style="color:#D90429">academic research</a>, to <a href = "/writing" style="color:#D90429">science blogs</a>, to teaching materials for high school students studying <a href = "/vce-biology" style="color:#D90429">VCE Biology</a>. I hope you find what you're searching for!
 
 <a href = "../#about" style="color:#D90429"> Learn More About Me</a>:arrow_right:
 
