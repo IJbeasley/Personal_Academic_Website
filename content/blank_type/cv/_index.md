@@ -2,21 +2,28 @@
 title: CV
 subtitle:  
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:ibeasley@student.unimelb.edu.au
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ijbeasley
-- icon: github
-  icon_pack: fab
-  link: https://github.com/IJbeasley
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/7qb8m/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6857-1692 
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/7qb8m/
+- icon: envelope
+  icon_pack: fas
+  link: mailto:ibeasley@student.unimelb.edu.au
+- icon: github
+  icon_pack: fab
+  link: https://github.com/IJbeasley
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.unimelb.edu.au/ibeasley
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ijbeasley
+- icon: stop
+  icon_pack: fas
+  link: https://bsky.app/profile/ijbeasley.bsky.social
+
 #My 2 page pdf CV can be found <a href="media/current_CV.pdf" style="color:#D90429"> here </a>, 
 ---
 My CV (last updated Feb 2022) can be found below. 

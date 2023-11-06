@@ -3,6 +3,9 @@ title: Hi, I'm Isobel!
 subtitle:  "Interdisciplinary Master of Science Graduate 
 Genetics, Statistics, and Coding"
 social:
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6857-1692
 - icon: osf
   icon_pack: ai
   link: https://osf.io/7qb8m/
@@ -15,9 +18,6 @@ social:
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.unimelb.edu.au/ibeasley
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-6857-1692
 - icon: twitter
   icon_pack: fab
   link: https://mobile.twitter.com/ijbeasley

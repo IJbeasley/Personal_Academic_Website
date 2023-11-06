@@ -27,7 +27,7 @@ experience:
     company_url: 'https://ashalectures.org/'
     location:  
     date_start: '2019-01-01'
-    date_end: ''
+    date_end: '2022-01-01'
     description: |2-
         * Collaborated with school coordinators to curate and run public speaking programs (in 2019 Viewbank College, Maribyrnong College, Australian International Academy)
         * Implemented scheduling and project management programs (when2meet, Monday.com) to organise meetings and target team members for coaching sessions
@@ -40,7 +40,7 @@ experience:
     company_url: 'https://ashalectures.org/'
     location: Biology, Chemistry and Psychology
     date_start: '2017-01-01'
-    date_end: ''
+    date_end: '2021-01-01'
     description: |2-
 
   - title: VCE Summer School (VCESS) Tutor
@@ -48,8 +48,8 @@ experience:
     company_url: 'https://umsu.unimelb.edu.au/getinvolved/summerschool/'
     location: 
     date_start: '2018-01-01'
-    date_end: ''
-    description: "- 2018, 2021"
+    date_end: '2021-01-01'
+    description: "2018, 2021"
   - title: Peer Mentor
     company:  Faculty of Science | The University of Melbourne
     company_url: 

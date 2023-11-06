@@ -1,21 +1,24 @@
 ---
 title: Research 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:ibeasley@student.unimelb.edu.au
-- icon: twitter
-  icon_pack: fab
-  link: https://mobile.twitter.com/ijbeasley
-- icon: github
-  icon_pack: fab
-  link: https://github.com/IJbeasley
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/7qb8m/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6857-1692/
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/7qb8m/
+- icon: envelope
+  icon_pack: fas
+  link: mailto:ibeasley@student.unimelb.edu.au
+- icon: github
+  icon_pack: fab
+  link: https://github.com/IJbeasley
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.unimelb.edu.au/ibeasley
+- icon: twitter
+  icon_pack: fab
+  link: https://mobile.twitter.com/ijbeasley
 ---
 
 Skip to: <a href="#publications" style="color:#D90429">research publications</a>, <a href="/research/#talks" style="color:#D90429">recent conference presentations</a> or <a href="#projects" style="color:#D90429">research projects</a>.

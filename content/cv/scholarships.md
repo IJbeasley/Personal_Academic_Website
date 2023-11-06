@@ -27,7 +27,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ''
-  date_start: "2014-10-01"
+  date_start: "2017-10-01"
   description: ""
   organization: The University of Melbourne
   organization_url: 
@@ -47,7 +47,7 @@ item:
   description: 
   organization: The University of Melbourne
   organization_url: 
-  title: Melbourne Global Financial Assistance Award
+  title: Melbourne Global Financial Assistance Grant
   url: 
 - certificate_url: 
   date_end: ""
