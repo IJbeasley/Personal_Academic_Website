@@ -6,7 +6,7 @@ education:
   - course: Master of Science (BioSciences)
     specialisation: "Specialisation: Genetics 🧬"
     institution: The University of Melbourne
-    year: 2021 - 
+    year: 2021 - 2022
   - course: Bachelor of Biomedicine 
     specialisation: "Major: Genetics 🧬"
     institution: The University of Melbourne
@@ -19,17 +19,17 @@ email: "isobel.beasley@unimelb.edu.au"
 highlight_name: false
 interests:
 - Population Genetics
-- Genetic Regulation and Epigenetics
 - Statistical and Evolutionary Models
-- Educational Inclusion
 - Scientific Research Equity
+- Educational Inclusion
+- Genetic Regulation and Epigenetics
 organizations:
 - name: The University of Melbourne
   url: https://www.unimelb.edu.au/
 laboratory: 
 - name: Gallego Romero Lab
 - url: https://igr-lab.science.unimelb.edu.au/
-role: Master of Science Student
+role: Master of Science Graduate
 social:
 - icon: envelope
   icon_pack: fas
@@ -57,7 +57,11 @@ superuser: true
 title: Isobel Beasley 
 ---
 
-I'm a Master of Science Student within the School of BioSciences at Melbourne University. Under the supervision of [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) and [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi), my research focuses on using machine learning methods to predict whether known genetic associations (specifically eQTLs) are consistent across human populations. I'm also passionate about science communication and improving educational access; I aim to support disadvantaged high school students through providing debating coaching, lecturing and [learning materials](vce-biology). 
+I'm an interdisclinary scientists, and Master of Science graduate (BioSciences). 
+
+Under the supervision of [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) and [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi), my Masters research focused on using machine learning methods to predict whether known genetic associations (specifically eQTLs) are consistent across human populations. The struggles I experienced undertaking my thesis research led the three of us to realise how poorly 'consistency' (or portability) is typically defined in genomics studies, so I've been since working on developing more coherent, and biologically meaningful definition/s.
+
+I'm also passionate about science communication and improving educational access; I aim to support disadvantaged high school students through providing debating coaching, lecturing and [learning materials](vce-biology). 
 
 
 
