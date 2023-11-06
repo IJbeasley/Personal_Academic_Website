@@ -3,7 +3,7 @@ title: Workflowr wrapper tools
 author: ''
 date: '2021-09-11'
 slug: workflowr-tools
-categories: [R, coding, git, gitlab, workflowr, resources, help, introduction]
+categories: []
 tags: []
 subtitle: Use with caution
 summary: 'Some wrapper functions to maybe make your workflowr life more fun (if you don't want to have all your rmarkdown files in the analysis subfolder)'
