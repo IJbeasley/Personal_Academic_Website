@@ -12,8 +12,7 @@ links:
 - icon: globe
   icon_pack: fas
   name: "workflowr page"
-  url: https://gitlab.unimelb.edu.au/igr-lab/pop_spec_eqtl_ml  
-  https://igr-lab.pages.gitlab.unimelb.edu.au/pop_spec_eqtl_ml/index.html
+  url: https://igr-lab.pages.gitlab.unimelb.edu.au/pop_spec_eqtl_ml/index.html
 # - icon: biorxiv
 #   icon_pack: aiBiocManager::install("rhdf5filters")
 #   name: Preprint
