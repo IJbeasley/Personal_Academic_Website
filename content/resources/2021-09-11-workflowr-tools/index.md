@@ -5,8 +5,8 @@ date: '2021-09-11'
 slug: workflowr-tools
 categories: [R, coding, git, gitlab, workflowr, resources, help, introduction]
 tags: []
-subtitle: 'Use with caution'
-summary: 'Some wrapper functions to maybe make your workflowr life more fun (only if ou don't want to have all your rmarkdown files in the analysis subfolder)'
+subtitle: Use with caution
+summary: 'Some wrapper functions to maybe make your workflowr life more fun (if you don't want to have all your rmarkdown files in the analysis subfolder)'
 authors: []
 lastmod: '2023-11-05T04:23:36+11:00'
 featured: no
@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-## Using workflowr wrapper functions (i.e **what do use if you don't want to have all your rmarkdown files in the analysis subfolder**)
+Using workflowr wrapper functions (i.e **what do use if you don't want to have all your rmarkdown files in the analysis subfolder**)
 
 workflowr doesn't allow you to have subfolders within the analysis folder, or to build or publish any rmarkdown documents within folders other than the analysis folder. To work around some of this problem I have adapted code from [here](https://github.com/jdblischak/workflowr/issues/95) and [here](https://github.com/jdblischak/workflowr/blob/master/R/wflow_publish.R) to create an
 R-script of functions (workflowr_wrapper_functions.R) which wrap around the workflowr functions and let you build and publish files from folders other than analysis. These functions are:
