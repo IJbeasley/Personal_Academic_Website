@@ -19,6 +19,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://mobile.twitter.com/ijbeasley
+- icon: stop
+  icon_pack: fas
+  link: https://bsky.app/profile/ijbeasley.bsky.social
 ---
 
 Skip to: <a href="#publications" style="color:#D90429">research publications</a>, <a href="/research/#talks" style="color:#D90429">recent conference presentations</a> or <a href="#projects" style="color:#D90429">research projects</a>.
