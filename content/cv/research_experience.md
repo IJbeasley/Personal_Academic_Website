@@ -30,6 +30,7 @@ experience:
     date_end: '2023-07-01'
     description: |2-
         **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/)
+        
 
   - title: Master of Science Student
     company: Gallego Romero Laboratory
