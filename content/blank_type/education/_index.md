@@ -16,7 +16,7 @@ list: true
   <span class="edu-title-top">
   <i class="fas fa-graduation-cap">
   </i>
-  Master of Science 2021 - 
+  Master of Science 2021 - 2022
   </span> 
   </h4>
   </spa> 
@@ -24,7 +24,8 @@ list: true
   <div class="card-subtitle my-0 article-metadata">
   
   <p class='employ-text'> The University of Melbourne | BioSciences, Genetics </p> 
-
+    <span style="padding-left:-20px"> Clubs and Societies </span>
+  <li> BioSciences Postgraduate Society (BioPS)  </li> 
   
 </div>
 
@@ -104,6 +105,7 @@ list: true
   <ul style="margin-top:-10px;padding-left:40px">  
   <span style="padding-left:-20px"> Clubs and Societies </span>
   <li> Glasgow University Dialectic Society </li>
+  <li> Tea Society </li>
   </ul> 
 
    
