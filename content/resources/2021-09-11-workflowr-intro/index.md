@@ -4,8 +4,8 @@ title: Using workflowr and gitlab with R projects
 author: ''
 date: '2021-09-11'
 slug: workflowr-intro
-categories: []
-tags: []
+categories: ['resources', 'research']
+tags: ['R', 'workflowr']
 subtitle: ''
 summary: 'An introduction to using workflowr with a university or institutional gitlab account'
 authors: []
