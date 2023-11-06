@@ -22,14 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
+  - title: Research Assistant
+    company: Gallego Romero Laboratory
+    company_url: 'https://igr-lab.science.unimelb.edu.au/'
+    location: Melbourne Integrative Genomics / The University of Melbourne and St Vincent's Institute of Medical Research 
+    date_start: '2023-03-01'
+    date_end: '2023-07-01'
+    description: |2-
+        **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/) 
 
   - title: Master of Science Student
     company: Gallego Romero Laboratory
     company_url: 'https://igr-lab.science.unimelb.edu.au/'
     location: Melbourne Integrative Genomics / The University of Melbourne and St Vincent's Institute of Medical Research 
     date_start: '2021-03-01'
-    date_end: ''
+    date_end: '2022-11-01'
     description: |2-
         **Supervisors:** [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/) 
         
