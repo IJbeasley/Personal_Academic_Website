@@ -57,7 +57,7 @@ superuser: true
 title: Isobel Beasley 
 ---
 
-I'm an interdisclinary scientists, and Master of Science graduate (BioSciences). 
+I'm an interdisclinary scientist, and Master of Science graduate (BioSciences). 
 
 Under the supervision of [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) and [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi), my Masters research focused on using machine learning methods to predict whether known genetic associations (specifically eQTLs) are consistent across human populations. The struggles I experienced undertaking my thesis research led the three of us to realise how poorly 'consistency' (or portability) is typically defined in genomics studies, so I've been since working on developing more coherent, and biologically meaningful definition/s.
 
