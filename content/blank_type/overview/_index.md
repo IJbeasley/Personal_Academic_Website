@@ -1,7 +1,7 @@
 ---
 title: Hi, I'm Isobel!
-subtitle:  Interdisciplinary Masters of Science Graduate 
-Genetics, Statistics, and Coding 
+subtitle:  "Interdisciplinary Masters of Science Graduate 
+Genetics, Statistics, and Coding"
 social:
 - icon: envelope
   icon_pack: fas
