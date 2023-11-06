@@ -5,7 +5,7 @@ date: '2021-09-11'
 slug: workflowr-tools
 categories: []
 tags: []
-subtitle: Use with caution
+subtitle: 
 summary: 'Some wrapper functions to maybe make your workflowr life more fun (if you don't want to have all your rmarkdown files in the analysis subfolder)'
 authors: []
 lastmod: '2023-11-05T04:23:36+11:00'
