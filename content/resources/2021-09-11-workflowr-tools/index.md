@@ -7,7 +7,7 @@ slug: workflowr-tools
 categories: ['resources', 'research']
 tags: ['R', 'workflowr']
 subtitle: ''
-summary: 'An introduction to using workflowr with a university or institutional gitlab account'
+summary: "Some wrapper functions to maybe make your workflowr life more fun (if you don't want to have all your rmarkdown files in the analysis subfolder)"
 authors: []
 lastmod: '2023-11-05T04:23:36+11:00'
 featured: yes
