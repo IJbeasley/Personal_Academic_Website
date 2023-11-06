@@ -8,8 +8,8 @@ address:
   street: ""
 all_day: false
 authors: ["Isobel Beasley, Christina Azodi, Irene Gallego Romero"]
-date: "2023-11-28T12:00:00Z"
-date_end: "2023-12-02T12:00:00Z"
+date: "2022-11-28T12:00:00Z"
+date_end: "2022-12-02T12:00:00Z"
 event: "Australian Bioinformatics and Computational Biology Society (ABACBS) Conference"
 event_url: 
 featured: false
@@ -21,10 +21,6 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/ijbeasley
-#- icon: file-pdf
-#  icon_pack: far
-#  name: Slides
-#  url: media/ABACBS_2021_Slides.pdf
 location: ""
 projects: 
 - pop_spec_eqtl
