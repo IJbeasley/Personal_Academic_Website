@@ -16,3 +16,9 @@ design:
     padding: ["10px", "0", "10px", "0"]
 ---
 
+
+# Miscellanous resources to help with research 
+
+From finding research opportunities, to examples of code. 
+
+

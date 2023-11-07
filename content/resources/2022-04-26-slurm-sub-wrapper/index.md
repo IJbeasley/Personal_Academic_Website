@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 3
 title: SlurmR wrapper tool 
 author: ''
 date: '2022-04-26'
