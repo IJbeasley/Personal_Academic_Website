@@ -20,6 +20,8 @@ projects: []
 
 The information below was originally written when I was a Masters student to help fellow lab members with less experience with R and git to start using workflowr to produce  reproducible documentation of their data analyses. But hopefully, it's also useful to broader audience: anyone who has a little bit of experience R coding, and is ready to expand their skills into R projects and git. 
 
+... That being said, you likely want to avoid using these wrapper functions unless having all rmarkdown files in the analysis folder is really really going to bug you (and cause problems). For instance, I needed to make a workflowr page for every model I trained for my Masters' thesis, and I trained way to many models to be able to make any sense of a folder, without subfolders, containing all of them. The wrapper functions I used to do this (and describe below) can be found here: https://github.com/IJbeasley/Personal_Academic_Website/tree/main/content/code_sharing. 
+
 
 Using workflowr wrapper functions (i.e **what do use if you don't want to have all your rmarkdown files in the analysis subfolder**)
 
