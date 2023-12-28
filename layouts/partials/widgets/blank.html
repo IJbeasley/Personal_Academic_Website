@@ -47,8 +47,8 @@
       <div id='overview-subsubtitle'> 
       <h2 style="color:#118ab2;font-size:1.75rem" class ='overview-subtitle-text'> {{ $type_detail.Subsubtitle }} </h2>
        </div> 
-      <div class="overview-icons" style="color:#3CC1ED"> 
-      <ul style='color:#3CC1ED' class="network-icon" aria-hidden="true">
+      <div class="overview-icons" style="color:#139CCA"> 
+      <ul style='color:#139CCA' class="network-icon" aria-hidden="true">
         {{ range $type_detail.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
@@ -64,7 +64,7 @@
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
         <li>
-          <a style="color:#3CC1ED" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
+          <a style="color:#139CCA" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
             <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
           </a>
         </li>
