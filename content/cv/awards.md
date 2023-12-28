@@ -33,14 +33,14 @@ item:
 #   organization_url: "https://twitter.com/biops_unimelb"
 #   title: Runner up: Best Full-length (10-minute) Talk
 #   url: 
-# - certificate_url: 
-#   date_end: ''
-#   date_start: "2022-04-10"
-#   description: 
-#   organization: BioSciences Postgraduate Society (BioPS) Symposium
-#   organization_url: "https://twitter.com/biops_unimelb"
-#   title: Special mention: Science into Action (Research Impact) Prize
-#   url: 
+- certificate_url:
+  date_end: ''
+  date_start: "2022-04-10"
+  description:
+  organization: BioSciences Postgraduate Society (BioPS) Symposium
+  organization_url: "https://twitter.com/biops_unimelb"
+  title: 'Special mention: Science into Action (Research Impact) Prize'
+  url:
 - certificate_url: 
   date_end: ''
   date_start: "2020-10-01"
