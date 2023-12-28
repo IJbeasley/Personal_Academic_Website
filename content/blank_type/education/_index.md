@@ -27,15 +27,8 @@ list: true
   <li> BioSciences Postgraduate Society (BioPS)  </li> 
   
 </div>
-
 </div>
-
 </div> 
-
-
-
-
-
 
  <div class="card experience course">  
         <div class="card-body">
@@ -49,11 +42,9 @@ list: true
   </h4> 
   
   </span> 
-  
-  <span style="color:#000000">
+  <span >
   <div class="card-subtitle my-0 article-metadata">
-  <p class='employ-text'> The University of Melbourne  | Genetics </p>
-  </span> 
+  <p class='employ-text' style="color:#000000"> The University of Melbourne  | Genetics </p>
   <span class='employ-text'>
   <ul style="margin-top:-10px;padding-left:40px">  
   
@@ -67,7 +58,6 @@ list: true
 </div>
 </div>
 
-
  <div class="card experience course">  
         <div class="card-body">
         
@@ -76,17 +66,16 @@ list: true
 <span class="edu-title">
   <i class="fas fa-graduation-cap">
   </i>
-  Diploma in Mathematical Sciences 2017-2020   
+  Diploma in Mathematical Sciences    
   </h4> 
   </span> 
   <div class="card-subtitle my-0 article-metadata">
-  <p class='employ-text'> The University of Melbourne  | Statistics and Stochastic Process </p>
+  <p class='employ-text'> The University of Melbourne  | Statistics and Stochastic Process (2017 - 2020) </p>
 
    
 </div>
 </div>
 </div>
-
 
  <div class="card experience course">  
         <div class="card-body">
@@ -104,17 +93,13 @@ list: true
   <div class="card-subtitle my-0 article-metadata">
   <p class='employ-text'> The University of Glasgow | College of Medical, Veterinary and Life Sciences  </p> 
   <ul style="margin-top:-10px;padding-left:40px">  
-  <span style="padding-left:-20px"> Clubs and Societies </span>
   <li> Glasgow University Dialectic Society </li>
   <li> Tea Society </li>
   </ul> 
 
-   
 </div>
 </div>
 </div>
-
-
 
  <div class="card experience course">  
         <div class="card-body">
