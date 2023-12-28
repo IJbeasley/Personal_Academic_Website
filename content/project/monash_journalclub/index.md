@@ -9,9 +9,9 @@ links:
   icon_pack: fas
   name: Evolutionary Biology 2022 Paper 
   url: "https://doi.org/10.1002/evl3.292"
-- icon: git
+- icon: github
   icon_pack: fab
-  name: "git repository (Figure 1)"
+  name: "github repository (Figure 1)"
   url: https://github.com/IJbeasley/unguarded_x_journal_club
 slides: 
 summary: "Collaboration with Tim Connallon, Yasmine McDonough & Filip Ruzicka (August 2021 - February 2022)"
@@ -23,7 +23,7 @@ tags:
 - X Chromosome
 title: "How much does the unguarded X contribute to sex differences in life span?"
 subtitle: Collaboration with Tim Connallon, Yasmine McDonough & Filip Ruzicka
-url_code: https://github.com/IJbeasley/unguarded_x_journal_club
+url_code: 
 url_pdf: 
 #url_slides: " "
 url_video: 

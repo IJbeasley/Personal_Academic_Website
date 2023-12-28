@@ -21,7 +21,7 @@ tags:
 - Data Science
 - Inversions
 - Sexual Antagonism 
-title: "Testing a theory for the evolution of inversions (Winter 2019)"
+title: "Testing a theory for the evolution of inversions"
 subtitle: "Supervised by: [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) and [Dr. Tim Connallon](https://connallonresearch.wordpress.com/)"
 url_code: ""
 url_pdf: 
