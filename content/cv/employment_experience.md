@@ -27,8 +27,8 @@ experience:
     company:  The University of Melbourne
     company_url:
     location: Melbourne, Australia
-    date_start: '2023-01-02'
-    date_end: '2023-31-06'
+    date_start: '2023-02-01'
+    date_end: '2023-06-31'
     description: |2-
 
 
@@ -36,7 +36,7 @@ experience:
     company:  The University of Melbourne
     company_url:
     location:  Melbourne, Australia
-    date_start: '2023-01-01'
+    date_start: '2023-02-01'
     date_end: '2023-06-31'
     description: |2-
 
