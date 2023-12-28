@@ -41,10 +41,10 @@ item:
   organization_url: "https://twitter.com/biops_unimelb"
   title: 'Special mention: Science into Action (Research Impact) Prize'
   url:
-- certificate_url: 
+- certificate_url: '/media/LiCA_Certificate_Beasley.pdf'
   date_end: ''
   date_start: "2020-10-01"
-  description: '[Certificate](/media/LiCA_Certificate_Beasley.pdf)'
+  description: ''
   organization: The University of Melbourne
   organization_url: "https://students.unimelb.edu.au/careers/get-career-ready/leadership-and-employability-programs/leaders-in-communities-award-lica"
   title: Leaders in Communities Award (LiCA)
@@ -60,13 +60,11 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-06-25"
-  description:  '<br> <ul> 
-                 <li> [<i class="fas fa-video"></i> Prerecorded Video](/media/UROP_Conference_Beasley_Final.mp4) </li>
-                 <li> [<i class="far fa-file-pdf"> </i>  UROP Conference Slides PDF](/media/UROP-Conference-2020.pdf) </li> </ul>'
+  description:  ''
   organization: Undergraduate Research Opportunities Program Conference
   organization_url: 'https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/urop'
   title: Best Presentation (Day 1 of Conference)
-  url: https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-research-opportunities-program
+  url: '/media/UROP-Conference-2020.pdf'
 - certificate_url: 
   date_end: ""
   date_start: "2019-10-25"
