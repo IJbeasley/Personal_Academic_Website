@@ -26,6 +26,6 @@ social:
 
 #My 2 page pdf CV can be found <a href="media/current_CV.pdf" style="color:#D90429"> here </a>, 
 ---
-A <a href="#education" style="color:#D90429"> full CV outline (last updated November 2023) is below </a>, a PDF copy of my <a href="https://docs.google.com/document/d/13CO5IZ7IKMwCNPenDHiIvh1DduCCygC82nXtTnm8i4g/export?format=pdf" style="color:#D90429"> academic CV (updated November 2023) at this link </a>. 
+A <a href="#education" style="color:#D90429"> full CV outline (last updated November 2023) is below</a>, a PDF copy of my <a href="https://docs.google.com/document/d/13CO5IZ7IKMwCNPenDHiIvh1DduCCygC82nXtTnm8i4g/export?format=pdf" style="color:#D90429"> academic CV (updated November 2023) at this link</a>. 
 
 Skip to CV subsections: <a href="#education" style="color:#D90429">Education</a>, <a href="#publications" style="color:#D90429">Publications</a>, <a href="#scholarships" style="color:#D90429"> Scholarships</a>, <a href="#awards" style="color:#D90429">Awards</a>,  <a href="#talks" style="color:#D90429">Conference Presentations</a>, <a href="#research_experience" style="color:#D90429">Research Experience</a>, <a href="#vol_experience" style="color:#D90429">Voluntary Experience</a>, <a href="#cv_skills" style="color:#D90429">Key Skills</a>.
