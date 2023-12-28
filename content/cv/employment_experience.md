@@ -23,21 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
  
-  - title: GENE10001 (Genetics in the Media) Marker
+  - title: 'GENE10001 (Genetics in the Media) Marker'
     company:  The University of Melbourne
     company_url:
     location: Melbourne, Australia
     date_start: '2023-02-01'
-    date_end: '2023-06-31'
+    date_end: '2023-06-30'
     description: |2-
 
 
-  - title: MAST20031 (Analysis of Biological Data) Tutor
+  - title: 'MAST20031 (Analysis of Biological Data) Tutor'
     company:  The University of Melbourne
     company_url:
     location:  Melbourne, Australia
     date_start: '2023-02-01'
-    date_end: '2023-06-31'
+    date_end: '2023-06-30'
     description: |2-
 
 
