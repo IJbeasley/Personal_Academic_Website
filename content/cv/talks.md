@@ -36,7 +36,7 @@ item:
                 <li> [<i class="fas fa-video"></i> Prerecorded Video of Oral Presentation](/media/UROP_Conference_Beasley_Final.mp4) </li>
                 <li> [<i class="far fa-file-pdf"> </i> UROP Conference Slides PDF](/media/UROP-Conference-2020.pdf) </li> </ul>'
   organization: "Undergraduate Research Opportunities Program (UROP) Conference" 
-  organization_url: 
+  organization_url: 'https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/urop'
   title: "Pseudo-temporal Mapping of Transcriptomic Changes to Prostate Cancer Disease Progression"
   url:  
 - certificate_url: 
@@ -46,7 +46,7 @@ item:
                 <li> [Poster Presentation](https://osf.io/vc9s8/) </li>
                 <li> [<i class="ai ai-osf"> </i> Poster and Abstract](https://osf.io/rhnsz) </li> </ul>'
   organization: "Online Conference for Undergraduate Research in Australia (OCURA)"
-  organization_url: 
+  organization_url: 'https://www.cqu.edu.au/research/organisations/appleton-institute/mohb/ocura'
   title: "Estimating the Time Frame of Changes to Gene Expression in Progressive Diseases"
   url:   
 - certificate_url: 
@@ -55,7 +55,7 @@ item:
   description: "Contributing authors: Isobel J Beasley, [Christina B Azodi](https://azodichr.github.io/), [Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) <br>
                <ul> <li> Oral Presentation </li>  <li> [Abstract](/talk/predicting-the-cross-population-portability-of-human-expression-quantitative-trait-loci) </li> </ul>" 
   organization: "European Molecular Biology Laboratory (EBML) Australia Postgraduate Symposium" 
-  organization_url: 
+  organization_url: 'https://emblphdsymposium.org.au/'
   title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
   url: 
 - certificate_url: 
@@ -63,9 +63,18 @@ item:
   date_start: "2021-11-23"
   description: "Contributing authors: Isobel J Beasley, [Christina B Azodi](https://azodichr.github.io/), [Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) \n - Oral Presentation \n - [Abstract](/talk/predicting-the-cross-population-portability-of-human-expression-quantitative-trait-loci-eqtls)"
   organization: "Australian Bioinformatics and Computational Biology Society (ABACBS) Conference"
-  organization_url: 
+  organization_url: 'https://www.abacbs.org/'
   title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
   url: 
+- certificate_url: 
+  date_end: ''
+  date_start: "2022-02-10"
+  description: "Contributing authors: Isobel J Beasley, [Christina B Azodi](https://azodichr.github.io/), [Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) \n - Poster Presentation \n - [Abstract](/talk/predicting-the-cross-population-portability-of-human-expression-quantitative-trait-loci-eqtls)"
+  organization: "Lorne Genome"
+  organization_url: 'https://www.lornegenome.org/'
+  title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
+  url:   
+
 - certificate_url: 
   date_end: ''
   date_start: "2022-04-10"
@@ -78,9 +87,9 @@ item:
 - certificate_url: 
   date_end: ''
   date_start: "2022-11-23"
-  description: "Contributing authors: Isobel J Beasley, [Christina B Azodi](https://azodichr.github.io/), [Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) \n - Oral Presentation \n - [Abstract](/talk/complex-genomic-patterns-underpin-human-population-differences-in-expression-quantitative-trait-loci-eqtls)"
+  description: "Contributing authors: Isobel J Beasley, [Christina B Azodi](https://azodichr.github.io/), [Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) \n - Poster Presentation \n - [Abstract](/talk/complex-genomic-patterns-underpin-human-population-differences-in-expression-quantitative-trait-loci-eqtls)"
   organization: "Australian Bioinformatics and Computational Biology Society (ABACBS) Conference"
-  organization_url: 
+  organization_url: 'https://www.abacbs.org/'
   title: "Complex genomic patterns underpin human population differences in
 expression quantitative trait loci"
   url: 
