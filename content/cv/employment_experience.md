@@ -22,20 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-# 
-#   - title: GENE10001 (Genetics in the Media) Marker
-#     company:  The University of Melbourne
-#     company_url: 
-#     location:  The University of Melbourne
-#     date_start: '2023-02-01'
-#     date_end: '2023-06-31'
-#     description: |2-
-
-
-  - title: MAST20031 Tutor
+ 
+  - title: GENE10001 (Genetics in the Media) Marker
     company:  The University of Melbourne
     company_url:
-    location:  The University of Melbourne
+    location: Melbourne, Australia
+    date_start: '2023-02-01'
+    date_end: '2023-31-06'
+    description: |2-
+
+
+  - title: MAST20031 (Analysis of Biological Data) Tutor
+    company:  The University of Melbourne
+    company_url:
+    location:  Melbourne, Australia
     date_start: '2023-01-01'
     date_end: ''
     description: |2-
@@ -44,7 +44,7 @@ experience:
   - title: Academic Support Worker
     company:  The University of Melbourne
     company_url: 
-    location:  The University of Melbourne
+    location:  Melbourne, Australia
     date_start: '2021-01-01'
     date_end: '2022-12-01'
     description: |2-
@@ -53,7 +53,7 @@ experience:
   - title: Tutor & VCE Biology Workshop Presenter
     company: Triumph Tutoring
     company_url: 
-    location: 
+    location: Melbourne, Australia
     date_start: '2017-01-01'
     date_end: '2019-08-28'
     description: |2-
@@ -62,7 +62,7 @@ experience:
   - title: Junior Adjudicator
     company:  Debating Association of Victoria (DAV)
     company_url: 
-    location: 
+    location: Melbourne, Australia
     date_start: '2017-01-01'
     date_end: '2020-01-01'
     description: |2-
