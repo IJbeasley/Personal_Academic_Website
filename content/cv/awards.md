@@ -49,7 +49,7 @@ item:
   organization_url: "https://students.unimelb.edu.au/careers/get-career-ready/leadership-and-employability-programs/leaders-in-communities-award-lica"
   title: Leaders in Communities Award (LiCA)
   url: 
-- certificate_url: 
+- certificate_url: '/media/Create_a_Subject_Challenge_Certificate_Beasley.pdf'
   date_end: ''
   date_start: "2020-07-20"
   description: '[Certificate](/media/Create_a_Subject_Challenge_Certificate_Beasley.pdf)'
