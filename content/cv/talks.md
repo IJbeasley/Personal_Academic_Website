@@ -66,4 +66,22 @@ item:
   organization_url: 
   title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
   url: 
+- certificate_url: 
+  date_end: ''
+  date_start: "2022-04-10"
+  description: "Contributing authors: Isobel J Beasley, [Christina B Azodi](https://azodichr.github.io/), [Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) \n - Oral Presentation \n - [Abstract](/talk/predicting-the-cross-population-portability-of-human-expression-quantitative-trait-loci-eqtls)"
+  organization: "BioSciences Postgraduate Society (BioPS) Symposium"
+  organization_url: "https://twitter.com/biops_unimelb"
+  title: "The cross-population portability of human expression quantitative trait loci (eQTLs)"
+  url: 
+  
+- certificate_url: 
+  date_end: ''
+  date_start: "2022-11-23"
+  description: "Contributing authors: Isobel J Beasley, [Christina B Azodi](https://azodichr.github.io/), [Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) \n - Oral Presentation \n - [Abstract](/talk/complex-genomic-patterns-underpin-human-population-differences-in-expression-quantitative-trait-loci-eqtls)"
+  organization: "Australian Bioinformatics and Computational Biology Society (ABACBS) Conference"
+  organization_url: 
+  title: "Complex genomic patterns underpin human population differences in
+expression quantitative trait loci"
+  url: 
 ---
