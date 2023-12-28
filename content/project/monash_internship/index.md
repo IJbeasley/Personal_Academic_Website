@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 slides: 
-summary: "A semester long internship developing models to understand the evolutionary dynamics of palindromes on the X chromosome, supervised by: [Dr. Tim Connallon](https://connallonresearch.wordpress.com/) (Semester 1 2021) "
+summary: "A semester long internship developing models to understand the evolutionary dynamics of palindromes on the X chromosome, supervised by: [Dr. Tim Connallon](https://connallonresearch.wordpress.com/) (February 2021 - July 2021) "
 tags:
 - Evolutionary Theory
 - R
