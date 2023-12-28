@@ -32,7 +32,9 @@ experience:
 #     description: |2-
 #     
 # 
-  - title: MAST20031 (Analysis of Biological Data) Tutor
+
+
+  - title: "MAST20031 (Analysis of Biological Data) Tutor"
     company:  The University of Melbourne
     company_url:
     location:  The University of Melbourne
