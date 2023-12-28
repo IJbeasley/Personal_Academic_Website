@@ -50,8 +50,10 @@ list: true
   
   </span> 
   
+  <span style="color:#000000">
   <div class="card-subtitle my-0 article-metadata">
   <p class='employ-text'> The University of Melbourne  | Genetics </p>
+  </span> 
   <span class='employ-text'>
   <ul style="margin-top:-10px;padding-left:40px">  
   
