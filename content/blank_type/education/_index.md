@@ -85,13 +85,13 @@ list: true
 <span style="color:#118AB2">
 <span class="edu-title">
   <i class="fas fa-globe-americas"></i> 
-  Undergraduate Exchange 
+  Undergraduate Exchange (College of Medical, Veterinary and Life Sciences)
   
   </h4> 
   </span> 
   
   <div class="card-subtitle my-0 article-metadata">
-  <p class='employ-text'> The University of Glasgow | College of Medical, Veterinary and Life Sciences (2018)  </p> 
+  <p class='employ-text'  style="color:#000000"> The University of Glasgow (2018)  </p> 
   <ul style="margin-top:-10px;padding-left:40px">  
   <li> Glasgow University Dialectic Society </li>
   <li> Tea Society </li>
@@ -107,14 +107,13 @@ list: true
 <h4 class="card-title exp-title text-muted my-0"><span style="font-size:1.1vw;color:#118AB2">
   <span class="edu-title">
   <i class="fas fa-globe-americas"></i> 
-  International Summer School 2018 
+  International Summer School (Human Anatomy and Physiology)
 
   </h4> 
   </span>
   
   <div class="card-subtitle my-0 article-metadata">
-  <p class='employ-text'> King's College London | Human Anatomy and Physiology  </p>
-
+  <p class='employ-text'  style="color:#000000"> King's College London (2018)  </p>
    
 </div>
 </div>
