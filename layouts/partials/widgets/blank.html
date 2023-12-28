@@ -43,14 +43,14 @@
       <h1 style="color:#D2524B" class='overview-title-text' > 
       {{ $type_page.Title | markdownify | emojify }} </h1>
       <div id='overview-subtitle', style='font-size:0.85rem'> 
-      <h2 style="color:#118AB2", class = 'overview-subtitle-text'> {{ $type_detail.Subtitle }} </h2>
+      <h2 style="color:#0a546c", class = 'overview-subtitle-text'> {{ $type_detail.Subtitle }} </h2>
       </div>
         </div>
       <div id='overview-subsubtitle', style='font-size:0.4rem'> 
-      <h2 style="color:#55555", class = 'overview-subtitle-text'> {{ $type_detail.Subsubtitle }} </h2>
+      <h2 style="color:#118AB2", class = 'overview-subtitle-text'> {{ $type_detail.Subsubtitle }} </h2>
        </div> 
-      <div class="overview-icons", style="color:#555555"> 
-      <ul style='color:#555555', class="network-icon" aria-hidden="true">
+      <div class="overview-icons", style="color:#11A5B2"> 
+      <ul style='color:#11A5B2', class="network-icon" aria-hidden="true">
         {{ range $type_detail.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
