@@ -16,14 +16,14 @@ list: true
   <span class="edu-title-top">
   <i class="fas fa-graduation-cap">
   </i>
-  Master of Science 2021 - 2022
+  Master of Science (BioSciences, Genetics)
   </span> 
   </h4>
   </spa> 
   
   <div class="card-subtitle my-0 article-metadata">
   
-  <p class='employ-text'> The University of Melbourne | BioSciences, Genetics </p> 
+  <p class='employ-text' style="color:#000000"> The University of Melbourne (2021 - 2022) </p> 
   <li> BioSciences Postgraduate Society (BioPS)  </li> 
   
 </div>
@@ -38,13 +38,13 @@ list: true
 <span class="edu-title">
   <i class="fas fa-graduation-cap">
   </i>
-  Bachelor of Biomedicine 2017-2020   
+  Bachelor of Biomedicine (Genetics)
   </h4> 
   
   </span> 
   <span >
   <div class="card-subtitle my-0 article-metadata">
-  <p class='employ-text' style="color:#000000"> The University of Melbourne  | Genetics </p>
+  <p class='employ-text' style="color:#000000"> The University of Melbourne (2017 - 2020) </p>
   <span class='employ-text'>
   <ul style="margin-top:-10px;padding-left:40px">  
   
@@ -66,11 +66,11 @@ list: true
 <span class="edu-title">
   <i class="fas fa-graduation-cap">
   </i>
-  Diploma in Mathematical Sciences    
+  Diploma in Mathematical Sciences (Statistics and Stochastic Process)
   </h4> 
   </span> 
   <div class="card-subtitle my-0 article-metadata">
-  <p class='employ-text'> The University of Melbourne  | Statistics and Stochastic Process (2017 - 2020) </p>
+  <p class='employ-text' style="color:#000000"> The University of Melbourne (2017 - 2020) </p>
 
    
 </div>
@@ -85,13 +85,13 @@ list: true
 <span style="color:#118AB2">
 <span class="edu-title">
   <i class="fas fa-globe-americas"></i> 
-  Undergraduate Semester Exchange 2018
+  Undergraduate Exchange 
   
   </h4> 
   </span> 
   
   <div class="card-subtitle my-0 article-metadata">
-  <p class='employ-text'> The University of Glasgow | College of Medical, Veterinary and Life Sciences  </p> 
+  <p class='employ-text'> The University of Glasgow | College of Medical, Veterinary and Life Sciences (2018)  </p> 
   <ul style="margin-top:-10px;padding-left:40px">  
   <li> Glasgow University Dialectic Society </li>
   <li> Tea Society </li>
