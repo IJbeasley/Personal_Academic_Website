@@ -19,13 +19,9 @@ list: true
   Master of Science (BioSciences, Genetics)
   </span> 
   </h4>
-  </spa> 
-  
   <div class="card-subtitle my-0 article-metadata">
-  
   <p class='employ-text' style="color:#000000"> The University of Melbourne (2021 - 2022) </p> 
   <li> BioSciences Postgraduate Society (BioPS)  </li> 
-  
 </div>
 </div>
 </div> 
