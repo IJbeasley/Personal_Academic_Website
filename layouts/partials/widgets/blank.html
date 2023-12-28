@@ -55,8 +55,8 @@
       </h2>
        </div> 
        
-      <div class="'overview-icons" style="color:#222222"> 
-      <ul style='color:#00000f', class="network-icon" aria-hidden="true">
+      <div class="overview-icons", style="color:#222222"> 
+      <ul style='color:#222222', class="network-icon" aria-hidden="true">
         {{ range $type_detail.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
@@ -72,7 +72,7 @@
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
         <li>
-          <a style="color:#118AB2" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
+          <a style="color:#222222" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
             <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
           </a>
         </li>
