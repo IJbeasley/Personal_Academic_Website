@@ -24,7 +24,6 @@ list: true
   <div class="card-subtitle my-0 article-metadata">
   
   <p class='employ-text'> The University of Melbourne | BioSciences, Genetics </p> 
-    <span style="padding-left:-20px"> Clubs and Societies </span>
   <li> BioSciences Postgraduate Society (BioPS)  </li> 
   
 </div>
@@ -55,7 +54,7 @@ list: true
   <p class='employ-text'> The University of Melbourne  | Genetics </p>
   <span class='employ-text'>
   <ul style="margin-top:-10px;padding-left:40px">  
-  <span style="padding-left:-20px"> Clubs and Societies </span>
+  
   <li> Melbourne University Debating Society (MUDS) </li>
   <li> Melbourne University Health Initiative (MUHI) </li> 
    </ul> 
