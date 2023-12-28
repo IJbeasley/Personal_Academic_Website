@@ -37,7 +37,7 @@ experience:
     company_url:
     location:  The University of Melbourne
     date_start: '2023-01-01'
-    date_end: '2023-06-31'
+    date_end: ''
     description: |2-
 
 
