@@ -7,7 +7,7 @@ image:
 links:
 - icon: gitlab
   icon_pack: fab
-  name: "git repository"
+  name: "gitlab repository"
   url: https://gitlab.unimelb.edu.au/igr-lab/pop_spec_eqtl_ml
 - icon: globe
   icon_pack: fas
@@ -30,7 +30,7 @@ links:
 #   name: UROP 2020 Conference Presentation 
 #   url: "media/UROP_Conference_Beasley_Final.mp4"
 slides: 
-summary: "My masters research project investigating the evolutionary, functional and expression properties of eQTLs which are specific to their discovery population, supervised by: [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/)"
+summary: "Masters research project investigating the evolutionary, functional and expression properties of human eQTLs which are non-portable across populations, supervised by: [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/) (March 2021 - December 2022)"
 tags:
 - Machine Learning
 - R
@@ -39,7 +39,7 @@ tags:
 - Genomics
 - Population Genetics
 - Diversity
-title: "Predicting the cross population portability of human eQTLs (Masters Research Project, 2021 - )"
+title: "Predicting the cross population portability of human eQTLs"
 subtitle: "Supervised by: [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/) & [Dr. Christina Azodi](https://azodichr.github.io/)"
 url_code: 
 url_pdf: 
