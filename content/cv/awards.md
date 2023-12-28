@@ -25,22 +25,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
-  date_end: ''
-  date_start: "2022-04-10"
-  description: 
-  organization: BioSciences Postgraduate Society (BioPS) Symposium
-  organization_url: "https://twitter.com/biops_unimelb"
-  title: Runner up: Best Full-length (10-minute) Talk
-  url: 
-- certificate_url: 
-  date_end: ''
-  date_start: "2022-04-10"
-  description: 
-  organization: BioSciences Postgraduate Society (BioPS) Symposium
-  organization_url: "https://twitter.com/biops_unimelb"
-  title: Special mention: Science into Action (Research Impact) Prize
-  url: 
+# - certificate_url: 
+#   date_end: ''
+#   date_start: "2022-04-10"
+#   description: 
+#   organization: BioSciences Postgraduate Society (BioPS) Symposium
+#   organization_url: "https://twitter.com/biops_unimelb"
+#   title: Runner up: Best Full-length (10-minute) Talk
+#   url: 
+# - certificate_url: 
+#   date_end: ''
+#   date_start: "2022-04-10"
+#   description: 
+#   organization: BioSciences Postgraduate Society (BioPS) Symposium
+#   organization_url: "https://twitter.com/biops_unimelb"
+#   title: Special mention: Science into Action (Research Impact) Prize
+#   url: 
 - certificate_url: 
   date_end: ''
   date_start: "2020-10-01"
@@ -64,7 +64,7 @@ item:
                  <li> [<i class="fas fa-video"></i> Prerecorded Video](/media/UROP_Conference_Beasley_Final.mp4) </li>
                  <li> [<i class="far fa-file-pdf"> </i>  UROP Conference Slides PDF](/media/UROP-Conference-2020.pdf) </li> </ul>'
   organization: Undergraduate Research Opportunities Program Conference
-  organization_url: ''
+  organization_url: 'https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/urop'
   title: Best Presentation (Day 1 of Conference)
   url: https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-research-opportunities-program
 - certificate_url: 
