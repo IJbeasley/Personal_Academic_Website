@@ -54,9 +54,8 @@
             <h2 style="color:#444444" class = 'overview-subtitle-text'> {{ $type_detail.Subsubtitle }} 
       </h2>
        </div> 
-       
-      <div class="overview-icons", style="color:#222222"> 
-      <ul style='color:#222222', class="network-icon" aria-hidden="true">
+      <div class="overview-icons", style="color:#555555"> 
+      <ul style='color:#555555', class="network-icon" aria-hidden="true">
         {{ range $type_detail.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
@@ -98,7 +97,7 @@
 {{else}}
 
       
-    <div id='overview-content'> <span style="color:#444444"> 
+    <div id='overview-content'> <span style="color:#333333"> 
     <br> 
     {{ $type_page.Content }}
     </span> 
