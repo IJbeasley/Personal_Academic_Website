@@ -2,21 +2,21 @@
 date: "2021-07-19T00:00:00Z"
 external_link: ""
 image:
-  caption: "karyotype-15 icon by Servier https://smart.servier.com/ is licensed under CC-BY 3.0 Unported https://creativecommons.org/licenses/by/3.0/"
+  caption: ""
   focal_point: Smart
 links:
 slides: 
-summary: "A semester long internship developing models to understand the evolutionary dynamics of palindromes on the X chromosome, supervised by: [Dr. Tim Connallon](https://connallonresearch.wordpress.com/) "
+summary: ""
 tags:
 - Evolutionary Theory
 - R
 - Data Science
-- Palindromes
+- Unguarded X 
 - X Chromosome
-title: "Investigating the evolution of palindromes on the sex chromosomes (Semester 1 2021)"
-subtitle: "Supervised by: [Dr. Tim Connallon](https://connallonresearch.wordpress.com/)"
-url_code: ""
-url_pdf: 
+title: "How much does the unguarded X contribute to sex differences in life span?"
+subtitle: Collaboration with Tim Connallon, Yasmine McDonough,  Filip Ruzicka
+url_code: https://github.com/IJbeasley/unguarded_x_journal_club
+url_pdf: https://doi.org/10.1002/evl3.292
 #url_slides: " "
 url_video: 
 ---
