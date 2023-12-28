@@ -32,13 +32,13 @@ experience:
 #     description: |2-
 #     
 # 
-#   - title: MAST20031 (Analysis of Biological Data) Tutor 
-#     company:  The University of Melbourne
-#     company_url: 
-#     location:  The University of Melbourne
-#     date_start: '2023-02-01'
-#     date_end: '2023-06-31'
-#     description: |2-
+  - title: MAST20031 (Analysis of Biological Data) Tutor
+    company:  The University of Melbourne
+    company_url:
+    location:  The University of Melbourne
+    date_start: '2023-02-01'
+    date_end: '2023-06-31'
+    description: |2-
 
 
   - title: Academic Support Worker
