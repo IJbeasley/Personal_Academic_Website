@@ -1,8 +1,8 @@
 ---
 date: "2021-07-19T00:00:00Z"
-external_link: ""
+external_link: "https://academic.oup.com/evlett/article/6/4/319/6697610"
 image:
-  caption: ""
+  caption: "Figure 1: Curated published estimates of species-specific sex-biased mutation rates, expressed as the ratio of male to female rates "
   focal_point: Smart
 links:
 - icon: file-pdf
@@ -32,7 +32,7 @@ url_pdf:
 url_video: 
 ---
 
-This project was written into a open acess journal article published in Evolution Letters in 2022  https://academic.oup.com/evlett/article/6/4/319/6697610.
+This project was written into a [open access journal article published in Evolution Letters in 2022](https://academic.oup.com/evlett/article/6/4/319/6697610).
 
 Somewhat less technical summary of this 'Unguarded X' effect project:
 
