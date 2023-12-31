@@ -4,29 +4,52 @@ title: Introduction to the Eukaryotic Cell
 author: 'Isobel Beasley'
 date: '2021-01-26'
 slug: introduction-to-the-eukaryotic-cell
-categories: ['VCE', 'Biology', 'Unit 3', 'Organelles', 'Cells', 'Eurkaryotic', 'Endoplasmic Reticulum', 'Golgi Apparatus', 'Vesicles']
-tags: ['VCE', 'Biology', 'Unit 3', 'Organelles', 'Cells']
+categories: ['VCE', 'Biology', 'Unit 3', 'Outcome 1', 'The relationship between nucleic acids and proteins']
+tags: ['VCE', 'Biology', 'Unit 3', 'Organelles', 'Cells', 'Membranes', 'Organelles', 'Cells', 'Eurkaryotic', 'Endoplasmic Reticulum', 'Golgi Apparatus', 'Vesicles', 'Plasma Membranes']
 subtitle: 'Membranes and Organelles'
 summary: 'How is it that such a small unit is able to build, organise and export such complex proteins?'
 authors: []
-lastmod: '2021-11-26T02:41:23+11:00'
+lastmod: '2023-12-31T02:41:23+11:00'
 featured: no
-image:
+image: 
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
 ---
 
-<h2 style="color:#D32F2F">
+<h2 style="color:#D32F2F;font-size:0.95rem">
 
 Introduction:
 
 </h2>
 
+<p style="font-size:0.9rem">
+
 > This page is about the wonderful ways in which the Eukaryotic cell is able to organise and coordinate complicated chemical reactions. In short, organelles and membranes. 
 
+</p>
+
 <br>
+
+<p style="font-size:0.9rem">
+
+Note: This page is adapted from a learning plan + notes I used to teach online VCE summer school 2021. for the 2022-2026 VCAA study design. 
+</p>
+
+<h2 style="color:#D32F2F;font-size:0.85rem">
+Relevant VCAA 2022 Study Design Dot Points:    
+</h2> 
+
+<p style='font-size:0.95rem'>
+Unit 3 (Outcome 1): The relationship between nucleic acids and proteins
+
+- *the role of rough endoplasmic reticulum, Golgi apparatus and associated vesicles in the export of proteins from a cell via the protein secretory pathway*               
+</p>
+
+<br> 
+<br>
+<br> 
 
 <h2 style="color:#D32F2F">
 
@@ -40,19 +63,13 @@ Learning Objectives:
 - Define the roles of essential components of Eukaryotic cells *(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
 
 <br>
-
-<h2 style="color:#D32F2F">
-
-Associated VCAA 2022 Study Design Dot Points:    
-
-</h2> 
-
-- *the role of rough endoplasmic reticulum, Golgi apparatus and associated vesicles in the export of proteins from a cell via the protein secretory pathway*               
-
-<br> 
+<br>
+<br>
 
 
-# Structures within the 
+
+
+<h2 style="color:#D32F2F"> Structures within the Eurkaryotic cell </h2>
 
 ![Plant Cell Outline, Credit: Isobel Beasley, and Andreas Dorsch 2020](../../VCE-Biology/Zoom_plant_cell.png)
 
@@ -61,43 +78,54 @@ Plant Cell Outline, Credit: Isobel Beasley, and Andreas Dorsch 2020
 </p>
 
 <br> 
+<br>
+<br>
 
-![](../../media/ABACB_2021_Slides_High_Quality.gif)
-
-
-## What do you do already know about cells?
+<h3 style="color:#D32F2F"> Brainstorm: What do you do already know about cells? </h3>
 
 <iframe src="https://pollev-embeds.com/discourses/ODZWtjez9nXfAgQesfr9N/respond" width="800px" height="600px"></iframe>
 
 <br> 
+<br>
+<br>
+<br>
 
 
+<h2 style="color:#D32F2F"> Introductory understanding questions </h2>
 
-Now, let's start with some introductory understanding questions. 
+Try to answer the questions yourself before reading the provided answers. The questions and answers provided here are colloquial - they're not meant to be representative of exam formatting. 
 
-- What *is* a cell?
+<details>
+    <summary> What <em> is </em> a cell? </summary>
+    A cell is the most basic unit of life.
+    <details>
+    <summary> <em> Ok, sure but what does that mean? </em> </summary>
+    It means that the cell is the smallest building block that all living things have in common.
+    [More detailed explanation from an 'Introduction to the cell' by Khan Academy](https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-basic-cell-structures/v/introduction-to-the-cell)
+    </details>
+</details>
 
-    A cell is the most basic unit of life. *Ok, sure but what does that mean?* 
 
-    *It means that the cell is the smallest building block that all living things have in common.*
+<details>
+         <summary> What do cells do? </summary>
+         Everything you need to survive. Make proteins. Sort and organise molecules. Break down materials to obtain energy. Remove waste. Respond to infection with viruses. <b> All of it </b> 
+</details>
 
-    [More detailed explanation from Khan Academy](https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-basic-cell-structures/v/introduction-to-the-cell)
+<details> 
+        <summary> How do they do <em> all </em> these roles? </summary>
+        Through the magic of project management. No seriously, by having organelles cells can assign tasks, organise, sort and build materials - to perform all the jobs a cell has. We'll go into more detail about what I mean by this below. 
+</details>
 
-    **Introduction to the cell** (Khan academy)
+<details>
+    <summary> Why should <em> I </em> care about cells? </summary>
+    Hopefully because you're made of them. Because you need them to survive. Because they're really <em> really </em> tiny blobs of different shapes, sizes, roles, and which manage and run billions of different chemical reactions which are happening in you right now. Cells are the reason that you can be here right now reading this. Thank you cells!
+</details>
 
-- Why do I care?
+<br>
+<br>
+<br>
 
-    Hopefully because you're made of them. Because you need them to survive. Because they're really *really* tiny blobs of different shapes, sizes, roles, and which manage and run billions of different chemical reactions which are happening in you right now. Cells are the reason that you can be here right now reading this. Thank you cells!
-
-- What do cells do?
-
-    Everything you need to survive. Make proteins. Sort and organise molecules. Break down materials to obtain energy. Remove waste. Respond to infection with viruses. **All of it** 
-
-- How do they do *all* these roles?
-
-    Through the magic of project management. No seriously, by having organelles cells can assign tasks, organise, sort and build materials - to perform all the jobs a cell has. We'll go into more detail about what I mean by this below. 
-
-## How organelles help Eukaryote cells be cool (~15 mins activity)
+<h2 style="color:#D32F2F"> How do organelles help Eukaryote cells do their jobs? (~15 minute activity) <h2>
 
 Ok, imagine for a second you are cell project manager. 
 
@@ -105,134 +133,93 @@ The organism you are a part of has asked you to make a really big house shaped m
 
 **How on earth are you going to deliver this project, quickly and in an organised fashion?** 
 
-*In breakout rooms workout how you are going to deliver the project for your organism by using the organelles and their roles listed below. Then translate the listed organelle roles below into VCAA friendly definitions.* 
+Use the organelles and their listed roles below to plan this project. 
 
-- If you're stuck ⚠️
+<details> 
+        <summary>If you're stuck ⚠️ </summary>
+        Google is your friend and so is the following video:
+        [Video](https://www.youtube.com/watch?v=Hmwvj9X4GNY)
+</details>
 
-    We'll be visiting your breakout room soon so don't worry! In the meantime - Google is your friend and so is the following video: 
-
-    [https://www.youtube.com/watch?v=Hmwvj9X4GNY](https://www.youtube.com/watch?v=Hmwvj9X4GNY)
-
-- If you're a superstar who's already done 💫
-
+<details> 
+      <summary> If you're a superstar who's already done 💫 </summary>
+    Translate the listed organelle roles below into VCAA friendly definitions. 
     Go to the next activity and see if you can now label some organelles!
+</details>
 
----
+<div class="toggle"> 
+<details> 
+         <summary> <h3> Organelles at your disposal </h3> </summary>
 
-## The organelles at your disposal:
-
-![photos/Nucleus.jpg](photos/Nucleus.jpg)
+<details>
+         <summary> <b> Nucleus </b> </summary>
+         
+![Nucleus](../../VCE-Biology/Nucleus.jpg)
 
 **The Nucleus:** Where all the protein brick blueprints are held. Blueprints are converted into easy to transport but temporary paper booklets.
 
-![photos/membrane-system-Endoplasmic-reticulum-cells-biosynthesis-transport.jpg](photos/membrane-system-Endoplasmic-reticulum-cells-biosynthesis-transport.jpg)
+</details>
 
-The Endoplasmic Reticulum: Moves materials around the cell. 
+<details>
+         <summary> Endoplasmic Reticulum </summary>
 
-![photos/Vesicle_delivery_(3).png](photos/Vesicle_delivery_(3).png)
+![Endoplasmic Reticulum](../../VCE-Biology/membrane-system-Endoplasmic-reticulum-cells-biosynthesis-transport.jpg)
 
-Vesicle: Ships big materials out of the cell.
+**The Endoplasmic Reticulum**: Moves materials around the cell. 
 
-![photos/ribosome.jpg](photos/ribosome.jpg)
+</details> 
+<details>
+          <summary> Vesicle </summary>
+![Vesicle](../../VCE-Biology/Vesicle_delivery_(3).png)
 
-Ribosomes: Where protein bricks get made by reading instructions from paper booklets.
+**Vesicle**: Ships big materials out of the cell.
+<details>
+         <summary> Ribosomes </summary>
+         
+![Ribosomes](../../VCE-Biology/ribosome.jpg)
 
-![photos/sort_golgi.gif](photos/sort_golgi.gif)
+**Ribosomes**: Where protein bricks get made by reading instructions from paper booklets.
+</details>
 
-The Golgi Apparatus: Sorts, modifies and organises materials in preparation for shipping outside the cell. 
+<details> 
+        <summary> Golgi Appartus </summary>
 
-# Let's Label Some Organelles: (~5 mins)
+![Golgi Apparatus](../../VCE-Biology/sort_golgi.gif)
 
-![photos/Zoom_plant_cell.png](photos/Zoom_plant_cell.png)
+**The Golgi Apparatus**: Sorts, modifies and organises materials in preparation for shipping outside the cell. 
+</details>
 
-# The Wonderful Plasma Membrane
+</details>
+</div>
 
-[photos/thats-membrane-transport.mp4](photos/thats-membrane-transport.mp4)
+<br>
+<br>
+<br>
 
-Wait there's more terrible VCE Biology songs? Yep. And they get worse. 
+<h2 style="color:#D32F2F"> Let's Label Some Organelles: (~5 mins) </h2>
 
-So, by now we know truly massive things like proteins use vesicles to get out of the cell. This process is called exocytosis. 
+![Plant cell](../../VCE-Biology/Zoom_plant_cell.png)
 
-But how do smaller molecules get into and out of the cell? 
+<div>
+<details> 
+         <summary> More exam friendly explanations of each organelles role </summary>
+Ribosomes: are the site of protein synthesis. [Proteins made in the rough Endoplasmic reticulum are transported out of the cell. Proteins produced on free ribosomes are used within the cell. ]
+Endoplasmic reticulum (Rough & Smooth): Internal transport for materials through membrane-bound channels. 
+Rough (Site of protein synthesis, folding of polypeptide chain occurs in lumen [inner areas])
+Smooth (Site of lipid synthesis and membrane synthesis) 
+Golgi Apparatus (or Golgi Bodies): Sorting, storing and modification of materials for transport outside of the cell via exocytosis. (See previous Study Design point)
+Vesicles: As above, The Golgi Apparatus packages materials into vesicles, which are excreted externally via exocytosis. 
 
-## White Board (Drawing Time) (~10 mins)
+</details>
 
-For VCE Biology you will often need to draw a plasma membrane, and in particular the phospholipids which comprise majority of the plasma membrane. On a piece of paper, or an electronic whiteboard, let's draw these important features together. 
+<br>
+<br>
+<br> 
 
-![photos/Cell-membrane-detailed-diagram.jpg](photos/Cell-membrane-detailed-diagram.jpg)
-
-*Important Understanding Questions:*
-
-- What are the important features of phospholipids to draw?
-
-    Phospholipids need their hydrophilic head and hydrophobic tails (x2)
-
-- Why are these features important?
-
-    The tails are attracted to each other so they form the distinctive *'bi-layer'* of the membrane (i.e. the two layers of phospholipids which make up the plasma membrane). The tails then become part of the centre of the plasma membrane - which repel hydrophilic substances.  This structure means the plasma membrane is *'selectively permeable' - i.e. it regulates the movement of substances into and out of the cell.*
-
-- How do these features impact what is able to easily cross membranes - and what isn't?
-
-    Because the plasma membrane is selectively permeable, only some substances can cross the membrane with ease. Others have a more difficult time. How easy or hard a substance finds crossing the membrane through jumping between the phospholipids is due to the size of the gaps between phospholipids and whether the substance is repelled by the tails. 
-
-## Movement Across a Membrane (~10 mins)
-
-There are three things which impact how easily a substance is able to cross a membrane. 
-
-## Size 💢
-
-- Smaller substances can fit between the gaps in phospholipids - and don't need a protein helper.
-- Big substances need a larger gap, which can be created by a protein channel or gate.
-
-## Polarity 🎣
-
-- Non-polar (hydrophobic) molecules are not repelled by the phospholipid tails - and thus don't need a protein helper.
-- Polar (hydrophilic) molecules are repelled, and need a protein helper (like a channel or gate) to shield them
-
-## Concentration Gradient 🏔️
-
-- Natures tendency is for substances to move from high to low concentrations.
-- Energy is required if we are to go in the opposite direction of nature / concentration gradient
-- Protein helpers are needed to get ATP converted to ADP + Pi at the right place and time (when going against the gradient)
-
-It is the combination of these factors that determines whether a substance can just pass directly across a membrane, or whether it needs some extra protein help. Ridiculously big things or when we have lots and lots of small things moving at once use vesicles to get into and out the cell.  
-
-When your teacher or VCAA asks you to predict the type of transport for substance, or explain why a particular substance travels in a particular method - you need to *include all three components in your answer.* 
-
-## The Movement Equation (Test)
-
-Predict how likely a given substance is to directly cross the plasma membrane given the following equations:
-
-1. Example: Nitrogen Gas
-
-    $$\text{Small size + Non-Polar + With the concentration gradient = } $$
-
-2. Example: Carbon Dioxide
-
-    $$\text{Small~Size + Non-polar +} \bf{Against  ~the  ~concentration ~ gradient} = $$
-
-3. Example: Water
-
-    $$\text{Small~Size +~}\bf {Polar ~+} \text{~With  ~the  ~concentration ~ gradient} = $$
-
-4. Example: Ethanol
-
-    $$\text{Small~Size +~}\bf {Mostly  ~~non-polar~+} \text{~With  ~the  ~concentration ~ gradient} = $$
-
-5. Example: Protein 
-
-    $$\bf{Massive ~size + Polar} + \text{With the concentration gradient = } $$
-
-# Today's TL;DR
+<h2 style="color:#D32F2F">  This lesson's TL;DR </h2>
 
 - Cells are super cool building blocks of life
 - Eukaryotic cells contain organelles (membrane bound cellular structure that perform a specialised roles)
 - VCAA (and your teachers) will expect you to know the roles of important organelles (*(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
-- The plasma membrane is responsible for the regulation of substances into and out of the cell (it is selectively permeable)
-- Phospholipids have a specialised structure that mean smaller, and non-polar molecules have an easier time crossing the membrane
 
-## Extra Resources:
 
-**[Douchy's Podcast on VCE Biology:](https://biologyoracle.podomatic.com/?p=2)**  
-
-[https://podomatic.com/embed/html5/episode/8345663?autoplay=false](https://podomatic.com/embed/html5/episode/8345663?autoplay=false)
