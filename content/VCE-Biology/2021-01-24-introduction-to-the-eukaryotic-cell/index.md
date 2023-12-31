@@ -18,13 +18,13 @@ image:
 projects: []
 ---
 
-<h2 style="color:#D32F2F;font-size:0.95rem">
+<h2 style="color:#D32F2F">
 
 Introduction:
 
 </h2>
 
-<p style="font-size:0.9rem">
+<p>
 
 > This page is about the wonderful ways in which the Eukaryotic cell is able to organise and coordinate complicated chemical reactions. In short, organelles and membranes. 
 
@@ -32,12 +32,12 @@ Introduction:
 
 <br>
 
-<p style="font-size:0.9rem">
+<p style="font-size">
 
 Note: This page is adapted from a learning plan + notes I used to teach online VCE summer school 2021. for the 2022-2026 VCAA study design. 
 </p>
 
-<h2 style="color:#D32F2F;font-size:0.85rem">
+<h2 style="color:#D32F2F">
 Relevant VCAA 2022 Study Design Dot Points:    
 </h2> 
 
@@ -221,5 +221,3 @@ Vesicles: As above, The Golgi Apparatus packages materials into vesicles, which 
 - Cells are super cool building blocks of life
 - Eukaryotic cells contain organelles (membrane bound cellular structure that perform a specialised roles)
 - VCAA (and your teachers) will expect you to know the roles of important organelles (*(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
-
-

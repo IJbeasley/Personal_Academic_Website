@@ -1,23 +1,20 @@
 ---
 title: Movement across a membrane
 author: 'Isobel Beasley'
-date: '2023-12-31'
+date: '2024-01-01'
 slug: movement-across-a-membrane
 categories: ['VCE', 'Biology', 'Unit 1']
 tags: ['VCE', 'High school', 'Plasma membranes', 'Tutoring']
-subtitle: ''
-summary: 'The structure and function of the plasma membrane - and how they are related to each other. '
-authors: ['Isobel Beasley']
-lastmod: '2023-12-31T22:38:40+11:00'
+subtitle: 'Plasma membrane: structure and function'
+summary: 'The structure and function of the plasma membrane - and how they are related to each other.'
+authors: []
+lastmod: '2024-01-01T00:47:53+11:00'
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
-output:
-  blogdown::html_page:
-    toc: true
 ---
 
 
@@ -30,8 +27,6 @@ Unit 1 (Area of study 1): Cellular structure and function
 - *the structure and function of the plasma membrane in the passage of water, hydrophilic and hydrophobic substances via osmosis, facilitated diffusion and active transport* 
 
 <br> 
-<br> 
-<br>
 
 <h2 style="color:#D32F2F"> Introduction to the Wonderful Plasma Membrane (video/song) </h2>
  
@@ -44,6 +39,7 @@ Unit 1 (Area of study 1): Cellular structure and function
 <br>
 <br>
 <br>
+
 
 <h2 style="color:#D32F2F"> Structure of the plasma membrane </h2>
 
@@ -82,6 +78,7 @@ For VCE Biology you will often need to draw a plasma membrane, and in particular
 
 <h2 style="color:#D32F2F"> Movement Across a Membrane (~20 mins) </h2>
 
+
 There are three things which impact how easily a substance is able to cross a membrane. <div>
 <details> 
          <summary> <b> Size 💢 </b> </summary>
@@ -99,15 +96,16 @@ There are three things which impact how easily a substance is able to cross a me
 - Polar (hydrophilic) molecules are repelled, and need a protein helper (like a channel or gate) to shield them
 
 </details>
-
-<details> 
-         <summary> <b> Concentration Gradient 🏔️ </b> </summary>
+<details>
+<summary> <b> Concentration Gradient 🏔️ </b> </summary>
 
 - Natures tendency is for substances to move from high to low concentrations.
 - Energy is required if we are to go in the opposite direction of nature / concentration gradient
 - Protein helpers are needed to get ATP converted to ADP + Pi at the right place and time (when going against the gradient)
 
 </details> 
+
+
 
 It is the combination of these factors that determines whether a substance can just pass directly across a membrane, or whether it needs some extra protein help. Ridiculously big things or when we have lots and lots of small things moving at once use vesicles to get into and out the cell.  
 
@@ -145,9 +143,13 @@ $$ \text{Massive size + Polar} + \text{With the concentration gradient = } $$
 <br>
 <br>
 
+         
+
+
+
+
 
 <h2 style="color:#D32F2F">  This lesson's TL;DR </h2>
 
 - The plasma membrane is responsible for the regulation of substances into and out of the cell (it is selectively permeable)
 - Phospholipids have a specialised structure that mean smaller, and non-polar molecules have an easier time crossing the membrane
-
