@@ -68,7 +68,7 @@ highlight_languages = ["r", "latex"]  # Add support for highlighting additional 
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -118,10 +118,10 @@ appointment_url = []
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter@", link = "https://twitter.com/Twitter"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter@", link = "https://https://twitter.com/ijbeasley"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "graduation-cap", icon_pack = "fas", name = "Scholar", link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"},  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  #{icon = "graduation-cap", icon_pack = "fas", name = "Scholar", link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"},  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -133,7 +133,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "ijbeasley"
 
 ############################
 ## Regional Settings
