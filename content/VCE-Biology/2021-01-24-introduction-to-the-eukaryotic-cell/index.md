@@ -34,7 +34,7 @@ Introduction:
 
 <p style="font-size">
 
-Note: This page is adapted from a learning plan + notes I used to teach online VCE summer school 2021. for the 2022-2026 VCAA study design. 
+Note: This page is adapted from a learning plan + notes I used to teach online VCE summer school 2021. It's now been (mostly) adapted for the 2022-2026 VCAA study design. 
 </p>
 
 <h2 style="color:#D32F2F">
