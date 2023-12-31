@@ -26,8 +26,6 @@ design:
 
 <p>&nbsp;</p>
 
-</br> 
 
-
-# <span style="color:#D32F2F"> VCE Biology Notes and Reated Articles </span>
+# <span style="color:#D32F2F"> VCE Biology Notes and Related Articles </span>
 
