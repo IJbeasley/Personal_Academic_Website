@@ -1,6 +1,6 @@
 ---
 date: "2021-07-19T00:00:00Z"
-external_link: 
+external_link: "https://academic.oup.com/evlett/article/6/4/319/6697610"
 image:
   caption: "Figure 1: Curated published estimates of species-specific sex-biased mutation rates, expressed as the ratio of male to female rates "
   focal_point: Smart
@@ -34,7 +34,7 @@ url_video:
 
 This project was written into a [open access journal article published in Evolution Letters in 2022](https://academic.oup.com/evlett/article/6/4/319/6697610).
 
-<b> Somewhat less technical summary of this 'Unguarded X' effect project: </b>
+Somewhat less technical summary of this 'Unguarded X' effect project:
 
 In many species, females and males often have different life expectancies. The 'Unguarded-X' effect is one popular explanation for this phenomenon: differences in lifespan arise from sex differences in chromosomal sets. Specifically, by having a 'backup' copy of the chromosome,  the sex with two identical sex chromosomes (either X or Z) is more protected from harmful genetic mutations. While the 'Unguarded-X' effect likely explains some part of observed life span differences, researchers still debate whether or not it explains a meaningful proportion of this difference. 
 

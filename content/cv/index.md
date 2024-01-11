@@ -1,7 +1,7 @@
 ---
 # Homepage
 type: widget_page
-title: CV
+title: Research
 # Homepage is headless, other widget pages are not.
 #headless: true
 ---
