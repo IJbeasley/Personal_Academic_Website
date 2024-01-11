@@ -28,9 +28,24 @@ projects: []
 
 
 <aside>
-💡 Associated VCAA Study Design Dot Points:                                                                                         *- the qualitative treatment of the causes of changing allele frequencies in a population’s gene pool including types of mutations (point, frameshift, block) as a source of new alleles, chromosomal abnormalities (aneuploidyand polyploidy), environmental selection pressures on phenotypes as the mechanism for natural selection, gene flow, and genetic drift (bottleneck and founder effects) and the biological consequences of such changes in terms of increased or reduced genetic diversity                                                                                                       - processes of evolution including through the action of mutations and different selection pressures on a fragmented population and subsequent isolating mechanisms (allopatric speciation) that prevent gene flow                                                                                                    -the manipulation of gene pools through selective breeding programs*
+💡 Associated VCAA Study Design Dot Points:               <ul> <i> 
+<li> the qualitative treatment of the causes of changing allele frequencies in a population’s gene pool including types of mutations (point, frameshift, block) as a source of new alleles 
+</li>
+<li> 
+environmental selection pressures on phenotypes as the mechanism for natural selection, gene flow, and genetic drift (bottleneck and founder effects) and the biological consequences of such changes in terms of increased or reduced genetic diversity 
+</li>              
+<li> 
+processes of evolution including through the action of mutations and different selection pressures on a fragmented population and subsequent isolating mechanisms (allopatric speciation) that prevent gene flow 
+</li>      
+<li> 
+the manipulation of gene pools through selective breeding programs 
+</li>
+</i> </ul> 
 
 </aside>
+
+<br>
+<br> 
 
 # Introductory activity
 
@@ -108,15 +123,14 @@ Match the definition to the evolution word (Polleverywhere competition)
 
 # Today's TL;DR
 
-- Genetic diversity is good and important!
 - Genetic diversity helps populations deal with changing environmental pressures (often called selective agents)
 - Genetic drift (the bottleneck effect, the founder effect), natural selection all typically reduce genetic diversity
 - Mutations and gene flow typically increase genetic diversity
 - Point mutations are single nucleotide changes to a DNA sequence, block mutations are larger changes in to a whole segment of DNA
 - In allopatric speciation there are 3 big stages:  geographic isolation, mutation and natural selection, and reintroduction
 
-
+<br>
 
 # Extra Resources
 
-- [Douchy's Biology Podcast](https://podomatic.com/embed/html5/episode/8499902?autoplay=false)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1XYbds46rhnDp6yrUCjeHq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

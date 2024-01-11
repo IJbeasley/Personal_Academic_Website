@@ -125,7 +125,7 @@ Try to answer the questions yourself before reading the provided answers. The qu
 <br>
 <br>
 
-<h2 style="color:#D32F2F"> How do organelles help Eukaryote cells do their jobs? (~15 minute activity) <h2>
+<h2 style="color:#D32F2F"> How do organelles help Eukaryote cells do their jobs? (~15 minute activity) </h2>
 
 Ok, imagine for a second you are cell project manager. 
 
@@ -149,7 +149,7 @@ Use the organelles and their listed roles below to plan this project.
 
 <div class="toggle"> 
 <details> 
-         <summary> <h3> Organelles at your disposal </h3> </summary>
+         <summary>  Organelles at your disposal </summary>
 
 <details>
          <summary> <b> Nucleus </b> </summary>
@@ -221,3 +221,5 @@ Vesicles: As above, The Golgi Apparatus packages materials into vesicles, which 
 - Cells are super cool building blocks of life
 - Eukaryotic cells contain organelles (membrane bound cellular structure that perform a specialised roles)
 - VCAA (and your teachers) will expect you to know the roles of important organelles (*(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
+
+<br>
