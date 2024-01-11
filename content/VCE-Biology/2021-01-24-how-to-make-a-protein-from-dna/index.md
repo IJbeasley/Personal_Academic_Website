@@ -6,9 +6,9 @@ date: '2021-01-24'
 slug: how-to-make-a-protein-from-dna
 categories: ['VCE', 'Biology', 'Unit 3', 'Not updated for current study design']
 tags: ['To be updated', 'High school','VCE', 'Transcription', 'Translation', 'Gene expression', 'Tutoring']
-subtitle: ''
-summary: 'Transcription, Translation, Protein Folding and Everything in between'
-authors: []
+subtitle: 'Transcription, translation - and all the steps in between'
+summary: 'Transcription, translation, and everything in between'
+authors: ['Isobel Beasley']
 lastmod: '2021-01-24T04:35:20+11:00'
 featured: no
 image:

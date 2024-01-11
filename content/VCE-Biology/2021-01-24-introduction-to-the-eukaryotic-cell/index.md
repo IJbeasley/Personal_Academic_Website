@@ -8,7 +8,7 @@ categories: ['VCE', 'Biology', 'Unit 3', 'Outcome 1', 'The relationship between 
 tags: ['VCE', 'Biology', 'Unit 3', 'Organelles', 'Cells', 'Membranes', 'Organelles', 'Cells', 'Eurkaryotic', 'Endoplasmic Reticulum', 'Golgi Apparatus', 'Vesicles', 'Plasma Membranes']
 subtitle: 'Membranes and Organelles'
 summary: 'How is it that such a small unit is able to build, organise and export such complex proteins?'
-authors: []
+authors: ['Isobel Beasley']
 lastmod: '2023-12-31T02:41:23+11:00'
 featured: no
 image: 
