@@ -77,17 +77,42 @@ A technique used to separate DNA fragments ('bits of DNA') on the basis of their
 
 [Can you correctly order the gel electrophoresis steps?](https://embed.polleverywhere.com/ranking_polls/GdusMtLjcUc71yrj39UDM?controls=none&short_poll=true)
 
+<iframe src="https://pollev-embeds.com/ranking_polls/xg5hrD7i5esxjYM3SYEVB/respond" width="800px" height="400px"></iframe>
+
+<br>
+<br> 
+<br> 
+
+<details> <summary> <b> See previous student responses </b> </summary> 
+<iframe src="https://embed.polleverywhere.com/ranking_polls/GdusMtLjcUc71yrj39UDM?controls=none&short_poll=true" width="800px" height="1200px"></iframe>
+
+</details> 
+
 <details>
-<summary> Reveal gel electrophoresis steps </summary> 
+<summary> <b> Reveal gel electrophoresis steps </b> </summary> 
 
-- DNA is extracted from cells/obtained from PCR
-- Fragments of DNA are loaded into wells (in agar gel)
-- The DNA is subjected to a electric current, with the negative end closest to the starting point of the DNA
-- DNA fragments move toward the positively charged electrode (as DNA is negatively charged, due the phosphate group in its backbone)
-- Smaller fragments are more easily able to move through the pores in the agar gel and thus move quicker (travel a further distance)
-- DNA is treated with a chemical which causes the molecule to fluoresce
-- Size can be calculated (in kilobases) by comparing against a known industry standard
-
+<ul>
+<li>
+DNA is extracted from cells/obtained from PCR
+</li>
+<li>
+Fragments of DNA are loaded into wells (in agar gel)
+</li> 
+<li>
+The DNA is subjected to a electric current, with the negative end closest to the starting point of the DNA
+</li>
+<li>
+DNA fragments move toward the positively charged electrode (this process happens because DNA is negatively charged, because of the phosphate group in its backbone)
+</li>
+<li>
+Smaller fragments are more easily able to move through the pores in the agar gel and thus move quicker (travel a further distance)
+</li>
+<li> DNA is treated with a chemical which causes the molecule to fluoresce
+</li>
+<li> 
+Size can be calculated (in kilobases) by comparing against a known industry standard
+</li>
+</ul> 
 </details> 
 
 <br>
@@ -120,6 +145,7 @@ If you initially started with one DNA fragment, how many DNA fragements will you
 [After two rounds of PCR?](https://embed.polleverywhere.com/multiple_choice_polls/UNZ8o6mI61V12dvXg4r1D?controls=none&short_poll=true)
 
 <br> 
+<br> 
 
 ## Steps:
 
@@ -128,17 +154,36 @@ If you initially started with one DNA fragment, how many DNA fragements will you
 <details>
 <summary> Reveal PCR steps </summary>
 
-- **D(enaturing)**
+1. <b> D </b> (enaturing)
+   <ul> 
+   <li> 90° 
+   </li> 
+   <li> hydrogen bonds between strands are broken which creates single stranded DNA molecules 
+   </li>
+   <li> <i> in other words, complementary base pairing is separated </i> 
+   </li>
+   </ul> 
+   
+<br>
+   
+2. <b> A </b> (nnealing)
+  <ul>
+  <li>50° 
+  </li>
+  <li> Primers are able to anneal/bind to the two DNA strands)
+  </li>
+  </ul> 
+  
+<br> 
 
-90° (hydrogen bonds between strands in broken, creating single stranded DNA molecules) [separation/complementary base pairing]
-
-- **A(nnealing)**
-
-50° (Primers are able to anneal/bind to the two DNA strands)
-
-- **E(longation)**
-
-72° (Taq polymerase attaches to the primer, and moves along the two template strands of DNA synthesizing a new strand of DNA from each of the two template strands (using complementary base pairing) from free nucleotides. \
+3. <b> E </b> (longation)
+   <ul> 
+   <li> 72° 
+   </li>
+   <li> Taq polymerase attaches to the primer 
+    </li>
+    <li> It then moves along the two template strands of DNA synthesizing a new strand of DNA from each of the two template strands (using complementary base pairing) from free nucleotides
+    </li> 
 
 </details> 
 
@@ -155,6 +200,10 @@ In VCE exams, any temperatures listed in approved textbooks will be marked corre
 <br>
 For SACs it's best to stick to the temperatures you are taught by your teacher, or textbook. 
 </aside> 
+
+## Required components of PCR
+
+<iframe src="https://pollev-embeds.com/free_text_polls/mKN2bIvWefxojVbtGzeEd/respond" width="800px" height="600px"></iframe>
 
 
 <br> 

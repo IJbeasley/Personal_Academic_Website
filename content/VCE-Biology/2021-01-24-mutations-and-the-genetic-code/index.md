@@ -51,10 +51,60 @@ Genetic code is degenerate/redundant and universal
 
 # Types of Mutation:
 
+
 [What types of mutation are there?](https://embed.polleverywhere.com/multiple_choice_polls/sDq7Uf50gf5twmRhsHhXi?controls=none&short_poll=true)
 
-- **Types of mutation:**
-    - ***Point:*** A point mutation is a type of mutation in DNA or RNA in which one single nucleotide base is added, deleted or changed (usually frameshift when added/deleted)
-    - ***Frameshift:*** When the addition or deletion of one or several (not multiples of three) cause the three base DNA triplet to change (changing the amino acid sequence)
-    - ***Block:*** Changes to segments of a chromosome, resulting in large scale changes in the DNA of an organism (and typically larger changes to the phenotype of an organism)
+<details> <summary> Types of mutation </summary> 
+<ul>
+<li>
+   <details> <summary> <b> Point: </b> </summary> 
+   A point mutation is a type of mutation in DNA or RNA in which one single nucleotide base is added, deleted or changed (usually frameshift when added/deleted)
+   </details> 
+</li>
+<li>
+  <details> <summary> <b> Frameshift: </b> </summary>  When the addition or deletion of one or several (not multiples of three) cause the three base DNA triplet to change (changing the amino acid sequence)
+  </details> 
+</li>
+<li>
+  <details> <summary> <b> Block: </b> </summary> 
+  Changes to segments of a chromosome, resulting in large scale changes in the DNA of an organism (and typically larger changes to the phenotype of an organism)
+  </details> 
+</li>
+</ul> 
+</details> 
+
+<br> 
+<br>
+<br>
+
+# The Fancy Terms about DNA to know for the VCE exam: 
+
+## Match the Definition to the Fancy Word Quiz
+
+[PollEvery quiz](https://pollev.com/isobelbeasle182)
+
+<br>
+
+1. <details> <summary> Antiparallel </summary>
+   The two DNA strands run alongside each other in the opposite direction (with respect to the 5' phosphate and the 3' hydroxyl group)
+    </details> 
+2. <details> <summary> Redundant </summary> 
+   Multiple different DNA sequences can encode the same amino acid / protein 
+   </details>
+3. <details> <summary> Degenerate </summary> 
+   A change to a DNA sequence doesn't always result in a change to the protein it encodes
+   </details> 
+4. <details> <summary> Condensation Polymerisation </summary> 
+   The phosphodiester backbone of a DNA strand forms from the addition of nucleotides, resulting in the loss of water
+   </details> 
+5. <details> <summary> Universal </summary> 
+   The same DNA sequence encodes for the same protein no matter what organism it is in
+    </details> 
+6. <details> <summary> Gene </summary> 
+   A DNA sequence which encodes a specific protein product
+   </details> 
+7. <details> <summary> Complementary Base Pairing </summary> 
+   Particular nucleotides only ever pair up with each other using hydrogen bonds. (e.g. A - T, G - C)
+   </details> 
+
 

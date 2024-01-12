@@ -69,13 +69,6 @@ the structure of DNA and the three forms of RNA including similarities and diffe
 DNA: Khan Academy Video 
 </center>
 
-## Match the Definition to the Fancy Word Quiz
-
-[PollEvery quixz](https://pollev.com/isobelbeasle182)
-
-<br>
-<br>
-<br>
 
 # The Structure of DNA
 
@@ -134,9 +127,18 @@ Antiparallel strands
     
 # RNA and DNA
 
+<b> What are the differences between RNA and DNA? </b> 
+
+Submit your answers here: 
+<iframe src="https://pollev-embeds.com/isobelbeasle182" width="800px" height="400px"></iframe>
+
+<br>
+
+<details> <summary> See other student responses </summary>
+
 <iframe src="https://embed.polleverywhere.com/discourses/bnf9RhrM1atuCpYsq5P2E?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
-[What are the differences between DNA and RNA?](https://embed.polleverywhere.com/discourses/bnf9RhrM1atuCpYsq5P2E?controls=none&short_poll=true)
+</details> 
 
 <details> <summary> Reveal the differences between DNA and RNA </summary> 
     - RNA is a short lived molecule which is more easily transported within the cell
@@ -225,19 +227,3 @@ Central Carbon / Hydrogen
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3k6dFRu1XPmQObB1U8UjhM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5qT2Ez7aUA29lPRSeacNPW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-## The Fancy Terms about DNA to know for the VCE exam: 
-1. Antiparallel
-    - The two DNA strands run alongside each other in the opposite direction (with respect to the 5' phosphate and the 3' hydroxyl group)
-2. Redundant
-   - Multiple different DNA sequences can encode the same amino acid / protein
-3. Degenerate
-   - A change to a DNA sequence doesn't always result in a change to the protein it encodes
-4. Condensation Polymerisation
-   - The phosphodiester backbone of a DNA strand forms from the addition of nucleotides, resulting in the loss of water
-5. Universal
-    - The same DNA sequence encodes for the same protein no matter what organism it is in
-6. Gene
-   - A DNA sequence which encodes a specific protein product
-7. Complementary Base Pairing
-   - Particular nucleotides only ever pair up with each other using hydrogen bonds. (e.g. A - T, G - C)
