@@ -134,9 +134,7 @@ Antiparallel strands
     
 # RNA and DNA
 
-<iframe src="https://pollev-embeds.com/discourses/W8DoB505sWqCCltXcaPyY/respond" width="800px" height="600px"></iframe>
-
-<iframe src="https://pollev-embeds.com/isobelbeasle182" width="800px" height="600px"></iframe>
+<iframe src="https://embed.polleverywhere.com/discourses/bnf9RhrM1atuCpYsq5P2E?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 [What are the differences between DNA and RNA?](https://embed.polleverywhere.com/discourses/bnf9RhrM1atuCpYsq5P2E?controls=none&short_poll=true)
 
