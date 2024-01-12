@@ -18,35 +18,30 @@ image:
 projects: []
 ---
 
+<aside>
+
+<b> Note: </b> To develop the content for this page I adapted a learning plan I wrote in 2021 for VCE summer school. It's now better targeted to the 2022-2026 VCAA study design, but it is still not a perfect match for this study desgin. 
+
+</aside>
+
 <h2 style="color:#D32F2F">
 
-Introduction:
+Overview:
 
 </h2>
 
-<p>
-
 > This page is about the wonderful ways in which the Eukaryotic cell is able to organise and coordinate complicated chemical reactions. In short, organelles and membranes. 
 
-</p>
-
 <br>
-
-<p style="font-size">
-
-Note: This page is adapted from a learning plan + notes I used to teach online VCE summer school 2021. It's now been (mostly) adapted for the 2022-2026 VCAA study design. 
-</p>
+ 
 
 <h2 style="color:#D32F2F">
 Relevant VCAA 2022 Study Design Dot Points:    
 </h2> 
 
-<p style='font-size:0.95rem'>
 Unit 3 (Outcome 1): The relationship between nucleic acids and proteins
 
 - *the role of rough endoplasmic reticulum, Golgi apparatus and associated vesicles in the export of proteins from a cell via the protein secretory pathway*               
-</p>
-
 <br> 
 <br>
 <br> 
@@ -156,25 +151,27 @@ Use the organelles and their listed roles below to plan this project.
          
 ![Nucleus](../../VCE-Biology/Nucleus.jpg)
 
-**The Nucleus:** Where all the protein brick blueprints are held. Blueprints are converted into easy to transport but temporary paper booklets.
+<b> The Nucleus </b> Where all the protein brick blueprints are held. Blueprints are converted into easy to transport but temporary paper booklets.
 
 </details>
 
 <details>
-         <summary> Endoplasmic Reticulum </summary>
+         <summary> <b> Endoplasmic Reticulum </b> </summary>
 
 ![Endoplasmic Reticulum](../../VCE-Biology/membrane-system-Endoplasmic-reticulum-cells-biosynthesis-transport.jpg)
 
-**The Endoplasmic Reticulum**: Moves materials around the cell. 
+<b> The Endoplasmic Reticulum </b> Moves materials around the cell. 
 
 </details> 
 <details>
-          <summary> Vesicle </summary>
+          <summary> <b> Vesicle </b> </summary>
+          
 ![Vesicle](../../VCE-Biology/Vesicle_delivery_(3).png)
 
 **Vesicle**: Ships big materials out of the cell.
+</details>
 <details>
-         <summary> Ribosomes </summary>
+         <summary> <b> Ribosomes </b> </summary>
          
 ![Ribosomes](../../VCE-Biology/ribosome.jpg)
 
@@ -182,7 +179,7 @@ Use the organelles and their listed roles below to plan this project.
 </details>
 
 <details> 
-        <summary> Golgi Appartus </summary>
+        <summary> <b> Golgi Appartus </b> </summary>
 
 ![Golgi Apparatus](../../VCE-Biology/sort_golgi.gif)
 
@@ -192,25 +189,45 @@ Use the organelles and their listed roles below to plan this project.
 </details>
 </div>
 
+<div>
+<details> 
+         <summary> Exam friendly explanations of each organelles role </summary>
+<ul>
+<li> <b> Ribosomes</b>:  <i> the site of protein synthesis </i>
+</li>
+      <ul> 
+      <li> Proteins made in the rough Endoplasmic reticulum are transported out of the cell.
+      </li> 
+      <li> Proteins produced on free ribosomes are used within the cell 
+      </li>
+      </ul> 
+<li> <b> Endoplasmic reticulum </b> (Rough & Smooth): <i> Internal transport for materials through membrane-bound channels. </i>
+      <ul>
+      <li> Rough: Site of protein synthesis (called rough because ribosomes are on the surface), folding of polypeptide chain occurs in the lumen of the rough endoplasmic reticulum [inner areas]
+      </li>
+      <li> 
+      Smooth: Site of lipid and membrane synthesis
+      </li>
+      </ul> 
+</li>
+
+<li> <b> Golgi Apparatus </b>  (or Golgi Bodies): <i> Sorting, storing and modification of materials for transport outside of the cell via exocytosis  </i> 
+</li> 
+<li> <b> Vesicles </b> : As above, </i> The Golgi Apparatus packages materials into vesicles, which are excreted externally via exocytosis </i> 
+</li>
+</ul> 
+
+</details>
+
 <br>
 <br>
-<br>
+<br> 
 
 <h2 style="color:#D32F2F"> Let's Label Some Organelles: (~5 mins) </h2>
 
 ![Plant cell](../../VCE-Biology/Zoom_plant_cell.png)
 
-<div>
-<details> 
-         <summary> More exam friendly explanations of each organelles role </summary>
-Ribosomes: are the site of protein synthesis. [Proteins made in the rough Endoplasmic reticulum are transported out of the cell. Proteins produced on free ribosomes are used within the cell. ]
-Endoplasmic reticulum (Rough & Smooth): Internal transport for materials through membrane-bound channels. 
-Rough (Site of protein synthesis, folding of polypeptide chain occurs in lumen [inner areas])
-Smooth (Site of lipid synthesis and membrane synthesis) 
-Golgi Apparatus (or Golgi Bodies): Sorting, storing and modification of materials for transport outside of the cell via exocytosis. (See previous Study Design point)
-Vesicles: As above, The Golgi Apparatus packages materials into vesicles, which are excreted externally via exocytosis. 
 
-</details>
 
 <br>
 <br>
@@ -220,6 +237,7 @@ Vesicles: As above, The Golgi Apparatus packages materials into vesicles, which 
 
 - Cells are super cool building blocks of life
 - Eukaryotic cells contain organelles (membrane bound cellular structure that perform a specialised roles)
-- VCAA (and your teachers) will expect you to know the roles of important organelles (*(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
+- VCAA (and your teachers) will expect you to know the roles of important organelles *(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
 
 <br>
+<br> 
