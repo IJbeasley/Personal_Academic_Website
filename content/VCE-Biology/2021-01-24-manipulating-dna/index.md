@@ -167,3 +167,7 @@ For SACs it's best to stick to the temperatures you are taught by your teacher, 
 - PCR is used to amplify DNA fragments
     - Main steps: Denaturation, Anneal, and Elongation (which repeat in cycles)
 
+
+## Additional resources
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Xo34eNZKK30dztIr6aPom?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -73,3 +73,12 @@ START / STOP codon role:  Instruct ribosomes as to when to start / stop translat
 Regulatory genes: ***encode specific proteins products which regulate the level of activity of other genes*** 
 
 Structural genes: encode specific proteins products (that don't do gene regulation tasks) 
+
+
+<br>
+<br>
+<br>
+
+# Additonal resources
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7xGZ4LcVwHX9aGKlrZ7FFy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
