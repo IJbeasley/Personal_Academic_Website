@@ -1,15 +1,15 @@
 ---
 weight: 3
-title: 'DNA, RNA and Proteins'
-author: ''
+title: 'Nucleic acids'
+author: 'Isobel Beasley'
 date: '2021-01-24'
-slug: introduction-to-the-molecules-of-life-dna-rna-and-proteins
-categories: ['VCE', 'Biology', 'Unit 3', 'Not updated for current study design']
-tags: ['To be updated', 'High school','VCE', 'Proteins', 'RNA', 'DNA', 'Tutoring']
-subtitle: 'Introduction to the features of the molecules of life'
-summary: 'Introduction to the features of the molecules of life'
+slug: intro-to-dna-rna
+categories: ['VCE', 'Biology', 'Unit 3', 'AOS1', 'Not updated for current study design']
+tags: ['To be updated', 'High school','VCE', 'RNA', 'DNA', 'Tutoring']
+subtitle: 'Introduction to the structure and function of the molecules of life: DNA, mRNA, tRNA, and rRNA'
+summary: 'Introduction to the structure and function of the molecules of life: DNA, mRNA, tRNA, and rRNA'
 authors: ['Isobel Beasley']
-lastmod: '2021-01-24T04:46:14+11:00'
+lastmod: '2024-01-19T04:46:14+11:00'
 featured: no
 image:
   caption: ''
@@ -18,38 +18,42 @@ image:
 projects: []
 ---
 
+<h2 style="color:#D32F2F"> Overview </h2>
 
-## Learning Objectives:
+- [DNA Introduction: The Miracle Molecule of Life](#dna:-the-miracle-molecule-of-life)
+- [The Structure of DNA](#the-structure-of-dna)
+- [The Features of DNA](#the-features-of-dna)
+- [RNA and DNA](#rna-and-dna)
+- [TL;DR](#todays-tldr)
+- [Extra Resources:](#extra-resources)
+
+
+<aside>
+💡 Associated VCAA (2022-2026) Study Design Dot Points:               <br> 
+<ul> <i> 
+<li> 
+Nucleic acids as information molecules that encode instructions for the synthesis of proteins: the structure of DNA, the three main forms of RNA (mRNA, rRNA and tRNA) and a comparison of their respective nucleotides
+</li> 
+</i> </ul> 
+</aside>
+
+
+
+<h2 style="color:#D32F2F"> Learning Objectives: </h2>
 
 *By the end of this session you should be able to:* 
 
 - Draw the basic structure of DNA (nucleotides and the polymer)
 - Explain what the following DNA features refer to: *antiparallel, redundant, universal, degenerate, gene*
-- Define what constitutes each level of protein structure hierarchy (primary, secondary, tertiary, and quaternary)
--List the major similarities and differences between DNA and RNA (focusing on subunits, structure and function)
-- (Bonus Easy) Agree that proteins do many varied and important things for cells - *and hence you! (Also DNA is very cool)*
+- List the major similarities and differences between DNA and RNA (focusing on subunits, structure and function)
 
-<aside>
-💡 Associated VCAA Study Design Dot Points:               <br> 
-<ul> <i> 
-<li> 
-the functional importance of the four hierarchical levels of protein structure   
-</li> 
-<li> 
-protein functional diversity and the nature of the proteome
-</li> 
-<li> 
-nucleic acids as information molecules that encode instructions for the synthesis of proteins in cells
-<li>
-the structure of DNA and the three forms of RNA including similarities and differences in their subunits, and their synthesis by condensation polymerisation                  
-</li>
-</i> </ul> 
-</aside>
+
 
 <br> 
+<br>
+<br> 
 
-
-# DNA: The Miracle Molecule of Life
+<h1 style="color:#D32F2F"> DNA: The Miracle Molecule of Life </h1> 
 
 <b> What's the point of DNA? What does it do? </b>
 
@@ -59,7 +63,7 @@ the structure of DNA and the three forms of RNA including similarities and diffe
 <br>
 <br> 
 
-# The Features of DNA
+<h1 style="color:#D32F2F"> The Features of DNA </h1>
 
 <center>
 
@@ -69,8 +73,10 @@ the structure of DNA and the three forms of RNA including similarities and diffe
 DNA: Khan Academy Video 
 </center>
 
+<br> 
+<br> 
 
-# The Structure of DNA
+<h1 style="color:#D32F2F"> The Structure of DNA </h1>
 
 <center>
 
@@ -83,7 +89,7 @@ Animation depicting the location and structure of DNA: WEHI TV
 
 <br> 
 
-## The Nucleotide
+<h2 style="color:#D32F2F"> The Nucleotide </h2> 
 
 <b> What are the key components of DNA nucleotides? <i> (i.e. what do I need to be able to draw?) </i> </b>
 
@@ -95,7 +101,7 @@ Animation depicting the location and structure of DNA: WEHI TV
 
 <br> 
 
-## The Doubled Stranded Polymer
+<h2 style="color:#D32F2F"> The Doubled Stranded Polymer </h2> 
 
 <b> How do DNA nucleotides become the double stranded DNA helix? </b> 
     
@@ -125,7 +131,7 @@ Antiparallel strands
 <br> 
 <br> 
     
-# RNA and DNA
+<h1 style="color:#D32F2F"> RNA and DNA </h1> 
 
 <b> What are the differences between RNA and DNA? </b> 
 
@@ -152,71 +158,12 @@ Submit your answers here:
 <br>
     
 
-# The Structure of Proteins
-
-## Amino Acids 
-
-Proteins are comprised of amino acids. 
-
-<details> <summary>
-<b> What are the key components of amino acids? <i> (i.e. what do I need to be able to draw?) </i> </b> </summary> 
-<ul> 
-<li>
-Variable Size Chain ( R group)
-</li>
-<li> Amino group
-</li>
-<li> Carboxylic Acid Group
-</li>
-<li> 
-Central Carbon / Hydrogen
-</li>
-</ul> 
-</details> 
-
-<br> 
-
-## From amino acids to protein: the Hierarchy of Protein Structure
-
-1. <details> <summary> Primary: </summary>
-    The linear order/sequence of amino acids which is formed by covalent peptide bonds between adjacent amino acids 
-    </details> 
-
-1. <details> <summary> Secondary: </summary>                 <b> VCAA 2013: <i> “the coiled or pleated structure within the chain (including α-helices and β-pleated sheets)” </i> </b> <ul> <li> caused by hydrogen-bonding between -C=O and -N-H groups (peptide linkages) within the amino acid chain
-</li>
-</ul>
-</details> 
-</details>
-
-3. <details> <summary> Tertiary: </summary> 
-    <b> VCAA 2013: <i> “Tertiary structure: A 3D structure composed of secondary structures” </i> </b> 
-    <ul>
-    <li>
-     formed through the interactions of various ‘R’ groups within the molecule
-    </li>
-    <li>
-      As the function of a protein is determined by its structure, the tertiary structure of a protein is essential to its functioning
-        </li>
-        </ul>
-        </details> 
-    
-4. <details> <summary> Quaternary: </summary>
-    <b> VCAA 2013: </i> “Quaternary structure: Two or more polypeptide chains joined together” </i> </b> 
-    </details> 
-
-<br> 
-<br>
-<br> 
-    
-
 # Today's TL;DR
 
 - DNA is a super cool molecule that makes all of live possible
 - DNA is a double stranded, antiparallel polymer of nucleotides
 - Nucleotides are comprised of a phosphate group, deoxyribose sugar, nitrogenous base and a hydroxyl group
 - In comparison, RNA is single stranded, and it's nucleotides have a ribose sugar (and have Uracil rather than Thymine)
-- Proteins are 3D dimensional folder polymer comprised of amino acid
-- Amino acids are comprised of a central carbon, a variable group, a carboxylic acid group and a amine group
 
 <br> 
 
@@ -226,4 +173,4 @@ Central Carbon / Hydrogen
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3k6dFRu1XPmQObB1U8UjhM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5qT2Ez7aUA29lPRSeacNPW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+

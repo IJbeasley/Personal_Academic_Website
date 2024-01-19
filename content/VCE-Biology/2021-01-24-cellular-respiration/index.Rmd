@@ -15,6 +15,9 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+output:
+  blogdown::html_page:
+    toc: true
 ---
 
 <aside>
@@ -33,6 +36,7 @@ projects: []
 - List the main inputs, outputs and ATP yields for stages of cellular respiration *(glycolysis, anaerobic respiration, Kreb's cycle, electron transport chain in yeast and in animals)*
 
 Bonus objectives:
+
 - Easy: Agree it's ridiculous that life exists given the complexity of reactions it needs (photosynthesis, cellular respiration)
 - Challenge: Explain how different factors (temperature,  light, glucose availability, carbon dioxide and oxygen concentration) impact the rate of cellular respiration and photosynthesis
 
@@ -128,3 +132,5 @@ what_to_know_for_cellular_respiration %>%
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4J1PVX5P6Kcw0C1wXSnYKI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
+<br>
+<br> 
