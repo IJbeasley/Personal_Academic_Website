@@ -1,18 +1,27 @@
 {{- define "main" -}}
-
 <article class="article">
-
   {{ partial "page_header" . }}
-
   <div class="article-container">
-
-    <div class="article-style">
-      {{ .Content }}
+    <div class="row">
+      <div class="col-12 col-lg-9 article-style">
+        {{ .Content }}
+      </div>
+      {{ if .Params.toc}}
+      <div class="col-12 col-lg-3 docs-toc">
+        {{ .TableOfContents }}
+      </div>
+      {{ end }}
     </div>
-
     {{ partial "page_footer" . }}
-
   </div>
 </article>
-
 {{- end -}}
+
+
+
+
+
+
+
+
+
