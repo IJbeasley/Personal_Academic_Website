@@ -1,5 +1,5 @@
-﻿Stage?,Where?,Net Inputs (What goes in?),Net Outputs (What comes out?),Anaerobic or Aerobic?,ATP Produced?,Notes
-Glycolysis,Cytosol,"ADP + Pi, Glucose 🍬, NAD+","ATP⚡, NADH, Pyruvate","Aerobic 🏃, Anaerobic 🏋️‍♀️",2,"2 ATP molecules are needed for glycolysis. Glycolysis produces 4 ATP making the net yield: 2 ATP             "
-Kreb's Cycle / Citric Acid Cycle,Matrix of the Mitochondria,"ADP + Pi, FAD, NAD+, Oxygen 💨, Pyruvate","ATP⚡, CO2, FADH2, NADH",Aerobic 🏃,2,"Only happens if there is enough oxygen for the electron transport chain, Pyruvate is converted to Acetyl-coA in the cytosol, and then Acetyl-coA enters the Krebs Cycle / mitochondria.                       2 pyruvates yields: 6x NADH and 2x FADH2"
-Electron Transport Chain,Cristae of the Mitochondria,"ADP + Pi, FADH2, NADH, Oxygen 💨","ATP⚡, FAD, NAD+, Water 🥤",Aerobic 🏃,32,* 32-34 ATP
-Anaerobic Coenzyme Recycling *(doesn't really have a name),Cytosol,"NADH, Pyruvate","ADP + Pi, Ethanol + CO2 (yeast), Latic Acid (In Animals), NAD+",Anaerobic 🏋️‍♀️,0,In the absence of O2 - glycolysis leads in this anaerobic specific reaction and produces:    Lactic Acid - Humans                         Ethanol (alcohol) - yeast                       2x NADH in aerobic conditions
+Stage,Where,Net inputs ,Net outputs ,Anaerobic / Aerobic ? ,ATP produced?
+Glycolysis,Cytosol,ADP + Pi <br> <br>  Glucose 🍬 <br> <br> NAD+,ATP⚡ <br><br> NADH <br><br> Pyruvate,Aerobic 🏃 <br> Anaerobic 🏋️‍♀️,2
+Kreb's Cycle\<br> Citric Acid Cycle,Matrix <br> (Mitochondria),ADP + Pi <br> <br>  FAD <br> <br> NAD+ <br> <br> Oxygen 💨 <br> <br> Pyruvate,ATP⚡ <br><br> CO2 <br><br>  FADH2 <br><br>  NADH,Aerobic 🏃,2
+Electron Transport Chain,Cristae <br> (Mitochondria),ADP + Pi <br> <br> FADH2 <br> <br> NADH <br> <br> Oxygen 💨,ATP⚡ <br><br>  FAD <br><br>  NAD+ <br><br>  Water 🥤,Aerobic 🏃,32
+Anaerobic Coenzyme Recycling*,Cytosol,NADH <br> <br> Pyruvate,ADP + Pi <br><br>  Ethanol + CO2 (yeast) <br><br> Latic Acid (In Animals) <br><br>  NAD+,Anaerobic 🏋️‍♀️,0
