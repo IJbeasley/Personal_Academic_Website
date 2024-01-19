@@ -8,16 +8,14 @@ tags: ['High school','VCE', 'Photosynthesis', 'Cellular Respiration', 'Tutoring'
 subtitle: "Don't let the details scare you; you need to learn less than you might think"
 summary: "Let's focus on what you actually need to know on everyone's favourite VCE Biology topic (sarcasm btw)"
 authors: ['Isobel Beasley']
-lastmod: '2021-01-24T04:14:47+11:00'
-featured: no
+lastmod: '2023-01-24T04:14:47+11:00'
+featured: yes
 image:
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
-output:
-  blogdown::html_page:
-    toc: true
+toc: true
 ---
 
 <aside>
@@ -27,7 +25,27 @@ output:
 </aside>
 
 
-<h2 style="color:#D32F2F"> Learning Objectives </h2>
+<aside>
+💡 <b> Associated VCAA (2022-2026) Study Design Dot Points: </b>
+<br> <br> 
+<ul> <i> 
+<li>
+the <b> main inputs, outputs and locations </b> of glycolysis, Krebs Cycle and electron transport chain including ATP yield 
+</li>
+<li>
+the <b> location, inputs and the difference in outputs </b> of anaerobic fermentation in animals and yeasts 
+</li>
+<li>
+the <b> factors that affect the rate of cellular respiration </b>:  temperature, glucose availability and oxygen concentration
+</li>
+</ul></i>
+<br>
+... this looks like a lot to know - but don't worry, it's actually not at all - it's just boring.           
+</aside>
+
+<br>
+
+## <span style="color:#D32F2F"> Learning Objectives </span>
 
 *By the end of this lesson you should be able to:* 
 
@@ -42,25 +60,10 @@ Bonus objectives:
 
 <br>
 <br>
-
-<h2 style="color:#D32F2F">
-Relevant VCAA 2022 Study Design Dot Points:    
-</h2> 
-
-- the *main inputs, outputs and locations* of glycolysis, Krebs Cycle and electron transport chain including ATP yield (details of biochemical pathway mechanisms are not required)
-- the *location, inputs and the difference in outputs* of anaerobic fermentation in animals and yeasts 
-- the *factors that affect the rate of cellular respiration*: temperature, glucose availability and oxygen concentration
-
-... this looks like a lot to know - but don't worry, it's actually not at all - it's just boring.           
-
-<br>
-<br>
 <br> 
 
 
-<h1 style="color:#D32F2F">
-🗣️ Cellular Respiration
-</h1>
+## <span style="color:#D32F2F"> 🗣️ Cellular Respiration</span>
 <br>
 
 <aside>
@@ -70,7 +73,6 @@ VCAA emphasises that <b> "details of the biochemical pathway mechanisms are not 
 </aside>
 
 What this means that what you really need to know is: WHERE, WHAT GOES IN, WHAT COMES OUT and HOW MUCH ATP for each stage. Sooooo ... let's just focus on these aspects.  
-
 <br>
 
 
@@ -84,9 +86,7 @@ Crash Course Introductory Video
 <br>
 <br>
 
-<h3>
-overall cellular respiration equation:
-</h3> 
+### <span style="color:#D32F2F"> Overall cellular respiration equation: </span>
 
 <br> 
 
@@ -103,29 +103,67 @@ $$ 6O_{2} + C_{6}H_{12}O_{6} + 36ADP + 36P_{i} → 6CO_{2} + 6H_{2}O + 36ATP $$
 <br> 
 <br> 
 
-<h3> Most important table to remember for cellular respiration </h3>
+## <span style="color:#D32F2F"> Summary table to for VCAA cellular respiration </span> 
 
 ```{r, include = FALSE, echo = FALSE}
-
 library(readr)
 library(dplyr)
-library(kableExtra)
+library(tinytable)
 what_to_know_for_cellular_respiration <- read_csv("../../../static/media/tables/what-to-know-for-cellular-respiration.csv")
 ```
 
 ```{r, echo = FALSE}
 
-what_to_know_for_cellular_respiration %>% 
-  knitr::kable(escape = FALSE) %>% 
-  scroll_box(width = "100%", height = "100%")
+
+# hg
+tt(what_to_know_for_cellular_respiration, 
+   output = "html",
+   theme = "table table-grid table-hover",
+   #width = 1,
+   #align = "cccccc",
+   #align = "c",
+   notes = list(i = 
+                    "Glycolysis...",
+                ii = 
+                    "Kreb's Cycle ...",
+                iii = "Electron Transport Chain",
+                iv = "Anaerobic Coenzyme Recycling")
+   ) |> 
+#style_tt(j = 1, bootstrap_css = "font-weight: bold; color: red;") |> 
+    style_tt(
+    j= 1,
+    color = "black",
+    background = "white",
+    bold = TRUE) |> 
+  group_tt(i = list(
+    "Aerobic Specific Stages" = 2,
+    "Anaerobic Specific Stages" = 4)) |>
+  style_tt(i = 0, fontsize = 16) |>
+    style_tt(
+    i = c(2, 5),
+    align = "c",
+    color = "white",
+    background = "gray",
+    bold = TRUE)
+# .......
+
+
+#what_to_know_for_cellular_respiration %>% 
+#  knitr::kable(escape = FALSE) %>% 
+#  scroll_box(width = "100%", height = "100%")
 
 ```
+
 
 <br>
 <br>
 <br> 
 
-<h2 style="color:#D32F2F"> Extra Resources </h2>
+## <span style="color:#D32F2F"> TL;DR </span>
+
+<br>
+
+## <span style="color:#D32F2F"> Extra Resources </span
 
 [FreeVCEnotes.com: Energy transformations](https://freevcenotes.com/biology/notes/energy-transformations)
 

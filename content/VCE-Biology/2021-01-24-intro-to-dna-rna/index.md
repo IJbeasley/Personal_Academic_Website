@@ -16,6 +16,9 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+output: 
+  html_document:
+    toc: true 
 ---
 
 <h2 style="color:#D32F2F"> Overview </h2>

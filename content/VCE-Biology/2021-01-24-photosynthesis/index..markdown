@@ -1,6 +1,6 @@
 ---
 title: 'Photosynthesis'
-author: ''
+author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: photosynthesis
 categories: ['VCE', 'Biology', 'Unit 3', 'Area of study 3']
@@ -9,21 +9,41 @@ subtitle: "Don't let the details overwhelm you; you need to learn less than you 
 summary: "Let's focus on what you actually need to know on everyone's favourite VCE Biology topic (sarcasm btw)"
 authors: ['Isobel Beasley']
 lastmod: '2021-01-24T04:14:47+11:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
+toc: true
 ---
 
-<p style="font-size">
+<aside>
 
-Note: This page is adapted from a learning plan + notes I used to teach online VCE summer school 2021. It's now been (mostly) adapted for the 2022-2026 VCAA study design. 
-</p>
+<b> Note </b>: This page is adapted from a learning plan + notes I used to teach online VCE summer school 2021. It's now been (mostly) adapted for the 2022-2026 VCAA study design. 
+</aside>
 
 
-<h2 style="color:#D32F2F"> Learning Objectives </h2>
+<aside> <b> 
+Relevant VCAA 2022 Study Design Dot Points:    
+</b>
+<ul> <i>
+<li>
+<b> inputs, outputs and locations </b> of the light dependent and light independent stages of photosynthesis in C3 plants (details of biochemical pathway mechanisms are not required) 
+</li>
+<li>
+the <b> role of Rubisco in photosynthesis </b>, including adaptations of C3, C4 and CAM plants to maximise the efficiency of photosynthesis
+</li>
+<li>
+the <b> factors that affect the rate of photosynthesis </b>: light availability, water availability, temperature and carbon dioxide concentration
+</li>
+</i> </ul>
+<br>
+... this looks like a lot to know - but don't worry, it's actually not at all - it's just boring.           
+</aside> 
+
+
+## <span style="color:#D32F2F">  Learning Objectives </span>
 
 *By the end of this lesson you should be able to:* 
 
@@ -35,19 +55,9 @@ Note: This page is adapted from a learning plan + notes I used to teach online V
 <br>
 <br>
 
-<h2 style="color:#D32F2F">
-Relevant VCAA 2022 Study Design Dot Points:    
-</h2> 
-
-- *inputs, outputs and locations* of the light dependent and light independent stages of photosynthesis in C3 plants (details of biochemical pathway mechanisms are not required) 
-- the *role of Rubisco in photosynthesis*, including adaptations of C3, C4 and CAM plants to maximise the efficiency of photosynthesis
-- the *factors that affect the rate of photosynthesis*: light availability, water availability, temperature and carbon dioxide concentration
-
-... this looks like a lot to know - but don't worry, it's actually not at all - it's just boring.           
-
 <br>
 
-<h3> Important VCAA Note </h3>
+### <span style="color:#D32F2F"> Important VCAA Note </span> 
 
 > VCAA emphasises that <b> "details of the biochemical pathway mechanisms are not required" </b>
 
@@ -56,11 +66,11 @@ What this means that what you really need to know is: WHERE, WHAT GOES IN, and W
 <br>
 <br>
 
-<h2 style="color:#D32F2F"> 🌻 Photosynthesis </h2>
+## <span style="color:#D32F2F"> 🌻 Photosynthesis </span>
 
 TBA ...
 
-<h2 style="color:#D32F2F"> Extra Resources </h2>
+## <span style="color:#D32F2F"> Extra Resources </span>
 
 [FreeVCEnotes.com: Energy transformations](https://freevcenotes.com/biology/notes/energy-transformations)
 

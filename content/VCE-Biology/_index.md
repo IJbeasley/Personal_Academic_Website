@@ -14,8 +14,10 @@ design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["10px", "0", "10px", "0"]
+toc: true 
 ---
-# <span style="color:#D32F2F"> Resources for High School Biology Students </span>
+
+
 
 ###### <span> :triangular_flag_on_post: These resources were developed for students of  [VCE Biology](https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/biology/Pages/Index.aspx), but are potentially also useful for other  Biology students in their final years of secondary or high school. </span>
 
