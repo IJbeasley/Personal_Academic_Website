@@ -19,11 +19,7 @@ type: overview
 design:
   columns: 1
   background:
-    image: headers/test.jpg
-    image_darken: 0.1
-    image_parallax: true
-    image_position: center
-    text_color_light: true
+    color: "#E1E1E1"
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---

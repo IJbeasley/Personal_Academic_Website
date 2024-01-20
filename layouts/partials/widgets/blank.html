@@ -48,17 +48,17 @@
     </div>
      <!-- First subtitle -->
     <div id='overview-subtitle'> 
-    <h2 style="color:#0a546c;font-size:2em" class = 'overview-subtitle-text'> {{ $type_detail.Subtitle }} 
+    <h2 style="color:#00668E;font-size:2em" class = 'overview-subtitle-text'> {{ $type_detail.Subtitle }} 
     </h2>
     </div>
      <!-- Second subtitle -->
     <div id='overview-subsubtitle'> 
-    <h2 style="color:#118ab2;font-size:1.7em" class ='overview-subtitle-text'> {{ $type_detail.Subsubtitle }} </h2>
+    <h2 style="color:#00739B;font-size:1.7em" class ='overview-subtitle-text'> {{ $type_detail.Subsubtitle }} </h2>
     </div> 
      <!-- Links to my social media with icons -->
      <p> </p>
-     <div class="overview-icons" style="color:#139CCA;size:0.9em"> 
-     <ul style='color:#139CCA' class="network-icon" aria-hidden="true">
+     <div class="overview-icons" style="color:#0076A4;size:0.9em"> 
+     <ul style='color:#0076A4' class="network-icon" aria-hidden="true">
         {{ range $type_detail.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
@@ -95,7 +95,7 @@
 
 {{else}}
 
-    <div id='overview-content'> <span style="color:#333333;font-size:1.2em"> 
+    <div id='overview-content'> <span style="color:#2B2B2B;font-size:1.2em"> 
     <br>
     {{ $type_page.Content }}
     </span>

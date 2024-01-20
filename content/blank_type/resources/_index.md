@@ -4,10 +4,6 @@ header:
   image: ""
 title: Research resources
 type: no_title
-background:
-  color: 'navy'
-  # Text color (true=light or false=dark).
-  text_color_light: true
 view: 1
 design:
   columns: 1
