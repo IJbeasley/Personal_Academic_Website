@@ -94,7 +94,7 @@ workflowr::wflow_git_config(
 
 ### (2) Starting the project
 
-This step will be different depending on the stage your project is at. In general, you should perform this step when your repository is your current working directory (as the default for directory is "."). If you already have files in this repository, it is essential that you set ```existing = FALSE````and ```overwrite = FALSE```. Making these settings will ensure you do not overwrite any existing files.
+This step will be different depending on the stage your project is at. In general, you should perform this step when your repository is your current working directory (as the default for directory is "."). If you already have files in this repository, it is essential that you set ```existing = FALSE``` and ```overwrite = FALSE```. Making these settings will ensure you do not overwrite any existing files.
 
 For more detailed advice, look at the setting up vignettes on the workflowr documentation page. There will be one precisely relevant to your specific level of project development:  if you are [starting from scratch](https://jdblischak.github.io/workflowr/articles/wflow-01-getting-started.html), existing project but not workflowr project [here](https://jdblischak.github.io/workflowr/articles/wflow-03-migrating.html). 
 
