@@ -107,6 +107,8 @@ title {
   100% { -webkit-transform: translateX(10%); transform: translateX(10%); }
 }
 
+/* Home page profile / about section */ 
+
 #profile {
   -webkit-animation: slide-from-left 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
           animation: slide-from-left 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
@@ -144,48 +146,64 @@ title {
   
 }
 
+/* Home page overview section */
+
 #overview-title { 
   opacity: 0;
   -webkit-animation: fade-in 2.5s forwards;
           animation: fade-in 2.5s forwards;
-  -webkit-animation-delay: 0.5s;
-          animation-delay: 0.5s;
+  -webkit-animation-delay: 0.1s;
+          animation-delay: 0.1s;
 }
 
-.overview-title-text {
-   font-size: calc(3rem + 3vw);
-}
-
-.overview-icons{
-  font-size: calc(3rem + 2vw);
+.overview-content-text {
+  font-size: clamp(calc(max(18px,1.29em)), calc(2vw+1em), 10vmax);
 }
 
 #overview-subtitle { 
   opacity: 0;
-  -webkit-animation: fade-in 2.5s forwards;
-          animation: fade-in 2.5s forwards;
-  -webkit-animation-delay: 2s;
-          animation-delay: 2s;
+  -webkit-animation: fade-in 2s forwards;
+          animation: fade-in 2s forwards;
+  -webkit-animation-delay: 1.2s;
+          animation-delay: 1.2s;
 }
 
-.overview-subtitle-text{
-  font-size: calc(1.7rem + 0.4vw);
+#overview-subsubtitle { 
+  opacity: 0;
+  -webkit-animation: fade-in 2.2s forwards;
+          animation: fade-in 2.2s forwards;
+  -webkit-animation-delay: 1.2s;
+          animation-delay: 1.2s;
+}
+
+
+.overview-icons{
+    opacity: 0;
+  -webkit-animation: fade-in 2.5s forwards;
+          animation: fade-in 2.5s forwards;
+  -webkit-animation-delay: 1.2s;
+          animation-delay: 1.2s;
 }
 
 #overview-content { 
+   text-colour: #333333;
     opacity: 0;
-    font-size: calc(1.3rem + 0.001vw);
-    -webkit-animation: fade-in 5s forwards;
-          animation: fade-in 5s forwards;
-    -webkit-animation-delay: 3s;
-          animation-delay: 3s;
+    -webkit-animation: fade-in 3s forwards;
+          animation: fade-in 3s forwards;
+    -webkit-animation-delay: 1.2s;
+          animation-delay: 1.2s;
           
 }
+
+/* CV */
 
 .column-cv {
   float: right;
   width: 50%;
 }
+
+
+/* General post structure */
 
 /* Clear floats after the columns */
 .row:after {
@@ -206,7 +224,7 @@ title {
   background: $sta-menu-primary;
 /* this is the part that takes out the shadow & the only edit */
   box-shadow: none;  
-  font-size: 14px;
+  font-size: clamp(calc(max(22px,1.5em)), calc(3vw+2em), 20vmax);
   font-weight: 120 !important;
   position: fixed;
   top: 0;
@@ -354,20 +372,3 @@ input[type='checkbox'] {
   font-size: calc(1rem + 0.5vw);
 }
 
-
-
-nav#TableOfContents {
-  ul {
-    padding: 0;
-    list-style-type: none;
-    font-size: 4em;
-    a + ul {
-      padding-left: 0.5em;
-    }
-  }
-}
-
-
-.main-content{
-  padding: 0rem;
-}

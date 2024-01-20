@@ -36,19 +36,29 @@
 
 {{else}}
 
-  <div class="col-12 col-lg-8">
-    <br> 
+<div class="col-12 col-lg-8">
+<br> 
 <div class="wrap-collabsible">
+<!-- Title overview structure -->
+    <!-- Main huge title -->
     <div id='overview-title'>
-      <h1 style="color:#D2524B;font-size:5.5em" class='overview-title-text' > 
-      {{ $type_page.Title | markdownify | emojify }} </h1> </div>
-      <div id='overview-subtitle'> 
-      <h2 style="color:#0a546c;font-size:2em" class = 'overview-subtitle-text'> {{ $type_detail.Subtitle }} </h2></div>
-      <div id='overview-subsubtitle'> 
-      <h2 style="color:#118ab2;font-size:1.7em" class ='overview-subtitle-text'> {{ $type_detail.Subsubtitle }} </h2>
-       </div> 
-      <div class="overview-icons" style="color:#139CCA"> 
-      <ul style='color:#139CCA' class="network-icon" aria-hidden="true">
+    <h1 style="color:#D2524B;font-size:5.5em" class='overview-title-text' > 
+    {{ $type_page.Title | markdownify | emojify }} 
+    </h1> 
+    </div>
+     <!-- First subtitle -->
+    <div id='overview-subtitle'> 
+    <h2 style="color:#0a546c;font-size:2em" class = 'overview-subtitle-text'> {{ $type_detail.Subtitle }} 
+    </h2>
+    </div>
+     <!-- Second subtitle -->
+    <div id='overview-subsubtitle'> 
+    <h2 style="color:#118ab2;font-size:1.7em" class ='overview-subtitle-text'> {{ $type_detail.Subsubtitle }} </h2>
+    </div> 
+     <!-- Links to my social media with icons -->
+     <p> </p>
+     <div class="overview-icons" style="color:#139CCA;size:0.9em"> 
+     <ul style='color:#139CCA' class="network-icon" aria-hidden="true">
         {{ range $type_detail.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
@@ -63,21 +73,15 @@
         {{ else if in (slice "http" "https") $scheme }}
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
-        <li>
-          <a style="color:#139CCA" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
-            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
-          </a>
-        </li>
+            <li>
+                <a style="color:#139CCA" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
+        <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+                </a>
+            </li>
         {{ end }}
-        
-      </span> 
-     
-      </ul>
-     
-      </div>
-      
-      
-      {{if $type_detail.drop}}
+         </ul>
+        </div>
+  {{if $type_detail.drop}}
   <input id="collapsible" class="toggle" type="checkbox">
   <label for="collapsible" class="lbl-toggle"> {{ $type_detail.drop | markdownify | emojify }} </label>
   <div class="collapsible-content">
@@ -87,25 +91,21 @@
     </div>
   </div>
 </div>
+</input>
+
 {{else}}
 
-    <div id='overview-content'> <span style="color:#333333"> 
-    <br> 
+    <div id='overview-content'> <span style="color:#333333;font-size:1.2em"> 
+    <br>
     {{ $type_page.Content }}
-    </span> 
+    </span>
     </div>
     
-  </div>
 {{end}}
 {{end}}
-{{ else }}
+{{ else if $page.Title }}
   <div class="col-12">
     <h1 class='title'>{{ $page.Title | markdownify | emojify }}</h1>
     <p>{{ $type_page.Content }}</p>
-    
   </div>
-  
-  <br> 
-
 {{end}}
-
