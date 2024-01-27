@@ -150,10 +150,10 @@ title {
 
 #overview-title { 
   opacity: 0;
-  -webkit-animation: fade-in 2.5s forwards;
-          animation: fade-in 2.5s forwards;
-  -webkit-animation-delay: 0.1s;
-          animation-delay: 0.1s;
+  -webkit-animation: fade-in 1s forwards;
+          animation: fade-in 1s forwards;
+  -webkit-animation-delay: 0.05s;
+          animation-delay: 0.05s;
 }
 
 .overview-content-text {
@@ -162,34 +162,34 @@ title {
 
 #overview-subtitle { 
   opacity: 0;
-  -webkit-animation: fade-in 2s forwards;
-          animation: fade-in 2s forwards;
-  -webkit-animation-delay: 1.2s;
-          animation-delay: 1.2s;
+  -webkit-animation: fade-in 1.25s forwards;
+          animation: fade-in 1.25s forwards;
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s;
 }
 
 #overview-subsubtitle { 
   opacity: 0;
-  -webkit-animation: fade-in 2.2s forwards;
-          animation: fade-in 2.2s forwards;
-  -webkit-animation-delay: 1.2s;
-          animation-delay: 1.2s;
+  -webkit-animation: fade-in 1.5s forwards;
+          animation: fade-in 1.5s forwards;
+  -webkit-animation-delay: 0.35s;
+          animation-delay: 0.35s;
 }
 
 
 .overview-icons{
     opacity: 0;
-  -webkit-animation: fade-in 2.5s forwards;
-          animation: fade-in 2.5s forwards;
-  -webkit-animation-delay: 1.2s;
-          animation-delay: 1.2s;
+  -webkit-animation: fade-in 1.75s forwards;
+          animation: fade-in 1.75s forwards;
+  -webkit-animation-delay: 0.65s;
+          animation-delay: 0.65s;
 }
 
 #overview-content { 
    text-colour: #333333;
     opacity: 0;
-    -webkit-animation: fade-in 3s forwards;
-          animation: fade-in 3s forwards;
+    -webkit-animation: fade-in 3.5s forwards;
+          animation: fade-in 3.5s forwards;
     -webkit-animation-delay: 1.2s;
           animation-delay: 1.2s;
           
