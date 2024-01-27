@@ -18,12 +18,50 @@
 #  url = "#publications"
 #  weight = 30
 
+
 [[main]]
   name = "Research"
+  identifier = "research"
   url = "research/"
   weight = 40
   
-  [[main]]
+[[main]]
+    name = "Overview"
+    parent =  "research"
+    url = "research/#blank"
+    weight = 10
+    
+[[main]]
+    name = "Current and completed projects"
+    parent =  "research"
+    url = "research/#projects"
+    weight = 20
+
+[[main]]
+    name = "Master's thesis project (2021 - 2022)"
+    parent =  "research"
+    url = "project/pop_spec_eqtl"
+    weight = 30
+    
+[[main]]
+    name = "Publications"
+    parent =  "research"
+    url = "research/#publications"
+    weight = 40
+
+[[main]]
+    name = "Conference Presentations"
+    parent =  "research"
+    url = "research/#talks"
+    weight = 50
+  
+#[[main]]
+#    name = "Submenu Item 1"
+#    parent =  "research"
+#    url = "research/submenu1/"
+#    weight = 10
+  
+[[main]]
   name = "Research resources"
   url = "resources/"
   weight = 50
@@ -40,8 +78,22 @@
 
 [[main]]
   name = "Writing"
+  identifier = "writing"
   url = "writing/"
   weight = 70
+  
+  [[main]]
+  name = "Academic journal articles"
+  parent = "writing"
+  url = "research/#publications"
+  weight = 10
+  
+  [[main]]
+  name = "Non-academic writing"
+  parent = "writing"
+  url = "writing/"
+  weight = 20
+  
 
 [[main]]
   name = "Science Communication"
