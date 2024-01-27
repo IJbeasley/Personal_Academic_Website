@@ -40,7 +40,7 @@
 [[main]]
     name = "Master's thesis project (2021 - 2022)"
     parent =  "research"
-    url = "project/pop_spec_eqtl"
+    url = "project/pop_spec_eqtl/"
     weight = 30
     
 [[main]]
