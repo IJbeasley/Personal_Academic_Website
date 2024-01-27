@@ -28,7 +28,7 @@
 [[main]]
     name = "Overview"
     parent =  "research"
-    url = "research/#blank"
+    url = "research/"
     weight = 10
     
 [[main]]
