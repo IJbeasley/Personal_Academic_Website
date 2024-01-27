@@ -17,7 +17,7 @@ design:
 ---
 
 
-# Miscellanous resources to help with research 
+# Miscellaneous resources to help with research 
 
 From finding research opportunities, to examples of code. 
 
