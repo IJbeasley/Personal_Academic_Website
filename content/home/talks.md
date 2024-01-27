@@ -6,9 +6,8 @@ widget: pages
 # This file represents a page section.
 headless: true
 
-
 # Order that this section appears on the page.
-weight: 22
+weight: 50
 
 title: 'Recent Conference Talks & Posters'
 subtitle:
