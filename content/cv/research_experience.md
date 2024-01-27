@@ -83,7 +83,7 @@ experience:
     date_start: '2019-07-01'
     date_end: '2020-07-31'
     description: |2-
-        **Supervisors:** [Dr. Filip Ruzicka](https://research.monash.edu/en/persons/filip-ruzicka) & [Dr. Tim Connallon](https://www.monash.edu/science/schools/biological-sciences/staff/timc)
+        **Supervisors:** [Dr. Filip Ruzicka](https://orcid.org/0000-0001-9089-624X) & [Dr. Tim Connallon](https://www.monash.edu/science/schools/biological-sciences/staff/timc)
         
         **Project Title:** [Testing a theory involving the inversion of chromosomes](../project/monash-winter/)
         

@@ -59,7 +59,7 @@ title: Isobel Beasley
 
 I'm an interdisciplinary scientist and Master of Science graduate (BioSciences).
 
-Under the supervision of [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/)  and [Dr. Christina Azodi](https://www.svi.edu.au/research_themes/research_staff/christina_azodi), my master's thesis (2021 - 2022) aimed to build and investigate machine learning models to predict whether known genetic associations (specifically eQTLs) are consistent across human populations. The struggles I encountered undertaking this work led the three of us to realise 'consistency' (or portability) is typically poorly defined in genomics studies. Because of this realisation, my work since as a research assistant has focused on developing more coherent, biologically meaningful portability definition/s. 
+Under the supervision of [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/)  and [Dr. Christina Del Azodi](https://www.linkedin.com/in/christina-del-azodi-6a969b45), my master's thesis (2021 - 2022) aimed to build and investigate machine learning models to predict whether known genetic associations (specifically eQTLs) are consistent across human populations. The struggles I encountered undertaking this work led the three of us to realise 'consistency' (or portability) is typically poorly defined in genomics studies. Because of this realisation, my work since as a research assistant has focused on developing more coherent, biologically meaningful portability definition/s. 
 
 I'm also passionate about science communication and improving educational access; I aim to support disadvantaged high school students through providing debating coaching, lecturing, and [learning materials](vce-biology).
 
