@@ -1,35 +1,44 @@
 ---
+authors:
+- admin
+
 bio: "Genetics, Statistics, Educational Inclusion and Diversity"
 
 education:
   courses:
-  - course: Master of Science (BioSciences)
-    specialisation: "Specialisation: Genetics 🧬"
+  - course: Master of Science 
+    specialisation: "BioSciences 🔬"
     institution: The University of Melbourne
     year: 2021 - 2022
   - course: Bachelor of Biomedicine 
-    specialisation: "Major: Genetics 🧬"
+    specialisation: "Genetics 🧬"
     institution: The University of Melbourne
     year: 2017 - 2020
   - course: Diploma in Mathematical Sciences
-    specialisation: "Specialisation: Statistics and Stochastic Processes 📊 "
+    specialisation: "Statistics and Stochastic Processes 📊 "
     institution: The University of Melbourne
     year: 2017 - 2020
+    
 email: "isobel.beasley@unimelb.edu.au"
-highlight_name: false
+
+highlight_name: true 
+
 interests:
 - Population Genetics
 - Statistical and Evolutionary Models
 - Scientific Research Equity
 - Educational Inclusion
 - Genetic Regulation and Epigenetics
+
 organizations:
 - name: The University of Melbourne
   url: https://www.unimelb.edu.au/
 laboratory: 
 - name: Gallego Romero Lab
 - url: https://igr-lab.science.unimelb.edu.au/
+
 role: Master of Science Graduate
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -54,14 +63,16 @@ social:
 #   link: https://www.linkedin.com/
 
 superuser: true
-title: Isobel Beasley 
+
+title: Isobel Beasley
+#- url: https://isobelbeasley.com
 ---
 
 I'm an interdisciplinary scientist and Master of Science graduate (BioSciences).
 
 Under the supervision of [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/)  and [Dr. Christina Del Azodi](https://www.linkedin.com/in/christina-del-azodi-6a969b45), my master's thesis (2021 - 2022) aimed to build and investigate machine learning models to predict whether known genetic associations (specifically eQTLs) are consistent across human populations. The struggles I encountered undertaking this work led the three of us to realise 'consistency' (or portability) is typically poorly defined in genomics studies. Because of this realisation, my work since as a research assistant has focused on developing more coherent, biologically meaningful portability definition/s. 
 
-I'm also passionate about science communication and improving educational access; I aim to support disadvantaged high school students through providing debating coaching, lecturing, and [learning materials](vce-biology).
+I'm also passionate about science communication and improving educational access; I aim to support disadvantaged high school students through providing debating coaching, lecturing, and [learning materials](vce-biology/).
 
 
 

@@ -59,6 +59,7 @@ description = ""
 ############################
 ## Site Features
 ############################
+highlight_superuser = true
 
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
