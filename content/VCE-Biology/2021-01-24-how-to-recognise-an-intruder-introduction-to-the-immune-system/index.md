@@ -34,14 +34,31 @@ the innate immune response including the steps in an inflammatory response and t
 ## Antigens
 
 
-Antigens are foreign markers (non-self, most are large, complex molecules, usually proteins or glycoproteins on cell surface) which induces an immune response in the body either alone or after forming a complex with a larger molecule that causes the production of antibodies and is capable of binding with an antibody. 
-The immune system thus recognises the foreign substance as ‘non-self’.
-Among our cell surface proteins is a specific group of glycoproteins that mark a cell as ‘self’ (self-antigens). These proteins are called Major Histocompatibility Complex (MHC). 
-Our cells are able to determine ‘Self’ and ‘Non-self’ through the presence or absence of self molecules on the surface of the cellular membrane. Self-molecules are important in the adaptive immune system (the specific 3rd Line of defence). 
+Antigens are:
+
+<ul>
+<li> <b> foreign markers </b> (non-self, typically large, complex molecules, usually proteins or glycoproteins on cell surface)<\li> 
+<li> <b> which induce an immune response </b> in the body <\li> 
+<li> either alone or </li>
+<li> after forming a complex with a larger molecule that causes the production of antibodies and is capable of binding with an antibody <\li>
+</ul>
+
+
+<br> 
+The immune system uses antigens to recognise foreign substances as ‘non-self’, and therefore attack them.
+<br>
+
+How therefore, does the immune system recognise self?
+
+There are specific group of glycoproteins, which are cell surface proteins, that mark a cell as ‘self’ (self-antigens). These proteins are called Major Histocompatibility Complex (MHC). 
+
+Our cells are able to determine ‘Self’ and ‘Non-self’ through the presence or absence of self molecules on the surface of the cellular membrane. 
+
+Self-molecules are most important in the adaptive immune system (also known as the specific, or 3rd Line of defence). 
 
 <br> 
 
-## What is the difference between antigens and allergens?
+## What is the difference between an antigen and  an allergen?
 
 An allergen is an antigen, but not all antigens are allergens. An antigen is any substance that's capable of causing your immune system to produce antibodies. They are typically organic produced proteins. An allergen is any antigen that causes an allergic reaction. An allergen is typically harmless for most individuals. 
 
@@ -51,9 +68,14 @@ An allergen is an antigen, but not all antigens are allergens. An antigen is any
 ## Barriers
 
 
+<br>
+<br>
+<br>
 
 # Additonal resources
 
+<br>
+<br> 
 
 ## Douchy's VCE Biology Podcast
  

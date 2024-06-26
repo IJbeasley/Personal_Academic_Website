@@ -96,7 +96,11 @@ Try to answer the questions yourself before reading the provided answers. The qu
     <summary> <em> Ok, sure but what does that mean? </em> </summary>
     <br> It means that the cell is the smallest building block that all living things have in common.
     <br>
-    [More detailed explanation from an 'Introduction to the cell' by Khan Academy](https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-basic-cell-structures/v/introduction-to-the-cell)
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5KfHxF6Vhps?si=KvXnDIRgykWfb56c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <br>
+    More detailed explanation from an 'Introduction to the cell' by Khan Academy
+    </center>
     <br>
 </details>
 

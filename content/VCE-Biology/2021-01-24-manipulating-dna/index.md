@@ -1,6 +1,6 @@
 ---
 title: Manipulating DNA
-author: ''
+author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: manipulating-dna
 categories: ['VCE', 'Biology', 'Unit 4','Not updated for current study design']
@@ -65,6 +65,8 @@ Introduction to Gel Electrophoresis by Khan Academy
 
 A technique used to separate DNA fragments ('bits of DNA') on the basis of their size/length. Gel electrophoresis can thus help us when we are comparing samples such as in forensic testing of DNA at crime scenes, and paternity testing (do we find DNA fragments of the same length?). Additionally, in laboratory research we can use it iscolate particular DNA fragments we are interested in (i.e. if we originally have a mix of fragments, but are only interested in one particular fragment). 
 
+<br>
+
 ## Important Ideas:
 
 - DNA is negatively charged (so attracted to positive end)
@@ -75,12 +77,11 @@ A technique used to separate DNA fragments ('bits of DNA') on the basis of their
 
 ## Steps:
 
-[Can you correctly order the gel electrophoresis steps?](https://embed.polleverywhere.com/ranking_polls/GdusMtLjcUc71yrj39UDM?controls=none&short_poll=true)
+Can you correctly order the gel electrophoresis steps?
 
-<iframe src="https://pollev-embeds.com/ranking_polls/xg5hrD7i5esxjYM3SYEVB/respond" width="800px" height="400px"></iframe>
+<iframe src="https://pollev-embeds.com/ranking_polls/xg5hrD7i5esxjYM3SYEVB/respond" width="800px" height="600px"></iframe>
 
 <br>
-<br> 
 <br> 
 
 <details> <summary> <b> See previous student responses </b> </summary> 
@@ -140,16 +141,37 @@ A technique for amplifying DNA fragments exponentially through many cycles of mu
 
 If you initially started with one DNA fragment, how many DNA fragements will you have ...
 
-[After one round of PCR?](https://embed.polleverywhere.com/multiple_choice_polls/de93NB0OpytlCfU2Xkwd3?controls=none&short_poll=true)
+<b> After one round of PCR? </b> 
+<br>
 
-[After two rounds of PCR?](https://embed.polleverywhere.com/multiple_choice_polls/UNZ8o6mI61V12dvXg4r1D?controls=none&short_poll=true)
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/84q8vWFTN5rwY36gdbzDm/respond" width="800px" height="600px"></iframe>
+
+<br>
+
+<details> <summary> <b> See previous student responses </b> </summary>  
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/de93NB0OpytlCfU2Xkwd3?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+</details>
+
+<br> 
+
+<b> After two rounds of PCR? </b>
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/QlRi2LsYUaOjcpOEFoqsC/respond" width="800px" height="600px"></iframe>
+
+
+<details> <summary> <b> See previous student responses </b> </summary>  
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/UNZ8o6mI61V12dvXg4r1D?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+</details>
 
 <br> 
 <br> 
 
 ## Steps:
 
-[What are the steps in PCR?](https://embed.polleverywhere.com/free_text_polls/s7futJKQDLD30vBEN2Amb?controls=none&short_poll=true)
+
 
 <details>
 <summary> Reveal PCR steps </summary>
@@ -206,6 +228,11 @@ For SACs it's best to stick to the temperatures you are taught by your teacher, 
 <iframe src="https://pollev-embeds.com/free_text_polls/mKN2bIvWefxojVbtGzeEd/respond" width="800px" height="600px"></iframe>
 
 
+<details> <summary> <b> See previous student responses </b> </summary>  
+<iframe src="https://embed.polleverywhere.com/free_text_polls/s7futJKQDLD30vBEN2Amb?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+</summary>
+
 <br> 
 <br> 
 
@@ -216,7 +243,14 @@ For SACs it's best to stick to the temperatures you are taught by your teacher, 
 - PCR is used to amplify DNA fragments
     - Main steps: Denaturation, Anneal, and Elongation (which repeat in cycles)
 
+<br>
+<br>
 
-## Additional resources
+# Additional resources
+
+<br>
+
+## Douchy's VCE Biology Podcast
+ 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Xo34eNZKK30dztIr6aPom?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

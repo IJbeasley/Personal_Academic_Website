@@ -106,12 +106,12 @@ $$ 6O_{2} + C_{6}H_{12}O_{6} + 36ADP + 36P_{i} → 6CO_{2} + 6H_{2}O + 36ATP $$
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tinytable_g0owmmaw7gwbu7snuc3z</title>
+    <title>tinytable_m34tcpakngjz4h587506</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-.table td.tinytable_css_7nhj0177swcd7n61ds2r, th.tinytable_css_7nhj0177swcd7n61ds2r {    font-weight: bold; color: black; background-color: white; }
-.table td.tinytable_css_ee5r8nyx86oukcya9uyz, th.tinytable_css_ee5r8nyx86oukcya9uyz {    font-size: 21.3333333333333px; }
-.table td.tinytable_css_scaeyritp0sukiene7y5, th.tinytable_css_scaeyritp0sukiene7y5 {    font-weight: bold; text-align: center; color: white; background-color: gray; }
+.table td.tinytable_css_w4pjs29ib4epu56353hz, th.tinytable_css_w4pjs29ib4epu56353hz {    font-weight: bold; color: black; background-color: white; }
+.table td.tinytable_css_mqiyq5v68pjhes9nnf29, th.tinytable_css_mqiyq5v68pjhes9nnf29 {    font-size: 21.3333333333333px; }
+.table td.tinytable_css_xtu3jn55srkopln11byp, th.tinytable_css_xtu3jn55srkopln11byp {    font-weight: bold; text-align: center; color: white; background-color: gray; }
     </style>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -128,7 +128,7 @@ $$ 6O_{2} + C_{6}H_{12}O_{6} + 36ADP + 36P_{i} → 6CO_{2} + 6H_{2}O + 36ATP $$
   </head>
 &#10;  <body>
     <div class="container">
-      <table class="table table-grid table-hover" id="tinytable_g0owmmaw7gwbu7snuc3z" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
+      <table class="table table-grid table-hover" id="tinytable_m34tcpakngjz4h587506" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
         <thead>
         &#10;              <tr>
                 <th scope="col">Stage</th>
@@ -181,45 +181,45 @@ $$ 6O_{2} + C_{6}H_{12}O_{6} + 36ADP + 36P_{i} → 6CO_{2} + 6H_{2}O + 36ATP $$
     </div>
 &#10;    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-    function styleCell_tinytable_062ncawn59nwd4v7eitw(i, j, css_id) {
-      var table = document.getElementById("tinytable_g0owmmaw7gwbu7snuc3z");
+    function styleCell_tinytable_msivy5lvleyruv1xg56w(i, j, css_id) {
+      var table = document.getElementById("tinytable_m34tcpakngjz4h587506");
       table.rows[i].cells[j].classList.add(css_id);
     }
-    function insertSpanRow_u35oz4mc187uan21rf2f(i, colspan, content) {
-      var table = document.getElementById('tinytable_g0owmmaw7gwbu7snuc3z');
+    function insertSpanRow_fwaa0enptmd3s03kev9w(i, colspan, content) {
+      var table = document.getElementById('tinytable_m34tcpakngjz4h587506');
       var newRow = table.insertRow(i);
       var newCell = newRow.insertCell(0);
       newCell.setAttribute("colspan", colspan);
       newCell.innerText = content;
     }
-window.addEventListener('load', function () { insertSpanRow_u35oz4mc187uan21rf2f(4, 6, 'Anaerobic Specific Stages') });
-window.addEventListener('load', function () { insertSpanRow_u35oz4mc187uan21rf2f(2, 6, 'Aerobic Specific Stages') });
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(1, 0, 'tinytable_css_7nhj0177swcd7n61ds2r') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(2, 0, 'tinytable_css_7nhj0177swcd7n61ds2r') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(3, 0, 'tinytable_css_7nhj0177swcd7n61ds2r') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(4, 0, 'tinytable_css_7nhj0177swcd7n61ds2r') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(5, 0, 'tinytable_css_7nhj0177swcd7n61ds2r') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(6, 0, 'tinytable_css_7nhj0177swcd7n61ds2r') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(7, 0, 'tinytable_css_7nhj0177swcd7n61ds2r') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(8, 0, 'tinytable_css_7nhj0177swcd7n61ds2r') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(0, 0, 'tinytable_css_ee5r8nyx86oukcya9uyz') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(0, 1, 'tinytable_css_ee5r8nyx86oukcya9uyz') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(0, 2, 'tinytable_css_ee5r8nyx86oukcya9uyz') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(0, 3, 'tinytable_css_ee5r8nyx86oukcya9uyz') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(0, 4, 'tinytable_css_ee5r8nyx86oukcya9uyz') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(0, 5, 'tinytable_css_ee5r8nyx86oukcya9uyz') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(2, 0, 'tinytable_css_scaeyritp0sukiene7y5') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(5, 0, 'tinytable_css_scaeyritp0sukiene7y5') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(2, 1, 'tinytable_css_scaeyritp0sukiene7y5') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(5, 1, 'tinytable_css_scaeyritp0sukiene7y5') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(2, 2, 'tinytable_css_scaeyritp0sukiene7y5') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(5, 2, 'tinytable_css_scaeyritp0sukiene7y5') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(2, 3, 'tinytable_css_scaeyritp0sukiene7y5') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(5, 3, 'tinytable_css_scaeyritp0sukiene7y5') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(2, 4, 'tinytable_css_scaeyritp0sukiene7y5') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(5, 4, 'tinytable_css_scaeyritp0sukiene7y5') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(2, 5, 'tinytable_css_scaeyritp0sukiene7y5') })
-window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4v7eitw(5, 5, 'tinytable_css_scaeyritp0sukiene7y5') })
+window.addEventListener('load', function () { insertSpanRow_fwaa0enptmd3s03kev9w(4, 6, 'Anaerobic Specific Stages') });
+window.addEventListener('load', function () { insertSpanRow_fwaa0enptmd3s03kev9w(2, 6, 'Aerobic Specific Stages') });
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(1, 0, 'tinytable_css_w4pjs29ib4epu56353hz') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(2, 0, 'tinytable_css_w4pjs29ib4epu56353hz') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(3, 0, 'tinytable_css_w4pjs29ib4epu56353hz') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(4, 0, 'tinytable_css_w4pjs29ib4epu56353hz') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(5, 0, 'tinytable_css_w4pjs29ib4epu56353hz') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(6, 0, 'tinytable_css_w4pjs29ib4epu56353hz') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(7, 0, 'tinytable_css_w4pjs29ib4epu56353hz') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(8, 0, 'tinytable_css_w4pjs29ib4epu56353hz') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(0, 0, 'tinytable_css_mqiyq5v68pjhes9nnf29') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(0, 1, 'tinytable_css_mqiyq5v68pjhes9nnf29') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(0, 2, 'tinytable_css_mqiyq5v68pjhes9nnf29') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(0, 3, 'tinytable_css_mqiyq5v68pjhes9nnf29') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(0, 4, 'tinytable_css_mqiyq5v68pjhes9nnf29') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(0, 5, 'tinytable_css_mqiyq5v68pjhes9nnf29') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(2, 0, 'tinytable_css_xtu3jn55srkopln11byp') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(5, 0, 'tinytable_css_xtu3jn55srkopln11byp') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(2, 1, 'tinytable_css_xtu3jn55srkopln11byp') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(5, 1, 'tinytable_css_xtu3jn55srkopln11byp') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(2, 2, 'tinytable_css_xtu3jn55srkopln11byp') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(5, 2, 'tinytable_css_xtu3jn55srkopln11byp') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(2, 3, 'tinytable_css_xtu3jn55srkopln11byp') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(5, 3, 'tinytable_css_xtu3jn55srkopln11byp') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(2, 4, 'tinytable_css_xtu3jn55srkopln11byp') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(5, 4, 'tinytable_css_xtu3jn55srkopln11byp') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(2, 5, 'tinytable_css_xtu3jn55srkopln11byp') })
+window.addEventListener('load', function () { styleCell_tinytable_msivy5lvleyruv1xg56w(5, 5, 'tinytable_css_xtu3jn55srkopln11byp') })
     </script>
 &#10;  </body>
 &#10;</html>
@@ -231,8 +231,14 @@ window.addEventListener('load', function () { styleCell_tinytable_062ncawn59nwd4
 ## <span style="color:#D32F2F"> TL;DR </span>
 
 <br>
+<br>
 
-## <span style="color:#D32F2F"> Extra Resources </span></iframe>
+## <span style="color:#D32F2F"> Extra Resources </span>
+
+## Douchy’s VCE Biology Podcast
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4J1PVX5P6Kcw0C1wXSnYKI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+</iframe>
 
 <br>
 <br>
