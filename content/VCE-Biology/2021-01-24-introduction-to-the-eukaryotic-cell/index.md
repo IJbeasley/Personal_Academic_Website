@@ -92,23 +92,30 @@ Try to answer the questions yourself before reading the provided answers. The qu
 
 <details>
     <summary> What <em> is </em> a cell? </summary>
-    A cell is the most basic unit of life.
-    <details>
+    <br> <br> A cell is the most basic unit of life. <br><br>
+</details>
+
+<details> 
     <summary> <em> Ok, sure but what does that mean? </em> </summary>
-    It means that the cell is the smallest building block that all living things have in common.
+    <br> It means that the cell is the smallest building block that all living things have in common.
+    <br>
     [More detailed explanation from an 'Introduction to the cell' by Khan Academy](https://www.khanacademy.org/science/high-school-biology/hs-cells/hs-basic-cell-structures/v/introduction-to-the-cell)
-    </details>
+    <br>
 </details>
 
 
 <details>
          <summary> What do cells do? </summary>
+         <br> <br>
          Everything you need to survive. Make proteins. Sort and organise molecules. Break down materials to obtain energy. Remove waste. Respond to infection with viruses. <b> All of it </b> 
+         <br> <br>
 </details>
 
 <details> 
         <summary> How do they do <em> all </em> these roles? </summary>
+        <br> <br>
         Through the magic of project management. No seriously, by having organelles cells can assign tasks, organise, sort and build materials - to perform all the jobs a cell has. We'll go into more detail about what I mean by this below. 
+        <br> <br>
 </details>
 
 <details>
@@ -131,36 +138,49 @@ The organism you are a part of has asked you to make a really big house shaped m
 Use the organelles and their listed roles below to plan this project. 
 
 <details> 
-        <summary>If you're stuck ⚠️ </summary>
-        Google is your friend and so is the following video:
-        [Video](https://www.youtube.com/watch?v=Hmwvj9X4GNY)
-</details>
+        <summary> If you're stuck ⚠️ </summary>
+        <br> Google is your friend and so is the below video: <br>
+        
+<center>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hmwvj9X4GNY?si=YPcWj3PAPqvtehlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br> 
+Parts of a cell
+</center> <br>
+
+        
+</details>
 <details> 
       <summary> If you're a superstar who's already done 💫 </summary>
+    <br> 
     Translate the listed organelle roles below into VCAA friendly definitions. 
     Go to the next activity and see if you can now label some organelles!
+    <br>
 </details>
 
 <div class="toggle"> 
 <details> 
          <summary>  Organelles at your disposal </summary>
 
-<details>
+<details><br><br>
          <summary> <b> Nucleus </b> </summary>
          
 ![Nucleus](../../VCE-Biology/Nucleus.jpg)
 
+<br>
 <b> The Nucleus </b> Where all the protein brick blueprints are held. Blueprints are converted into easy to transport but temporary paper booklets.
+<br>
 
 </details>
-
 <details>
          <summary> <b> Endoplasmic Reticulum </b> </summary>
 
+<br>
 ![Endoplasmic Reticulum](../../VCE-Biology/membrane-system-Endoplasmic-reticulum-cells-biosynthesis-transport.jpg)
+<br>
 
 <b> The Endoplasmic Reticulum </b> Moves materials around the cell. 
+<br>
 
 </details> 
 <details>
@@ -192,6 +212,7 @@ Use the organelles and their listed roles below to plan this project.
 <div>
 <details> 
          <summary> Exam friendly explanations of each organelles role </summary>
+<br><br>
 <ul>
 <li> <b> Ribosomes</b>:  <i> the site of protein synthesis </i>
 </li>
