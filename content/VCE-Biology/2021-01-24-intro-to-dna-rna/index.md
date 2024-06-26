@@ -41,7 +41,6 @@ Nucleic acids as information molecules that encode instructions for the synthesi
 </aside>
 
 
-
 <h2 style="color:#D32F2F"> Learning Objectives: </h2>
 
 *By the end of this session you should be able to:* 
@@ -65,6 +64,10 @@ Nucleic acids as information molecules that encode instructions for the synthesi
 <br> 
 <br>
 <br> 
+
+
+
+Role of DNA: To contain/store the genetic material of the cell (i.e. the code for the specific order of amino acids in assembling various proteins).
 
 <h1 style="color:#D32F2F"> The Features of DNA </h1>
 
@@ -94,12 +97,36 @@ Animation depicting the location and structure of DNA: WEHI TV
 
 <h2 style="color:#D32F2F"> The Nucleotide </h2> 
 
-<b> What are the key components of DNA nucleotides? <i> (i.e. what do I need to be able to draw?) </i> </b>
+<b> What are the key components of DNA nucleotides? <i> (i.e. what do I need to be able to draw in an exam or sac?) </i> </b>
 
 <details> <summary> Reveal key components </summary> 
-    - Nitrogenous Base
-    - Phosphate Group (Negatively Charged)
-    - Deoxyribose Sugar
+<ul>
+
+<li>
+Nitrogenous Base 
+<br>
+<br>
+In rough diagrams (like the ones you might draw in an exam), the Nitrogenous base is typically depicted as a rectangle with a triangle, or circular end. 
+
+<br>
+
+The triangle, or circular ends are drawn to represent complementary base pairing, whereby a student might make the C / G pairs base complementary circular patterns, and the A / T pairs complementary triangular patterns. The actual pattern or shape you draw to show complementary base pairing is not that important; the most important aspect is that the A / T bases look like they fit together, and the C / G bases have a different shape to the A / T bases, and they also look like they fit together. 
+<br> 
+
+</li>
+
+<li>
+Phosphate Group
+<br> 
+This phosphate group is negatively charged. In a rough diagram, we typically draw it as a circle.
+</li>
+
+<li>
+Deoxyribose Sugar 
+<br>
+ In a rough diagram, we typically use a pentagon to represent the deoxyribose sugar, as the sugar  molecule is made up of a '5' carbon ring. 
+</li>
+</ul>
 </details> 
 
 <br> 
@@ -148,13 +175,24 @@ Submit your answers here:
 <iframe src="https://embed.polleverywhere.com/discourses/bnf9RhrM1atuCpYsq5P2E?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 </details> 
+<br><br><br><br>
 
 <details> <summary> Reveal the differences between DNA and RNA </summary> 
-    - RNA is a short lived molecule which is more easily transported within the cell
-        - mRNA: ***“to carry specific amino acids to the ribosome for protein synthesis”*** VCAA
-        - rRNA: to be a ***“structural component of the ribosomes”*** and catalyse the assembly of amino acids into protein chains
-        - tRNA: ***“to carry information from the nucleus to the ribosome for protein synthesis”*** VCAA
-    - DNA is a long lived, stable molecule which resides in the nucleus.
+<br>
+RNA is a <b> short lived </b> molecule which is <b> more easily transported throughout </b> the cell.
+<ul> 
+There are three main classes of RNAs you should know about:  <br> <br> 
+<li> mRNA: <i> "to carry specific amino acids to the ribosome for protein synthesis” </i> VCAA </li>
+<li> rRNA: to be a <i> structural component of the ribosomes </i> and catalyse the assembly of amino acids into protein chains </li>
+<li> tRNA: <i> to carry information from the nucleus to the ribosome for protein synthesis </i> VCAA </li>
+</ul> 
+
+<br><br>
+
+DNA is a <b> long lived </b>, stable molecule which <b> resides in the nucleus </b> (in Eurokaryotic organisms).  
+
+<br>
+
 </details> 
 
 <br>
