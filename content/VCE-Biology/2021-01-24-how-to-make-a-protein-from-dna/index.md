@@ -116,7 +116,20 @@ Try to put the steps in order in the PollEv below before viewing the steps writt
 <br>
 
 
+
 # Post transcriptional processing
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/FZgvoBeP7Uj9ShSs9ubvl/respond" width="800px" height="600px"></iframe>
+
+<br>
+
+<details> 
+<summary> see how other student's answered this question </summary>
+<br> 
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/zPyXv2khbM4Z7q2LedaTU?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<br> 
+</details>
 
 pre-mRNA produced from transcription undergoes post-transcriptional modification **before** it can be translated. Once post-transcriptional modification is complete, the pre-mRNA is considered 'mature mRNA', and it leaves the nucleus via a nuclear pore.
 

@@ -3,7 +3,7 @@ title: 'Photosynthesis'
 author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: photosynthesis
-categories: ['VCE', 'Biology', 'Unit 3', 'Area of study 3']
+categories: ['High school', 'VCE', 'Biology', 'Unit 3', 'Area of study 3']
 tags: ['High school','VCE', 'Photosynthesis', 'Cellular Respiration', 'Tutoring']
 subtitle: "Don't let the details overwhelm you; you need to learn less than you might think"
 summary: "Let's focus on what you actually need to know on everyone's favourite VCE Biology topic (sarcasm btw)"
@@ -22,7 +22,6 @@ toc: true
 
 <b> Note </b>: This page is adapted from a learning plan + notes I used to teach online VCE summer school 2021. It's now been (mostly) adapted for the 2022-2026 VCAA study design. 
 </aside>
-
 
 <aside> <b> 
 Relevant VCAA 2022 Study Design Dot Points:    
@@ -74,6 +73,8 @@ TBA ...
 
 [FreeVCEnotes.com: Energy transformations](https://freevcenotes.com/biology/notes/energy-transformations)
 
+
+## Douchy's VCE Biology Podcast
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4lWbTSpKtmtzBLykDvgpUD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

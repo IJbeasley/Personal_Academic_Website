@@ -3,12 +3,12 @@ title: 'Protein structure and function'
 author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: intro-to-proteins
-categories: ['VCE', 'Biology', 'Unit 3', 'AOS1']
-tags: ['High school','VCE', 'Molecules', 'Proteins']
-subtitle: 'Amino acids to proteins'
-summary: 'Amino acids to proteins'
+categories: ['High school','VCE', 'Biology', 'Unit 3', 'Area of Study 1']
+tags: ['VCE', 'Molecules', 'Proteins']
+subtitle: 'How do we build a functioning protein from amino acids?'
+summary: 'How do we build a functioning protein from amino acids?'
 authors: ['Isobel Beasley']
-lastmod: '2024-01-19T18:05:16+11:00'
+lastmod: '2024-06-26T18:05:16+11:00'
 featured: no
 image:
   caption: ''
@@ -16,6 +16,8 @@ image:
   preview_only: no
 projects: []
 ---
+
+## Overview 
 
 - [The Structure of Proteins](#the-structure-of-proteins)
    * [Amino Acids ](#amino-acids)
@@ -53,11 +55,12 @@ proteins as a diverse group of molecules that collectively make an organism’s 
 
 - Draw the basic structure of an animo acid
 - Define what constitutes each level of protein structure hierarchy (primary, secondary, tertiary, and quaternary)
-- Give (at least three) examples of roles proteins play
+- (Depending on your prior knowledge) Give (at least three) examples of roles proteins play
 
 
 Bonus Learning Objectives: 
-- Bonus Easy:  Agree that proteins do many varied and important things for cells - *and hence you!*
+
+- Bonus Easy:  Agree that proteins do many varied and important things for cells *and therefore you!*
 
 <br>
 <br>

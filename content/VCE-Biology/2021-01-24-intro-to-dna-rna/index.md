@@ -4,8 +4,8 @@ title: 'Nucleic acids'
 author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: intro-to-dna-rna
-categories: ['VCE', 'Biology', 'Unit 3', 'AOS1', 'Not updated for current study design']
-tags: ['To be updated', 'High school','VCE', 'RNA', 'DNA', 'Tutoring']
+categories: ['High school','VCE', 'Biology', 'Unit 3', 'Area of Study 1']
+tags: ['High school','VCE', 'RNA', 'DNA', 'Tutoring']
 subtitle: 'Introduction to the structure and function of the molecules of life: DNA, mRNA, tRNA, and rRNA'
 summary: 'Introduction to the structure and function of the molecules of life: DNA, mRNA, tRNA, and rRNA'
 authors: ['Isobel Beasley']
@@ -97,13 +97,13 @@ Animation depicting the location and structure of DNA: WEHI TV
 
 <h2 style="color:#D32F2F"> The Nucleotide </h2> 
 
-<b> What are the key components of DNA nucleotides? <i> (i.e. what do I need to be able to draw in an exam or sac?) </i> </b>
+What are the key components of <b> DNA nucleotides? </b> <i> (i.e. what do I need to be able to draw in an exam or sac?) </i> </b>
 
 <details> <summary> Reveal key components </summary> 
 <ul>
 
 <li>
-Nitrogenous Base 
+<b> Nitrogenous Base  </b>
 <br>
 <br>
 In rough diagrams (like the ones you might draw in an exam), the Nitrogenous base is typically depicted as a rectangle with a triangle, or circular end. 
@@ -112,17 +112,17 @@ In rough diagrams (like the ones you might draw in an exam), the Nitrogenous bas
 
 The triangle, or circular ends are drawn to represent complementary base pairing, whereby a student might make the C / G pairs base complementary circular patterns, and the A / T pairs complementary triangular patterns. The actual pattern or shape you draw to show complementary base pairing is not that important; the most important aspect is that the A / T bases look like they fit together, and the C / G bases have a different shape to the A / T bases, and they also look like they fit together. 
 <br> 
-
+<br>
 </li>
 
 <li>
-Phosphate Group
+<b> Phosphate Group </b>
 <br> 
 This phosphate group is negatively charged. In a rough diagram, we typically draw it as a circle.
 </li>
 
 <li>
-Deoxyribose Sugar 
+<b> Deoxyribose Sugar  </b>
 <br>
  In a rough diagram, we typically use a pentagon to represent the deoxyribose sugar, as the sugar  molecule is made up of a '5' carbon ring. 
 </li>
@@ -139,21 +139,21 @@ A single strand of DNA is formed via *condensation polymerisation. Nucleotides a
 
 <br> 
 
-<b> What are the key features of the DNA Polymer? <i> (i.e. what do I need to be able to draw?) </i> </b> 
+What are the key features of the <b> DNA Polymer? </b> <i> (i.e. what do I need to be able to draw?) </i> 
 
 <details> <summary> Reveal key features </summary>
 <ul>
 <li>
-Nucleotides
+<b> Nucleotides </b>
 </li>
 <li>
-Phosphodiester backbone
+<b> Phosphodiester backbone </b>
 </li>
 <li>
-Complementary Base Pairing
+<b> Complementary Base Pairing </b>
 </li>
 <li>
-Antiparallel strands 
+<b> Antiparallel strands </b>
 </li>
 </ul> 
 </details> 
@@ -201,10 +201,10 @@ DNA is a <b> long lived </b>, stable molecule which <b> resides in the nucleus <
 
 # Today's TL;DR
 
-- DNA is a super cool molecule that makes all of live possible
-- DNA is a double stranded, antiparallel polymer of nucleotides
-- Nucleotides are comprised of a phosphate group, deoxyribose sugar, nitrogenous base and a hydroxyl group
-- In comparison, RNA is single stranded, and it's nucleotides have a ribose sugar (and have Uracil rather than Thymine)
+- DNA is a super cool molecule that makes all of life possible
+- It is a double stranded, antiparallel polymer of nucleotides
+- DNA's nucleotides are comprised of a phosphate group, deoxyribose sugar, nitrogenous base and a hydroxyl group
+- In comparison, RNA is single stranded, and its nucleotides have a ribose sugar (and have Uracil rather than Thymine)
 
 <br> 
 

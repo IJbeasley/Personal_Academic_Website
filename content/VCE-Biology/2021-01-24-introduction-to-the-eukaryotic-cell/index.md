@@ -1,15 +1,15 @@
 ---
 weight: 2
-title: Introduction to the Eukaryotic Cell
+title: Introduction to some of the components of the Eurkaryotic cell
 author: 'Isobel Beasley'
 date: '2021-01-26'
 slug: introduction-to-the-eukaryotic-cell
-categories: ['VCE', 'Biology', 'Unit 3', 'Outcome 1', 'The relationship between nucleic acids and proteins']
-tags: ['VCE', 'Biology', 'Unit 3', 'Organelles', 'Cells', 'Membranes', 'Organelles', 'Cells', 'Eurkaryotic', 'Endoplasmic Reticulum', 'Golgi Apparatus', 'Vesicles', 'Plasma Membranes']
-subtitle: 'Membranes and Organelles'
+categories: ['High school', 'VCE', 'Biology', 'Unit 3', 'Area of Study 1']
+tags: ['VCE', 'Biology', 'Unit 3', 'Organelles', 'Cells', 'Eurkaryotic', 'Endoplasmic Reticulum', 'Golgi Apparatus', 'Vesicles']
+subtitle: 'The Important Organelles to Know for the Exam'
 summary: 'How is it that such a small unit is able to build, organise and export such complex proteins?'
 authors: ['Isobel Beasley']
-lastmod: '2023-12-31T02:41:23+11:00'
+lastmod: '2024-06-26T02:41:23+11:00'
 featured: no
 image: 
   caption: ''
@@ -66,24 +66,21 @@ Learning Objectives:
 
 <h2 style="color:#D32F2F"> Structures within the Eurkaryotic cell </h2>
 
+<details> <summary> Describe the major differences between prokaryote and eukaryote cells.  </summary> 
+
+<br> 
+Eukaryote cells contain membrane bound organelles and a nucleus (which contains the cells DNA), whereas prokaryote cells do not contain any membrane bound organelles or a double-layered membrane around their DNA. 
+
+<br>
+
+</details>.
+
+
 ![Plant Cell Outline, Credit: Isobel Beasley, and Andreas Dorsch 2020](../../VCE-Biology/Zoom_plant_cell.png)
 
 <p align = "center">
 Plant Cell Outline, Credit: Isobel Beasley, and Andreas Dorsch 2020 
 </p>
-
-<br> 
-<br>
-<br>
-
-<h3 style="color:#D32F2F"> Brainstorm: What do you do already know about cells? </h3>
-
-<iframe src="https://pollev-embeds.com/discourses/ODZWtjez9nXfAgQesfr9N/respond" width="800px" height="600px"></iframe>
-
-<br> 
-<br>
-<br>
-<br>
 
 
 <h2 style="color:#D32F2F"> Introductory understanding questions </h2>

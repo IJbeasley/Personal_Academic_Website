@@ -4,7 +4,7 @@ title: How to Study Well in VCE
 author: Isobel Beasley
 date: '2021-01-24'
 slug: how-to-study-well-in-vce
-categories: ['Study', 'VCE', 'Advice', 'Health and Welling']
+categories: ['High school', 'VCE', 'General Advice', 'Health and Welling']
 tags: ['VCE', 'Study', 'Ádvice', 'Health and Welling']
 subtitle: 'And elsewhere'
 summary: 'Answers to the questions every VCE student asks: How should I study? How often? When? '

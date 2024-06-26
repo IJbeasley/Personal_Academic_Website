@@ -3,11 +3,11 @@ title: Genetic Diversity and Natural Selection
 author: ''
 date: '2021-01-24'
 slug: genetic-diversity-and-natural-selection
-categories: ['VCE', 'Biology', 'Unit 4', 'Not updated for current study design']
+categories: ['High school','VCE', 'Biology', 'Unit 4', 'Not updated for current study design']
 tags: ['To be updated', 'High school','VCE', 'Natural Selection', 'Allopatrick speciation']
 subtitle: ''
 summary: 'Why is genetic diversity important? How do important factors in evolution (genetic drift, gene flow, mutation, natural selection) impact genetic diversity?'
-authors: []
+authors: [Isobel Beasley]
 lastmod: '2021-01-24T04:23:36+11:00'
 featured: no
 image:
@@ -77,10 +77,43 @@ Match the definition to the evolution word (Polleverywhere competition)
 
 # Species:
 
-[What is a species? How do we know two groups of animals are different species?](https://embed.polleverywhere.com/free_text_polls/n30LWJDNU8pNanxQ33Rux?controls=none&short_poll=true)
+What is a species? How do we know two groups of animals are different species?
+
+<br>
+
+<iframe src="https://pollev-embeds.com/free_text_polls/NI0SeXUqqrMdHLLs7bY0C/respond" width="800px" height="600px"></iframe>
+
+<br>
+
+<details> <summary> Reveal prior student responses </summary> 
+<br>
+<iframe src="https://embed.polleverywhere.com/free_text_polls/n30LWJDNU8pNanxQ33Rux?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+</details> 
+
+<details> <summary> Reveal (evolutionary biologist's) definition of species </summary> 
+
+<br> 
+A category of organism (living thing) distinguishable from all other types of organisms by the fact that only if two individuals are members of the same species, do they have the potential to produce fertile, and viable offspring through sexual reproduction. 
+
+<details>
+<br>
 
 
-### So how do we form multiple species from a single species?
+
+<details> <summary> What is a population? </summary>
+<br>
+Organisms of a particular species, within a defined area.
+
+</details>
+<br>
+<br>
+
+### So how do we form multiple species from one original specie?
+
+
+The process of forming a new species is called speciation. Speciation is complete when sufficient  genetic differences accumulate between populations of an original species, such that these populations are no longer capable of reproducing with each other produce fertile offspring even if they could physically meet. 
+
+How do two or more populations of the same species get to be genetically diverged (different)? 
 
 (One way) 
 
@@ -90,6 +123,7 @@ Match the definition to the evolution word (Polleverywhere competition)
 
 ... this process is called allopatrick speciation
 <br> 
+<br>
 
 ### Allopatric Speciation stages:
 
@@ -132,5 +166,7 @@ Match the definition to the evolution word (Polleverywhere competition)
 <br>
 
 # Extra Resources
+
+## Douchy's VCE Biology Podcast
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1XYbds46rhnDp6yrUCjeHq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

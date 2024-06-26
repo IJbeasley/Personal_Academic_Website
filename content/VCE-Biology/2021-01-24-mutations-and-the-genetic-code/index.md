@@ -4,7 +4,7 @@ title: Mutations and the Genetic Code
 author: ''
 date: '2021-01-24'
 slug: mutations-and-the-genetic-code
-categories: ['VCE', 'Biology', 'Unit 4','Not updated for current study design']
+categories: ['High school', 'VCE', 'Biology']
 tags: ['To be updated', 'High school','VCE', 'Mutations',  'Tutoring']
 subtitle: 'Including the confusing genetic code words VCAA is known for'
 summary: '+ all those fancy genetic code words VCAA loves (redundant, degenerant, universal ...)'
@@ -18,23 +18,22 @@ image:
 projects: []
 ---
 
+
 ## Learning Objectives:
 
 *By the end of this article you should be able to:* 
 
-- List the major types of mutation (point, frameshift, block)
+- List, and desribe the major types of mutation (point, frameshift, block)
+- Define the complex sounding words used to desribe the genetic code (redundant, universal, triplet, codon, anti-codon)
 
 <br> 
 
 <aside>
-💡 Associated VCAA Study Design Dot Points:                                     <br> 
+💡 Associated VCAA Study Design Dot Points: 
+<br> 
 <ul> <i> 
-<li> the qualitative treatment of the causes of changing allele frequencies in a population’s gene pool including types of mutations (point, frameshift, block) as a source of new alleles, chromosomal abnormalities (aneuploidyand polyploidy)
-</li> 
-<li> environmental selection pressures on phenotypes as the mechanism for natural selection, gene flow, and genetic drift (bottleneck and founder effects) </li>
-<li> and the biological consequences of such changes in terms of increased or reduced genetic diversity
-</li> 
-</i> </ul>
+<li> the genetic code as a universal triplet code that is degenerate </li>
+</ul>
 </aside>
 
 <br>
@@ -45,14 +44,26 @@ projects: []
 
 Codon: a trinucleotide (triplet of nucleotides) sequence of mRNA that corresponds to a specific amino acid (the complemtary sequence is called a triplet in DNA and anti-codon in tRNA) 
 
-Genetic code is degenerate/redundant and universal 
+VCAA sometimes refers to the genetic code as being degenerate, redundant and universal. But what do these terms refer to?
 
 <br> 
 
 # Types of Mutation:
 
+Mutation: any permanent change in DNA base sequence, structure or length. 
 
-[What types of mutation are there?](https://embed.polleverywhere.com/multiple_choice_polls/sDq7Uf50gf5twmRhsHhXi?controls=none&short_poll=true)
+Mutations can be spontaneous (i.e. randomly occurring likely due a mistake made during cell division) or induced (i.e. occurring because another factor broke the DNA, or cause the DNA repair mechanisms to malfunction). A factor which can induce mutations is called a mutagen. 
+
+UV Rays are example of a mutagen, which is why you should keep out of the sun!
+
+A mutation or change to the DNA that occurs in one your body cells (more correctly known as 'somatic cells') may cause you harm by e.g. leading to cancer if a number of mutations accumulate, but are not inherited by your children  Only mutations that occur in the gametes (egg or sperm cells) which ultimately become your offspring. can be passed down. 
+ 
+
+## Point Mutation: 
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/2i7n8kclwbZrMYgTnNC77/respond" width="800px" height="600px"></iframe>
+
+  A point mutation is a type of mutation in DNA or RNA in which one single nucleotide base is added, deleted or changed (usually frameshift when added/deleted)
 
 <details> <summary> Types of mutation </summary> 
 <ul>
@@ -107,4 +118,12 @@ Genetic code is degenerate/redundant and universal
    Particular nucleotides only ever pair up with each other using hydrogen bonds. (e.g. A - T, G - C)
    </details> 
 
+<br>
+<br>
 
+
+# Additonal resources
+
+## Douchy's VCE Biology Podcast
+ 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4fBOVUKTTOSNyhXkFdsX3H?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
