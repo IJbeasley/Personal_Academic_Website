@@ -19,15 +19,23 @@ toc: true
 
 
 
-###### <span> :triangular_flag_on_post: These resources were developed for students of  [VCE Biology](https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/biology/Pages/Index.aspx), but are potentially also useful for other  Biology students in their final years of secondary or high school. </span>
-
-
 ## Introduction: 
 
-> Since graduating high school in 2016 I have taught VCE Biology to many different students and for many different organisations. I've collected some the teaching material I've created in these roles below, and am currently working on expanding it for the upcoming study design (2022-). The [ASHA Lectures](https://ashalectures.org/vce-resources) webpage also has plenty of free resources to support you in your biology journey. Hopefully you find this material useful! 
+> From the start of my university journey in 2017 through the completion of my master's in 2022, I had the privilege of teaching VCE Biology to numerous students across Victoria. After wrapping up my high school tutoring days, I felt bad that the teaching resources I had developed over the years were just sitting on my hard drive, inaccessible to those who might benefit from. To enable more students to benefit from these materials, I decided to make them freely available here.
 
 <p>&nbsp;</p>
 
+
+### <span> :triangular_flag_on_post:  Disclaimer:  </span> 
+
+I initially developed these resources for students studying VCE Biology (2017 - 2021 study design). Since then, I've been gradually reformatting and updating these materials to align with the current VCE Biology study design (2022-2026). While the pages below are still a work in progress, I invite you to explore them and welcome any feedback or questions you may have.
+
+VCE Biology is the curriculum for Year 11 and 12 Victorian students intending to enter university post high school. The information below is thus likely to also be relevant to other Biology students in their final years of secondary or high school using a different curriculum.
+
+Regardless of whether you are studying VCE Biology or another curriculum, please use these resources to guide your understanding, and not to dictate the level of detail and specific language you use while being examined. Only resources and teachers who know the requirements of your specific examination process have the knowledge to ensure you get the marks you worked hard for.
+
+
+<p>&nbsp;</p>
 
 # <span style="color:#D32F2F"> VCE Biology Notes and Related Articles </span>
 
