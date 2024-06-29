@@ -3,12 +3,12 @@ title: 'Cellular Respiration'
 author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: cellular-respiration
-categories: ['VCE', 'Biology', 'Unit 3', 'Area of study 3']
+categories: ['High school' 'VCE', 'Biology', 'Unit 3', 'Area of study 3']
 tags: ['High school','VCE', 'Photosynthesis', 'Cellular Respiration', 'Tutoring']
 subtitle: "Don't let the details scare you; you need to learn less than you might think"
 summary: "Let's focus on what you actually need to know on everyone's favourite VCE Biology topic (sarcasm btw)"
 authors: ['Isobel Beasley']
-lastmod: '2023-01-24T04:14:47+11:00'
+lastmod: '2024-06-26T04:14:47+11:00'
 featured: yes
 image:
   caption: ''
@@ -103,7 +103,7 @@ $$ 6O_{2} + C_{6}H_{12}O_{6} + 36ADP + 36P_{i} → 6CO_{2} + 6H_{2}O + 36ATP $$
 <br> 
 <br> 
 
-## <span style="color:#D32F2F"> Summary table to for VCAA cellular respiration </span> 
+## <span style="color:#D32F2F"> Summary table (locations, steps, inputs and outputs> </span> 
 
 ```{r, include = FALSE, echo = FALSE}
 library(readr)
@@ -159,6 +159,27 @@ tt(what_to_know_for_cellular_respiration,
 <br>
 <br> 
 
+## Practice questions
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/mGXSfOYlJ28m1vLm6zBBx/respond" width="800px" height="600px"></iframe>
+
+<details> <summary> Reveal prior student answers </summary>
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/MUZmrpy1Hc7KvxqZyc32O?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+</details>
+<br>
+
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/6Jo90Q8Qs69O2p8UnZsBP/respond" width="800px" height="600px"></iframe>
+
+
+<details> <summary> Reveal prior student answers </summary>
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/6LiMvUONICGaoQQ89wbP6?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+</details>
+<br>
 ## <span style="color:#D32F2F"> TL;DR </span>
 
 <br>
