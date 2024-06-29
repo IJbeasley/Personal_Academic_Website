@@ -54,6 +54,11 @@ the <b> factors that affect the rate of photosynthesis </b>: light availability,
 <br>
 <br>
 
+
+## <span style="color:#D32F2F"> 🌻 Photosynthesis </span>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sQK3Yr4Sc_k?si=lEq2YQZhdwB8oG9K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br>
 
 ### <span style="color:#D32F2F"> Important VCAA Note </span> 
@@ -65,14 +70,140 @@ What this means that what you really need to know is: WHERE, WHAT GOES IN, and W
 <br>
 <br>
 
-## <span style="color:#D32F2F"> 🌻 Photosynthesis </span>
 
-TBA ...
+### <span style="color:#D32F2F"> Overall photosynthesis equation: </span>
 
-## <span style="color:#D32F2F"> Extra Resources </span>
+<br> 
+
+Word equation:
+$$ \text{Carbon Dixode} + \text{Water} \text{ }   \xrightarrow{\text{light}} \text{ }   \text{Oxygen} + \text{Glucose}  $$ 
+
+Chemical equation:
+
+$$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + C_{6}H_{12}O_{6} + 36ATP $$
+
+<br>
+<br>
+
+## <span style="color:#D32F2F"> Summary table (locations, steps, inputs and outputs </span> 
+
+<br>
+<br>
+
+
+```{r, include = FALSE, echo = FALSE}
+library(readr)
+
+library(dplyr)
+library(tinytable)
+what_to_know_for_cellular_respiration <- read_csv("../../../static/media/tables/what-to-know-for-photosynthesis.csv")
+
+```
+
+```{r, echo = FALSE}
+
+tt(what_to_know_for_cellular_respiration, 
+   output = "html",
+   theme = "table table-grid table-hover",
+   #width = 1,
+   #align = "cccccc",
+   #align = "c",
+   # notes = list(i = 
+   #                  "Glycolysis...",
+   #              ii = 
+   #                  "Kreb's Cycle ...",
+   #              iii = "Electron Transport Chain",
+   #              iv = "Anaerobic Coenzyme Recycling")
+   ) |> 
+#style_tt(j = 1, bootstrap_css = "font-weight: bold; color: red;") |> 
+    style_tt(
+    j= 1,
+    color = "black",
+    background = "white",
+    bold = TRUE) |>
+  # group_tt(i = list(
+  #   "Aerobic Specific Stages" = 2,
+  #   "Anaerobic Specific Stages" = 4)) |>
+  style_tt(i = 0, fontsize = 16) # |>
+    # style_tt(
+    # i = c(2, 5),
+    # align = "c",
+    # color = "white",
+    # background = "gray",
+    # bold = TRUE)
+# .......
+
+
+#what_to_know_for_cellular_respiration %>% 
+#  knitr::kable(escape = FALSE) %>% 
+#  scroll_box(width = "100%", height = "100%")
+
+```
+
+<br> 
+<br>
+
+## Practice Questions
+
+<br>
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/1YiMIkIauSrGHOJD96PnT/respond" width="800px" height="600px"></iframe>
+
+<details> </summar> Reveal prior student answers: </summary> 
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/PqwwGadWO63hae2zCnlHw?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+</details> 
+<br>
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/5e1BZuBKSaTKXqQMVC4mL/respond" width="800px" height="600px"></iframe>
+
+
+<details> </summar> Reveal prior student answers: </summary> 
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/uAy8I1jnzxJUsoOAifDbN?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+</details>
+<br>
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/BMR7NfN4nBF8EyVC0q3XX/respond" width="800px" height="600px"></iframe>
+
+
+<details> </summar> Reveal prior student answers: </summary> 
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/ouJxK92E7RkVwxdqBvnIn?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+</details> 
+
+<br>
+<br>
+
+### Locations
+
+<iframe src="https://pollev-embeds.com/clickable_images/kX0KCmQ2gVGpr8XScK35g/respond" width="800px" height="600px"></iframe>
+
+<iframe src="https://pollev-embeds.com/clickable_images/LKrWxb8x82OgeV59Nsh44/respond" width="800px" height="600px"></iframe>
+
+<details> <summary> Reveal answers </summary>
+
+<iframe src="https://embed.polleverywhere.com/clickable_images/5nr7fVM1UFtnDd74mjJgv?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+<br>
+
+<iframe src="https://embed.polleverywhere.com/clickable_images/fX6RkfdS4R6wCJUcVGkIm?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+</details> 
+
+<br>
+<br>
+<br>
+
+# <span style="color:#D32F2F"> Extra Resources </span>
 
 [FreeVCEnotes.com: Energy transformations](https://freevcenotes.com/biology/notes/energy-transformations)
 
+<br>
+<br>
 
 ## Douchy's VCE Biology Podcast
 
