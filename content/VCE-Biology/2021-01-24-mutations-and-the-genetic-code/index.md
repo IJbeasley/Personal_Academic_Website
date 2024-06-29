@@ -1,15 +1,15 @@
 ---
 weight: 4
 title: Mutations and the Genetic Code
-author: ''
+author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: mutations-and-the-genetic-code
-categories: ['High school', 'VCE', 'Biology']
-tags: ['To be updated', 'High school','VCE', 'Mutations',  'Tutoring']
+categories: ['High school', 'VCE', 'Biology', 'Unit 3']
+tags: ['High school','VCE', 'Mutations', 'Genetics', 'Tutoring']
 subtitle: 'Including the confusing genetic code words VCAA is known for'
-summary: '+ all those fancy genetic code words VCAA loves (redundant, degenerant, universal ...)'
+summary: 'Including all those fancy genetic code words VCAA loves (redundant, degenerant, universal ...)'
 authors: ['Isobel Beasley']
-lastmod: '2021-01-24T04:24:02+11:00'
+lastmod: '2021-06-27T04:24:02+11:00'
 featured: no
 image:
   caption: ''
@@ -23,8 +23,8 @@ projects: []
 
 *By the end of this article you should be able to:* 
 
-- List, and desribe the major types of mutation (point, frameshift, block)
-- Define the complex sounding words used to desribe the genetic code (redundant, universal, triplet, codon, anti-codon)
+- List, and describe the major types of mutation (point, frameshift, block)
+- Define the complex sounding words used to describe the genetic code (redundant, universal, triplet, codon, anti-codon)
 
 <br> 
 
@@ -33,6 +33,7 @@ projects: []
 <br> 
 <ul> <i> 
 <li> the genetic code as a universal triplet code that is degenerate </li>
+</i>
 </ul>
 </aside>
 
@@ -42,11 +43,57 @@ projects: []
     
 # The Genetic code:
 
-Codon: a trinucleotide (triplet of nucleotides) sequence of mRNA that corresponds to a specific amino acid (the complemtary sequence is called a triplet in DNA and anti-codon in tRNA) 
+Codon: a trinucleotide sequence (triplet of nucleotides) in an mRNA molecule that corresponds to a specific amino acid or STOP code.
+
+The complementary sequence to a codon is called a triplet in DNA, and an anticodon in tRNA.
+
+<br>
+<br>
+
+## Match the Definition to the Fancy Word Quiz
 
 VCAA sometimes refers to the genetic code as being degenerate, redundant and universal. But what do these terms refer to?
 
 <br> 
+
+<iframe src="https://pollev-embeds.com/surveys/t1CfSJ1WsNNSlrlz52jMF/respond" width="800px" height="600px"></iframe>
+
+<br>
+<br> 
+
+<details> <summary> <b> Reveal answers </b> </summary> 
+
+1. <details> <summary> Antiparallel </summary>
+   The two DNA strands run alongside each other in the opposite direction (with respect to the 5' phosphate and the 3' hydroxyl group)
+    </details> 
+2. <details> <summary> Redundant </summary> 
+   Multiple different DNA sequences can encode the same amino acid / protein 
+   </details>
+3. <details> <summary> Degenerate </summary> 
+   A change to a DNA sequence doesn't always result in a change to the protein it encodes
+   </details> 
+4. <details> <summary> Condensation Polymerisation </summary> 
+   The phosphodiester backbone of a DNA strand forms from the addition of nucleotides, resulting in the loss of water
+   </details> 
+5. <details> <summary> Universal </summary> 
+   The same DNA sequence encodes for the same protein no matter what organism it is in
+    </details> 
+6. <details> <summary> Gene </summary> 
+   A DNA sequence which encodes a specific protein product
+   </details> 
+7. <details> <summary> Complementary Base Pairing </summary> 
+   Particular nucleotides only ever pair up with each other using hydrogen bonds. (e.g. A - T, G - C)
+   </details> 
+   
+<br>
+
+</details> 
+
+
+<br>
+<br>
+
+
 
 # Types of Mutation:
 
@@ -58,6 +105,8 @@ UV Rays are example of a mutagen, which is why you should keep out of the sun!
 
 A mutation or change to the DNA that occurs in one your body cells (more correctly known as 'somatic cells') may cause you harm by e.g. leading to cancer if a number of mutations accumulate, but are not inherited by your children  Only mutations that occur in the gametes (egg or sperm cells) which ultimately become your offspring. can be passed down. 
  
+ <br>
+ <br>
 
 ## Point Mutation: 
 
@@ -88,41 +137,12 @@ A mutation or change to the DNA that occurs in one your body cells (more correct
 <br>
 <br>
 
-# The Fancy Terms about DNA to know for the VCE exam: 
-
-## Match the Definition to the Fancy Word Quiz
-
-[PollEvery quiz](https://pollev.com/isobelbeasle182)
-
-<br>
-
-1. <details> <summary> Antiparallel </summary>
-   The two DNA strands run alongside each other in the opposite direction (with respect to the 5' phosphate and the 3' hydroxyl group)
-    </details> 
-2. <details> <summary> Redundant </summary> 
-   Multiple different DNA sequences can encode the same amino acid / protein 
-   </details>
-3. <details> <summary> Degenerate </summary> 
-   A change to a DNA sequence doesn't always result in a change to the protein it encodes
-   </details> 
-4. <details> <summary> Condensation Polymerisation </summary> 
-   The phosphodiester backbone of a DNA strand forms from the addition of nucleotides, resulting in the loss of water
-   </details> 
-5. <details> <summary> Universal </summary> 
-   The same DNA sequence encodes for the same protein no matter what organism it is in
-    </details> 
-6. <details> <summary> Gene </summary> 
-   A DNA sequence which encodes a specific protein product
-   </details> 
-7. <details> <summary> Complementary Base Pairing </summary> 
-   Particular nucleotides only ever pair up with each other using hydrogen bonds. (e.g. A - T, G - C)
-   </details> 
-
-<br>
-<br>
 
 
 # Additonal resources
+
+<br>
+<br> 
 
 ## Douchy's VCE Biology Podcast
  
