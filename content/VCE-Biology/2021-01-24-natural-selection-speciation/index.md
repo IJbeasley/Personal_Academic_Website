@@ -1,14 +1,14 @@
 ---
-title: Genetic Diversity and Natural Selection
-author: ''
+title: Natural selection, and speciation 
+author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: genetic-diversity-and-natural-selection
-categories: ['High school','VCE', 'Biology', 'Unit 4', 'Not updated for current study design']
-tags: ['To be updated', 'High school','VCE', 'Natural Selection', 'Allopatrick speciation']
-subtitle: ''
-summary: 'Why is genetic diversity important? How do important factors in evolution (genetic drift, gene flow, mutation, natural selection) impact genetic diversity?'
-authors: [Isobel Beasley]
-lastmod: '2021-01-24T04:23:36+11:00'
+categories: ['High school','VCE', 'Biology']
+tags: ['High school','VCE', 'Natural selection', 'Allopatric speciation']
+subtitle: 'How do new species form?'
+summary: 'How do new species form?'
+authors: ['Isobel Beasley']
+lastmod: '2024-06-29T04:23:36+11:00'
 featured: no
 image:
   caption: ''
@@ -22,24 +22,15 @@ projects: []
 
 *By the end of this session you should be able to:* 
 
--  Explain how allele frequencies relate to genetic diversity of a population
--  Predict the direction of change to the level of genetic diversity in a population due to mutation, gene flow, and genetic drift (bottle neck and founder effect)
-- (Bonus Challenge) List the basic steps in allopatric speciation (and apply them to unfamiliar scenarios)
+- List the basic steps in allopatric speciation (and apply them to unfamiliar scenarios)
 
 
 <aside>
 💡 Associated VCAA Study Design Dot Points:               <ul> <i> 
-<li> the qualitative treatment of the causes of changing allele frequencies in a population’s gene pool including types of mutations (point, frameshift, block) as a source of new alleles 
-</li>
-<li> 
-environmental selection pressures on phenotypes as the mechanism for natural selection, gene flow, and genetic drift (bottleneck and founder effects) and the biological consequences of such changes in terms of increased or reduced genetic diversity 
-</li>              
 <li> 
 processes of evolution including through the action of mutations and different selection pressures on a fragmented population and subsequent isolating mechanisms (allopatric speciation) that prevent gene flow 
 </li>      
-<li> 
-the manipulation of gene pools through selective breeding programs 
-</li>
+
 </i> </ul> 
 
 </aside>
@@ -47,33 +38,6 @@ the manipulation of gene pools through selective breeding programs
 <br>
 <br> 
 
-# Introductory activity
-
-Match the definition to the evolution word (Polleverywhere competition)
-
-[PollEv.com/isobelbeasle182](http://pollev.com/isobelbeasle182)
-
-
-
-<details>
-<summary> <b> Reveal answers </b> </summary>
-
- **Gene Pool:**
-
-- “the complete set of alleles present in a population”
-
-**Allele Frequency**
-
-- Incidence or proportion of genes which have a particular allele within a population
-
-**Genetic Diversity**
-
-- Amount of variation within a gene pool
-    - *How many different alleles?*
-    - *What frequency do the alleles occur?*
-
-</details> 
-<br>
 
 # Species:
 
