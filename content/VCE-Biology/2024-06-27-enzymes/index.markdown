@@ -180,6 +180,20 @@ At temperatures above the optimal temperature, enzymes may be denatured
 <br>
 <br>
 
+# Practice questions
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/UCOcQ53GKTDo3yLqepwXX/respond" width="800px" height="600px"></iframe>
+
+
+<details> <summary> Reveal prior student answers </summary>
+
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/RoXzAHZqmYM2lTyi369kt?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+</details>
+
+<br>
+<br>
+
 ## Applying our enzyme knowledge to photosynthesis
 
 Coenzymes: NADH, NADPH, ADP, ATP
@@ -191,11 +205,11 @@ Coenzymes: NADH, NADPH, ADP, ATP
 Hint: here's the overall photosynthesis equation: 
 
 Word equation:
-$$ \text{Carbon Dixode} + \text{Water}  →^{light}  \text{Oxygen} + \text{Glucose}   $$ 
+$$ \text{Carbon Dixode} + \text{Water} \text{ }   \xrightarrow{\text{light}} \text{ }   \text{Oxygen} + \text{Glucose}  $$ 
 
 Chemical equation:
 
-$$ 6CO_{2} + 6H_{2}O →^{light}  6O_{2} + C_{6}H_{12}O_{6} + 36ATP $$
+$$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + C_{6}H_{12}O_{6} + 36ATP $$
 
 <br>
 
@@ -246,9 +260,16 @@ Less important*:
 </details> 
 
 
+## Cellular respiration test question
+
+<iframe src="https://pollev-embeds.com/clickable_images/Yav1gZYQt0o7Hu1drMRrQ/respond" width="800px" height="600px"></iframe>
 
 
+<details> <summary> Reveal answers </summary>
 
+<iframe src="https://embed.polleverywhere.com/clickable_images/NHYrV8vDL2n9fA5ybId1r?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+</details>
 <br>
 <br>
 <br>
