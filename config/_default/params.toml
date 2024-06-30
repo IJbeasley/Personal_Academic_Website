@@ -95,7 +95,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "isobel.beasley@unimelb.edu.au"
+email = ""
 phone = ""
 
 # Address
@@ -119,7 +119,7 @@ appointment_url = []
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter@", link = "https://https://twitter.com/ijbeasley"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter@", link = "https://twitter.com/ijbeasley"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "graduation-cap", icon_pack = "fas", name = "Scholar", link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"},  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
