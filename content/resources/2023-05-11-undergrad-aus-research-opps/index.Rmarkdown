@@ -4,7 +4,7 @@ title: Undergraduate Biomedical and Biological research opportunities
 author: 'Isobel'
 date: '2023-05-11'
 slug: undergrad-aus-research-opps
-categories: ['Resources', 'Research', 'Opportunities']
+categories: ['Resources', 'Research', 'Advice', 'Opportunities']
 tags: ['Scholarships', 'Applications', 'Funding', 'Undergraduate Research', 'Student Resources', 'Research Training', 'Internship Deadlines', 'Australian Universities']
 subtitle: 'A list of opportunities for Australian undergraduates interested in getting research experience'
 summary: "An attempt to collate together paid research opportunities available to undergraduate students in Australia (primarily in Melbourne)"
@@ -26,11 +26,14 @@ These frustrations led me to develop a list of rough deadlines and summarize inf
 
 I was prompted to update this list once again last year when I was approached by an undergraduate student who was trying to find research opportunities. As this list helped me and this student in our quests to get research experience, I decided to also share it below in the hope it might help at least one other Australian student with the same goal!
 
-**Disclaimer:** The below list is far from complete, so please only use it as a starting point - not a definite source of information. I last checked the accuracy of information and links in June 2023; since this date, the program information (including deadlines) may have changed, or the research program may no longer be running. It's also not comprehensive, so there are undoubtedly more opportunities to discover out there! As I developed it for myself while I was an undergraduate in Melbourne, the below list unsurprisingly focuses on opportunities for Melbourne and undergraduate students. Please consider these limitations when you use this list, and check the program links (and Google if the links have expired) for the latest application deadline, eligibility criteria, and program information. 
+<details> <summary> <b> Disclaimer: </b>  </summary> 
+<br>
+The below list is far from complete, so please only use it as a starting point - not a definite source of information. I last checked the accuracy of information and links in June 2023; since this date, the program information (including deadlines) may have changed, or the research program may no longer be running. It's also not comprehensive, so there are undoubtedly more opportunities to discover out there! As I developed it for myself while I was an undergraduate in Melbourne, the below list unsurprisingly focuses on opportunities for Melbourne and undergraduate students. Please consider these limitations when you use this list, and check the program links (and Google if the links have expired) for the latest application deadline, eligibility criteria, and program information. 
+
+</details>
 
 Now that I've provided you with this declaimer, without further ado, and in no particular order here is the list of research opportunities I developed: 
 
-<br>
 <br>
 
 ## **Biological and Biomedical Opportunities**
@@ -180,7 +183,7 @@ https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate
 <br>
 <br>
 
-## Maths Focused Research Opportunities
+## Maths and Statistics Opportunities
 
 The following opportunities are designed for Mathematics students but allow students to take on Biological projects with a strong maths or statistics focus. 
 
