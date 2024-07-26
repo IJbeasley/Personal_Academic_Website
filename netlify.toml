@@ -10,18 +10,28 @@ package = "@netlify/plugin-sitemap"
   buildDir = "public"
   # change sitemap index url
   baseUrl = "https://isobelbeasley.com"
+  prettyURLs = true
+  # Append missing trailing slash to pretty URL
+  trailingSlash = true
+
+  exclude = [           
+    # Files in post subfolder (old - not used in this website)
+    './posts/**',
+    './publication_themes/**'
+
+    # icons
+    '/favicon.ico'
+  ]
   
 [context.production.environment]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_prod.txt robots.txt"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
-HUGO_VERSION = "0.80.0"
 
 # netlify.toml (non-production environment)
 [context.deploy-preview]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt robots.txt"
-HUGO_VERSION = "0.80.0"
 
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt robots.txt"
-HUGO_VERSION = "0.80.0"
+
