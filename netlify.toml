@@ -33,21 +33,6 @@ package = "@netlify/plugin-sitemap"
     # icons
     '/favicon.ico'
   ]
-
-[[plugins.inputs.customEntries]]
-  url = "/"
-  changefreq = "yearly"
-  priority = 1.0
-
-[[plugins.inputs.customEntries]]
-  url = "/vce-biology/"
-  changefreq = "weekly"
-  priority = 0.8
-
-[[plugins.inputs.customEntries]]
-  url = "/research/"
-  changefreq = "monthly"
-  priority = 0.8
   
 [context.production.environment]
 HUGO_VERSION = "0.80.0"
