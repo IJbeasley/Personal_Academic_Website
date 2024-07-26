@@ -8,7 +8,9 @@ package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
   buildDir = "public"
-
+  # change sitemap index url
+  baseUrl = "https://isobelbeasley.com"
+  
 [context.production.environment]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_prod.txt robots.txt"
 HUGO_ENV = "production"
