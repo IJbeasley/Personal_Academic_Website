@@ -31,8 +31,13 @@ package = "@netlify/plugin-sitemap"
     './publication_themes/**',
     './author/**/',
 
-    # icons
-    '/favicon.ico'
+    '/favicon.ico',
+    './event/**',
+    './media/**',
+    './js/**',
+    './css/**',
+
+    
   ]
   
 [context.production.environment]
