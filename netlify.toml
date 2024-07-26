@@ -36,7 +36,12 @@ package = "@netlify/plugin-sitemap"
     './media/**',
     './js/**',
     './css/**',
+    './blank_type/**/',
+    './admin/',
 
+    './js/vendor/reveal.js/plugin/notes/notes/',
+    './author/',
+    './blank_type/'
     
   ]
   
