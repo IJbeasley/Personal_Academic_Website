@@ -3,6 +3,12 @@ command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/bui
 publish = "public"
 HUGO_VERSION = "0.80.0"
 
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  buildDir = "public"
+
 [context.production.environment]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_prod.txt robots.txt"
 HUGO_ENV = "production"
