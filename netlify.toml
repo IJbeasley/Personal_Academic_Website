@@ -6,15 +6,24 @@ command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/bui
 HUGO_VERSION = "0.80.0"
 
 [[plugins]]
+
 package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
+  
   buildDir = "public"
+  
   # change sitemap index url
   baseUrl = "https://isobelbeasley.com"
+
+  # default change in site: 
+  changeFreq =  "monthly"
+  priority = 0.5
+  
   prettyURLs = true
   # Append missing trailing slash to pretty URL
   trailingSlash = true
+
 
   exclude = [           
     # Files in post subfolder (old - not used in this website)
@@ -24,6 +33,21 @@ package = "@netlify/plugin-sitemap"
     # icons
     '/favicon.ico'
   ]
+
+[[plugins.inputs.customEntries]]
+  url = "/"
+  changefreq = "yearly"
+  priority = 1.0
+
+[[plugins.inputs.customEntries]]
+  url = "/vce-biology/"
+  changefreq = "weekly"
+  priority = 0.8
+
+[[plugins.inputs.customEntries]]
+  url = "/research/"
+  changefreq = "monthly"
+  priority = 0.8
   
 [context.production.environment]
 HUGO_VERSION = "0.80.0"
