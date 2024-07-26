@@ -1,8 +1,9 @@
 [build]
-HUGO_VERSION = "0.80.0"
 publish = "public"
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects && mv robots_prod.txt robots.txt"
 
+[build.environment]
+HUGO_VERSION = "0.80.0"
 
 [[plugins]]
 package = "@netlify/plugin-sitemap"
