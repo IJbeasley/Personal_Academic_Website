@@ -17,7 +17,7 @@ package = "@netlify/plugin-sitemap"
   exclude = [           
     # Files in post subfolder (old - not used in this website)
     './posts/**',
-    './publication_themes/**'
+    './publication_themes/**',
 
     # icons
     '/favicon.ico'
