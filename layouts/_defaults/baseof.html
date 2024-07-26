@@ -34,28 +34,17 @@
 
   <div class="page-body">
     {{ block "main" . }}{{ end }}
-
-    <!-- 100% privacy-first analytics -->
-    <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-    <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
     
   </div>
 
   <div class="page-footer">
     {{/* Docs and Updates layouts include the site footer in a different location. */}}
     {{ if not (in (slice "book" "docs" "updates") .Type) }}
-    
-    <!-- 100% privacy-first analytics -->
-    <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-    <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
 
-    <!-- 100% privacy-first analytics -->
-    <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-    <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
-
-      <div class="container">
+    <div class="container">
       {{ partial "site_footer" . }}
     </div>
+    
     {{ end }}
   </div>
 
@@ -63,8 +52,5 @@
 
   {{ partial "site_js" . }}
 
-<!-- 100% privacy-first analytics -->
-<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
 </body>
 </html>
