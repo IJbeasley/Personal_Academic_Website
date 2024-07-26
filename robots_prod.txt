@@ -10,3 +10,4 @@ Disallow: /.git/
 Disallow: /slides/example/
 Disallow: /.well-known/
 Disallow: /favicon.ico
+Disallow: /author/
