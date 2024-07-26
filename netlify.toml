@@ -29,6 +29,7 @@ package = "@netlify/plugin-sitemap"
     # Files in post subfolder (old - not used in this website)
     './posts/**',
     './publication_themes/**',
+    './author/**/',
 
     # icons
     '/favicon.ico'
