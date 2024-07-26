@@ -11,3 +11,7 @@ Disallow: /slides/example/
 Disallow: /.well-known/
 Disallow: /favicon.ico
 Disallow: /author/
+Disallow: /js/
+Disallow: /css/
+Disallow: /event/
+Disallow: /media/
