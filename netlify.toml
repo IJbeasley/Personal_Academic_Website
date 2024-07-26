@@ -2,18 +2,22 @@
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects"
 publish = "public"
 HUGO_VERSION = "0.80.0"
+command = "mv robots_prod.txt robots.txt"
 
 [context.production.environment]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 HUGO_VERSION = "0.80.0"
+command = "mv robots_prod.txt robots.txt"
 
-# netlify.toml
+# netlify.toml (non-production environment)
 [context.deploy-preview]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
 HUGO_VERSION = "0.80.0"
+command = "mv robots_non_prod.txt robots.txt"
 
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
 HUGO_VERSION = "0.80.0"
+command = "mv robots_non_prod.txt robots.txt"
