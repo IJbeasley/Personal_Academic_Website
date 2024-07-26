@@ -1,2 +1,12 @@
 User-agent: *
-Disallow:
+Sitemap: https://isobelbeasley.com/sitemap.xml 
+Disallow: /post/
+Disallow: /publication_themes/
+Disallow: /tag/source-themes/
+Disallow: /old
+Disallow: /category/eurkaryotic/
+Disallow: /wordpress
+Disallow: /.git/
+Disallow: /slides/example/
+Disallow: /.well-known/
+Disallow: /favicon.ico
