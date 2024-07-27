@@ -8,8 +8,8 @@ address:
   street: ""
 
 all_day: true
-date: ""
-date_end: "2022-02-15T12:00:00Z"
+date: "2022-02-15T12:00:00Z"
+date_end: ""
 
 authors: ["Isobel Beasley", "Christina Azodi", "Irene Gallego Romero"]
 
@@ -29,14 +29,14 @@ links:
 #  icon_pack: far
 #  name: Slides
 #  url: media/ABACBS_2021_Slides.pdf
-location: "Australia"
+location: "Lorne Genome"
 
 projects: 
 - pop_spec_eqtl
 publishDate: "2022-02-13T14:00:00Z"
 
 slides: 
-summary: "Poster Presentation - Lorne Genome Conference"
+summary: "Poster Presentation"
 tags: ['eQTLs', 'Genomics', 'Diversity', 'Ancestry', 'Machine Learning']
 title: " Predicting the cross-population portability of human expression quantitative trait loci (eQTLs)"
 url_code: ""
