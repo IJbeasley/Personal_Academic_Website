@@ -1,6 +1,6 @@
 ---
 date: "2021-07-19T00:00:00Z"
-external_link: "https://academic.oup.com/evlett/article/6/4/319/6697610"
+external_link: 
 image:
   caption: "Figure 1: Curated published estimates of species-specific sex-biased mutation rates, expressed as the ratio of male to female rates "
   focal_point: Smart
@@ -15,6 +15,7 @@ links:
   url: https://github.com/IJbeasley/unguarded_x_journal_club
 slides: 
 summary: "Collaboration with Tim Connallon, Yasmine McDonough & Filip Ruzicka (August 2021 - February 2022)"
+categories: ['Research', 'Graduate', 'Masters', '2021', 'Monash']
 tags:
 - Evolutionary Theory
 - R
