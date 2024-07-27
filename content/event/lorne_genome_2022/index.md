@@ -8,9 +8,9 @@ address:
   street: ""
 all_day: false
 authors: ["Isobel Beasley, Christina Azodi, Irene Gallego Romero"]
-date: "2022-02-13T12:00:00Z"
+date: ""
 date_end: "2022-02-15T12:00:00Z"
-event: "Lorne Genome Conference"
+event: "Lorne Genome 2022"
 event_url: https://www.lornegenome.org/
 featured: false
 image: 
@@ -37,4 +37,5 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+view: card
 ---

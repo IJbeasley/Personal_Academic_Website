@@ -32,11 +32,12 @@ projects:
 - pop_spec_eqtl
 publishDate: "2021-11-11T11:00:00Z"
 slides: 
-summary: "Oral Presentation - European Molecular Biology Laboratory (EBML) Australia Postgraduate Symposium"
+summary: "Oral Presentation - EBML Australia Postgraduate Symposium 2021"
 tags: ['eQTLs', 'Genomics', 'Diversity', 'Ancestry', 'Machine Learning']
 title: "Predicting the cross-population portability of human expression quantitative trait loci (eQTLs) "
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+view: card
 ---
