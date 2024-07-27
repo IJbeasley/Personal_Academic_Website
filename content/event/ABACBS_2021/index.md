@@ -36,7 +36,7 @@ projects:
 - pop_spec_eqtl
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: "Oral Presentation - Australian Bioinformatics And Computational Biology Society (ABACBS) Conference"
+summary: "Oral Presentation - ABACBS 2021"
 tags: ['eQTLs', 'Genomics', 'Diversity', 'Ancestry', 'Machine Learning']
 title: " Predicting the cross-population portability of human expression quantitative trait loci (eQTLs)"
 url_code: ""
