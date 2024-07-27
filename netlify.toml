@@ -1,19 +1,64 @@
 [build]
-command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects"
 publish = "public"
+command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects && mv robots_prod.txt /opt/build/repo/public/robots.txt"
+
+[build.environment]
 HUGO_VERSION = "0.80.0"
 
+[[plugins]]
+
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  
+  buildDir = "public"
+  
+  # change sitemap index url
+  baseUrl = "https://isobelbeasley.com"
+
+  # default change in site: 
+  changeFreq =  "monthly"
+  priority = 0.7
+  
+  prettyURLs = true
+  # Append missing trailing slash to pretty URL
+  trailingSlash = true
+
+
+  exclude = [           
+    # Files in post subfolder (old - not used in this website)
+    './posts/**',
+    './publication_themes/**',
+    './author/**/',
+    './Public/home/js/**',
+    './static/**',
+    './vce-biology/**/photos/',
+
+    '/favicon.ico',
+    './event/**',
+    './media/**',
+    './js/**',
+    './css/**',
+    './blank_type/**/',
+    './admin/',
+
+    './js/vendor/reveal.js/plugin/notes/notes/',
+    './author/',
+    './blank_type/'
+    
+  ]
+  
 [context.production.environment]
-command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
+HUGO_VERSION = "0.80.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
-HUGO_VERSION = "0.80.0"
 
-# netlify.toml
+command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_prod.txt /opt/build/repo/public/robots.txt"
+
+# netlify.toml (non-production environment)
 [context.deploy-preview]
-command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
-HUGO_VERSION = "0.80.0"
+command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /opt/build/repo/public/robots.txt"
 
 [context.branch-deploy]
-command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
-HUGO_VERSION = "0.80.0"
+command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /opt/build/repo/public/robots.txt"
+
