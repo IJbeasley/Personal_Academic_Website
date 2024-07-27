@@ -29,7 +29,7 @@ links:
 #  icon_pack: far
 #  name: Slides
 #  url: media/ABACBS_2021_Slides.pdf
-location: ""
+location: "Australia"
 
 projects: 
 - pop_spec_eqtl
