@@ -79,14 +79,14 @@ The most glaring obstacle to the more widespread use of personalised medicine is
 One way to improve the equitability of these precision medicine models is to better understand which genetic associations are likely to differ across human groups and why they differ. Towards this overarching goal, I developed machine learning models that predict whether or not one type of genetic association (expression quantitative trait loci, eQTL) is likely to be different across human groups.
 
 
-<img src="/media/thesis_method_figure.png" width="689.25px" height="900px" alt="Figure of the method steps taken">
+<img src="/media/thesis_methods_figure.png" width="689.25px" height="900px" alt="Figure of the method steps taken">
 <b> Method Workflow Steps </b> 
 <br> 
-<b> (A): </b>  Integrate summary statistics from published eQTL studies. <br>
-<b> (B): </b> Classify gene-SNP (single-nucleotide polymorphisms) pairs as being eQTLs or not, and then, eQTLs as being portable across populations, or not. <br>
-<b> (C): </b> Use publicly available datasets to obtain, and engineer the genomic features of eQTLs. <br>
-<b> (D): </b> Use ~10% of these eQTLs to train machine learning models. <br>
-<b> (E): </b> Test models performance, use the best model to investigate features which differentiate portable and non-portable eQTLs.
+<b> (A): </b>  Integrate summary statistics from published eQTL studies. </b> <br>
+<b> (B): </b> Classify gene-SNP (single-nucleotide polymorphisms) pairs as being eQTLs or not, and then, eQTLs as being portable across populations, or not. </b> <br>
+<b> (C): </b> Use publicly available datasets to obtain, and engineer the genomic features of eQTLs. </b> <br>
+<b> (D): </b> Use ~10% of these eQTLs to train machine learning models. </b> <br>
+<b> (E): </b> Test models performance, use the best model to investigate features which differentiate portable and non-portable eQTLs. </b> 
 </img> 
 
 I first tested a variety of approaches to developing these models to uncover what approach would produce the highest-performing models. Then, I used this preferred approach to create models and investigate what information they used to successfully identify which genetic associations are different across human populations.
