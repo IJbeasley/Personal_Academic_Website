@@ -29,6 +29,7 @@ slides:
 summary: "Poster Presentation - ABACBS"
 tags: ['eQTLs', 'Genomics', 'Diversity', 'Ancestry', 'Machine Learning']
 title: "Complex genomic patterns underpin human population differences in expression quantitative trait loci (eQTLs)"
+url: '/poster/abacbs_2022/'
 url_code: ""
 url_pdf: ""
 url_slides: ""

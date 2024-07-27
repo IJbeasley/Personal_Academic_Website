@@ -39,6 +39,7 @@ slides:
 summary: "Poster Presentation"
 tags: ['eQTLs', 'Genomics', 'Diversity', 'Ancestry', 'Machine Learning']
 title: " Predicting the cross-population portability of human expression quantitative trait loci (eQTLs)"
+url: '/poster/lorne_genome_2022/'
 url_code: ""
 url_pdf: ""
 url_slides: ""

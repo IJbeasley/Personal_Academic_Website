@@ -39,6 +39,7 @@ slides:
 summary: "Oral Presentation - EBML Australia Postgraduate Symposium"
 tags: ['eQTLs', 'Genomics', 'Diversity', 'Ancestry', 'Machine Learning']
 title: "Predicting the cross-population portability of human expression quantitative trait loci (eQTLs) "
+url: '/talk/eaps_2021/'
 url_code: ""
 url_pdf: ""
 url_slides: ""
