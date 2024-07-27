@@ -4,7 +4,7 @@ https://isobelbeasley.netlify.app/ https://isobelbeasley.com/ 301!
 https://isobelbeasley.netlify.app/ http://isobelbeasley.com/ 301!
 https://63369a0bedce3b48c23cf92b--isobelbeasley.netlify.app/ https://isobelbeasley.com/ 301!
 https://63369a0bedce3b48c23cf92b--isobelbeasley.netlify.app/ https://isobelbeasley.com/ 301!
-https://main--isobelbeasley.netlify.app/authors/ https://isobelbeasley.com/ /authors/ 301!
+https://main--isobelbeasley.netlify.app/authors/ https://isobelbeasley.com/authors/ 301!
 https://main--isobelbeasley.netlify.app/cv/ https://isobelbeasley.com/cv/ 301!
 https://main--isobelbeasley.netlify.app/research/ https://isobelbeasley.com/research/ 301!
 https://main--isobelbeasley.netlify.app/resources/ https://isobelbeasley.com/resources/ 301!
