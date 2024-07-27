@@ -9,7 +9,7 @@ address:
   region: ""
   street: ""
 all_day: true
-authors: ["Isobel Beasley, Christina Azodi, Irene Gallego Romero"]
+authors: ["Isobel Beasley", "Christina Azodi", "Irene Gallego Romero"]
 date: "2021-11-23T14:00:00Z"
 date_end: ""
 event: "Australian Bioinformatics And Computational Biology Society (ABACBS) Conference"

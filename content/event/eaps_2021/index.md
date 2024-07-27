@@ -9,7 +9,7 @@ address:
   region: ""
   street: ""
 all_day: true
-authors: ["Isobel Beasley, Christina Azodi, Irene Gallego Romero"]
+authors: ["Isobel Beasley", "Christina Azodi", "Irene Gallego Romero"]
 date: "2021-11-11T11:00:00Z"
 date_end: ""
 event: "European Molecular Biology Laboratory (EBML) Australia Postgraduate Symposium"

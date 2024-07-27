@@ -7,7 +7,7 @@ address:
   region: ""
   street: ""
 all_day: true
-authors: ["Isobel Beasley, Christina Azodi, Irene Gallego Romero"]
+authors: ["Isobel Beasley", "Christina Azodi", "Irene Gallego Romero"]
 date: "2022-11-28T12:00:00Z"
 date_end: ""
 event: "ABACBS 2022"
