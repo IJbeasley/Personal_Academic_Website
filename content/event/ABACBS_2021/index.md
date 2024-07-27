@@ -8,7 +8,7 @@ address:
   postcode: ""
   region: ""
   street: ""
-all_day: false
+all_day: true
 authors: ["Isobel Beasley, Christina Azodi, Irene Gallego Romero"]
 date: "2021-11-23T14:00:00Z"
 date_end: ""
@@ -36,7 +36,7 @@ projects:
 - pop_spec_eqtl
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: "Oral Presentation - ABACBS 2021"
+summary: "Oral Presentation - ABACBS"
 tags: ['eQTLs', 'Genomics', 'Diversity', 'Ancestry', 'Machine Learning']
 title: " Predicting the cross-population portability of human expression quantitative trait loci (eQTLs)"
 url_code: ""

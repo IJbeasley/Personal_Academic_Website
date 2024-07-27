@@ -6,7 +6,7 @@ address:
   postcode: ""
   region: ""
   street: ""
-all_day: false
+all_day: true
 authors: ["Isobel Beasley, Christina Azodi, Irene Gallego Romero"]
 date: "2022-11-28T12:00:00Z"
 date_end: ""
