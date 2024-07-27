@@ -16,7 +16,7 @@ links:
   url: "media/ESEB_2019_poster_Filip_Ruzicka_Monash_University.pdf" 
 slides: 
 summary: "A short winter vacation project investigating the association between inversions and sexually antagonistic genes, supervised by: [Dr. Filip Ruzicka](https://orcid.org/0000-0001-9089-624X) and [Dr. Tim Connallon](https://connallonresearch.wordpress.com/) (June 2019)  "
-categories: ['Research', 'Undergraduate', '2019', 'Monash']
+categories: ['Research', 'Undergraduate', 'Monash']
 tags:
 - Evolutionary Theory
 - Polymorphism
