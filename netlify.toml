@@ -18,7 +18,7 @@ package = "@netlify/plugin-sitemap"
 
   # default change in site: 
   changeFreq =  "monthly"
-  priority = 0.5
+  priority = 0.7
   
   prettyURLs = true
   # Append missing trailing slash to pretty URL
@@ -30,6 +30,9 @@ package = "@netlify/plugin-sitemap"
     './posts/**',
     './publication_themes/**',
     './author/**/',
+    './Public/home/js/**',
+    './static/**',
+    './vce-biology/**/photos/',
 
     '/favicon.ico',
     './event/**',
