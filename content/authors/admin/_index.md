@@ -1,11 +1,30 @@
 ---
-authors:
-- admin
+title: Isobel Beasley
+
+first_name: Isobel
+last_name: Beasley
+
+superuser: true
+highlight_name: true 
+
+role: PhD Student
+
+organizations:
+- name:  University of California, San Francisco (UCSF)
+  url: https://bmi.ucsf.edu/people/students
+  
+laboratory: 
+- name: 
+- url: 
 
 bio: "Genetics, Statistics, Educational Inclusion and Diversity"
 
 education:
   courses:
+  - course: PhD 
+    specialisation: "Biological & Medical Informatics"
+    institution: University of California, San Francisco
+    year: 2024 - 
   - course: Master of Science 
     specialisation: "BioSciences 🔬"
     institution: The University of Melbourne
@@ -19,8 +38,6 @@ education:
     institution: The University of Melbourne
     year: 2017 - 2020
     
-email: "isobel.beasley@unimelb.edu.au"
-
 highlight_name: true 
 
 interests:
@@ -30,19 +47,14 @@ interests:
 - Educational Inclusion
 - Genetic Regulation and Epigenetics
 
-organizations:
-- name: The University of Melbourne
-  url: https://www.unimelb.edu.au/
-laboratory: 
-- name: Gallego Romero Lab
-- url: https://igr-lab.science.unimelb.edu.au/
 
-role: Master of Science Graduate
 
-social:
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ibeasley@student.unimelb.edu.au
+  link: mailto:isobelbeasley@ucsf.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ijbeasley
@@ -62,10 +74,6 @@ social:
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
 
-superuser: true
-
-title: Isobel Beasley
-#- url: https://isobelbeasley.com
 ---
 
 I'm an interdisciplinary scientist and Master of Science graduate (BioSciences).
