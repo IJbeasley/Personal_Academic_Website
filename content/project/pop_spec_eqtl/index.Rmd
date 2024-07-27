@@ -2,7 +2,7 @@
 date: "2021-07-20T00:00:00Z"
 external_link: ""
 lastmod:  "2024-01-27T00:00:00Z"
-categories: ['Research', 'Graduate', 'Masters', '2021', '2022']
+categories: ['Research', 'Graduate', 'Masters', 'Thesis']
 image: 
   placement: 1
   alt_text: "Created with [BioRender.com](BioRender.com)"
@@ -17,7 +17,7 @@ links:
 - icon: globe
   icon_pack: fas
   name: "workflowr page"
-  url: https://igr-lab.pages.gitlab.unimelb.edu.au/pop_spec_eqtl_ml/index.html
+  url: https://igr-lab.pages.gitlab.unimelb.edu.au/pop_spec_eqtl_ml/thesis_index.html
 # - icon: biorxiv
 #   icon_pack: aiBiocManager::install("rhdf5filters")
 #   name: Preprint
@@ -43,7 +43,7 @@ tags:
 title: "Predicting the cross population portability of human eQTLs"
 subtitle: "Master of Science Thesis Project supervised by: [Dr. Irene Gallego Romero](https://www.svi.edu.au/laboratories/human-genomics-and-evolution/) & [Dr. Christina Azodi](https://azodichr.github.io/)"
 url_code: 
-url_pdf: 
+url_pdf: Predicting the cross-population portability of human eQTLs using machine learning 
 url_confererence: 
 url_slides: ""
 url_video: ""
@@ -94,6 +94,8 @@ I first tested a variety of approaches to developing these models to uncover wha
 <br>
 
 ### Conclusions 
+
+I demonstrated that applying a multi-adaptive shrinkage method (mashr) to these summary statistics improved power, and increased eQTL and eGene sharing across populations. I found that of all machine learning algorithms tested, decision-tree based classifiers (Random Forest, Gradient Boosting) were best able to recapitulate portable and non-portable eQTLs classes on an independent held-out test set. Then, after uncovering the optimal machine learning training set up, I trained a model for every possible pairwise population portability comparison (median improvement over random chance auPRC= 0.073 across eight models in two cell types). Applying Leave-One-Feature-Out feature importance procedures to these models found no feature category, or set of features, had a significant or consistent greatest impact on model performance. Finally, by comparing my datasets with the set of 6 GTEx identified population-biased whole-blood eQTLs, I uncovered a plausible example of an eQTL portable in a tissue-dependent manner (rs2299818_ENSG00000160221).
 
 <br> 
 
