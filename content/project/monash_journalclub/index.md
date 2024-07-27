@@ -15,7 +15,7 @@ links:
   url: https://github.com/IJbeasley/unguarded_x_journal_club
 slides: 
 summary: "Collaboration with Tim Connallon, Yasmine McDonough & Filip Ruzicka (August 2021 - February 2022)"
-categories: ['Research', 'Graduate', 'Masters', '2021', 'Monash']
+categories: ['Research', 'Graduate', 'Masters', 'Monash']
 tags:
 - Evolutionary Theory
 - R
