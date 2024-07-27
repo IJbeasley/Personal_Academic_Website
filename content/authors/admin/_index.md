@@ -10,14 +10,14 @@ highlight_name: true
 role: PhD Student
 
 organizations:
-- name:  University of California, San Francisco (UCSF)
+- name:  University of California, San Francisco
   url: https://bmi.ucsf.edu/people/students
   
 laboratory: 
 - name: 
 - url: 
 
-bio: "Genetics, Statistics, Educational Inclusion and Diversity"
+bio: "Genetics, Statistics, Educational Inclusion & Diversity"
 
 education:
   courses:
@@ -27,15 +27,15 @@ education:
     year: 2024 - 
   - course: Master of Science 
     specialisation: "BioSciences 🔬"
-    institution: The University of Melbourne
+    institution: University of Melbourne
     year: 2021 - 2022
   - course: Bachelor of Biomedicine 
     specialisation: "Genetics 🧬"
-    institution: The University of Melbourne
+    institution: University of Melbourne
     year: 2017 - 2020
   - course: Diploma in Mathematical Sciences
-    specialisation: "Statistics and Stochastic Processes 📊 "
-    institution: The University of Melbourne
+    specialisation: "Statistics & Stochastic Processes 📊 "
+    institution: University of Melbourne
     year: 2017 - 2020
     
 highlight_name: true 
