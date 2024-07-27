@@ -8,7 +8,7 @@ address:
   postcode: ""
   region: ""
   street: ""
-all_day: false
+all_day: true
 authors: ["Isobel Beasley, Christina B Azodi, Irene Gallego Romero"]
 date: "2021-11-11T11:00:00Z"
 date_end: ""
@@ -19,6 +19,10 @@ image:
   caption: 
   focal_point: Right
 links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/ijbeasley
 - icon: twitter
   icon_pack: fab
   name: Relevant tweets
