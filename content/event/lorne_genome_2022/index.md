@@ -7,7 +7,7 @@ address:
   region: ""
   street: ""
 all_day: true
-authors: ["Isobel Beasley, Christina Azodi, Irene Gallego Romero"]
+authors: ["Isobel Beasley", "Christina Azodi", "Irene Gallego Romero"]
 date: ""
 date_end: "2022-02-15T12:00:00Z"
 event: "Lorne Genome 2022"
