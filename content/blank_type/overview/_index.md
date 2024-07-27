@@ -1,7 +1,7 @@
 ---
 title: Hi, I'm Isobel!
-subtitle:  'Interdisciplinary Master of Science Graduate'
-subsubtitle: 'Genetics, Statistics, and Coding'
+subtitle:  'Biological and Medical Informatics PhD Student'
+subsubtitle: 'University of California, San Francisco (UCSF)'
 social:
 - icon: orcid
   icon_pack: ai
