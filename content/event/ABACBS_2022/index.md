@@ -21,12 +21,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/ijbeasley
-location: ""
+location: "ABACBS"
 projects: 
 - pop_spec_eqtl
 publishDate: "2023-11-29T14:00:00Z"
 slides: 
-summary: "Poster Presentation - ABACBS"
+summary: "Poster Presentation"
 tags: ['eQTLs', 'Genomics', 'Diversity', 'Ancestry', 'Machine Learning']
 title: "Complex genomic patterns underpin human population differences in expression quantitative trait loci (eQTLs)"
 url: '/poster/abacbs_2022/'

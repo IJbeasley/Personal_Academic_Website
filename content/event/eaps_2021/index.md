@@ -31,12 +31,12 @@ links:
   icon_pack: far
   name: Slides
   url: media/EAPS_2021_Slides.pdf
-location: ""
+location: "EBML Australia Postgraduate Symposium"
 projects: 
 - pop_spec_eqtl
 publishDate: "2021-11-11T11:00:00Z"
 slides: 
-summary: "Oral Presentation - EBML Australia Postgraduate Symposium"
+summary: "Oral Presentation"
 tags: ['eQTLs', 'Genomics', 'Diversity', 'Ancestry', 'Machine Learning']
 title: "Predicting the cross-population portability of human expression quantitative trait loci (eQTLs) "
 url: '/talk/eaps_2021/'

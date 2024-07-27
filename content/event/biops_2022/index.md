@@ -24,12 +24,12 @@ links:
   name: Follow
   url: https://twitter.com/ijbeasley
   
-location: ""
+location: "BioPS Symposium"
 projects: 
 - pop_spec_eqtl
 
 slides: 
-summary: "Oral Presentation - BioPS"
+summary: "Oral Presentation"
 tags: ['eQTLs', 'Genomics', 'Diversity', 'Ancestry', 'Machine Learning']
 title: " Predicting the cross-population portability of human expression quantitative trait loci (eQTLs)"
 url: '/talk/biops_2022/'
