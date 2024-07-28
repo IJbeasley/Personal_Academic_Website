@@ -13,6 +13,8 @@ Disallow: /wordpress
 Disallow: /.git/
 Disallow: /slides/example/
 Disallow: /.well-known/ 
+Disallow: /.well-known/acme-challenge/ 
+Disallow: /category/endoplasmic-reticulum/
 Disallow: /favicon.ico
 Disallow: /Public/home/js/
 Disallow: /js/ 
