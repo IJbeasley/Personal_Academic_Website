@@ -34,17 +34,22 @@ package = "@netlify/plugin-sitemap"
     './static/**',
     './vce-biology/**/photos/',
 
-    '/favicon.ico',
+    './favicon.ico',
+    './inputs.php',
+    './simple.php',
+    './category/endoplasmic-reticulum/',
     './event/**',
     './media/**',
     './js/**',
     './css/**',
     './blank_type/**/',
     './admin/',
+    
 
     './js/vendor/reveal.js/plugin/notes/notes/',
     './author/',
     './blank_type/'
+    './.well-known/**'
     
   ]
   
