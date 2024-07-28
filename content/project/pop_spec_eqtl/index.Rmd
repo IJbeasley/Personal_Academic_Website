@@ -5,8 +5,8 @@ lastmod:  "2024-01-27T00:00:00Z"
 categories: ['Research', 'Graduate', 'Masters', 'Thesis']
 image: 
   placement: 1
-  alt_text: "Created with [BioRender.com](BioRender.com)"
-  caption: "Created with [BioRender.com](BioRender.com)"
+  alt_text: "Created with [BioRender.com](https:://BioRender.com/)"
+  caption: "Created with [BioRender.com](https://BioRender.com/)"
   focal_point: Center
   preview_only: true
 links:
