@@ -30,4 +30,4 @@ A <a href="#education" style="color:#D90429"> full CV outline (last updated Nove
 
 Skip to CV subsections: <a href="#education" style="color:#D90429">Education</a>, <a href="#publications" style="color:#D90429">Publications</a>, <a href="#scholarships" style="color:#D90429"> Scholarships</a>, <a href="#awards" style="color:#D90429">Awards</a>,  <a href="#talks" style="color:#D90429">Conference Presentations</a>, <a href="#research_experience" style="color:#D90429">Research Experience</a>, <a href="#vol_experience" style="color:#D90429">Voluntary Experience</a>, <a href="#cv_skills" style="color:#D90429">Key Skills</a>.
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTI-rQTaur1t8uwrgc_s4luOqasHcZ6WIZ3Nb2GW3cDQ1rSQzo7pt7P6sC3O1n4LA/pub?embedded=true"></iframe>
+<iframe style="border: none;" width = "100%" height = "80%" src="https://docs.google.com/document/d/e/2PACX-1vTI-rQTaur1t8uwrgc_s4luOqasHcZ6WIZ3Nb2GW3cDQ1rSQzo7pt7P6sC3O1n4LA/pub?embedded=true"></iframe>
