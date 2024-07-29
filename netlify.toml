@@ -37,20 +37,31 @@ package = "@netlify/plugin-sitemap"
     './favicon.ico',
     './inputs.php',
     './simple.php',
+    './ss.php',
+    './/xmlrpc.php',
+    
     './category/endoplasmic-reticulum/',
+    './category/organelles/',
+    './author/christina-b-azodi/',
+    './author/',
+    './wp-content/plugins/**',
+    './wp-content/**',
+    
     './event/**',
     './media/**',
+    
     './js/**',
+    './js/vendor/reveal.js/plugin/notes/notes/',
     './css/**',
     './blank_type/**/',
     './admin/',
-    
-
-    './js/vendor/reveal.js/plugin/notes/notes/',
-    './author/',
     './blank_type/',
-    './.well-known/**'
-    
+    './.well-known/**',
+    './/2018/**',
+    './/test/**',
+    './/shop/**',
+    '//**/wp-includes/**'
+
   ]
   
 [context.production.environment]
