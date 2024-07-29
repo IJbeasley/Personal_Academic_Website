@@ -4,7 +4,7 @@ header:
   image: ""
 title: Research resources
 type: no_title
-view: 1
+view: card
 design:
   columns: 1
   spacing:
