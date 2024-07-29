@@ -1,27 +1,27 @@
 ---
 title: Research 
 social:
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-6857-1692/
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/7qb8m/
-- icon: envelope
-  icon_pack: fas
-  link: mailto:ibeasley@student.unimelb.edu.au
-- icon: github
-  icon_pack: fab
-  link: https://github.com/IJbeasley
-- icon: gitlab
-  icon_pack: fab
-  link: https://gitlab.unimelb.edu.au/ibeasley
 - icon: twitter
   icon_pack: fab
   link: https://mobile.twitter.com/ijbeasley
 - icon: stop
   icon_pack: fas
   link: https://bsky.app/profile/ijbeasley.bsky.social
+- icon: envelope
+  icon_pack: fas
+  link: mailto:ibeasley@student.unimelb.edu.au
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6857-1692/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/IJbeasley
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.unimelb.edu.au/ibeasley
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/7qb8m/
 ---
 
 <h2 style = "color:black" > Research Projects Overview </h2>
