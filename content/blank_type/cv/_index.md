@@ -3,7 +3,7 @@ title: CV
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ijbeasley
+  link: https://x.com/ijbeasley
 - icon: fa-bluesky
   icon_pack: fab
   link: https://bsky.app/profile/ijbeasley.bsky.social

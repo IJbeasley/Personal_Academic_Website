@@ -3,7 +3,7 @@ title: Research
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://mobile.twitter.com/ijbeasley
+  link: https://x.com/ijbeasley
 - icon: stop
   icon_pack: fas
   link: https://bsky.app/profile/ijbeasley.bsky.social
