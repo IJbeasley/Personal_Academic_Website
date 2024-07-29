@@ -6,7 +6,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/ijbeasley
 - icon: fa-bluesky
-  icon_pack: "fa-brands"></i>
+  icon_pack: "fa-brands"
   link: https://bsky.app/profile/ijbeasley.bsky.social
 - icon: envelope
   icon_pack: fas
@@ -23,6 +23,7 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/7qb8m/
+  
 ---
 
 A full academic CV (last updated November 2023) is below, a PDF copy of my <a href="https://docs.google.com/document/d/13CO5IZ7IKMwCNPenDHiIvh1DduCCygC82nXtTnm8i4g/export?format=pdf" style="color:#D90429"> academic CV (updated November 2023) at this link</a>. 
