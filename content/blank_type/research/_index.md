@@ -24,6 +24,10 @@ social:
   link: https://osf.io/7qb8m/
 ---
 
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-bluesky"></i>
+
+
 <h2 style = "color:black" > Research Projects Overview </h2>
 
 My current research explores the impact of different metrics on the portability of one type of genetic association: expression quantitative trait loci (eQTLs). This work builds on insights gained during <a href="/project/pop_spec_eqtl/"  style="color:#D90429"> my master's research at Melbourne University</a>; while training machine learning models to predict eQTL portability across human populations, I realised power was a significant confounder to the accurate interpretation of many studies.
