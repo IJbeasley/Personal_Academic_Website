@@ -27,40 +27,44 @@ package = "@netlify/plugin-sitemap"
 
   exclude = [           
     # Files in post subfolder (old - not used in this website)
-    './posts/**',
-    './publication_themes/**',
-    './author/**/',
-    './Public/home/js/**',
-    './static/**',
-    './vce-biology/**/photos/',
-
-    './favicon.ico',
-    './inputs.php',
-    './simple.php',
-    './ss.php',
-    './/xmlrpc.php',
-    
+    './.well-known/**',
+    './2018/**',
+    './admin/',
+    './author/',
+    './author/christina-b-azodi/',
+    './backup',
+    './blank_type/',
+    './blank_type/**',
+    './blank_type/**/',
     './category/endoplasmic-reticulum/',
     './category/organelles/',
-    './author/christina-b-azodi/',
-    './author/',
-    './wp-content/plugins/**',
-    './wp-content/**',
-    
+    './css/**',
     './event/**',
-    './media/**',
-    
+    './favicon.ico',
+    './inputs.php',
     './js/**',
     './js/vendor/reveal.js/plugin/notes/notes/',
-    './css/**',
-    './blank_type/**/',
-    './admin/',
-    './blank_type/',
-    './.well-known/**',
+    './media/**',
+    './posts/**',
+    './publication_themes/**',
+    './Public/home/js/**',
+    './simple.php',
+    './ss.php',
+    './static/**',
+    './test/**',
+    './theme/**',
+    './vce-biology/**/photos/',
+    './wp-content/**',
+    './wp-content/plugins/**',
+    './xmlrpc.php',
     './/2018/**',
-    './/test/**',
     './/shop/**',
+    './/test/**',
+    './/xmlrpc.php',
+    '**.php',
     '//**/wp-includes/**'
+  ]
+
 
   ]
   
