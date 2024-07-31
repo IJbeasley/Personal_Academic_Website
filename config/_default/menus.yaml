@@ -1,0 +1,93 @@
+
+
+
+main:
+  # - name: "Overview"
+  #   url: "#overview"
+  #   weight: 10
+
+  - name: "About Me"
+    url: "#about"
+    weight: 20
+
+  # - name: "Research Publications"
+  #   url: "#publications"
+  #   weight: 30
+
+  - name: "Research"
+    identifier: "research"
+    url: "research/"
+    weight: 40
+
+  - name: "Overview"
+    parent: "research"
+    url: "research/"
+    weight: 10
+
+  - name: "Current and completed projects"
+    parent: "research"
+    url: "research/#projects"
+    weight: 20
+
+  - name: "Master's thesis project (2021 - 2022)"
+    parent: "research"
+    url: "project/pop_spec_eqtl/"
+    weight: 30
+
+  - name: "Publications"
+    parent: "research"
+    url: "research/#publications"
+    weight: 40
+
+  - name: "Conference Presentations"
+    parent: "research"
+    url: "research/#talks"
+    weight: 50
+
+  # - name: "Submenu Item 1"
+  #   parent: "research"
+  #   url: "research/submenu1/"
+  #   weight: 10
+
+  - name: "Research resources"
+    url: "resources/"
+    weight: 50
+
+  # - name: "Research Experience"
+  #   url: "#experience"
+  #   weight: 50
+
+  - name: "VCE Biology"
+    url: "vce-biology/"
+    weight: 60
+
+  - name: "Writing"
+    identifier: "writing"
+    url: "writing/"
+    weight: 70
+
+  - name: "Academic journal articles"
+    parent: "writing"
+    url: "research/#publications"
+    weight: 10
+
+  - name: "Non-academic writing"
+    parent: "writing"
+    url: "writing/"
+    weight: 20
+
+  - name: "Science Communication"
+    url: "science-communication/"
+    weight: 80
+
+  - name: "CV"
+    url: "cv/"
+    weight: 90
+
+  # - name: "Courses"
+  #   url: "courses/"
+  #   weight: 100
+
+  # - name: "CV"
+  #   url: "media/resume.pdf"
+  #   weight: 70

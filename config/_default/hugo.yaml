@@ -1,0 +1,117 @@
+# Configuration of Hugo
+# Guide: https://wowchemy.com/docs/get-started/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+#
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
+
+# Title of your site
+title: "Isobel Beasley 🧬"
+
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl: "https://isobelbeasley.com/"
+
+theme: github.com/HugoBlox/hugo-blox-builder/starters/academic-cv
+
+# Enter a copyright notice to display in the site footer.
+# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
+copyright: ''
+
+############################
+## LANGUAGE
+############################
+
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+############################
+## Advanced options below ##
+enableGitInfo: no
+summaryLength: 30
+paginate: 10
+enableEmoji: yes
+enableRobotsTXT: yes
+disableAliases: false
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles:
+  - \.ipynb$
+  - .ipynb_checkpoints$
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+permalinks:
+  authors: /author/:slug/
+  categories: /category/:slug/
+  event: /talk/:slug/
+  publication_types: /publication-type/:slug/
+  tags: /tag/:slug/
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    - WebAppManifest
+  section:
+    - HTML
+    - RSS
+mediaTypes:
+  application/manifest+json:
+    suffixes: webmanifest
+outputFormats:
+  WebAppManifest:
+    mediaType: application/manifest+json
+    rel: manifest
+markup:
+  _merge: deep
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: no
+    lineNos: false
+  tableOfContents:
+    endLevel: 4
+    ordered: true
+    startLevel: 2
+imaging:
+  anchor: smart
+  quality: 80
+  resampleFilter: lanczos
+taxonomies:
+  author: authors
+  category: categories
+  tag: tags
+  publication_type: publication_types
+related:
+  includeNewer: yes
+  indices:
+    - name: title
+      weight: 60
+    - name: summary
+      weight: 50
+    - name: tags
+      weight: 80
+    - name: categories
+      weight: 70
+    - name: authors
+      weight: 20
+  threshold: 80
+  toLower: yes
+security:
+  _merge: deep
+  enableInlineShortcodes: false
+  funcs:
+    getenv:
+      - "^HUGO_"
+      - "^CI$"
+      - "^WC_POSTCSS"
+  http:
+    methods:
+      - "(?i)GET|POST"
+    urls:
+      - ".*"
+
