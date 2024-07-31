@@ -1,0 +1,54 @@
+
+/* default font sizing ... */
+:root {
+  --ideal-viewport-width: 1000;
+  --current-viewport-width: 100vw;
+  --base-font-size: 22;
+  --ideal-h2-font-size: 18;
+  --ideal-h3-font-size: 16;
+  --ideal-body-font-size: 16px;
+}
+
+h1 {
+font-size: clamp(calc(max(30px,2.14em)), calc(3vw+5em), 70vmax);
+color: #D32F2F; 
+}
+
+h2 {
+font-size: clamp(calc(max(22px,1.5em)), calc(3vw+2em), 20vmax);
+color: #D32F2F; 
+}
+
+h3 {
+font-size: clamp(calc(max(18px,1.29em)), calc(2vw+1em), 10vmax)
+}
+
+p {
+font-size: clamp(calc(max(16px,1.15em)), calc(1.5vw+1em), 5vmax)
+}
+
+/* Home page overview section animation times */
+
+#overview-title { 
+  opacity: 0;
+  -webkit-animation: fade-in 1s forwards;
+          animation: fade-in 1s forwards;
+  -webkit-animation-delay: 0.05s;
+          animation-delay: 0.05s;
+}
+
+#overview-subtitle { 
+  opacity: 0;
+  -webkit-animation: fade-in 1.25s forwards;
+          animation: fade-in 1.25s forwards;
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s;
+}
+
+#overview-subsubtitle { 
+  opacity: 0;
+  -webkit-animation: fade-in 1.5s forwards;
+          animation: fade-in 1.5s forwards;
+  -webkit-animation-delay: 0.35s;
+          animation-delay: 0.35s;
+}

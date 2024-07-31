@@ -1,0 +1,6 @@
+**/*.min.js
+**/_vendor/
+**/vendor/
+public/
+**/assets/dist/**
+**/pagefind/**

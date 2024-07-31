@@ -1,0 +1,51 @@
+{{/* My Custom Hugo Blox */}}
+{{/* https://hugoblox.com */}}
+
+{{/* Initialise the block */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{/* Your Hugo variables */}}
+{{/* Access custom front matter content via `$block.content`. */}}
+{{/* E.g. access a `title` field via `$block.content.title`. */}}
+{{/* Pipe the field to `$page.RenderString` to parse it as Markdown. */}}
+
+{{ $title := $block.content.title | $page.RenderString }}
+{{ $subtitle := $block.content.subtitle | $page.RenderString }}
+{{ $subsubtitle := $block.content.subsubtitle |  $page.RenderString }}
+<!--- {{ $text := $block.content.text | $page.RenderString }} --->
+{{ $social := $block.content.social }}
+
+{{/* Add your block layout below */}}
+{{/* Styles (in the form of vanilla CSS) can be added to the CSS file. */}}
+{{/* Tailwind styles can optionally be used with the extra step of compiling Tailwind. */}}
+{{/* Access custom front matter design options via `$block.design`. */}}
+{{/* E.g. access a `show_title` field via `$block.design.show_title`. */}}
+
+<div class="col-12 col-lg-8">
+  
+  <!-- Title overview structure -->
+  <br>  
+  
+  <!-- Main huge title -->
+  <div id='overview-title'>
+    <h1 style="color:#D2524B;font-size:5.5em" class='overview-title-text' > 
+      {{ $title | markdownify | emojify }} 
+    </h1> 
+  </div>
+  
+  <!-- First subtitle -->
+  <div id='overview-subtitle'> 
+    <h2 style="color:#00668E;font-size:2em" class = 'overview-subtitle-text'> 
+      {{ $subtitle }} 
+    </h2>
+  </div>
+  
+  <!-- Second subtitle -->
+  <div id='overview-subsubtitle'> 
+    <h2 style="color:#00739B;font-size:1.7em" class ='overview-subtitle-text'> 
+      {{ $subsubtitle }} 
+    </h2>
+  </div>
+    
+</div>
