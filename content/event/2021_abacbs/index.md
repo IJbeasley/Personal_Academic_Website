@@ -17,7 +17,9 @@ event_url: https://www.abacbs.org/
 featured: false
 image: 
   caption: 
-  focal_point: Right
+  focal_point: smart
+  placement: 2
+  alt_text: 
 links:
 - icon: twitter
   icon_pack: fab
@@ -29,8 +31,8 @@ links:
   url: https://twitter.com/abacbs/status/1462985583358140417
 - icon: file-pdf
   icon_pack: far
-  name: Slides
-  url: media/ABACBS_2021_Slides.pdf
+  name: "ABACBS 2021 Slides"
+  url: media/event/2021_abacbs_slides.pdf
 location: "ABACBS"
 projects: 
 - pop_spec_eqtl

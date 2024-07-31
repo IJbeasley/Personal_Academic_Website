@@ -17,7 +17,9 @@ event_url: https://emblphdsymposium.org.au/
 featured: false
 image: 
   caption: 
-  focal_point: Right
+  focal_point: smart
+  placement: 2
+  alt_text: 
 links:
 - icon: twitter
   icon_pack: fab
@@ -29,8 +31,8 @@ links:
   url: https://twitter.com/EMBLAustralia/status/1458599912589848577
 - icon: file-pdf
   icon_pack: far
-  name: Slides
-  url: media/EAPS_2021_Slides.pdf
+  name: "EAPS 2021 Slides"
+  url: media/event/2021_eaps_slides.pdf
 location: "EBML Australia Postgraduate Symposium"
 projects: 
 - pop_spec_eqtl

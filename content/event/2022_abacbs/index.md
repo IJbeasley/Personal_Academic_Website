@@ -14,13 +14,20 @@ event: "ABACBS 2022"
 event_url: 
 featured: false
 image: 
-  caption: "Created with [BioRender](https://www.biorender.com/)"
-  focal_point: Right
+  caption: ""
+  placement: 2
+  image: featured_tp.jpg
+  alt_text: 
+  preview_only: true 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/ijbeasley
+- icon: file-pdf
+  icon_pack: far
+  name: "ABACBS 2022 Poster"
+  url: media/event/2022_abacbs_poster.pdf
 location: "ABACBS"
 projects: 
 - pop_spec_eqtl
@@ -36,3 +43,7 @@ url_slides: ""
 url_video: ""
 view: card
 ---
+
+<object data="../../media/event/2022_abacbs_poster.pdf" type="application/pdf" width="100%" height="1325">
+  <p>Your browser does not support PDFs. <a href="../../media/event/2022_abacbs_poster.pdf">Download the PDF</a>.</p>
+</object>

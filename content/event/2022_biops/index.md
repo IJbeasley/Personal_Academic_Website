@@ -18,13 +18,19 @@ event_url: https://twitter.com/biops_unimelb
 featured: false
 image: 
   caption: 
-  focal_point: Right
+  alt_text: 
+  placement: 2
+  focal_point: smart
+  preview_only: true
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/ijbeasley
-  
+- icon: file-pdf
+  icon_pack: far
+  name: "BioPS 2021 Slides"
+  url: media/event/2022_biops_slides.pdf
 location: "BioPS Symposium"
 projects: 
 - pop_spec_eqtl
@@ -32,7 +38,7 @@ projects:
 slides: 
 summary: "Oral Presentation"
 tags: ['eQTLs', 'Genomics', 'Diversity', 'Ancestry', 'Machine Learning']
-title: "Predicting the cross-population portability of human expression quantitative trait loci (eQTLs)"
+title: "Predicting the portability of human expression quantitative trait loci (eQTLs) across populations"
 
 url: '/talk/biops_2022/'
 url_code: ""
