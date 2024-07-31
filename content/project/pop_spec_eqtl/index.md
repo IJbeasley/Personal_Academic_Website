@@ -54,18 +54,6 @@ url_video: ""
 #       version: 4
 ---
 
-```{r,echo  = FALSE, eval = FALSE}
-# library(bs4cards)
-# galleries %>% 
-#   cards(
-#     title = long_name,
-#     link = gallery_url,
-#     image = image_url,
-#     footer = paste("posted:", date)
-#   )
-```
-
-
 ### Motivation 
 
 Personalised medicine, the targeting of treatment decisions to a patient's genetic makeup, is the future of medical practice. Using this approach, doctors can select the best medicine for their patients without the trial and error that causes dangerous delays to treatment today. 
