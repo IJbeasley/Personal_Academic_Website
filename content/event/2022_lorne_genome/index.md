@@ -17,7 +17,7 @@ event: "Lorne Genome 2022"
 event_url: https://www.lornegenome.org/
 featured: false
 image: 
-  caption: "Created with [BioRender](https://www.biorender.com/)"
+  caption: 
   focal_point: smart
   placement: 2
   alt_text: 
