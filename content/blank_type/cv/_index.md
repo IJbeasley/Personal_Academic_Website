@@ -24,7 +24,7 @@ social:
   link: https://osf.io/7qb8m/
 ---
 
-A full academic CV (last updated May 2024) is below, a PDF copy of my <a href="https://docs.google.com/document/d/1nXmSkOI67mlNbjhhwY5La9ZC8S0-pQ83/export?format=pdf" style="color:#D90429"> academic CV at this link</a>. 
+Below is my full academic CV, last updated in May 2024. To download a PDF version, please click on this <a href="https://docs.google.com/document/d/1nXmSkOI67mlNbjhhwY5La9ZC8S0-pQ83/export?format=pdf" style="color:#D90429"> link</a>. 
 
 
 <br>
