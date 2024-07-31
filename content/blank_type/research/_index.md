@@ -24,15 +24,10 @@ social:
   link: https://osf.io/7qb8m/
 ---
 
-<i class="fa-brands fa-twitter"></i>
-<i class="fa-brands fa-bluesky"></i>
+My current research is motivated by the challenges I encountered during my <a href="/project/pop_spec_eqtl/"  style="color:#D90429"> master's thesis research</a> at Melbourne University. In that project, I struggled to build accurate models that predicted portability because incomplete statistical power confounded which genetic associations (specifically eQTLs) were labeled 'portable' from one human population to another. This experience made me want to explore ways to reduce the impact of power on such analyses, which since has become the focus of my work as a research assistant.
 
 
-<h2 style = "color:black" > Research Projects Overview </h2>
-
-My current research explores the impact of different metrics on the portability of one type of genetic association: expression quantitative trait loci (eQTLs). This work builds on insights gained during <a href="/project/pop_spec_eqtl/"  style="color:#D90429"> my master's research at Melbourne University</a>; while training machine learning models to predict eQTL portability across human populations, I realised power was a significant confounder to the accurate interpretation of many studies.
-
-Before my master's, I contributed to work testing two evolutionary theories at Monash University (<a href= "/project/monash_journalclub/" style="color:#D90429">'Unguarded X'</a> and <a href= "/project/monash-winter/" style="color:#D90429"> genomic location of maintained sexually antagonistic variants</a>). Additionally, researchers at WEHI shaped my coding practices by supervising my undergraduate research project: adapting a Bayesian model and R-package for testing differential mRNA abundance (<a href="/project/tabi/" style="color:#D90429">TABI</a>).
+Outside of this major line of work, I have collaborated with researchers at Monash University to test evolutionary theories against data (e.g. the <a href= "/project/monash_journalclub/" style="color:#D90429">'Unguarded X'</a> 'Unguarded X' theory </a> ) and with bioinformaticians at the Walter and Eliza Hall Institute of Medical Research to build R software packages (e.g. <a href="/project/tabi/" style="color:#D90429"> TABI </a>, for testing differential mRNA abundance). 
 
 <br>
 

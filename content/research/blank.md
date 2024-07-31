@@ -5,14 +5,15 @@ widget: blank
 
 # This file represents a page section.
 headless: true
+active: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 10
+author: admin
 
 # Section title
 
 # Section subtitle
-subtitle: 
 type: research
 
 # Section design
