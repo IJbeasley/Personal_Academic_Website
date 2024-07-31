@@ -3,6 +3,7 @@ date: "2021-07-20T00:00:00Z"
 external_link: ""
 lastmod:  "2024-01-27T00:00:00Z"
 categories: ['Research', 'Graduate', 'Masters', 'Thesis']
+
 image: 
   placement: 1
   alt_text: "Created with [BioRender.com](https:://BioRender.com/)"
@@ -18,6 +19,10 @@ links:
   icon_pack: fas
   name: "workflowr page"
   url: https://igr-lab.pages.gitlab.unimelb.edu.au/pop_spec_eqtl_ml/thesis_index.html
+- icon: file-pdf
+  icon_pack: far
+  name: "Msc Thesis PDF"
+  url: "https://drive.google.com/file/d/1d_IAEnFdu-_zpn0F_i-AHm1zN8N9Vmtt/view?usp=sharing"
 # - icon: biorxiv
 #   icon_pack: aiBiocManager::install("rhdf5filters")
 #   name: Preprint
@@ -42,9 +47,9 @@ tags:
 - "St Vincent's Institute of Medical Research"
 title: "Predicting the cross population portability of human eQTLs"
 subtitle: "Master of Science Thesis Project supervised by: [Dr. Irene Gallego Romero](https://www.svi.edu.au/laboratories/human-genomics-and-evolution/) & [Dr. Christina Azodi](https://azodichr.github.io/)"
-url_code: 
-url_pdf: Predicting the cross-population portability of human eQTLs using machine learning 
-url_confererence: 
+url_code: ""
+url_pdf: ""
+url_confererence: ""
 url_slides: ""
 url_video: ""
 # toc: true
@@ -53,18 +58,6 @@ url_video: ""
 #     theme:
 #       version: 4
 ---
-
-```{r,echo  = FALSE, eval = FALSE}
-# library(bs4cards)
-# galleries %>% 
-#   cards(
-#     title = long_name,
-#     link = gallery_url,
-#     image = image_url,
-#     footer = paste("posted:", date)
-#   )
-```
-
 
 ### Motivation 
 
@@ -79,7 +72,7 @@ The most glaring obstacle to the more widespread use of personalised medicine is
 One way to improve the equitability of these precision medicine models is to better understand which genetic associations are likely to differ across human groups and why they differ. Towards this overarching goal, I developed machine learning models that predict whether or not one type of genetic association (expression quantitative trait loci, eQTL) is likely to be different across human groups.
 
 
-<img src="/media/thesis_methods_figure.png" width="689.25px" height="900px" alt="Figure of the method steps taken">
+<img src="/media/project/thesis_methods_figure.png" width="689.25px" height="900px" alt="Figure of the method steps taken">
 <b> Method Workflow Steps </b> 
 <br> 
 <b> (A): </b>  Integrate summary statistics from published eQTL studies. </b> <br>
@@ -89,6 +82,7 @@ One way to improve the equitability of these precision medicine models is to bet
 <b> (E): </b> Test models performance, use the best model to investigate features which differentiate portable and non-portable eQTLs. </b> 
 </img> 
 
+<br>
 I first tested a variety of approaches to developing these models to uncover what approach would produce the highest-performing models. Then, I used this preferred approach to create models and investigate what information they used to successfully identify which genetic associations are different across human populations.
 
 <br>
@@ -98,4 +92,3 @@ I first tested a variety of approaches to developing these models to uncover wha
 I demonstrated that applying a multi-adaptive shrinkage method (mashr) to these summary statistics improved power, and increased eQTL and eGene sharing across populations. I found that of all machine learning algorithms tested, decision-tree based classifiers (Random Forest, Gradient Boosting) were best able to recapitulate portable and non-portable eQTLs classes on an independent held-out test set. Then, after uncovering the optimal machine learning training set up, I trained a model for every possible pairwise population portability comparison (median improvement over random chance auPRC= 0.073 across eight models in two cell types). Applying Leave-One-Feature-Out feature importance procedures to these models found no feature category, or set of features, had a significant or consistent greatest impact on model performance. Finally, by comparing my datasets with the set of 6 GTEx identified population-biased whole-blood eQTLs, I uncovered a plausible example of an eQTL portable in a tissue-dependent manner (rs2299818_ENSG00000160221).
 
 <br> 
-
