@@ -21,6 +21,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+view: card
 ---
 
 ## <span style="color:#303F9F">Without fail, whenever I give a lecture or tutor a student I get asked some combination of the following:</span>

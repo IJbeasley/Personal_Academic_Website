@@ -19,6 +19,7 @@ projects: []
 output: 
   html_document:
     toc: true 
+view: card
 ---
 
 <h2 style="color:#D32F2F"> Overview </h2>

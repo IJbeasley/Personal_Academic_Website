@@ -24,9 +24,6 @@ social:
   link: https://osf.io/7qb8m/
 ---
 
-<i class="fa-brands fa-twitter"></i>
-<i class="fa-brands fa-bluesky"></i>
-
 
 <h2 style = "color:black" > Research Projects Overview </h2>
 

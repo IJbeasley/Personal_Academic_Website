@@ -15,7 +15,8 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
-toc: true
+#toc: true
+view: card
 ---
 
 <aside>

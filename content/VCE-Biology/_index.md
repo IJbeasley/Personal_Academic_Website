@@ -8,7 +8,7 @@ background:
   color: 'navy'
   # Text color (true=light or false=dark).
   text_color_light: true
-view: 1
+view: card
 design:
   columns: 1
   spacing:

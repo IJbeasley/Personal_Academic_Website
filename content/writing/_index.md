@@ -3,7 +3,7 @@ header:
   caption: ""
   image: ""
 title: Writing 
-view: 2
+view: card
 type: no_title
 ---
 
