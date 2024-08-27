@@ -22,7 +22,7 @@ bio: "Genetics, Statistics, Educational Inclusion & Diversity"
 education:
   courses:
   - course: PhD 
-    specialisation: "Biological & Medical Informatics"
+    specialisation: "Biological & Medical Informatics 👩‍💻"
     institution: University of California, San Francisco
     year: 2024 - 
   - course: Master of Science 
@@ -41,13 +41,10 @@ education:
 highlight_name: true 
 
 interests:
-- Population Genetics
-- Statistical and Evolutionary Models
-- Scientific Research Equity
-- Educational Inclusion
-- Genetic Regulation and Epigenetics
-
-
+- Health, Research, and Educational Equity
+- Population Genetics of Complex Traits
+- Interdisciplinary Approaches
+- Science Communication
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -76,12 +73,9 @@ profiles:
 
 ---
 
-I'm an interdisciplinary scientist and Master of Science graduate (BioSciences).
+I'm an interdisciplinary scientist committed to advancing equity. 
 
-Under the supervision of [Dr. Irene Gallego Romero](https://igr-lab.science.unimelb.edu.au/)  and [Dr. Christina Del Azodi](https://www.linkedin.com/in/christina-del-azodi-6a969b45), my master's thesis (2021 - 2022) aimed to build and investigate machine learning models to predict whether known genetic associations (specifically eQTLs) are consistent across human populations. The struggles I encountered undertaking this work led the three of us to realise 'consistency' (or portability) is typically poorly defined in genomics studies. Because of this realisation, my work since as a research assistant has focused on developing more coherent, biologically meaningful portability definition/s. 
+Through varied professional experiences, I've developed a solid foundation of skills across genetics, mathematics, and computer science. These experiences also brought me to UCSF in 2024, where I began as a Biological and Medical Informatics PhD student. My work currently focuses on improving standard statistical models for predicting an individual's genetic susceptibility to developing certain diseases (e.g., type 2 diabetes). 
 
-I'm also passionate about science communication and improving educational access; I aim to support disadvantaged high school students through providing debating coaching, lecturing, and [learning materials](vce-biology/).
-
-
-
+Even outside of my academic career, I'm deeply passionate about science communication and its power to inspire change. From tutoring disadvantaged high school students with the Australian South Asian Healthcare Association (ASHA), to writing about the impact of the COVID-19 pandemic on maternal health in middle income countries, I aim to make complex scientific concepts more accessible. On this webpage I share code snippets, my learning, and teaching resources with ... well, technically speaking, the world. 
 
