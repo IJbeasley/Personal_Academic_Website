@@ -6,7 +6,6 @@ title: Science Communication
 view: 
 type: no_title
 ---
-
 # <span style="color:#D32F2F"> Science Communication </span>
 
 > If you’re looking for resources I’ve written for VCE Biology (senior high school students), [click here]({{< relref "/vce-biology" >}}). If you’re interested in my academic writing and presentations, then <a href="../research/#publications">click here</a>. If it's research related blogs you are after then [click here]({{< relref "/resources" >}}). For all other kinds of writing and creating - keep reading!
