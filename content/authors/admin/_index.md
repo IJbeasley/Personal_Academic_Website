@@ -49,12 +49,15 @@ interests:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:isobelbeasley@ucsf.edu
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/ijbeasley.bsky.social
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ijbeasley
+- icon: envelope
+  icon_pack: fas
+  link: mailto:isobel[dot]beasley[at]ucsf[dot]edu
 - icon: osf
   icon_pack: ai
   link: https://osf.io/7qb8m/
