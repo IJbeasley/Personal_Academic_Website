@@ -9,7 +9,7 @@ social:
   link: https://x.com/ijbeasley
 - icon: envelope
   icon_pack: fas
-  link: mailto:ibeasley@student.unimelb.edu.au
+  link: mailto:isobel[dot]beasley[at]ucsf[dot]edu
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6857-1692/
