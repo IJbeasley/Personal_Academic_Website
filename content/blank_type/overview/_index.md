@@ -3,12 +3,12 @@ title: Hi, I'm Isobel!
 subtitle:  'PhD Student, Biological and Medical Informatics'
 subsubtitle: 'University of California, San Francisco (UCSF)'
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://x.com/ijbeasley
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/ijbeasley.bsky.social
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/ijbeasley
 - icon: envelope
   icon_pack: fas
   link: mailto:ibeasley@student.unimelb.edu.au
