@@ -126,6 +126,7 @@ title {
           animation: slide-from-right 0s forwards;
   -webkit-animation-delay: 100ms;
           animation-delay: 100ms;
+  color:#050505
 }
   
   .interests-div {
@@ -372,3 +373,31 @@ input[type='checkbox'] {
   font-size: calc(1rem + 0.5vw);
 }
 
+
+.article-metadata{
+  color: #575757;
+}
+
+.article-metadata a {
+    color: #575757;
+}
+
+.site-footer{
+  color: #575757;
+}
+
+.card .card-text p{
+    color: #575757;
+}
+
+.li-cite-author{
+    color: #575757;
+}
+
+.li-cite-author a{
+   color: #575757;
+}
+  
+.pub.list.item{
+   color: #575757;
+}
