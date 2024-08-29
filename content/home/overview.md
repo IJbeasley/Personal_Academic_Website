@@ -19,7 +19,7 @@ type: overview
 design:
   columns: 1
   background:
-    color: "#E1E1E1"
+    color: "#F5F5F5"
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---

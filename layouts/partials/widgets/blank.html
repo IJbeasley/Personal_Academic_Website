@@ -42,23 +42,23 @@
 <!-- Title overview structure -->
     <!-- Main huge title -->
     <div id='overview-title'>
-    <h1 style="color:#D2524B;font-size:5.5em" class='overview-title-text' > 
+    <h1 style="color:#D30404;font-size:5.5em" class='overview-title-text' > 
     {{ $type_page.Title | markdownify | emojify }} 
     </h1> 
     </div>
      <!-- First subtitle -->
-    <div id='overview-subtitle'> 
-    <h2 style="color:#00668E;font-size:2em" class = 'overview-subtitle-text'> {{ $type_detail.Subtitle }} 
+    <div id='overview-subtitle'>  
+    <h2 style="color:#1E6EBE;font-size:2em" class = 'overview-subtitle-text'> {{ $type_detail.Subtitle }} 
     </h2>
     </div>
      <!-- Second subtitle -->
     <div id='overview-subsubtitle'> 
-    <h2 style="color:#00739B;font-size:1.7em" class ='overview-subtitle-text'> {{ $type_detail.Subsubtitle }} </h2>
+    <h2 style="color:#1960A9;font-size:1.7em" class ='overview-subtitle-text'> {{ $type_detail.Subsubtitle }} </h2>
     </div> 
      <!-- Links to my social media with icons -->
      <p> </p>
-     <div class="overview-icons" style="color:#0076A4;size:0.9em"> 
-     <ul style='color:#0076A4' class="network-icon" aria-hidden="true">
+     <div class="overview-icons" style="color:#0E355D;size:0.9em"> 
+     <ul style='color:#0E355D' class="network-icon" aria-hidden="true">
         {{ range $type_detail.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
@@ -74,7 +74,7 @@
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
             <li>
-                <a style="color:#139CCA" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
+                <a style="color:#0E355D" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
                 </a>
             </li>
@@ -95,7 +95,7 @@
 
 {{else}}
 
-    <div id='overview-content'> <span style="color:#2B2B2B;font-size:1.2em"> 
+    <div id='overview-content'> <span style="color:#121212;font-size:1.2em"> 
     <br>
     {{ $type_page.Content }}
     </span>

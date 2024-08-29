@@ -30,8 +30,8 @@
       {{ end }}
 
       <div class="portrait-title">
-        <h2>{{ $person_page.Title }}</h2>
-        {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+        <h2 style="color:#D30404">{{ $person_page.Title }}</h2>
+        {{ with $person.role }}<h3 style="color:#575757">{{ . | markdownify | emojify }}</h3>{{ end }}
 
         {{ range $person.organizations }}
         <h3>
@@ -100,9 +100,9 @@
       <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course", style="color:#D2524B">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="specialisation">{{.specialisation}} </p>
-              <p class="institution">{{ .institution }}</p>
+              <p class="course", style="color:#D30404">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="specialisation", style="color:#212121">{{.specialisation}} </p>
+              <p class="institution", style="color:#575757">{{ .institution }}</p>
            </div>
       </li>
       {{ end }}
