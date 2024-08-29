@@ -12,9 +12,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:isobel[dot]beasley[at]ucsf[dot]edu
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6857-1692 
 - icon: github
   icon_pack: fab
   link: https://github.com/IJbeasley
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.unimelb.edu.au/ibeasley
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/7qb8m/
 ---
 
 Welcome to my personal website!  
