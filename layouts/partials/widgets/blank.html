@@ -57,8 +57,8 @@
     </div> 
      <!-- Links to my social media with icons -->
      <p> </p>
-     <div class="overview-icons" style="color:#0E355D;size:0.9em"> 
-     <ul style='color:#0E355D' class="network-icon" aria-hidden="true">
+     <div class="overview-icons"> 
+     <ul class="network-icon", aria-label="Social media links">
         {{ range $type_detail.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
