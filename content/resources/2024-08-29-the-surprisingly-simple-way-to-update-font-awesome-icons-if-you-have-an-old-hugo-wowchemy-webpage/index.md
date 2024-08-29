@@ -1,15 +1,13 @@
 ---
-title: "The surprisingly simple way to update Font Awesome icons if you have an old
-  hugo wowchemy webpage"
+title: "The surprisingly simple way to update Font Awesome icons if you have an old(er)
+  Hugo Wowchemy Academic website"
 author: 'Isobel Beasley'
 date: '2024-08-29'
 slug: update-fa-old-hugo
 categories: ['resources', 'hugo webpages']
 tags: ['R', 'Blogdown', 'Hugo', 'Font Awesome']
-subtitle: 'Otherwise known as the 2 days I wasted trying to get bluesky icons on my webpage 
-'
-summary: 'Otherwise known as the 2 days I wasted trying to get bluesky icons on my webpage 
-'
+subtitle: 'AKA: What I learnt by spending a frustrating 2 days trying to get bluesky icons on my website'
+summary: 'AKA: What I learnt by spending a frustrating 2 days trying to get bluesky icons on my website'
 authors: ['Isobel Beasley']
 lastmod: '2024-08-29T11:00:18-07:00'
 featured: no
