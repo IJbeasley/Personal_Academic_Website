@@ -50,37 +50,16 @@
     weight = 40
 
 [[main]]
-    name = "Conference Presentations"
+    name = "Conference presentations"
     parent =  "research"
     url = "research/#talks"
     weight = 50
-  
-#[[main]]
-#    name = "Submenu Item 1"
-#    parent =  "research"
-#    url = "research/submenu1/"
-#    weight = 10
-  
-[[main]]
-  name = "Research resources"
-  url = "resources/"
-  weight = 50
-
-#[[main]]
-#  name = "Research Experience"
-#  url = "#experience"
-#  weight = 50
-
-[[main]]
-  name = "VCE Biology"
-  url = "vce-biology/"
-  weight = 60
 
 [[main]]
   name = "Writing"
   identifier = "writing"
   url = "writing/"
-  weight = 70
+  weight = 50
   
   [[main]]
   name = "Academic journal articles"
@@ -89,15 +68,41 @@
   weight = 10
   
   [[main]]
-  name = "Non-academic writing"
+  name = "Published non-academic writing"
   parent = "writing"
   url = "writing/"
   weight = 20
   
+  [[main]]
+  name = "Research and coding blogs"
+  parent = "writing"
+  url = "resources/"
+  weight = 30
+  
+#[[main]]
+#    name = "Submenu Item 1"
+#    parent =  "research"
+#    url = "research/submenu1/"
+#    weight = 10
+  
+[[main]]
+  name = "Research and Coding Blogs"
+  url = "resources/"
+  weight = 60
+
+#[[main]]
+#  name = "Research Experience"
+#  url = "#experience"
+#  weight = 50
 
 [[main]]
   name = "Science Communication"
   url = "science-communication/"
+  weight = 70
+
+[[main]]
+  name = "VCE Biology"
+  url = "vce-biology/"
   weight = 80
 
 
