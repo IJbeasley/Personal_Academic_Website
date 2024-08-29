@@ -110,36 +110,36 @@ title {
 /* Home page profile / about section */ 
 
 #profile {
-  -webkit-animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
-          animation: slide-from-left 1s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  -webkit-animation: slide-from-left 0s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+          animation: slide-from-left 0s cubic-bezier(0.87, 0, 0.13, 1) forwards;
 }
 
 #about {
    
   .biography-title {
-  -webkit-animation: slide-from-right 1s forwards;
-          animation: slide-from-right 1s forwards;
+  -webkit-animation: slide-from-right 0s forwards;
+          animation: slide-from-right 0s forwards;
   }
   
   .main-content {
-  -webkit-animation: slide-from-right 1s forwards;
-          animation: slide-from-right 1s forwards;
+  -webkit-animation: slide-from-right 0s forwards;
+          animation: slide-from-right 0s forwards;
   -webkit-animation-delay: 100ms;
           animation-delay: 100ms;
 }
   
   .interests-div {
   opacity: 0;
-  -webkit-animation: fade-in 1s forwards;
-          animation: fade-in 1s forwards;
+  -webkit-animation: fade-in 0s forwards;
+          animation: fade-in 0s forwards;
   -webkit-animation-delay: 200ms;
           animation-delay: 200ms;
 }
 
 .education-div {
   opacity: 0;
-  -webkit-animation: fade-in 1s forwards;
-          animation: fade-in 1s forwards;
+  -webkit-animation: fade-in 0s forwards;
+          animation: fade-in 0s forwards;
   -webkit-animation-delay: 200ms;
           animation-delay: 200ms;
 }
