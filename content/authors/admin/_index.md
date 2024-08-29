@@ -48,7 +48,7 @@ interests:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
+social:
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/ijbeasley.bsky.social
