@@ -5,26 +5,28 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#D90429"
+primary = "#CB0101"
 
 # Menu
 
 menu_primary = "#FFFFFF"
-menu_text =  "#071013"
-menu_text_active = "#60BAE6"
-menu_title = "#D2524B"
+menu_text =  "#2B2B2B"
+menu_text_active = "#D30404"
+menu_title = "#1E6EBE"
 
 # Backgrounds
-background = "#F5F5F5"
-home_section_odd = "#F5F5F5"
-home_section_even = "#F5F5F5"
+background = "#FAFAFA"
+home_section_odd = "#FAFAFA"
+home_section_even = "#FAFAFA"
 
 dark_background = ""
 dark_home_section_odd = ""
 dark_home_section_even = ""
 
-link = "#118AB2" 
-link_hover = "#D90429"
+#D30404
+
+link = "#1E6EBE" 
+link_hover = "#00AADB"
 
 
 ## 3A3335 black coffee
