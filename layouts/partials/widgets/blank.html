@@ -74,7 +74,7 @@
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
             <li>
-                <a style="color:#0E355D" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
+                <a style="color:#0E355D;font-size:1.75em" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}" >
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
                 </a>
             </li>
