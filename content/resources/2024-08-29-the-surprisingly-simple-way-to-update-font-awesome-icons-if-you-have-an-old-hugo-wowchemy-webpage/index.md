@@ -16,6 +16,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+meta_summary: "Learn how to update Font Awesome icons on older Hugo Wowchemy Academic websites. Step-by-step guide to add new icons like Bluesky to your personal academic site."
 ---
 
 If you have an older academic Hugo webpage (as in, one before the event of Hugo blocks), you may have been puzzled to discover as I was, when you tried to add a blue sky icon link to your webpage… you couldn't. You tried the same kind of code that worked for any other social media site... you spelt bluesky correctly.. and there is a [bluesky icon listed on the Font Awesome website](https://fontawesome.com/icons/bluesky?f=brands&s=solid) ... so surely you can add a bluesky icon? Why on earth is the bluesky icon <b><i>still</i></b> not appearing?  
@@ -48,9 +49,10 @@ I chose to update to the latest release, 6.6.0 (* latest at the time of writing)
 <br>
 
 ## Step 2. Find the SRI hash for the version you chose on: https://cdnjs.com/libraries/font-awesome 
-![Click on the shield icon to get the SRI hash](../../media/fa-update/cdnjs-sri-screenshot-cropped.png)
 
-If you’re in the same boat as me, you’re likely wanting to get the “all min” set of icons (i.e. the set with this listed URL: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css ). The SRI hash for this icon set is found just to the right of the link; you copy it by clicking the shield icon.
+![Click on the shield icon to get the SRI hash](../../media/fa-update/cdnjs-sri-screenshot-cropped-v2.png)
+
+If you’re in the same boat as me, you’re likely wanting to get the “all min” set of icons (i.e. the set with this listed URL: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css). The SRI hash for this icon set is found just to the right of the link; you copy it by clicking the shield icon.
 
 If you’re not sure which set of icons you want, skip to step 3 for the time being and see what URL end is listed there. For e.g. if the relevant line is `url = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/%s/css/all.min.css"`, because this URL ends in "all.min.css" then you know you're looking for the "all min" set. 
 
@@ -60,9 +62,13 @@ If you’re not sure which set of icons you want, skip to step 3 for the time be
 
 The easiest way to find this line is to search your website’s repository files for the term “`css.fontAwesome`” on github (or whatever git service you are using to host your repository). This search step and the file section you ultimately navigate to should look like this: 
 
-![Use the top right search bar on github to search for the 'css.fontAwesome line in assets.toml](../../media/fa-update/github-fa-search-screenshot-cropped.png)
+The search step: 
 
-![This section of your assets.toml file is what you're looking for; A line with '[css.fontAwesome]' followed by a version line, sri line and a url line. We're going to be modifying the version and sri line.](../../media/fa-update/github-fa-search-result-screenshot-cropped.png)
+![Use the top right search bar on github to search for the 'css.fontAwesome line in assets.toml](../../media/fa-update/github-fa-search-screenshot-cropped-v2.png)
+
+The search result: 
+
+![This section of your assets.toml file is what you're looking for; A line with '[css.fontAwesome]' followed by a version line, sri line and a url line. We're going to be modifying the version and sri line.](../../media/fa-update/github-fa-search-result-screenshot-cropped-v2.png)
 
 <br> 
 
