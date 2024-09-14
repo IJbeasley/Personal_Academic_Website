@@ -15,9 +15,8 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["10px", "0", "10px", "0"]
 toc: true 
+summary: 'Links and overviews of teaching resources for VCE Biology, or other senior high school students written by Isobel Beasley, a UCSF PhD student and interdisciplinary scientist. Access clear, engaging explanations and practise questions on DNA, RNA, and genetics concepts to support students in mastering complex biology topics.'
 ---
-
-
 
 # Introduction: 
 
