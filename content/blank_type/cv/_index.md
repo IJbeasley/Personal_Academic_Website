@@ -22,7 +22,10 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/7qb8m/
+  
+summary: "View Isobel Beasley's CV, showcasing her educational background, interdisciplinary research in Genomics and Bioinformatics, professional experience, academic publications, and contributions in science communication."
 ---
+
 
 Below is my full academic CV, last updated in May 2024. To download a PDF version, please click on this <a href="https://docs.google.com/document/d/1nXmSkOI67mlNbjhhwY5La9ZC8S0-pQ83/export?format=pdf" style="color:#D90429"> link</a>. 
 
