@@ -5,8 +5,10 @@ header:
 title: Science Communication
 view: 
 type: no_title
-meta_summary: "Explore Isobel Beasley's science communication work, featuring articles and projects for organizations such as Global Health Alliance Australia, Scientific Scribbles, and lectures for the Australian South Asian Healthcare Association (ASHA)."
+summary: "Explore Isobel Beasley's science communication work, featuring articles and projects for organizations such as Global Health Alliance Australia, Scientific Scribbles, and lectures for the Australian South Asian Healthcare Association (ASHA)."
+
 ---
+
 # <span style="color:#D32F2F"> Science Communication </span>
 
 > If you’re looking for resources I’ve written for VCE Biology (senior high school students), [click here]({{< relref "/vce-biology" >}}). If you’re interested in my academic writing and presentations, then <a href="../research/#publications">click here</a>. If it's research related blogs you are after then [click here]({{< relref "/resources" >}}). For all other kinds of writing and creating - keep reading!
