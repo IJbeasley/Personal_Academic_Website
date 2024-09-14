@@ -122,20 +122,6 @@
       ],
       "Hash": "b1b1c3be5c75309f6107726fa58ee20c"
     },
-    "bs4cards": {
-      "Package": "bs4cards",
-      "Version": "0.1.1",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "htmltools",
-        "magrittr",
-        "methods",
-        "rlang"
-      ],
-      "Hash": "944028f300c3e44cc5a6c92b72083629"
-    },
     "bslib": {
       "Package": "bslib",
       "Version": "0.6.1",
@@ -711,13 +697,10 @@
     },
     "renv": {
       "Package": "renv",
-      "Version": "1.0.3",
-      "Source": "Repository",
+      "Version": "1.0.7",
+      "OS_type": null,
       "Repository": "CRAN",
-      "Requirements": [
-        "utils"
-      ],
-      "Hash": "41b847654f567341725473431dd0d5ab"
+      "Source": "Repository"
     },
     "rlang": {
       "Package": "rlang",
