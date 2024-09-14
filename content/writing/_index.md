@@ -5,6 +5,8 @@ header:
 title: Writing 
 view: 2
 type: no_title
+meta_summary: "Discover Isobel Beasley's writing on science, health, and education. Explore blog posts, articles, and essays that discuss complex topics in genetics, bioinformatics, and global health for a general audience."
+
 ---
 
 # <span style="color:#D32F2F"> Non-academic Published Writing: </span>
