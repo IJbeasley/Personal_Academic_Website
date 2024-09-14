@@ -17,13 +17,15 @@ social:
   link: https://orcid.org/0000-0001-6857-1692 
 - icon: github
   icon_pack: fab
-  link: https://github.com/IJbeasley
+  # link: https://github.com/IJbeasley
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.unimelb.edu.au/ibeasley
 - icon: osf
   icon_pack: ai
   link: https://osf.io/7qb8m/
+  
+meta_summary: 'Isobel Beasley: UCSF PhD student in Biological Informatics. Explore research, science blogs, and teaching resources on genetics, health equity, and data science.'
 ---
 
 Welcome to my personal website!  
