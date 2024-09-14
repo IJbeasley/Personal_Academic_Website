@@ -8,12 +8,13 @@ background:
   color: 'navy'
   # Text color (true=light or false=dark).
   text_color_light: true
-view: 1
+view: 2
 design:
-  columns: 1
+  columns: 2
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["10px", "0", "10px", "0"]
+    padding: ["10px", "20px", "5px", "50px"]
+meta_summary: " Access a curated collection of educational resources from Isobel Beasley, including code snippets, research blogs, journal article discussions, tutorials explaining statistical and coding concepts; all designed make it easier to begin research in genomics, bioinformatics, and evolutionary theory. "
 ---
 
 
