@@ -5,6 +5,7 @@ header:
 title: Science Communication
 view: 
 type: no_title
+meta_summary: 'Explore Isobel Beasley's science communication work, featuring articles and projects for organizations such as Global Health Alliance Australia, Scientific Scribbles, and lectures for the Australian South Asian Healthcare Association (ASHA).'
 ---
 # <span style="color:#D32F2F"> Science Communication </span>
 
