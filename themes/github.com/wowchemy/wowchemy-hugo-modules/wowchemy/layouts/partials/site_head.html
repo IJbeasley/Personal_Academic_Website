@@ -29,7 +29,9 @@
 
   {{/* Generate page description. */}}
   {{ $desc := "" }}
-  {{ if .Params.summary }}
+  {{ if .Params.meta_summary }}
+    {{ $desc = .Params.meta_summary }}
+  {{ else if .Params.summary }}
     {{ $desc = .Params.summary }}
   {{ else if .Params.abstract }}
     {{ $desc = .Params.abstract }}
