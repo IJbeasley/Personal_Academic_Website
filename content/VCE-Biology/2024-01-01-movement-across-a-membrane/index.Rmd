@@ -28,14 +28,15 @@ Unit 1 (Area of study 1): Cellular structure and function
 
 <br> 
 
-<h2 style="color:#D32F2F"> Introduction to the Wonderful Plasma Membrane (video/song) </h2>
+<h2 style="color:#D32F2F"> Introduction to Membrane Transport </h2>
  
- How do smaller molecules get into and out of the cell? 
+How do smaller molecules get into and out of the cell? 
  
-[Through the plasma membrane](../../VCE-Biology/thats-membrane-transport.mp4)
+...Well, through the plasma membrane, of course! 
 
-![Cell membrane](../../VCE-Biology/Cell-membrane-detailed-diagram.jpg) 
+But not every small molecule, across every time / context will travel through the plasma membrane in the same way. Some small molecules travel directly in between the phospholipid molecules, some travel across the membrane with a little help from a protein, others need an energy (ATP) boost to make their way into or out of the cell. 
 
+![Unlabelled diagram depicting the phospholipid bilayer of the cell membrane](phospholipid_bilayer_components_diagram_unlab.svg)
 <br>
 <br>
 <br>
@@ -45,16 +46,30 @@ Unit 1 (Area of study 1): Cellular structure and function
 
 <h3> Drawing Time (~20 mins) </h3>
 
-For VCE Biology you will often need to draw a plasma membrane, and in particular the phospholipids which comprise majority of the plasma membrane. On a piece of paper, or an electronic whiteboard, let's draw these important features together. 
+For VCE Biology you will often need to draw a plasma membrane, and in particular the phospholipids which comprise most6 of the plasma membrane. On a piece of paper, or an electronic whiteboard, let's draw these important features together. 
 
 
 <h3> Check you have the important elements questions </h3>
 
 <details> 
          <summary> What are the important features of phospholipids to draw? </summary>
-         Phospholipids need their hydrophilic head and hydrophobic tails (x2)
+         <br>
+         
+<img src="phospholipid_lab.svg" alt="Diagram of a phospholipid molecule, labeling the round hydrophillic head and the two hydrophobic tails">
+         
+Phospholipids need their hydrophilic head and hydrophobic tails (x2)
 </details>
 
+
+<details> 
+         <summary> What might be some important features of the plasma membrane tp draw? </summary>
+         <br>
+         
+         
+<img src="phospholipid_bilayer_components_diagram_lab.svg" alt="Labelled diagram depicting the phospholipid bilayer of the cell membrane. Labelled arrows point to the following components: channel protein, cholesterol, glycoprotein, phospholipid."> 
+         
+</details>      
+    
 <br>
 <br>
 <br>
@@ -91,7 +106,8 @@ For VCE Biology you will often need to draw a plasma membrane, and in particular
 <h2 style="color:#D32F2F"> Movement Across a Membrane (~20 mins) </h2>
 
 
-There are three things which impact how easily a substance is able to cross a membrane. <div>
+There are three things which impact how easily a substance is able to cross a membrane. <br>
+<div>
 <details> 
          <summary> <b> Size 💢 </b> </summary>
 
@@ -166,6 +182,10 @@ $$ \text{Massive size + Polar} + \text{With the concentration gradient = } $$
 - The plasma membrane is responsible for the regulation of substances into and out of the cell (it is selectively permeable)
 - Phospholipids have a specialised structure that mean smaller, and non-polar molecules have an easier time crossing the membrane
 
-## Douchy's VCE Biology Podcast
+<br>
+
+## Extra Resources 
+
+### Douchy's VCE Biology Podcast
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/525829G1DbWywwT2ZIV3Lv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
