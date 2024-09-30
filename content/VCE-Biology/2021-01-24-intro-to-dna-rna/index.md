@@ -96,11 +96,15 @@ DNA: Khan Academy Video
 
 Every DNA molecule is made up of many smaller subunit molecules called 'nucleotides'. You need to know the key features of nucleotides (and how to depict them in exams!) because they ultimately give rise to DNA's structure and properties.
 
+![Diagram of a DNA nucleotide, without labelling](nucleotide_unlab.svg)
+
 <b> What are the key components of DNA nucleotides? </b> <i> (i.e. what do I need to be able to draw in an exam or test?) </i> </b>
 
 <details> <summary> Reveal key components </summary> 
 <ul>
 
+
+![Diagram of a DNA nucleotide, with labelling of the key components: Circular Phosphate Group, Nitrogenous Base, and Pentagon Sugar](nucleotide_lab.svg)
 
 <li>
 <b><span style="color:#FD7B43;">Phosphate Group </span></b>
@@ -184,11 +188,18 @@ Animation depicting the location and structure of DNA: WEHI TV
 
 <br> 
 
+
 Because DNA is <b> made of numerous repeating subunits (nucleotides), it is considered a polymer </b>. As a polymer, DNA has some features that its' subunits do not.
+
+![Diagram of a DNA polymer, without labelling](dna_polymer_unlab.svg)
 
 <b> What are the key features of the DNA Polymer? </b> <i> (i.e. what features do I need to be able to draw/depict in exam?) </i> 
 
 <details> <summary> Reveal key features of the DNA Polymer </summary>
+
+
+![Diagram of a DNA polymer with labelling pointing out nucleotides, the phosphodiester backbone, complementary base pairing, and anti-parallel strands](dna_poly_all_lab.svg)
+
 <ul>
 <li>
 <b> Nucleotides </b> <br>
