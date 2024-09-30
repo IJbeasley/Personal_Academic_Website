@@ -1,20 +1,30 @@
 ---
-header:
-  caption: ""
-  image: ""
-title: Research resources
-type: no_title
-background:
-  color: 'navy'
-  # Text color (true=light or false=dark).
-  text_color_light: true
-view: 2
+widget: pages
+headless: true
+weight: 30
+
+content:
+  # Page type to display. E.g. post, event, or publication.
+  page_type: post
+  # Choose how much pages you would like to display (0 = all pages)
+  count: 1
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order. Descending (desc) or ascending (asc) date.
+  order: desc
+  # Optionally filter posts by a taxonomy term.
+  filters:
+    tag: ''
+    category: ''
+    publication_type: ''
+    exclude_featured: false
+    exclude_past: false
+    exclude_future: true
+
 design:
-  columns: 2
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["10px", "20px", "5px", "50px"]
-meta_summary: " Access a curated collection of educational resources from Isobel Beasley, including code snippets, research blogs, journal article discussions, tutorials explaining statistical and coding concepts; all designed make it easier to begin research in genomics, bioinformatics, and evolutionary theory. "
+   view: 2
+   
+meta_summary: "Access a curated collection of educational resources from Isobel Beasley, including code snippets, research blogs, journal article discussions, tutorials explaining statistical and coding concepts; all designed make it easier to begin research in genomics, bioinformatics, and evolutionary theory."
 ---
 
 
