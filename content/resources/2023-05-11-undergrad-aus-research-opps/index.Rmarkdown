@@ -1,13 +1,13 @@
 ---
-weight: 1
+weight: '2023-05-11'
 title: Undergraduate Biomedical and Biological research opportunities 
-author: 'Isobel'
+author: 'Isobel Beasley'
 date: '2023-05-11'
 slug: undergrad-aus-research-opps
 categories: ['Resources', 'Research', 'Advice', 'Opportunities']
 tags: ['Scholarships', 'Applications', 'Funding', 'Undergraduate Research', 'Student Resources', 'Research Training', 'Internship Deadlines', 'Australian Universities']
 subtitle: 'A list of opportunities for Australian undergraduates interested in getting research experience'
-summary: "An attempt to collate together paid research opportunities available to undergraduate students in Australia (primarily in Melbourne)"
+summary: "A collated list of research opportunities available to undergraduate students in Australia (primarily in Melbourne)"
 authors: ['Isobel Beasley']
 lastmod: '2024-07-01T04:23:36+11:00'
 featured: yes

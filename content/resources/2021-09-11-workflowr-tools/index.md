@@ -1,21 +1,21 @@
 ---
-weight: 2
-title: Workflowr wrapper tools 
-author: ''
+title: "Make your workflowr project structure more flexible by trying out my code wrapper"
+author: 'Isobel Beasley'
 date: '2021-09-11'
-slug: workflowr-tools
-categories: ['resources', 'research']
+slug: workflowr-flexibility-tool
+categories: ['Resources', 'Research']
 tags: ['R', 'workflowr']
-subtitle: ''
-summary: "Some wrapper functions to maybe make your workflowr life more fun (if you don't want to have all your rmarkdown files in the analysis subfolder)"
-authors: []
+subtitle: "Some R functions to make your workflowr life more fun (if you don't want to have all your rmarkdown files in the analysis subfolder)"
+summary: "Some R functions to make your workflowr life more fun (if you don't want to have all your rmarkdown files in the analysis subfolder)"
+authors: ['Isobel Beasley']
 lastmod: '2023-11-05T04:23:36+11:00'
 featured: yes
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
+projects:
+- 'pop_spec_eqtl'
 ---
 
 The information below was originally written when I was a Masters student to help fellow lab members with less experience with R and git to start using workflowr to produce  reproducible documentation of their data analyses. But hopefully, it's also useful to broader audience: anyone who has a little bit of experience R coding, and is ready to expand their skills into R projects and git. 

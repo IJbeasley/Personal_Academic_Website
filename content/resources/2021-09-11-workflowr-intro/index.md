@@ -1,21 +1,21 @@
 ---
-weight: 2
-title: Using workflowr and gitlab with R projects
-author: ''
+title: "How to get started with workflowr, git and R projects: a powerful combination to share and save your research code"
+author: 'Isobel Beasley'
 date: '2021-09-11'
 slug: workflowr-intro
-categories: ['resources', 'research']
-tags: ['R', 'workflowr']
-subtitle: ''
-summary: 'An introduction to using workflowr with a university or institutional gitlab account'
-authors: []
+categories: ['Resources', 'Research']
+tags: ['R', 'workflowr', 'git', 'gitlab', 'github']
+subtitle: 'A basic introduction to git, with tips to easily create a shareable workflowr webpage with a university or institutional gitlab or github account'
+summary: 'A basic introduction to git, with tips to easily create a shareable workflowr webpage with a university or institutional gitlab or github account'
+authors: ['Isobel Beasley']
 lastmod: '2023-11-05T04:23:36+11:00'
 featured: yes
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
+projects:
+- 'pop_spec_eqtl'
 toc: true
 ---
 
