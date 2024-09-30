@@ -3,19 +3,19 @@ header:
   caption: ""
   image: ""
 title: VCE Biology 
-type: no_title
+widget: pages
+headless: true
 background:
   color: 'navy'
   # Text color (true=light or false=dark).
   text_color_light: true
-view: 1
 design:
-  columns: 1
+  view: 2
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["10px", "0", "10px", "0"]
 toc: true 
-summary: 'Links and overviews of teaching resources for VCE Biology, or other senior high school students written by Isobel Beasley, a UCSF PhD student and interdisciplinary scientist. Access clear, engaging explanations and practise questions on DNA, RNA, and genetics concepts to support students in mastering complex biology topics.'
+meta_summary: 'Links and overviews of teaching resources for VCE Biology, or other senior high school students written by Isobel Beasley, a UCSF PhD student and interdisciplinary scientist. Access clear, engaging explanations and practise questions on DNA, RNA, and genetics concepts to support students in mastering complex biology topics.'
 ---
 
 # Introduction: 
