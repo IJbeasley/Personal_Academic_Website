@@ -9,7 +9,7 @@ subtitle: "Tutorial with R code and interactive plots for readers to investigate
 summary: 'Imagine an isolated population. How is genetic variation likely to change over time?'
 meta_summary:  "Tutorial with R code and interactive plots for readers to investigate how different evolutionary parameters impact population allele frequency across generations using the Wright-Fisher model"
 authors: ['Isobel Beasley']
-lastmod: '2024-09-15T17:51:36-07:00'
+lastmod: '2024-09-29T17:51:36-07:00'
 featured: no
 image:
   caption: ''
@@ -344,9 +344,10 @@ plot = wf_sim_n_gen(init_allele_freq = 0.5,
   geom_line() + 
   theme_bw() + 
   labs(x = "Generation", 
-       y = "Frequency of 'A' Allele") + 
+       y = "Frequency of the'A' Allele") + 
   scale_x_continuous(breaks = scales::pretty_breaks(n = 5)) + 
-  scale_y_continuous(breaks = scales::pretty_breaks(n = 10))
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10),
+                     limits = c(0,1))
 
 ggplotly(plot)
 
@@ -363,7 +364,7 @@ Now, let's create a function that allows us to go (and plot) further than our `w
 
 To do this, I define a function `rep_wf_n_gen` using the R package purrr to iterate across all parameters I will need to: number of repetitions (`n_reps`), initial allele frequency  (`init_allele_freq`), population size (`pop_size`), number of generations (`n_gen`).  
 
-```{r expand_wf_rep_sim}
+```{r expand_wf_rep_sim, fig.width=8, fig.height=7}
 
 library(purrr)
 
@@ -430,8 +431,7 @@ rep_wf_n_gen(n_reps = 1, #number of simulations - or repetitions
 
 ```
 
-<br> 
-</summary>
+</details>
 
 <br> 
 
@@ -462,7 +462,7 @@ dplyr::slice_sample(data, n = 10)
 
 Now, let's expand our previous plot where only considered one possible trajectory of allele frequency changes over generations to now consider 8 possible trajectories (i.e, like the code output for 10 different simulations written for the previous question - just now out replications).
 
-```{r plot_it} 
+```{r plot_it, fig.width=7, fig.height=6} 
 
 plot = rep_wf_n_gen(n_reps = 8,
              init_allele_freq = 0.2,
@@ -475,9 +475,10 @@ plot = rep_wf_n_gen(n_reps = 8,
   geom_line() + 
   theme_bw() + 
   labs(x = "Generation", 
-       y = "Frequency of 'A' Allele") + 
+       y = "Frequency of the 'A' Allele") + 
   scale_x_continuous(breaks = scales::pretty_breaks(n = 5)) + 
-  scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) + 
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10),
+                     limits = c(0,1)) + 
   scale_color_brewer(palette = "Dark2", name = "Replication #")
 
 
@@ -492,13 +493,13 @@ ggplotly(plot)
 
 Now, let's try to use the `rep_wf_n_gen` function to plot how population size differences impact the genetic drift process. 
 
-Can you use the `rep_wf_n_gen` function to perform 10 simulations across 50 generations for populations with initial A allele frequency of 20%? Use this function to simulate across several different population sizes (5, 10, 100, 10,000, 1,000,000).  
+Can you use the `rep_wf_n_gen` function to perform 8 simulations across 50 generations for populations with initial A allele frequency of 20%? Use this function to simulate across several different population sizes (5, 10, 100, 10,000, 1,000,000).  
 
 <details><summary> Reveal code example. </summary> 
 
 ```{r wf_across_pop_sizes}
 
-data = rep_wf_n_gen(n_reps = 10,
+data = rep_wf_n_gen(n_reps = 8,
              pop_size = c(5,10,10^2,10^4, 10^6),
              init_allele_freq = 0.2,
              n_gen = 50
@@ -516,27 +517,31 @@ Now let's plot this simulated data to improve our sense of how population size i
 
 <br> 
 
-```{r plot_wf_across_pop_sizes}
+```{r plot_wf_across_pop_sizes, fig.width=6, fig.height=8}
 
-plot = rep_wf_n_gen(n_reps = 10,
-             pop_size = c(5,10,10^2,10^4, 10^6),
-             init_allele_freq = 0.2,
-             n_gen = 50
-) %>% 
-  ggplot(aes(x=generation,
-             y=allele_freq,
-             group = sim_idx,
-             color = sim_idx)) + 
+plot = rep_wf_n_gen(n_reps = 8,
+                    pop_size = c(5,10,10^2,10^4, 10^6),
+                    init_allele_freq = 0.2,
+                    n_gen = 50) %>% 
+      ggplot(aes(x=generation,
+                 y=allele_freq,
+                 group = sim_idx,
+                 color = sim_idx)
+             ) + 
   geom_line() + 
   theme_bw() + 
   facet_wrap(vars(pop_size), 
-           labeller = labeller(pop_size = ~paste0("Pop. size = ", .x)),
+             labeller = labeller(pop_size = 
+                                   ~paste0("Pop. size = ", .x)
+                                 ),
              axes = "all") + 
   labs(x = "Generation", 
        y = "Frequency of 'A' Allele") + 
   scale_x_continuous(breaks = scales::pretty_breaks(n = 5)) + 
-  scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) + 
-  scale_color_brewer(palette = "Dark2", name = "Replication #") + 
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10),
+                     limits = c(0,1)) + 
+  scale_color_brewer(palette = "Dark2", 
+                     name = "Replication #") + 
   theme(legend.position = "none")
 
 ggplotly(plot)
@@ -548,7 +553,7 @@ ggplotly(plot)
 
 ### Plot allele frequency over generations across different initial allele frequencies 
 
-Next, can you use the `rep_wf_n_gen` function to perform 10 simulations across 50 generations, for populations consisting of 100 individuals? For this question, vary the initial allele frequency (0.05,0.1,0.2,0.3,0.5). 
+Next, can you use the `rep_wf_n_gen` function to perform 8 simulations across 50 generations, for populations consisting of 100 individuals? For this question, vary the initial allele frequency (0.05,0.1,0.2,0.3,0.5). 
 
 <details> 
 <summary> Reveal example code answer </summary> 
@@ -556,7 +561,7 @@ Next, can you use the `rep_wf_n_gen` function to perform 10 simulations across 5
 
 ```{r wf_across_init_all_freq}
 
-data = rep_wf_n_gen(n_reps = 10,
+data = rep_wf_n_gen(n_reps = 8,
              init_allele_freq = c(0.05,0.1,0.2,0.3,0.5),
              pop_size = 100,
              n_gen = 50
@@ -573,9 +578,9 @@ dplyr::slice_sample(data, n = 10)
 
 Ok, great - and now let's plot this resulting simulated data to demonstrate how different allele frequencies impact the genetic drift process. 
 
-```{r plot_wf_across_init_all_freq}
+```{r plot_wf_across_init_all_freq, fig.width=8, fig.height=8}
 
-rep_wf_n_gen(n_reps = 10,
+rep_wf_n_gen(n_reps = 8,
              init_allele_freq = c(0.05,0.1,0.2,0.3,0.5),
              pop_size = 100,
              n_gen = 50
@@ -583,7 +588,8 @@ rep_wf_n_gen(n_reps = 10,
   ggplot(aes(x=generation,
              y=allele_freq,
              group = sim_idx,
-             color = sim_idx)) + 
+             color = sim_idx)
+         ) + 
   geom_line() + 
   theme_bw() + 
   facet_wrap(vars(init_allele_freq), 
@@ -595,7 +601,8 @@ rep_wf_n_gen(n_reps = 10,
   labs(x = "Generation", 
        y = "Frequency of 'A' Allele") + 
   scale_x_continuous(breaks = scales::pretty_breaks(n = 5)) + 
-  scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) + 
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10),
+                     limits = c(0,1)) + 
   scale_color_brewer(palette = "Dark2", name = "Replication #") + 
   theme(legend.position = "none")
 
@@ -604,7 +611,7 @@ rep_wf_n_gen(n_reps = 10,
 <br>
 <br>
 
-## Putting it all together: repeat over initial allele frequency and population size
+## Putting it all together: varying both initial allele frequency and population size 
 
 We've seen how to use the Wright-Fisher model to explore how allele frequency and population size impact the process of genetic drift when considered individually... But we haven't tried to vary them together. 
 
