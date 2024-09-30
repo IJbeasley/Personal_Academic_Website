@@ -1,5 +1,5 @@
 ---
-title: 'How to code up your own Wright-Fisher model in R to develop intuition about genetic drift'
+title: 'How to code up your own Wright-Fisher model in R to explore genetic drift'
 author: 'Isobel Beasley'
 date: '2024-09-15'
 slug: wf-model-sim-code
