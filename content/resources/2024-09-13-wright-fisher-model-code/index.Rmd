@@ -28,6 +28,23 @@ The <b><i>Wright-Fisher Model is a mathematical model that can help us understan
 
 <br>
 
+# Table of contents
+
+ - [Genetic Drift Overview](#genetic-drift-overview)
+  - [Introduction to the Wright-Fisher Model](#setting-up-the-wright-fisher-model)
+    - [Variance and expected allele frequencies under the Wright-Fisher model](#variance-and-expected-allele-frequencies-under-the-wright-fisher-model)
+    - [Trying to answer our original question with Wright-Fisher model formulas alone](#trying-to-answer-our-original-question-with-wright-fisher-model-formulas-alone)
+  - [Writing R codel](#writing-r-code-to-simulate-population-allele-frequency-change-over-time-using-the-wright-fisher-model)
+    - [1. Use `rbinom` to simulate allele frequency in the next generation](#first-step-using-rbinom-to-simulate-allele-frequency-in-the-next-generation)
+    - [2 Write a more readable function to simulate allele frequency in the next generation](#second-step-writing-a-more-readable-function-to-simulate-allele-frequency-in-the-next-generation)
+    - [3. Write a function to simulate allele frequency changes across an arbitrary number of generations](#third-step-write-a-function-to-simulate-allele-frequency-changes-across-an-arbitrary-number-of-generations)
+  - [Plotting population allele frequency simulations](#plotting-population-allele-frequency-changes-over-multiple-generations)
+    - [Plot allele frequency over generations across different population sizes](#plot-allele-frequency-changes-over-generations-across-differing-population-sizes)
+    - [Plot allele frequency over generations across different initial allele frequencies](#plot-allele-frequency-over-generations-across-different-initial-allele-frequencies)
+  - [Varying both initial allele frequency and population size - our final question answer](#putting-it-all-together-varying-both-initial-allele-frequency-and-population-size)
+
+<br>
+
 ## Genetic Drift Overview
 
 Genetic variation may not be passed down from one generation to another for a number of unpredictable reasons. 
@@ -61,7 +78,7 @@ $2N$ is the number of alleles in this population (each individual carries two co
 
 If you’ve had some statistical training, you may be able to work out the expected value and variance of $P_{t}$ from this formula alone. 
 
-If you can't work this out alone, check out the [wikipedia page on the binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution) to try to figure these values out for yourself before checking the answers below.
+If you can't work this out alone, check out the <a href="https://en.wikipedia.org/wiki/Binomial_distribution>binomial distribution wikipedia page</a> to try to figure these values out for yourself before checking the answers below.
 
 <details> 
 <summary> Under this Wright-Fisher model notation, what is the expected frequency of the '$p$' allele at generation $t$? </summary> 
@@ -500,7 +517,7 @@ Can you use the `rep_wf_n_gen` function to perform 8 simulations across 50 gener
 ```{r wf_across_pop_sizes}
 
 data = rep_wf_n_gen(n_reps = 8,
-             pop_size = c(5,10,10^2,10^4, 10^6),
+             pop_size = c(5,10^2,10^4, 10^6),
              init_allele_freq = 0.2,
              n_gen = 50
 )
@@ -520,7 +537,7 @@ Now let's plot this simulated data to improve our sense of how population size i
 ```{r plot_wf_across_pop_sizes, fig.width=6, fig.height=8}
 
 plot = rep_wf_n_gen(n_reps = 8,
-                    pop_size = c(5,10,10^2,10^4, 10^6),
+                    pop_size = c(5,10^2,10^4, 10^6),
                     init_allele_freq = 0.2,
                     n_gen = 50) %>% 
       ggplot(aes(x=generation,
