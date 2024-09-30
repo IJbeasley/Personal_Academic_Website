@@ -333,14 +333,20 @@ Let's start by plotting our results from the previous question (i.e., tracking a
 suppressWarnings(suppressMessages(library(dplyr)))
 suppressMessages(library(ggplot2))
 suppressMessages(library(plotly))
+suppressMessages(library(RColorBrewer))
 
-plot = wf_sim_n_gen(0.5, 10, 100) %>% 
+plot = wf_sim_n_gen(init_allele_freq = 0.5, 
+                    pop_size = 5, 
+                    n_gen = 10) %>% 
   ggplot(aes(x=generation,
-             y=allele_freq)) + 
+             y=allele_freq)
+         ) + 
   geom_line() + 
   theme_bw() + 
   labs(x = "Generation", 
-       y = "Frequency of 'A' Allele")
+       y = "Frequency of 'A' Allele") + 
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 5)) + 
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10))
 
 ggplotly(plot)
 
@@ -394,6 +400,9 @@ wf_sim_all = purrr::pmap(all_sims,
                          )
 
 wf_sim_all = purrr::list_rbind(wf_sim_all)
+
+wf_sim_all = wf_sim_all %>% 
+             mutate(sim_idx = as.factor(sim_idx))
                          
 return(wf_sim_all)
                     
@@ -443,28 +452,33 @@ dplyr::slice_sample(data, n = 10)
 
 ```
 
-<br>
 </details> 
+
+<br>
 <br>
 <br>
 
 ### Plot multiple simulations of the same starting population 
 
-Now, let's expand our previous plot where only considered one possible trajectory of allele frequency changes over generations to now consider 10 possible trajectories (i.e, the code output for 10 different simulations written for the previous question).
+Now, let's expand our previous plot where only considered one possible trajectory of allele frequency changes over generations to now consider 8 possible trajectories (i.e, like the code output for 10 different simulations written for the previous question - just now out replications).
 
 ```{r plot_it} 
 
-plot = rep_wf_n_gen(n_reps = 10,
+plot = rep_wf_n_gen(n_reps = 8,
              init_allele_freq = 0.2,
              pop_size = 5,
              n_gen = 10) %>%  
   ggplot(aes(x=generation, # on the x-axis, let's plot the generation number
              y=allele_freq, # on the y-axis, let's plot the allele frequency at this gen
-             group = sim_idx)) + # let's make a single line refer to a single simulated population
+             group = sim_idx,
+             color = sim_idx)) + # make a line per simulated population
   geom_line() + 
   theme_bw() + 
   labs(x = "Generation", 
-       y = "Frequency of 'A' Allele") 
+       y = "Frequency of 'A' Allele") + 
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 5)) + 
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) + 
+  scale_color_brewer(palette = "Dark2", name = "Replication #")
 
 
 ggplotly(plot)
@@ -511,14 +525,19 @@ plot = rep_wf_n_gen(n_reps = 10,
 ) %>% 
   ggplot(aes(x=generation,
              y=allele_freq,
-             group = sim_idx)) + 
+             group = sim_idx,
+             color = sim_idx)) + 
   geom_line() + 
   theme_bw() + 
   facet_wrap(vars(pop_size), 
-             labeller = labeller(pop_size = paste0("Pop. size = ", pop_size)),
+           labeller = labeller(pop_size = ~paste0("Pop. size = ", .x)),
              axes = "all") + 
   labs(x = "Generation", 
-       y = "Frequency of 'A' Allele")
+       y = "Frequency of 'A' Allele") + 
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 5)) + 
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) + 
+  scale_color_brewer(palette = "Dark2", name = "Replication #") + 
+  theme(legend.position = "none")
 
 ggplotly(plot)
 
@@ -563,13 +582,22 @@ rep_wf_n_gen(n_reps = 10,
 ) %>% 
   ggplot(aes(x=generation,
              y=allele_freq,
-             group = sim_idx)) + 
+             group = sim_idx,
+             color = sim_idx)) + 
   geom_line() + 
   theme_bw() + 
   facet_wrap(vars(init_allele_freq), 
-             axes = "all") + 
+             labeller = labeller(init_allele_freq = 
+                                 ~paste0("Init. allele freq. = ", .x)
+                                 ),
+             axes = "all"
+             ) + 
   labs(x = "Generation", 
-       y = "Frequency of 'A' Allele")
+       y = "Frequency of 'A' Allele") + 
+  scale_x_continuous(breaks = scales::pretty_breaks(n = 5)) + 
+  scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) + 
+  scale_color_brewer(palette = "Dark2", name = "Replication #") + 
+  theme(legend.position = "none")
 
 ```
 
