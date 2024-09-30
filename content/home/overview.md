@@ -13,7 +13,6 @@ headless: false
 weight: 10
 author: admin
 
-
 type: overview
 
 design:
