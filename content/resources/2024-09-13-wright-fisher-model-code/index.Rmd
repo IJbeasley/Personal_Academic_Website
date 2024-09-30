@@ -1,0 +1,577 @@
+---
+title: 'How to code up your own Wright-Fisher model in R to develop intuition about genetic drift'
+author: 'Isobel Beasley'
+date: '2024-09-15'
+slug: wf-model-sim-code
+categories: ['Resources','University Teaching resources', 'Evolutionary modeling']
+tags: ['R', 'Population genetics', 'Teaching', 'Simulation', 'Code']
+subtitle: 'Tutorial with R code and interative plots to investigate how different evolutionary parameters impact population allele frequency through genetic drift'
+summary: 'Imagine an isolated population. How is genetic variation likely to change over time?'
+meta_summary: 'Tutorial with R code and interative plots to investigate how different evolutionary parameters impact population allele frequency through genetic drift'
+authors: ['Isobel Beasley']
+lastmod: '2024-09-15T17:51:36-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Imagine an isolated population. At one genetic locus, there are two variants in this population: the more common A allele (80%), and the less common allele. 
+
+<b><i>If you were lucky enough to visit this population 100 years later, do you think you’d still find allele A in 20% of the chromosomes in this population? </b></i>
+
+If you said, *it depends*, you’d be correct. 
+
+The <b><i>Wright-Fisher Model is a mathematical model that can help us understand some of the specific circumstances that cause allele frequency in a population to change over time - and thus, develop a nuanced answer to this question</b></i>. In this article I’m going to use this model to explore how population size, and allele frequency impact the process of genetic drift through simulation. 
+
+<br>
+
+## Genetic Drift Overview
+
+Genetic variation may not be passed down from one generation to another for a number of unpredictable reasons. 
+
+For example, an individual dies before reproducing because they’re one of the unlucky few to have a fridge fall on them from a great height. 
+
+Or like flipping a coin and getting heads each time, a father could have many daughters and no sons, and therefore none of his offspring inherit any genetic variation on his Y chromosome. 
+
+This randomness in individual survival, reproduction and inheritance can change the frequency of alleles in a population over time - a process called genetic drift. 
+
+While it’s very hard to make any predictions about these random processes at the individual level, at a population level we can make some inferences about the likely direction, and significance of genetic drift. 
+
+<br> 
+
+## Setting up the Wright-Fisher Model
+
+Independently derived by Sewall Wright and Ronald A. Fisher in the early 20th century, <b>the Wright-Fisher model is a mathematical description of the change in population allele frequency at a single locus under specific simplifying conditions</b>:<i>no selection, no mutation, no overlap between generations, random mating, finite and fixed population size. </i>
+
+While these conditions are entirely unrealistic for real world populations, the resulting Wright-Fisher model is still very useful for testing hypotheses on real data. Additionally, as we will use it today, the Wright-Fisher model is a great tool to explore to develop intuition around two factors affecting genetic drift: population size, and allele frequency. 
+
+In this article under this model, allele frequency at each generation ($t$) for a population of $N$ diploid individuals is a random variable of the following distribution:
+
+$$ P_{t} \sim \frac{B \left(2N, p_{t-1} \right)}{2N} $$
+That is, the frequency of the '$p$' allele at generation number $t$ ($P_{t}$), can be simulated using its frequency at the prior generation ($t-1$), and the population size ($N$). $2N$ is the number of alleles in this population (as each individual caries two copies of the same gene). 
+
+<br>
+
+### Variance and expected allele frequencies under the Wright-Fisher model
+
+If you've had some statistical training, you may be able to work out from this formula alone what the expected value and variance of $P_{t}$ is. If you can't, check out the [wikipedia page on the binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution) to try figure these values out for yourself before checking the answers below.
+
+<details> 
+<summary> Under this Wright-Fisher model notation, what is the expected frequency of the '$p$' allele at generation $t$? </summary> 
+<br>
+In mathematical notation: $p_{t-1}$
+<br>
+In words: The frequency of the $p$ allele at the previous ($t-1$) generation.
+<br>
+</details>
+
+<details>  <summary> What is the variance in the frequency of the '$p$' allele at generation $t$ ($p_t$)? </summary> 
+<br>
+In mathematical notation: $p_{t-1} \left(1-p_{t-1}\right)$ 
+<br>
+In words: The frequency of the $p$ allele in the previous generation ($t-1$) times the frequency of the alternative allele ($q$) at the prior generation ($q_{t-1}$, or 1 minus the frequency of the frequency of the $p$ allele).
+<br>
+</details>
+
+<details> <summary> In a practical non-mathematical sense what features what am I referring to, when I am asking for the expected frequency and variance in the frequency of the p allele at generation $t$? </summary>
+
+If we could repeatably go back an infinite number of times to the generation t-1 and then observe the allele frequency at generation t, what allele frequency would we expect to see across these repetitions at the t generation on average? How much variation across would we see across these repetitions? 
+<br>
+
+You could think about these repetitions as infinite 'multiple parallel universes' which were set up to be exactly the same at generation t, and then left to progress without inference. 
+<br>
+
+It's fair to say this is a hard concept to understand because it is so abstract, so give yourself time to think it over and come back after trying the below simulations (hopefully they will make this explanation make sense - but feel free to reach out if you're still stuck and would like me to try give another explanation)
+<br> 
+</details>
+
+<br> 
+
+### Trying to answer our original question with Wright-Fisher model formulas alone
+
+Going back to our original scenario and question: If you visited the same population 100 years later, do you think you’d still find allele A in 20% of the chromosomes in this population? 
+
+Well if you assumed this population met all the conditions for the Wright-Fisher model, and looked at the above expected value of allele frequency, you might be inclined to say, yes. The expected value of the allele frequency at one generation, is just the allele frequency at the previous generation. 
+
+But this answer is only true for an infinity big population. Or a population with only one allele (i.e. where everyone was homozygous for the A allele). 
+
+In all other situations, the frequency of selectively neutral variants will randomly fluctuate from generation to generation by the randomness of which gametes ultimately become offspring in the next generation. And of course, because we're assuming no mutation, the second the A allele isn't passed on to the next generation ... that's it - there's no more A allele in this population forever. 
+
+<br>
+
+### Using Wright-Fisher model simulations to answer our question 
+
+The <b>probability that the A allele isn't passed on to the next generation depends on how many copies and individuals carry copies of this allele currently</b>. Clearly, the more common the A allele is (i.e. the higher frequency), the more likely it is to be passed on. <b>Population size is also important</b>: if our original population was 5 individuals, then only ~2* people would carry at least one copy of the A allele, if instead the population consisted of a million individuals then ~360,000* people would carry at least one copy. The likelihood that 2 as compared to 360,000 individuals don't pass on any of their A alleles is much higher. 
+
+... But <i>how much</i> of a impact does this population size difference truly have on the chance that the A allele becomes fixed? 
+
+... And more generally, how does the combination of population size and allele frequency impact the likelihood that an allele becomes fixed (in other words the only allele in the population)? How do these factors impact how dramatic the change in allele frequency is from one generation to another?
+
+... And, when should we be concerned that a population is too small to ensure genetic diversity is maintained (i.e. neither the A or a allele become fixed)? 
+
+<b><i>
+It's time to</b></i> stop thinking about how allele frequency might change over an infinite number of parallel universes, and instead <b><i>start simulating allele frequency across generations using the Wright-Fisher Model</i></b>.
+
+<br>
+<br>
+
+<details> 
+<summary> *How did I come up with these values for the number of individuals in this population who carrt at least one copy of the A allele ? </summary> 
+<br>
+Hardy-Weinberg Equilibrium! 
+
+If you look at the assumptions of Hardy-Weinberg Equilibrium you'll notice that they are eerily similar to those of the Wright-Fisher Model stated above. The main difference between the two models is the perspectives / point of each of these two formulas; Hardy-Weinberg Equilibrium is about relating genotype to allele frequency in the same generation, Wright-Fisher is about relating the allele frequency from one generation to another. 
+
+Now, according to Hardy-Weinberg equilibrium the proportion of individuals carrying at least one copy of an allele, p, is: <br>
+$= 2pq + p^{2}$ 
+(q being the alternative allele) <br>
+In our scenario, the frequency of the A allele is 20% (i.e. $p = 0.2$). <br>
+$ = 2 \times 0.2 \ 0.8 + 0.2 ^{2} $ <br>
+$ = 0.36 $ <br>
+
+Thus, for a population of 5 individuals, we expect $ 5 \times 0.36 = 1.8 $ (i.e. ~2) people to carry at least one copy of the A allele. For a population of a million individuals, we expect $ 10^6 \times 0.36 = 360,000 $ people to carry at least one copy of the A allele. 
+
+</details>
+<br>
+
+## Writing R code to simulate population allele frequency change over time using the Wright-Fisher model
+
+Now, to explore allele frequency over time using the WF model let's first set up simulation from one generation to the next.
+
+In standard conceptions of the binomial model, we often refer to 'success', and 'trials'. For instance, if we're interested in the number of heads observed after flipping a coin 10 times success is 'observing heads in a single coin flip', and the trials are 'each coin flip' (so the number of trials is 10).
+
+The R code to simulate one run of 10 coin flips (aforementioned scenario) is: 
+
+```{r coin_flip_example}
+# the total number of trials
+n_coin_flips <- 10
+# chance of observing success (heads) at a single trial: 
+heads_chance <- 0.5 
+
+
+# now let's see how many heads we observe in one 'run' of 10 coin flips
+rbinom(n = 1, #number of simulations to make
+       prob = heads_chance, # probability of success at each trial
+       size = n_coin_flips) # number of trials 
+
+
+```
+
+<br>
+
+Note: take care - <b><i>the mathematical notation often used to denote the number of trials ($n$) is different to the notation used by R (`size`)</b></i>: <b>in R code, $n$ refers to the number of simulations</b> (i.e. how many times are we running the entire study, e.g. how many times are we doing 6 coin flips) not the number of trials. 
+
+
+<br>
+
+### First step: using `rbinom` to simulate allele frequency in the next generation 
+
+
+<i><b>In the Wright-Fisher model</i></b>, we can alternatively think about <b><i>success</i></b> in the binomial variable context <i><b> as 'a single gamete with an A allele is involved in sexual reproduction, and ultimately becomes an offspring'</i></b>, and <b><i>number of trials being 'the total number of gametes which ultimately make up the next generation'</i></b>. 
+
+Unlike the coin flip scenario we are not interested in the number of successes, but the proportion of successes (the allele frequency in the next generation) - but we can easily calculate the proportion of success as the number of successes over the population size, as one of our assumptions is that our population size remains fixed. 
+
+Can you use the above two paragraphs to adapt the above coin flip code to simulate allele frequency in the subsequent generation? 
+
+Let population size (`pop_size`) be $5$, and allele frequency (`allele_freq`) be $0.2$.
+
+<details> 
+<summary> Let's see an example of adapting the coin flip code </summary>
+
+```{r first_step_in_code}
+
+pop_size = 5
+allele_freq = 0.2 
+
+# total number of 'A' alleles in the next generation 
+ al_total = rbinom(n = 1,
+       size = 2*pop_size, 
+       prob = allele_freq
+       )
+
+ # frequency of 'A' alleles in the next generation
+ al_total / 2 * pop_size
+```
+</details> 
+
+<br>
+
+### Second step: Writing a more readable function to simulate allele frequency in the next generation
+
+Now that we have the basic code to simulate allele frequency chance from one generation to the next, let's turn this code into a more readable function, `wf_sim`, which takes two parameters (`allele_freq`, `pop_size`) as inputs and then uses the Wright-Fisher model to simulate allele frequency in the subsequent generation. 
+
+```{r set_up_wf}
+
+# Function - use the Wright-Fisher Model to simulate
+# what the allele frequency in the next generation could be 
+# from the allele frequency in the current generation and population size 
+
+wf_sim <- function(allele_freq, pop_size) {
+
+# let this be allele frequency for any given allele, e.g. A
+# the below calculates total number of copies of this allele in the next generation
+  al_total<- rbinom(n = 1, 
+                    size = 2*pop_size,
+                    prob = allele_freq
+                    )
+                           
+# convert this number to allele frequency
+  return(al_total / (2*pop_size))
+}
+
+```
+
+<br>
+
+Can you use the above `wf_sim` function to simulate allele frequency in the subsequent generation? Let population size (`pop_size`) be $5$, and initial allele frequency (`allele_freq`) be $0.2$ (i.e. repeat the last question, just now use this function)
+
+<details> 
+<summary> Reveal example code
+</summary> 
+
+```{r wf_example_one_gen}
+
+wf_sim(allele_freq = 0.2, 
+       pop_size = 5
+       )
+
+```
+
+</details> 
+<br>
+
+### Third step: Write a function to simulate allele frequency changes across an artibtrary mumber of generations 
+
+And now, let's create a R function called `wf_sim_n_gen` that applies the above `wf_sim` function repeatedly - so we can simulate allele frequency in as many generations (`n_gen`) in the future as we like. 
+
+```{r wf_across_n_gen}
+
+# Expand the above code to simulate allele frequency
+# using the Wright-Fisher model 
+# over an arbitrary number of generations (n_gen)
+wf_sim_n_gen <- function(init_allele_freq, 
+                         pop_size, 
+                         n_gen) {
+  
+  # set up initial allele freq vector
+  allele_freq = rep(NA, n_gen+1)
+  allele_freq[1] = init_allele_freq
+  
+  # then iterative apply the Wright-Fisher model
+  # to get the allele frequency at the next generation
+  # until this has been done for the requested number of generations
+  for(generation in 2:c(n_gen+1)){
+    
+    allele_freq[generation] = wf_sim(allele_freq[generation - 1],
+                                     pop_size)
+  }
+  
+  allele_freq_df = data.frame("allele_freq" = allele_freq,
+                               "generation" = 0:c(n_gen))
+  
+  return(allele_freq_df)
+  
+}
+
+```
+
+
+<br>
+
+Now test out the `wf_sim_n_gen` function yourself.  
+
+How would you use the above `wf_sim_n_gen` function to simulate allele frequency in the next generation of a population (initial allele frequency of 20%, population size of 5)? 
+
+<details> 
+<summary> Reveal example code.
+</summary>
+
+```{r initial_example_n_gen}
+wf_sim_n_gen(init_allele_freq = 0.5, 
+             pop_size = 5, 
+             n_gen = 1)
+```
+
+</details> 
+
+<summary> How would you use the above `wf_sim_n_gen` function to simulate allele frequency in the next 10 generations of a population (initial allele frequency of 20%, population size of 5)? 
+</summary>
+<details>
+
+```{r example_2_n_gen}
+wf_sim_n_gen(init_allele_freq = 0.5, 
+             pop_size = 5, 
+             n_gen = 10)
+```
+
+</details> 
+<br>
+<br>
+
+## Plotting population allele frequency change over time 
+
+It's hard to understand the results of allele frequency over time from these tables alone; it will be much easier to understand what is going on by plotting this data. This will be especially true when we try to simulate over a wide variety of population sizes, and allele frequencies; and also, when we try to see wider variety of possible allele frequency trajectories by repeated simulation. 
+
+But let's first start by plotting the results from the previous question (i.e., 10 repeated simulations, of 10 generations of allele frequency changes in a single population of 5 individuals with the initial allele frequency of 20%). 
+
+
+```{r first_plot}
+
+suppressWarnings(suppressMessages(library(dplyr)))
+suppressMessages(library(ggplot2))
+suppressMessages(library(plotly))
+
+plot = wf_sim_n_gen(0.5, 10, 100) %>% 
+  ggplot(aes(x=generation,
+             y=allele_freq)) + 
+  geom_line() + 
+  theme_bw() + 
+  labs(x = "Generation", 
+       y = "Frequency of 'A' Allele")
+
+ggplotly(plot)
+
+```
+
+<br>
+Parse your cursor over the line plotted above; you should be able to see the simulated values for each generation. 
+
+<br> 
+
+### Expanding Wright-Fisher model function to work for repeated simulations
+
+Now, let's create a function which allows us to go (and plot) further than our current `wf_sim_n_gen`: one which allows us to plot across varying population sizes, varying initial allele frequency, and number of repetitions (per unique combination of population size and initial allele frequency). 
+
+To do this, below I define a function `rep_wf_n_gen` using the R package purrr to iterate across all these different parameters (number of repetitions - `n_reps`, initial allele frequency - `init_allele_freq`, population size - `pop_size`. number of generations - `n_gen`).  
+
+```{r expand_wf_rep_sim}
+
+library(purrr)
+
+rep_wf_n_gen = function(n_reps,
+             init_allele_freq,
+             pop_size,
+             n_gen
+             ){
+  
+all_sims = expand.grid(init_allele_freq = init_allele_freq,
+                       pop_size = pop_size,
+                       sim_idx = 1:n_reps,
+                       n_gen = n_gen
+                       )
+
+
+
+wf_sim_all = purrr::pmap(all_sims,
+                         function(init_allele_freq,
+                                  pop_size,
+                                  n_gen,
+                                  sim_idx){
+                           
+                           return(
+                           wf_sim_n_gen(init_allele_freq,
+                                        pop_size,
+                                        n_gen) %>% 
+                           mutate(init_allele_freq = init_allele_freq,
+                                  pop_size = pop_size,
+                                  sim_idx = sim_idx
+                                  )
+                           )
+                                            }
+                         )
+
+wf_sim_all = purrr::list_rbind(wf_sim_all)
+                         
+return(wf_sim_all)
+                    
+}
+
+
+```
+
+<br>
+
+Try the `rep_wf_n_gen` function for yourself. 
+
+Can you perform one simulation of 10 generations of allele frequency changes? Let population size (`pop_size`) be $5$, and allele frequency (`allele_freq`) be $0.2$, as in earlier examples.
+
+<details> 
+<summary> Reveal code to answer the above question. </summary>
+
+
+```{r example_use_of_rep_wf_n_gen}
+
+rep_wf_n_gen(n_reps = 1, #number of simulations - or repetitions
+             init_allele_freq = 0.2,
+             pop_size = 5,
+             n_gen = 10)
+
+```
+
+<br> 
+</summary>
+
+<br> 
+
+Can you perform 10 simulations of 10 generations of allele frequency changes using the `rep_wf_n_gen` function? Once again, let population size (`pop_size`) be $5$, and allele frequency (`allele_freq`) be $0.2$.
+
+<details> 
+<summary> Reveal code to do repeated simulated of the same population. </summary>
+
+```{r rep_sim_same_pop_eg}
+
+data = rep_wf_n_gen(n_reps = 10,
+                    init_allele_freq = 0.2,
+                    pop_size = 5,
+                    n_gen = 10)  
+
+# show only a random 10 rows as an example
+dplyr::slice_sample(data, n = 10)
+
+```
+
+<br>
+</details> 
+<br>
+<br>
+
+### Plot multiple simulations of the same inital starting population 
+
+Now, let's expand our previous plot which only considered one possible trajectory of allele frequency changes over generations - to consider 10 possible trajectories (i.e, the code output from the prior question).
+
+```{r plot_it} 
+
+plot = rep_wf_n_gen(n_reps = 10,
+             init_allele_freq = 0.2,
+             pop_size = 5,
+             n_gen = 10) %>%  
+  ggplot(aes(x=generation, # on the x-axis, let's plot the generation number
+             y=allele_freq, # on the y-axis, let's plot the allele frequency at this gen
+             group = sim_idx)) + # let's make a single line refer to a single simulated population
+  geom_line() + 
+  theme_bw() + 
+  labs(x = "Generation", 
+       y = "Frequency of 'A' Allele") 
+
+
+ggplotly(plot)
+
+```
+
+<br>
+<br>
+
+### Plot allele frequency changes over generations across differing population sizes
+
+Now, let's try to use the `rep_wf_n_gen` function to plot how differences in population sizes impact the process of genetic drift. 
+
+Firstly, can you use the `rep_wf_n_gen` function to perform 10 simulations across 50 generations, for populations where the initial allele frequency is 20%, but in this case, across different population sizes (5, 10, 100, 10,000, 1,000,000)? 
+
+<details><summary> Reveal code example. </summary> 
+
+```{r wf_across_pop_sizes}
+
+data = rep_wf_n_gen(n_reps = 10,
+             pop_size = c(5,10,10^2,10^4, 10^6),
+             init_allele_freq = 0.2,
+             n_gen = 50
+)
+
+# show only a random 10 rows as an example
+dplyr::slice_sample(data, n = 10)
+
+
+```
+
+</details> 
+
+Now let's plot this simulated data to make better sense of how population size impacts the process of genetic drift:
+
+<br> 
+
+```{r plot_wf_across_pop_sizes}
+
+plot = rep_wf_n_gen(n_reps = 10,
+             pop_size = c(5,10,10^2,10^4, 10^6),
+             init_allele_freq = 0.2,
+             n_gen = 50
+) %>% 
+  ggplot(aes(x=generation,
+             y=allele_freq,
+             group = sim_idx)) + 
+  geom_line() + 
+  theme_bw() + 
+  facet_wrap(vars(pop_size), 
+             labeller = labeller(pop_size = paste0("Pop. size = ", pop_size)),
+             axes = "all") + 
+  labs(x = "Generation", 
+       y = "Frequency of 'A' Allele")
+
+ggplotly(plot)
+
+```
+
+<br>
+<br>
+
+### Plot allele frequency over generations across different initial allele frequencies 
+
+Next, can you use the `rep_wf_n_gen` function to perform 10 simulations across 50 generations, for populations where the initial allele frequency is 20%, but in this case, across different population sizes (0.05,0.1,0.2,0.3,0.5)? 
+
+<details> 
+<summary> Reveal example code answer </summary> 
+
+
+```{r wf_across_init_all_freq}
+
+data = rep_wf_n_gen(n_reps = 10,
+             init_allele_freq = c(0.05,0.1,0.2,0.3,0.5),
+             pop_size = 100,
+             n_gen = 50
+)
+
+# show only a random 10 rows as an example
+dplyr::slice_sample(data, n = 10)
+
+```
+
+</details> 
+
+<br>
+
+```{r plot_wf_across_init_all_freq}
+
+rep_wf_n_gen(n_reps = 10,
+             init_allele_freq = c(0.05,0.1,0.2,0.3,0.5),
+             pop_size = 100,
+             n_gen = 50
+) %>% 
+  ggplot(aes(x=generation,
+             y=allele_freq,
+             group = sim_idx)) + 
+  geom_line() + 
+  theme_bw() + 
+  facet_wrap(vars(init_allele_freq), 
+             axes = "all") + 
+  labs(x = "Generation", 
+       y = "Frequency of 'A' Allele")
+
+```
+
+<br>
+<br>
+
+## Putting it all together: repeat over initial allele frequency and population size
+
+Ok, so we've seen how to use the Wright-Fisher model to explore how allele frequency, and population size impact the process of genetic drift... But we haven't tried to vary them together. 
+
+This last piece of the puzzle I leave as an exercise for you, dear reader. You have all the code you might need to explore this final aspect, and answer the original question of this article. 
+
+<b><i>If you were lucky enough to visit this population 100 years later, do you think you’d still find allele A in 20% of the chromosomes in this population? </b></i>
+
+<br>
+
+*P.S. I will be fleshing out this article with a little more explanations etc. over time, but this might be a slow process. Please do reach out if you've found part of this article useful, but there is a particular section you'd like more information / detail in. 
