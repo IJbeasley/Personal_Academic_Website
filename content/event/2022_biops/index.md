@@ -37,6 +37,7 @@ projects:
 
 slides: 
 summary: "Oral Presentation"
+meta_summary: 'Information about an oral presentation I delivered at the Biosciences Postgraduate Student Society symposium at the Iniversity of Melbourne in April 2022. Abstract title: Predicting the portability of human expression quantitative trait loci (eQTLs) across populations'
 tags: ['eQTLs', 'Genomics', 'Diversity', 'Ancestry', 'Machine Learning']
 title: "Predicting the portability of human expression quantitative trait loci (eQTLs) across populations"
 

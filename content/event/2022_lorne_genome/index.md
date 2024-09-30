@@ -48,6 +48,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 view: card
+meta_summary: "A poster I presented at Lorne Genome in February 2022 about my master's thesis work. Abstract title:  Predicting the cross-population portability of human expression quantitative trait loci (eQTLs)"
 ---
 
 <object data="../../media/event/2022_lorne_poster.pdf" type="application/pdf" width="100%" height="1325">
