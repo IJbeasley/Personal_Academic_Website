@@ -66,13 +66,20 @@ Phospholipids need their hydrophilic head and hydrophobic tails (x2)
          <br>
          
          
-<img src="phospholipid_bilayer_components_diagram_lab.svg" alt="Labelled diagram depicting the phospholipid bilayer of the cell membrane. Labelled arrows point to the following components: channel protein, cholesterol, glycoprotein, phospholipid."> 
-         
+
 </details>      
     
 <br>
 <br>
 <br>
+
+<br>
+         
+<br>
+
+         
+<img src="phospholipid_bilayer_components_diagram_lab_v4.svg" alt="Labelled diagram depicting the phospholipid bilayer of the cell membrane. Labelled arrows point to the following components: channel protein, cholesterol, glycoprotein, phospholipid."> 
+
 
 <h2 style="color:#D32F2F"> From Structure to function </h2>
 
