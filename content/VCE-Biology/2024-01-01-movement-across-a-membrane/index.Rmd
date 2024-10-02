@@ -31,12 +31,13 @@ Unit 1 (Area of study 1): Cellular structure and function
 <h2 style="color:#D32F2F"> Introduction to Membrane Transport </h2>
  
 How do smaller molecules get into and out of the cell? 
+
+![Unlabeled diagram depicting the phospholipid bilayer of the cell membrane](phospholipid_bilayer_components_diagram_unlab.svg)
  
 ...Well, through the plasma membrane, of course! 
 
 But not every small molecule, across every time / context will travel through the plasma membrane in the same way. Some small molecules travel directly in between the phospholipid molecules, some travel across the membrane with a little help from a protein, others need an energy (ATP) boost to make their way into or out of the cell. 
 
-![Unlabelled diagram depicting the phospholipid bilayer of the cell membrane](phospholipid_bilayer_components_diagram_unlab.svg)
 <br>
 <br>
 <br>
@@ -46,39 +47,53 @@ But not every small molecule, across every time / context will travel through th
 
 <h3> Drawing Time (~20 mins) </h3>
 
-For VCE Biology you will often need to draw a plasma membrane, and in particular the phospholipids which comprise most6 of the plasma membrane. On a piece of paper, or an electronic whiteboard, let's draw these important features together. 
+For VCE Biology you will often need to draw a plasma membrane, and in particular the phospholipids which comprise most of the plasma membrane. On a piece of paper, or an electronic whiteboard, let's draw these important features together. 
 
 
-<h3> Check you have the important elements questions </h3>
+<h3> Questions to check you know how to draw the important features questions: </h3>
+
+<b> What are the important features of phospholipids to draw? </b>
 
 <details> 
-         <summary> What are the important features of phospholipids to draw? </summary>
-         <br>
+         <summary> Unlabelled diagram hint </summary>
          
-<img src="phospholipid_lab.svg" alt="Diagram of a phospholipid molecule, labeling the round hydrophillic head and the two hydrophobic tails">
-         
-Phospholipids need their hydrophilic head and hydrophobic tails (x2)
+<img src="phospholipid_unlab.svg" alt="Diagram of a phospholipid molecule, drawn as a circle attached to two parallel lines" style="width: 175px; height: 250px;">
+
 </details>
 
+<details> 
+         <summary> Final labelled diagram solution </summary>
+
+<img src="phospholipid_lab.svg" alt="Diagram of a phospholipid molecule, labeling the round hydrophillic head and the two hydrophobic tails" style="width: 425px; height: 500px;">
+
+Phospholipids need their hydrophilic head and hydrophobic tails (x2)
+
+</details> 
+
+<br>
+<b> What might be some important features of the plasma membrane to draw? </b>
 
 <details> 
-         <summary> What might be some important features of the plasma membrane tp draw? </summary>
-         <br>
-         
-         
+         <summary> Unlabeled diagram hint </summary>
+  
+<img src="phospholipid_bilayer_components_diagram_unlab.svg" alt="Unlabeled diagram depicting the phospholipid bilayer of the cell membrane"> 
+   
+</details>   
+
+<details> 
+         <summary> Final labelled diagram answer </summary>
+                  
+<img src="phospholipid_bilayer_components_diagram_lab.svg" alt="Labelled diagram depicting the phospholipid bilayer of the cell membrane. Labelled arrows point to the following components: channel protein, cholesterol, glycoprotein, phospholipid."> 
+
 
 </details>      
     
 <br>
-<br>
-<br>
 
 <br>
          
 <br>
 
-         
-<img src="phospholipid_bilayer_components_diagram_lab_v4.svg" alt="Labelled diagram depicting the phospholipid bilayer of the cell membrane. Labelled arrows point to the following components: channel protein, cholesterol, glycoprotein, phospholipid."> 
 
 
 <h2 style="color:#D32F2F"> From Structure to function </h2>
@@ -86,7 +101,6 @@ Phospholipids need their hydrophilic head and hydrophobic tails (x2)
 
 <details> 
         <summary> Why are these features important? </summary>
-<br>    
 <ul>
 <li> The tails are attracted to each other so they form the distinctive *'bi-layer'* of the membrane (i.e. the two layers of phospholipids which make up the plasma membrane). </li>
 
@@ -98,7 +112,6 @@ Phospholipids need their hydrophilic head and hydrophobic tails (x2)
 
 <details>
     <summary> How do these features impact what is able to easily cross membranes - and what isn't? </summary>
-<br>
 <ul>
 <li> Because the plasma membrane is selectively permeable, only some substances can cross the membrane with ease. Others have a more difficult time. </li>
 <li> How easy or hard a substance finds crossing the membrane through jumping between the phospholipids is due to the <b> size of the gaps between phospholipids </b> and  <b> whether the substance is repelled by the tails </b>  </li> 
@@ -112,8 +125,12 @@ Phospholipids need their hydrophilic head and hydrophobic tails (x2)
 
 <h2 style="color:#D32F2F"> Movement Across a Membrane (~20 mins) </h2>
 
+                  
+<img src="factors_movement_membrane.svg" alt=" "> 
+                  
+There are three things which impact how easily a substance is able to cross a membrane. 
 
-There are three things which impact how easily a substance is able to cross a membrane. <br>
+
 <div>
 <details> 
          <summary> <b> Size 💢 </b> </summary>
