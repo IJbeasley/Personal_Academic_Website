@@ -16,7 +16,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
-toc: true
+#toc: true
 ---
 
 
@@ -51,6 +51,8 @@ toc: true
 
 <b> Enzymes: </b> are proteins that <b> speed up chemical reactions </b> (i.e. act as catalysts) by <b> reducing  </b> the energy required for the reaction to begin (the <b> activation energy </b>). 
 
+<img src="lock_key_model_unlab.svg" alt=" " style="width: 400px; height: 300px;">
+
 The temporary association between enzyme and substrate(s) brings reacting molecules closer to one another and weakens existing chemical bonds making it easier for new bonds to form.
 
 Enzymes have a <b> specific 3-dimensional shape </b>  (the tertiary or quaternary structures of the protein) which enables them to <b> bind to a specific substrate </b> (the substance on which an enzyme acts in a biochemical reaction, the 'inputs' in a chemical equation).
@@ -59,6 +61,8 @@ Enzymes have a <b> specific 3-dimensional shape </b>  (the tertiary or quaternar
 <br>
 
 ### Important terms, and definitions 
+
+![Enzyme diagram](lock_key_model_all_lab.svg)
 
 
 <details> <summary> 
@@ -101,6 +105,8 @@ A non-protein organic molecule *required by an enzyme* in order for it to functi
 <br> 
 
 ## The Lock and Key Model of Enzyme Inhibition and Function
+
+![Enzyme diagram](lock_key_steps_diag.svg)
 
 One model, or way of thinking about how enzymes function can be stopped from functioning (or in other words: inhibited) is called the lock and key model. 
 
