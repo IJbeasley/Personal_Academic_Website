@@ -73,10 +73,9 @@ Eukaryote cells contain membrane bound organelles and a nucleus (which contains 
 
 <br>
 
-</details>.
+</details>
 
-
-![Plant Cell Outline, Credit: Isobel Beasley, and Andreas Dorsch 2020](../../VCE-Biology/Zoom_plant_cell.png)
+![Plant Cell Outline, Credit: Isobel Beasley, and Andreas Dorsch 2020](plant_cell_eg.svg)
 
 <p align = "center">
 Plant Cell Outline, Credit: Isobel Beasley, and Andreas Dorsch 2020 
@@ -138,26 +137,6 @@ The organism you are a part of has asked you to make a really big house shaped m
 
 Use the organelles and their listed roles below to plan this project. 
 
-<details> 
-        <summary> If you're stuck ⚠️ </summary>
-        <br> Google is your friend and so is the below video: <br>
-        
-<center>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hmwvj9X4GNY?si=YPcWj3PAPqvtehlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<br> 
-Parts of a cell
-</center> <br>
-
-        
-</details>
-<details> 
-      <summary> If you're a superstar who's already done 💫 </summary>
-    <br> 
-    Translate the listed organelle roles below into VCAA friendly definitions. 
-    Go to the next activity and see if you can now label some organelles!
-    <br>
-</details>
 
 <div class="toggle"> 
 <details> 
@@ -166,7 +145,7 @@ Parts of a cell
 <details><br><br>
          <summary> <b> Nucleus </b> </summary>
          
-![Nucleus](../../VCE-Biology/Nucleus.jpg)
+![Nucleus](nucleus_eg.svg)
 
 <br>
 <b> The Nucleus </b> Where all the protein brick blueprints are held. Blueprints are converted into easy to transport but temporary paper booklets.
@@ -176,9 +155,7 @@ Parts of a cell
 <details>
          <summary> <b> Endoplasmic Reticulum </b> </summary>
 
-<br>
-![Endoplasmic Reticulum](../../VCE-Biology/membrane-system-Endoplasmic-reticulum-cells-biosynthesis-transport.jpg)
-<br>
+![Endoplasmic Reticulum](er_eg.svg)
 
 <b> The Endoplasmic Reticulum </b> Moves materials around the cell. 
 <br>
@@ -187,22 +164,20 @@ Parts of a cell
 <details>
           <summary> <b> Vesicle </b> </summary>
           
-![Vesicle](../../VCE-Biology/Vesicle_delivery_(3).png)
+![Vesicle](vesicle_eg.svg)
 
 **Vesicle**: Ships big materials out of the cell.
 </details>
 <details>
          <summary> <b> Ribosomes </b> </summary>
          
-![Ribosomes](../../VCE-Biology/ribosome.jpg)
-
 **Ribosomes**: Where protein bricks get made by reading instructions from paper booklets.
 </details>
 
 <details> 
         <summary> <b> Golgi Appartus </b> </summary>
 
-![Golgi Apparatus](../../VCE-Biology/sort_golgi.gif)
+![Golgi Apparatus](sort_golgi.gif)
 
 **The Golgi Apparatus**: Sorts, modifies and organises materials in preparation for shipping outside the cell. 
 </details>
@@ -242,14 +217,36 @@ Parts of a cell
 </details>
 
 <br>
+
+<details> 
+        <summary> Help! I'm stuck ⚠️ </summary>
+        <br> Google is your friend and so is the below video: <br>
+        
+<center>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hmwvj9X4GNY?si=YPcWj3PAPqvtehlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br> 
+Parts of a cell
+</center> <br>
+
+        
+</details>
+<details> 
+      <summary> If you're a superstar who's already done 💫 </summary>
+    <br> 
+    Translate the listed organelle roles below into VCAA friendly definitions. 
+    Go to the next activity and see if you can now label some organelles!
+    <br>
+</details>
+
+
+<br>
 <br>
 <br> 
 
 <h2 style="color:#D32F2F"> Let's Label Some Organelles: (~5 mins) </h2>
 
-![Plant cell](../../VCE-Biology/Zoom_plant_cell.png)
-
-
+![Plant cell](plant_cell_eg.svg)
 
 <br>
 <br>
