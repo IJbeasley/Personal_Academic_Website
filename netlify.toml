@@ -45,7 +45,7 @@ package = "@netlify/plugin-sitemap"
     './favicon.ico',
     './inputs.php',
     'js/**',
-    'js/vendor/reveal.js/plugin/notes/notes/**'
+    'js/vendor/reveal.js/plugin/notes/notes/**',
     './js/vendor/reveal.js/plugin/notes/**',
     './media/**',
     'post/**', 
