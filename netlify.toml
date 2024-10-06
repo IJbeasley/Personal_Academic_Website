@@ -8,6 +8,7 @@ HUGO_VERSION = "0.80.0"
 [[plugins]]
 
 package = "@netlify/plugin-sitemap"
+package = "netlify-plugin-submit-sitemap"
 
   [plugins.inputs]
   
@@ -17,7 +18,7 @@ package = "@netlify/plugin-sitemap"
   baseUrl = "https://isobelbeasley.com"
 
   # default change in site: 
-  changeFreq =  "monthly"
+  changeFreq =  "weekly"
   priority = 0.7
   
   prettyURLs = true
@@ -31,21 +32,26 @@ package = "@netlify/plugin-sitemap"
     './2018/**',
     './admin/',
     './author/',
+    'author/**',
     './author/christina-b-azodi/',
     './backup',
-    './blank_type/',
-    './blank_type/**',
-    './blank_type/**/',
-    './category/endoplasmic-reticulum/',
-    './category/organelles/',
+    '/blank_type/**',
+    'blank_type/**',
+    'category/aos1/**',
+    '/category/endoplasmic-reticulum/',
+    '/category/organelles/',
+    'category/the-relationship-between-nucleic-acids-and-proteins',
     './css/**',
     './event/**',
     './favicon.ico',
     './inputs.php',
-    './js/**',
-    './js/vendor/reveal.js/plugin/notes/notes/',
+    'js/**',
+    'js/vendor/reveal.js/plugin/notes/notes/**'
+    './js/vendor/reveal.js/plugin/notes/**',
     './media/**',
+    'post/**', 
     './posts/**',
+    'publication_themes/**',
     './publication_themes/**',
     './Public/home/js/**',
     './simple.php',
@@ -65,6 +71,7 @@ package = "@netlify/plugin-sitemap"
     '//**/wp-includes/**'
     
   ]
+  
 
   
 [context.production.environment]
