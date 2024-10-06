@@ -39,7 +39,7 @@ package = "@netlify/plugin-sitemap"
     '/blank_type/**',
     '/blank_type/**/',
     'blank_type/**',
-    'blank_type/**'/',
+    'blank_type/**/',
     'category/aos1/**',
     '/category/endoplasmic-reticulum/',
     '/category/organelles/',
