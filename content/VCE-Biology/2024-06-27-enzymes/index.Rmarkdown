@@ -280,7 +280,7 @@ Less important*:
 <br>
 <br>
 
-# Additonal resources
+# Extra resources
 
 <br>
 <br> 

@@ -1,5 +1,5 @@
 ---
-title: Natural selection, and speciation 
+title: Natural selection and speciation 
 author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: genetic-diversity-and-natural-selection
@@ -131,6 +131,6 @@ How do two or more populations of the same species get to be genetically diverge
 
 # Extra Resources
 
-## Douchy's VCE Biology Podcast
+##  <span style="color:#D32F2F">  Douchy's VCE Biology Podcast </span>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1XYbds46rhnDp6yrUCjeHq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

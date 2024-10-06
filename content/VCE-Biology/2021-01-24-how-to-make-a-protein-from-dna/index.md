@@ -262,21 +262,11 @@ For the last time today, try putting the steps in order before revealing any ans
 - The basic steps of transcription, post-transcriptional modification and translation are very important for the exam! (And for you to live!)
 
 <br>
-<br>
 
 # Extra Resources:
 
-
-- Douchy's VCE Biology Podcast
+## Douchy's VCE Biology Podcast
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7xGZ4LcVwHX9aGKlrZ7FFy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<br> 
-
--   [Transcription BioNinja webpage ](http://www.vce.bioninja.com.au/aos-3-heredity/molecular-genetics/transcription.html)
-    
--    [Translation BioNinja webpage ](http://www.vce.bioninja.com.au/aos-3-heredity/molecular-genetics/translation.html)
-    
-
-- ['How we make a protein' (Protein Structure / Translation) - terrible song](Class%20B%20-%20Proteins%20and%20Nucleic%20Acids%20e6f0b915df6a4e52829b461090b205dc/how-to-make-a-protein.mp4)
     

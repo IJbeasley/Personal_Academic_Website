@@ -135,14 +135,11 @@ A mutation or change to the DNA that occurs in one your body cells (more correct
 
 <br> 
 <br>
-<br>
 
 
-
-# Additonal resources
+# Extra resources
 
 <br>
-<br> 
 
 ## Douchy's VCE Biology Podcast
  
