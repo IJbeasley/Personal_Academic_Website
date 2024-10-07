@@ -30,11 +30,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 library(magick)
 library(animation)
+
 ```
 ```{r}
-image_read('header.gif')
+#image_read('header.gif')
+image_read('golgi_try.png') %>% 
+  image_scale(., "1000x")
 
-image_read('b.png') %>% 
+
+image_read('b.svg') %>% 
   image_scale(., "1000x")
 
 image_read('tree.gif') %>% 
@@ -52,7 +56,7 @@ image_read('tree.gif') %>%
                  boxcolor = "white",
                  color = "black")
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x") 
 
 image_read('ant_leaf.gif') %>% 
@@ -65,7 +69,7 @@ image_read('ant_leaf.gif') %>%
                  boxcolor = "white",
                  color = "black") 
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
 image_read('zoom.gif') %>% 
@@ -85,7 +89,7 @@ image_read('zoom.gif') %>%
                  weight = 700,
                  color = "black")  
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
 image_read('cell_city_gif_1.png') %>% 
@@ -118,16 +122,16 @@ image_read('cell_city_gif_1.png') %>%
                  boxcolor = "white",
                  color = "black")   
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
 image_read('cell_city.gif') %>% 
   image_scale(., "850x") 
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "850x") %>%      
   image_annotate("In cities the post office helps parcels get to the right address.",
                  size = 26,
@@ -146,7 +150,7 @@ image_read('golgi_and_post.gif') %>%
                  weight = 700, 
                  color = "black") 
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
 image_read('post_collect.gif') %>% 
@@ -164,7 +168,7 @@ image_read('post_collect.gif') %>%
                  boxcolor = "white",
                  color = "black")
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
 image_read('golgi_collect.gif') %>% 
@@ -190,7 +194,7 @@ image_read('golgi_collect.gif') %>%
                  weight = 700,
                  color = "black")  
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
 image_read('sort.gif') %>% 
@@ -232,7 +236,7 @@ image_read('sort.gif') %>%
                  boxcolor = "white",
                  color = "black") 
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
 image_read('sort_golgi.gif') %>% 
@@ -262,7 +266,7 @@ image_read('sort_golgi.gif') %>%
                  boxcolor = "white",
                  color = "black") 
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
 image_read('aus_post_dell.gif') %>% 
@@ -281,7 +285,7 @@ image_read('aus_post_dell.gif') %>%
                  weight = 700,
                  color = "black")
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
 image_read('vesicle_text.gif')
@@ -364,12 +368,12 @@ image_read('vesicle_text.gif')
 #    format = "gif",
 #   density = 300)
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 ```
 
 ```{r}
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "850x") %>%     
   image_annotate("...But the Golgi Apparatus can do waaaayyy more",
                  size = 28,
@@ -384,7 +388,7 @@ image_read('b.png') %>%
                  boxcolor = "white",
                  color = "black")
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x") 
 
 image_read('lego_aus.gif') %>% 
@@ -409,7 +413,7 @@ image_read('lego_aus.gif') %>%
                  weight = 700,
                  color = "black")
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 ```
 ```{r}
@@ -446,16 +450,16 @@ image_read('lego_golgi.gif') %>%
                  boxcolor = "white",
                  color = "black") 
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
 image_read('24.gif') %>% 
    image_scale(., "850x") 
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
-image_read('b.png') %>% 
+image_read('b.svg') %>% 
   image_scale(., "350x") %>% 
   image_annotate("So...",
                  size = 45,
@@ -463,7 +467,8 @@ image_read('b.png') %>%
                  location = "+0+10", 
                  boxcolor = "white",
                  color = "black") 
-image_read('b.png') %>% 
+
+image_read('b.svg') %>% 
   image_scale(., "350x")
 
 image_read('end.png') %>% 
