@@ -20,10 +20,10 @@ links:
   icon_pack: fas
   name: UROP 2020 Conference Slides
   url: "media/UROP-Conference-2020.pdf"
-- icon: video
-  icon_pack: fas
-  name: UROP 2020 Conference Presentation 
-  url: "media/UROP_Conference_Beasley_Final.mp4"
+# - icon: video
+#   icon_pack: fas
+#   name: UROP 2020 Conference Presentation 
+#   url: "media/UROP_Conference_Beasley_Final.mp4"
 slides: 
 summary: "Undergraduate research project developing a Bayesian R Package for Differential Gene Expression Analysis over Continuous Covariates, [TABI](https://github.com/stemangiola/TABI) supervised by: [Dr. Stefano Mangiola](https://github.com/stemangiola) & [Prof. Tony Papenfuss](https://papenfusslab.org/bio_papenfuss) (December 2019 - March 2021)"
 tags:
