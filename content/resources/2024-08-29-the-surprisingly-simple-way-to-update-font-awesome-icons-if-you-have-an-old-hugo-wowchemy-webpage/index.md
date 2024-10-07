@@ -49,7 +49,8 @@ I chose to update to the latest release, 6.6.0 (* latest at the time of writing)
 
 ## Step 2. Find the SRI hash for the version you chose on: https://cdnjs.com/libraries/font-awesome 
 
-![Click on the shield icon to get the SRI hash](../../media/fa-update/cdnjs-sri-screenshot-cropped-v2.png)
+
+![Click on the shield icon to get the SRI hash](cdnjs-sri-screenshot-cropped-v2.svg)
 
 If you’re in the same boat as me, you’re likely wanting to get the “all min” set of icons (i.e. the set with this listed URL: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css). The SRI hash for this icon set is found just to the right of the link; you copy it by clicking the shield icon.
 
@@ -63,11 +64,12 @@ The easiest way to find this line is to search your website’s repository files
 
 The search step: 
 
-![Use the top right search bar on github to search for the 'css.fontAwesome line in assets.toml](../../media/fa-update/github-fa-search-screenshot-cropped-v2.png)
+![Use the top right search bar on github to search for the 'css.fontAwesome line in assets.toml](github-fa-search-screenshot-cropped-v2.svg)
 
 The search result: 
 
-![This section of your assets.toml file is what you're looking for; A line with '[css.fontAwesome]' followed by a version line, sri line and a url line. We're going to be modifying the version and sri line.](../../media/fa-update/github-fa-search-result-screenshot-cropped-v2.png)
+![This section of your assets.toml file is what you're looking for; A line with '[css.fontAwesome]' followed by a version line, sri line and a url line. We're going to be modifying the version and sri line.](github-fa-search-result-screenshot-cropped-v2.svg)
+
 
 <br> 
 
