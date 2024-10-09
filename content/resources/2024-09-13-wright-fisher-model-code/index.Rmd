@@ -16,6 +16,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+math: true
 ---
 
 Imagine an isolated population. At one genetic locus, there are two variants in this population: the more common A allele (80%), and the less common allele. 

@@ -17,6 +17,7 @@ image:
 projects:
 - 'pop_spec_eqtl'
 toc: true
+highlight: true
 ---
 
 I originally wrote the information below as a master's student in 2021. I wrote it intending to help fellow lab fellow lab members with less experience with R and git to start using workflowr to produce reproducible documentation of their data analyses. I've added it here as I thought it may also be helpful to a broader audience: anyone with a little bit of experience in R coding who is ready to expand their skills into R projects and git should find some information below useful. 

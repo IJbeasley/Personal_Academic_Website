@@ -16,6 +16,7 @@ image:
   preview_only: no
 projects: []
 meta_summary: "Learn how to update Font Awesome icons on older Hugo Wowchemy Academic websites. Step-by-step guide to add new icons like Bluesky to your personal academic site."
+highlight: true
 ---
 
 If you have an older academic Hugo webpage (as in, one before the event of Hugo blocks), you may have been puzzled to discover as I was, when you tried to add a blue sky icon link to your webpage… you couldn't. You tried the same kind of code that worked for any other social media site... you spelt bluesky correctly.. and there is a [bluesky icon listed on the Font Awesome website](https://fontawesome.com/icons/bluesky?f=brands&s=solid) ... so surely you can add a bluesky icon? Why on earth is the bluesky icon <b><i>still</i></b> not appearing?  

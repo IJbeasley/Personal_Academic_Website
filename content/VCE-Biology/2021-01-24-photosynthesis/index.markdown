@@ -16,6 +16,7 @@ image:
   preview_only: no
 projects: []
 toc: true
+math: true
 ---
 
 <aside>
@@ -94,11 +95,11 @@ $$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + 
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tinytable_emo72pdcjeocvjv7ytt0</title>
+    <title>tinytable_4rpw5oj71dn45svi70yl</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-.table td.tinytable_css_hxqf7tx70wuf1m77gw4b, th.tinytable_css_hxqf7tx70wuf1m77gw4b {    font-weight: bold; color: black; background-color: white; }
-.table td.tinytable_css_iqmqzf4fvnyn5lgm172m, th.tinytable_css_iqmqzf4fvnyn5lgm172m {    font-size: 21.3333333333333px; }
+.table td.tinytable_css_4r04agbqzy3laq64jrvn, th.tinytable_css_4r04agbqzy3laq64jrvn {    font-weight: bold; color: black; background-color: white; }
+.table td.tinytable_css_ecx4cp3i0dtlrkgwpfvl, th.tinytable_css_ecx4cp3i0dtlrkgwpfvl {    font-size: 21.3333333333333px; }
     </style>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -115,7 +116,7 @@ $$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + 
   </head>
 &#10;  <body>
     <div class="container">
-      <table class="table table-grid table-hover" id="tinytable_emo72pdcjeocvjv7ytt0" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
+      <table class="table table-grid table-hover" id="tinytable_4rpw5oj71dn45svi70yl" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
         <thead>
         &#10;              <tr>
                 <th scope="col">Stage</th>
@@ -142,23 +143,23 @@ $$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + 
     </div>
 &#10;    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-    function styleCell_tinytable_yf0bczvh6k3awm51pl4z(i, j, css_id) {
-      var table = document.getElementById("tinytable_emo72pdcjeocvjv7ytt0");
+    function styleCell_tinytable_46r9325gdpn0exhzeze5(i, j, css_id) {
+      var table = document.getElementById("tinytable_4rpw5oj71dn45svi70yl");
       table.rows[i].cells[j].classList.add(css_id);
     }
     function insertSpanRow(i, colspan, content) {
-      var table = document.getElementById('tinytable_emo72pdcjeocvjv7ytt0');
+      var table = document.getElementById('tinytable_4rpw5oj71dn45svi70yl');
       var newRow = table.insertRow(i);
       var newCell = newRow.insertCell(0);
       newCell.setAttribute("colspan", colspan);
       newCell.innerText = content;
     }
-window.addEventListener('load', function () { styleCell_tinytable_yf0bczvh6k3awm51pl4z(1, 0, 'tinytable_css_hxqf7tx70wuf1m77gw4b') })
-window.addEventListener('load', function () { styleCell_tinytable_yf0bczvh6k3awm51pl4z(2, 0, 'tinytable_css_hxqf7tx70wuf1m77gw4b') })
-window.addEventListener('load', function () { styleCell_tinytable_yf0bczvh6k3awm51pl4z(0, 0, 'tinytable_css_iqmqzf4fvnyn5lgm172m') })
-window.addEventListener('load', function () { styleCell_tinytable_yf0bczvh6k3awm51pl4z(0, 1, 'tinytable_css_iqmqzf4fvnyn5lgm172m') })
-window.addEventListener('load', function () { styleCell_tinytable_yf0bczvh6k3awm51pl4z(0, 2, 'tinytable_css_iqmqzf4fvnyn5lgm172m') })
-window.addEventListener('load', function () { styleCell_tinytable_yf0bczvh6k3awm51pl4z(0, 3, 'tinytable_css_iqmqzf4fvnyn5lgm172m') })
+window.addEventListener('load', function () { styleCell_tinytable_46r9325gdpn0exhzeze5(1, 0, 'tinytable_css_4r04agbqzy3laq64jrvn') })
+window.addEventListener('load', function () { styleCell_tinytable_46r9325gdpn0exhzeze5(2, 0, 'tinytable_css_4r04agbqzy3laq64jrvn') })
+window.addEventListener('load', function () { styleCell_tinytable_46r9325gdpn0exhzeze5(0, 0, 'tinytable_css_ecx4cp3i0dtlrkgwpfvl') })
+window.addEventListener('load', function () { styleCell_tinytable_46r9325gdpn0exhzeze5(0, 1, 'tinytable_css_ecx4cp3i0dtlrkgwpfvl') })
+window.addEventListener('load', function () { styleCell_tinytable_46r9325gdpn0exhzeze5(0, 2, 'tinytable_css_ecx4cp3i0dtlrkgwpfvl') })
+window.addEventListener('load', function () { styleCell_tinytable_46r9325gdpn0exhzeze5(0, 3, 'tinytable_css_ecx4cp3i0dtlrkgwpfvl') })
     </script>
 &#10;  </body>
 &#10;</html>
