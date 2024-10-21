@@ -6,27 +6,35 @@ command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/bui
 HUGO_VERSION = "0.80.0"
 
 [[plugins]]
-package = "@netlify/plugin-sitemap"
+  package = "netlify-plugin-inline-critical-css"
 
+  [plugins.inputs]
+  
+   fileFilter = ['index.html']
+   directoryFilter = ['!*']
+
+  # A filter used to target or ignore specific directories in the publish directory. This option is passed onto the readdirp library, see https://github.com/paulmillr/readdirp#options for more info
+
+[[plugins]]
+  package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
 
-  buildDir = "public"
+   buildDir = "public"
   
-  # change sitemap index url
-  baseUrl = "https://isobelbeasley.com"
+   # change sitemap index url
+   baseUrl = "https://isobelbeasley.com"
 
-  # default change in site: 
-  changeFreq =  "weekly"
-  priority = 0.7
+   # default change in site: 
+   changeFreq =  "weekly"
+   priority = 0.7
   
-  prettyURLs = true
-  # Append missing trailing slash to pretty URL
-  trailingSlash = true
+   prettyURLs = true
+   # Append missing trailing slash to pretty URL
+   trailingSlash = true
 
 
-  exclude = [
-  
+   exclude = [
     './.well-known/**',
     './2018/**',
     './admin/',
@@ -84,18 +92,6 @@ package = "@netlify/plugin-sitemap"
     
   ]
   
-
-
-[[plugins]]
-package = "netlify-plugin-inline-critical-css"
-
-  [plugins.inputs]
-  
-  fileFilter = ["*.html"]
-
-  # A filter used to target or ignore specific directories in the publish directory. This option is passed onto the readdirp library, see https://github.com/paulmillr/readdirp#options for more info.
-  directoryFilter = ["!css", "!js", "!media", "!post", "!category", "!publication_type", "!science-communication/golgi-post-introduction-to-the-golgi-for-primary-school-kids-and-beyond"]
-
 
   
 [context.production.environment]
