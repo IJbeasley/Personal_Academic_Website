@@ -2,14 +2,14 @@
 weight: 6
 title: How to make a protein from DNA
 author: ''
-date: '2021-01-24'
+date: '202-01-24'
 slug: how-to-make-a-protein-from-dna
-categories: ['VCE', 'Biology', 'Unit 3', 'Not updated for current study design']
-tags: ['To be updated', 'High school','VCE', 'Transcription', 'Translation', 'Gene expression', 'Tutoring']
+categories: ['VCE', 'Biology', 'Unit 3']
+tags: ['High school','VCE', 'Transcription', 'Translation', 'Gene expression', 'Tutoring']
 subtitle: 'Transcription, translation - and all the steps in between'
 summary: 'Transcription, translation, and everything in between'
 authors: ['Isobel Beasley']
-lastmod: '2021-01-24T04:35:20+11:00'
+lastmod: '2024-10-2024T04:35:20+11:00'
 featured: no
 image:
   caption: ''
@@ -18,16 +18,22 @@ image:
 projects: []
 ---
 
-
-# Gene Expression
+<aside>
+💡 Associated VCAA (2022-2026) Study Design Dot Points: <br> 
+<ul> <i> 
+<li>
+the steps in gene expression, including transcription, RNA processing in eukaryotic cells and translation by ribosomes
+</li> </i>
+</ul>
+</aside>
 
 <aside>
-💡 Your exam will absolutely have a short answer question of about 3-4 marks about the step of transcription, post transcriptional modification or / and translation. It's a really good idea to learn ~4 marks worth of steps before your final exam! <b>  
+Your exam will absolutely have a short answer question of about 3-4 marks about the step of transcription, post transcriptional modification or / and translation. It's a really good idea to learn ~4 marks worth of steps before your final exam! <b>  
 </aside>
 
 Disclaimer: OK...so I'm not VCAA so I don't really know but a short answer question on the steps of translation and / or transcription has been in every exam since 1998 so the odds are in my favour. </b>
 
-<br> 
+<br>
 
 ## Learning Objectives:
 
@@ -35,31 +41,44 @@ Disclaimer: OK...so I'm not VCAA so I don't really know but a short answer quest
 
 -  List the basic steps in transcription, RNA processing and translation in eukaryotes
 
-<aside>
-💡 Associated VCAA Study Design Dot Points:                                                                                                                   <b> the steps in gene expression including transcription, RNA processing in eukaryotic cells and translation </b> 
+<br>
 
-</aside>
+# Gene Expression
+
+<br> 
+
+## Transcription
+
+The process of making an pre-mRNA molecule from a gene (DNA sequence).
 
 <br>
 
-# Transcription
+## Cellular location of transcription and translation
 
-The process of making an pre-mRNA molecule from a gene (DNA).
-
-<br>
-
-### Cellular location of transcription and translation
-
-
-<iframe src="https://embed.polleverywhere.com/free_text_polls/yCOpqvJNbUdz3XqNZN2hm?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe style="width:100%;height:600px;"
+src="https://embed.polleverywhere.com/free_text_polls/yCOpqvJNbUdz3XqNZN2hm?controls=none&short_poll=true">
+</iframe>
 
 <br>
 <br>
 
-### Videos to help get you started 
+## Videos to help you understand transcription
+<br>
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DA2t5N72mgw?si=33N2PaQs2wpga9uX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<center> 
+
+<iframe width="100%" height="500"
+src="https://www.youtube-nocookie.com/embed/DA2t5N72mgw?si=7xfyhL5kfrI_za-f" 
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!--style="width:100%;height:600px;" -->
+<!--<iframe style="width="100%;height=500px;"
+src="https://www.youtube-nocookie.com/embed/DA2t5N72mgw?si=33N2PaQs2wpga9uX" 
+frameborder="0" 
+allow="accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; 
+web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe> -->
 
 <br>
 Animation showing transcription occurring in the cells nucleus.
@@ -67,10 +86,13 @@ Animation showing transcription occurring in the cells nucleus.
 </center>
 
 <br> 
+<br>
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JQIwwJqF5D0?si=29h__DmwKDzzNxCa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="500" 
+src="https://www.youtube-nocookie.com/embed/JQIwwJqF5D0?si=29h__DmwKDzzNxCa" 
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
@@ -81,11 +103,11 @@ Animation showing transcription occurring in the cells nucleus.
 <br>
 <br>
 
-### Transciption Steps:
+## Transciption Steps Question
 
 Try to put the steps in order in the PollEv below before viewing the steps written underneath.
 
-<iframe src="https://pollev-embeds.com/ranking_polls/jdrTJvuBQWN2xikYpVT0S/respond" width="800px" height="600px"></iframe>
+<iframe style="width:100%;height:600px;" src="https://pollev-embeds.com/ranking_polls/jdrTJvuBQWN2xikYpVT0S/respond" ></iframe>
 
 
 <br>
@@ -94,7 +116,7 @@ Try to put the steps in order in the PollEv below before viewing the steps writt
 <details> 
 <summary> <b> See how other students ordered the transcription steps </b> </summary>
 <br>
-<iframe src="https://embed.polleverywhere.com/ranking_polls/laKc4zljY1x20YC4u7T4P?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe style="width:100%;height:600px;" src="https://embed.polleverywhere.com/ranking_polls/laKc4zljY1x20YC4u7T4P?controls=none&short_poll=true" ></iframe>
 <br>
 </details>
 
@@ -117,35 +139,52 @@ Try to put the steps in order in the PollEv below before viewing the steps writt
 
 
 
-# Post transcriptional processing
+# Post-transcriptional processing
 
-<iframe src="https://pollev-embeds.com/multiple_choice_polls/FZgvoBeP7Uj9ShSs9ubvl/respond" width="800px" height="600px"></iframe>
+In Eukaryotic organism, the pre-mRNA molecule must be processed before it can be translated. 
+Once post-transcriptional modification is complete, the pre-mRNA is considered 'mature mRNA', and it can leave the nucleus via a nuclear pore.
+
+Post-transcriptional processing is the stage of gene expression that most students neglect to mention in the exam - and it often costs them valuable marks, so don't count yourself among them!
+
+<br>
+
+## Introduction question for post-transcriptional processing 
+
+<iframe style="width:100%;height:600px;" 
+src="https://pollev-embeds.com/multiple_choice_polls/FZgvoBeP7Uj9ShSs9ubvl/respond"></iframe>
 
 <br>
 
 <details> 
-<summary> see how other student's answered this question </summary>
+<summary> See how other students answered this question </summary>
 <br> 
 
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/zPyXv2khbM4Z7q2LedaTU?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe style="width:100%;height:600px;" src="https://embed.polleverywhere.com/multiple_choice_polls/zPyXv2khbM4Z7q2LedaTU?controls=none&short_poll=true" ></iframe>
 <br> 
 </details>
 
-pre-mRNA produced from transcription undergoes post-transcriptional modification **before** it can be translated. Once post-transcriptional modification is complete, the pre-mRNA is considered 'mature mRNA', and it leaves the nucleus via a nuclear pore.
+<br>
+
+## Splicing
+
+Splicing is one important step in post-transcriptional processing for Eukaryotic organisms. 
+
+In splicing some parts of the pre-mRNA molecule are excised ('introns'), so others can be joined together ('exons').
+
+A neat trick to help you remember whether introns or exons are the ones that are spliced out of the molecule is to remember the phrase: <b>ex</b>ons get to <b>ex</b>it the nucleus. 
 
 <br>
-<br> 
 
+### <span style="color:#D32F2F"> Splicing Question </span>
 
-Splicing is an important step in this process for Eurokaryotic organisms. In splicing some parts of the pre-mRNA molecule are excised ('introns'), so 
-
-<iframe src="https://pollev-embeds.com/free_text_polls/jXCsFOElO3xk2VFOTc5bo/respond" width="800px" height="600px"></iframe>
+<iframe style="width:100%;height:600px;" 
+src="https://pollev-embeds.com/free_text_polls/jXCsFOElO3xk2VFOTc5bo/respond" ></iframe>
 
 <details> 
-<summary> see how other student's answered this question </summary>
+<summary> See how other students answered this question </summary>
 <br> 
 
-<iframe src="https://embed.polleverywhere.com/free_text_polls/XkIfVvTa4TEuM7INr9PQ0?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe style="width:100%;height:600px;" src="https://embed.polleverywhere.com/free_text_polls/XkIfVvTa4TEuM7INr9PQ0?controls=none&short_poll=true" ></iframe>
 
 <br>
 </details>
@@ -158,10 +197,8 @@ Transcription alone will lead to a pre-mRNA molecule that is the same length as 
 </details>
 
 <br>
-<br>
-<br>
 
-### Post-transcriptional Modification Steps:
+## Post-transcriptional Modification Steps Question
 
 <br> 
 
@@ -188,15 +225,26 @@ Transcription alone will lead to a pre-mRNA molecule that is the same length as 
 
 # Translation
 
-<iframe src="https://pollev-embeds.com/free_text_polls/uhO5vOs9yNaWs8QwCLFKI/respond" width="800px" height="600px"></iframe>
+The process of building a polypeptide molecule from a mRNA molecule. 
+
+The responsibility of ribosomes. 
+
+<br>
+
+## Introductory translation question
+
+<br> 
+<iframe style="width:100%;height:600px;" 
+src="https://pollev-embeds.com/free_text_polls/uhO5vOs9yNaWs8QwCLFKI/respond">
+</iframe>
 
 <br>
 
 <details> 
-<summary> see how other student's answered this question </summary>
+<summary> See how other students answered this question </summary>
 <br> 
 
-<iframe src="https://embed.polleverywhere.com/free_text_polls/NO0RgwoC6ilGtx2r0Xg7z?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe style="width:100%;height:600px;" src="https://embed.polleverywhere.com/free_text_polls/NO0RgwoC6ilGtx2r0Xg7z?controls=none&short_poll=true" ></iframe>
 
 <br>
 </details>
@@ -205,11 +253,11 @@ Transcription alone will lead to a pre-mRNA molecule that is the same length as 
 <br>
 <br>
 
-### Videos to help get you started
+## Videos to help you understand the process of translation
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WkI_Vbwn14g?si=bc9tKup9Wyjo1Fxt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube-nocookie.com/embed/WkI_Vbwn14g?si=bc9tKup9Wyjo1Fxt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 
 [Animation showing translation occurring in a free ribosome.  ](https://www.youtube.com/watch?v=WkI_Vbwn14g)
@@ -219,19 +267,19 @@ Transcription alone will lead to a pre-mRNA molecule that is the same length as 
 <br>
 <br>
 
-### Translation Steps
+## Translation Steps Question
 
 For the last time today, try putting the steps in order before revealing any answers ...
 
-<iframe src="https://pollev-embeds.com/ranking_polls/gL6XwAfaF8Uy2sOJc9TXy/respond" width="800px" height="600px"></iframe>
+<iframe style="width:100%;height:600px;" src="https://pollev-embeds.com/ranking_polls/gL6XwAfaF8Uy2sOJc9TXy/respond" ></iframe>
 
 
 <details> 
-<summary> see how other student's answered this question </summary>
+<summary> See how other students answered this question </summary>
 <br> 
 
 
-<iframe src="https://embed.polleverywhere.com/ranking_polls/IYA3FZczsemrlwRC9m4z2?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<iframe style="width:100%;height:600px;" src="https://embed.polleverywhere.com/ranking_polls/IYA3FZczsemrlwRC9m4z2?controls=none&short_poll=true" ></iframe>
 
 <br>
 </details>
