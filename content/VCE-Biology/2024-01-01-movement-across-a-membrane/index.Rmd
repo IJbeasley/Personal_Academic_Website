@@ -2,14 +2,14 @@
 weight: 2
 title: Movement across a membrane
 author: 'Isobel Beasley'
-date: '2024-01-01'
+date: '2024-10-20'
 slug: movement-across-a-membrane
 categories: ['High school', 'VCE', 'Biology', 'Unit 1']
-tags: ['VCE', 'Plasma membranes', 'Tutoring']
-subtitle: 'Plasma membrane: structure and function'
+tags: ['VCE', 'Plasma membranes', 'Tutoring', 'Intercellular Transport', 'Osmosis', 'Proteins']
+subtitle: 'Plasma membrane: from structure, to function'
 summary: 'The structure and function of the plasma membrane - and how they are related to each other.'
 authors: ['Isobel Beasley']
-lastmod: '2024-01-01T00:47:53+11:00'
+lastmod: '2024-10-20T00:47:53+11:00'
 featured: no
 image:
   caption: ''
@@ -17,6 +17,8 @@ image:
   preview_only: no
 projects: []
 math: true
+meta_summary: "Explore the structure and function of the plasma membrane in this introductory lesson with hand drawn diagrams, and bespoke questions developed or VCE biology students. Learn how substances move across membranes through osmosis, facilitated diffusion, and active transport, and gain insights into the factors that influence membrane permeability.
+"
 ---
 
 
