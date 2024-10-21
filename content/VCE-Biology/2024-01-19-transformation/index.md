@@ -1,4 +1,5 @@
 ---
+weight: 10
 title: Transformation
 author: 'Isobel Beasley'
 date: '2024-01-19'
@@ -25,3 +26,5 @@ the use of recombinant plasmids as vectors to transform bacterial cells as demon
 </li> 
 </i> </ul> 
 </aside>
+
+Transformation: the process in which a bacterial cell takes up a plasmid and expresses the genes of the plasmid

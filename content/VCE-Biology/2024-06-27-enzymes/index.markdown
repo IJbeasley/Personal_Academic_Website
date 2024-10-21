@@ -1,4 +1,5 @@
 ---
+weight: 3
 title: Enzymes
 author: 'Isobel Beasley'
 date: '2024-06-27'

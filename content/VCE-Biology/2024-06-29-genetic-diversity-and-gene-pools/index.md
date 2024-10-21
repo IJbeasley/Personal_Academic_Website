@@ -1,14 +1,15 @@
 ---
+weight: 10
 title: Genetic diversity and gene pools
 author: 'Isobel Beasley'
-date: '2024-06-29'
+date: '2024-10-20'
 slug: genetic-diversity
 categories: ['High school','VCE', 'Biology']
 tags: ['High school','VCE', 'Population genetics', 'Evolution']
 subtitle: 'Why is genetic diversity important? How do important factors in evolution (genetic drift, gene flow, mutation, natural selection) impact genetic diversity?'
 summary: 'Why is genetic diversity important? How do important factors in evolution (genetic drift, gene flow, mutation, natural selection) impact genetic diversity?'
 authors: ['Isobel Beasley']
-lastmod: '2024-06-29T18:52:44+10:00'
+lastmod: '2024-10-20T18:52:44+10:00'
 featured: no
 image:
   caption: ''

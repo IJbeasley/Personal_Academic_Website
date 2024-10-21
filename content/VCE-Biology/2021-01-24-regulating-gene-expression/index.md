@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 6
 title: Regulating Gene Expression
 author: 'Isobel Beasley'
 date: '2024-10-20'
@@ -51,7 +51,7 @@ Genetic regulation allows cells to conserve energy by avoiding producing unneces
 
 Introductory True / False Question
 
-<iframe style="width:100%;height:600px;"src="https://pollev-embeds.com/multiple_choice_polls/FZgvoBeP7Uj9ShSs9ubvl/respond" width="800px" height="600px"></iframe>
+<iframe style="width:100%;height:600px;" src="https://pollev-embeds.com/multiple_choice_polls/FZgvoBeP7Uj9ShSs9ubvl/respond" width="800px" height="600px"></iframe>
 
 <br>
 <details> <summary> Answer </summary> 

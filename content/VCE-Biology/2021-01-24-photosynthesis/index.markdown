@@ -1,15 +1,16 @@
 ---
+weight: 7
 title: 'Photosynthesis'
 author: 'Isobel Beasley'
-date: '2021-01-24'
+date: '2024-10-20'
 slug: photosynthesis
 categories: ['High school', 'VCE', 'Biology', 'Unit 3', 'Area of study 3']
 tags: ['High school','VCE', 'Photosynthesis', 'Cellular Respiration', 'Tutoring']
 subtitle: "Don't let the details overwhelm you; you need to learn less than you might think"
 summary: "Let's focus on what you actually need to know on everyone's favourite VCE Biology topic (sarcasm btw)"
 authors: ['Isobel Beasley']
-lastmod: '2021-01-24T04:14:47+11:00'
-featured: yes
+lastmod: '2024-10-20T04:14:47+11:00'
+featured: no
 image:
   caption: ''
   focal_point: ''
@@ -57,7 +58,7 @@ the <b> factors that affect the rate of photosynthesis </b>: light availability,
 
 ## <span style="color:#D32F2F"> 🌻 Photosynthesis </span>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sQK3Yr4Sc_k?si=lEq2YQZhdwB8oG9K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/sQK3Yr4Sc_k?si=lEq2YQZhdwB8oG9K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
 <br>
@@ -95,11 +96,11 @@ $$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + 
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tinytable_4rpw5oj71dn45svi70yl</title>
+    <title>tinytable_312zg7ot1n7kd5wyygmb</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-.table td.tinytable_css_4r04agbqzy3laq64jrvn, th.tinytable_css_4r04agbqzy3laq64jrvn {    font-weight: bold; color: black; background-color: white; }
-.table td.tinytable_css_ecx4cp3i0dtlrkgwpfvl, th.tinytable_css_ecx4cp3i0dtlrkgwpfvl {    font-size: 21.3333333333333px; }
+.table td.tinytable_css_9prght5wzpynhczou119, th.tinytable_css_9prght5wzpynhczou119 {    font-weight: bold; color: black; background-color: white; }
+.table td.tinytable_css_1z1odbupy0ujcda7zrbk, th.tinytable_css_1z1odbupy0ujcda7zrbk {    font-size: 21.3333333333333px; }
     </style>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -116,7 +117,7 @@ $$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + 
   </head>
 &#10;  <body>
     <div class="container">
-      <table class="table table-grid table-hover" id="tinytable_4rpw5oj71dn45svi70yl" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
+      <table class="table table-grid table-hover" id="tinytable_312zg7ot1n7kd5wyygmb" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
         <thead>
         &#10;              <tr>
                 <th scope="col">Stage</th>
@@ -143,23 +144,23 @@ $$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + 
     </div>
 &#10;    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-    function styleCell_tinytable_46r9325gdpn0exhzeze5(i, j, css_id) {
-      var table = document.getElementById("tinytable_4rpw5oj71dn45svi70yl");
+    function styleCell_tinytable_yozhw4uuskqa6edr8p1w(i, j, css_id) {
+      var table = document.getElementById("tinytable_312zg7ot1n7kd5wyygmb");
       table.rows[i].cells[j].classList.add(css_id);
     }
     function insertSpanRow(i, colspan, content) {
-      var table = document.getElementById('tinytable_4rpw5oj71dn45svi70yl');
+      var table = document.getElementById('tinytable_312zg7ot1n7kd5wyygmb');
       var newRow = table.insertRow(i);
       var newCell = newRow.insertCell(0);
       newCell.setAttribute("colspan", colspan);
       newCell.innerText = content;
     }
-window.addEventListener('load', function () { styleCell_tinytable_46r9325gdpn0exhzeze5(1, 0, 'tinytable_css_4r04agbqzy3laq64jrvn') })
-window.addEventListener('load', function () { styleCell_tinytable_46r9325gdpn0exhzeze5(2, 0, 'tinytable_css_4r04agbqzy3laq64jrvn') })
-window.addEventListener('load', function () { styleCell_tinytable_46r9325gdpn0exhzeze5(0, 0, 'tinytable_css_ecx4cp3i0dtlrkgwpfvl') })
-window.addEventListener('load', function () { styleCell_tinytable_46r9325gdpn0exhzeze5(0, 1, 'tinytable_css_ecx4cp3i0dtlrkgwpfvl') })
-window.addEventListener('load', function () { styleCell_tinytable_46r9325gdpn0exhzeze5(0, 2, 'tinytable_css_ecx4cp3i0dtlrkgwpfvl') })
-window.addEventListener('load', function () { styleCell_tinytable_46r9325gdpn0exhzeze5(0, 3, 'tinytable_css_ecx4cp3i0dtlrkgwpfvl') })
+window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6edr8p1w(1, 0, 'tinytable_css_9prght5wzpynhczou119') })
+window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6edr8p1w(2, 0, 'tinytable_css_9prght5wzpynhczou119') })
+window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6edr8p1w(0, 0, 'tinytable_css_1z1odbupy0ujcda7zrbk') })
+window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6edr8p1w(0, 1, 'tinytable_css_1z1odbupy0ujcda7zrbk') })
+window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6edr8p1w(0, 2, 'tinytable_css_1z1odbupy0ujcda7zrbk') })
+window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6edr8p1w(0, 3, 'tinytable_css_1z1odbupy0ujcda7zrbk') })
     </script>
 &#10;  </body>
 &#10;</html>

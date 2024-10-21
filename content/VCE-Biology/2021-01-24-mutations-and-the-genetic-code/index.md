@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 5
 title: 'Mutations and the Genetic Code'
 author: 'Isobel Beasley'
 date: '2024-10-20T04:24:02+11:00'

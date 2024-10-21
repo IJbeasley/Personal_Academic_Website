@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 4
 title: How to make a protein from DNA
 author: 'Isobel Beasley'
 date: '202-01-24'

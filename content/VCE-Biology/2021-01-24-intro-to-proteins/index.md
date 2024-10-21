@@ -1,14 +1,15 @@
 ---
+weight: 3
 title: 'Protein structure and function'
 author: 'Isobel Beasley'
-date: '2021-01-24'
+date: '2024-10-20'
 slug: intro-to-proteins
 categories: ['High school','VCE', 'Biology', 'Unit 3', 'Area of Study 1']
 tags: ['VCE', 'Molecules', 'Proteins']
 subtitle: 'How do we build a functioning protein from amino acids?'
 summary: 'How do we build a functioning protein from amino acids?'
 authors: ['Isobel Beasley']
-lastmod: '2024-06-26T18:05:16+11:00'
+lastmod: '2024-10-20T18:05:16+11:00'
 featured: no
 image:
   caption: ''
