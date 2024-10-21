@@ -6,14 +6,21 @@ command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/bui
 HUGO_VERSION = "0.80.0"
 
 [[plugins]]
+  package = "netlify-plugin-inline-source"
+  
+  
+  [plugins.inputs]
+  
+    attribute = "false"
+
+
+[[plugins]]
   package = "netlify-plugin-inline-critical-css"
 
   [plugins.inputs]
   
    fileFilter = ['index.html']
    directoryFilter = ['!*']
-
-  # A filter used to target or ignore specific directories in the publish directory. This option is passed onto the readdirp library, see https://github.com/paulmillr/readdirp#options for more info
 
 [[plugins]]
   package = "@netlify/plugin-sitemap"
