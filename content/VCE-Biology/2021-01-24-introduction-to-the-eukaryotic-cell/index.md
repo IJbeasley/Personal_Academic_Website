@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: 'Introduction to Eurkaryotic cell components'
+title: 'Introduction to eukaryotic cell components'
 author: 'Isobel Beasley'
 date: '2024-10-20'
 slug: introduction-to-the-eukaryotic-cell
