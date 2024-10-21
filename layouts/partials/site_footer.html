@@ -1,30 +1,31 @@
 <footer class="site-footer">
   
-  <p class="powered-by">
+<!--  <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
   </p>
+-->
 
   {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
-   <p style="color:#333333;font-weight:bold;font-size:1.15rem" > © Isobel Beasley 2021 - <script>document.write(new Date().getFullYear())</script> <b></b> </p> <p style="color:#121212;font-size:0.8rem"> 
-   <a href="https://github.com/IJbeasley/Personal_Academic_Website" target="_blank" rel="noopener" style="color:#154C84"> <i class="fab fa-github" ></i> Source code repository </a>
-   </p> 
+   <p style="color:#333333;font-weight:bold;font-size:1.75rem" > © Isobel Beasley 2021 - <span id="year"></spanb>
+   <a href="https://github.com/IJbeasley/Personal_Academic_Website" target="_blank" rel="noopener" style="font-weight:bold;color:#154C84;font-size:1rem"> <i class="fab fa-github" ></i> Source code repository </a>
+        
    
   <p class="powered-by",>
     {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
     {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
     {{ if not (and $is_sponsor $hide_published_with_footer) }}
-    <p style="color:#121212;font-size:0.8rem">
+    <p style="color:#121212;font-size:0.95rem">
   
     Built with 
-    <a href="https://github.com/IJbeasley/Personal_Academic_Website" aria-label="Github (repository link)" target="_blank" rel="noopener" style="color:#154C84"> <i class="fab fa-github"></i></a>, 
+    <a href="https://github.com/IJbeasley/Personal_Academic_Website" aria-label="Github (repository link)" target="_blank" rel="noopener" style="font-weight:bold;color:#154C84"> <i class="fab fa-github"></i></a>, 
     the
-    <a href="https://github.com/rstudio/blogdown" aria-label="Blogdown R software package (gitub repository link)" target="_blank" rel="noopener" style="color:#154C84"> blogdown <i class="fab fa-r-project"></i> package</a>, 
-    and the <a href="https://github.com/wowchemy/starter-academic" target="_blank" rel="noopener"style="color:#154C84">Hugo Academic Template</a> 
+    <a href="https://github.com/rstudio/blogdown" aria-label="Blogdown R software package (gitub repository link)" target="_blank" rel="noopener" style="font-weight:bold;color:#154C84"> blogdown <i class="fab fa-r-project"></i> package</a>, 
+    and the <a href="https://github.com/wowchemy/starter-academic" target="_blank" rel="noopener"style="font-weight:bold;color:#154C84">Hugo Academic Template</a> 
    <br>
-    Figures created with <a href="https://cran.r-project.org/" target="_blank" rel="noopener" aria-label="R coding language" style="color:#154C84">
+    Figures created with <a href="https://cran.r-project.org/" target="_blank" rel="noopener" aria-label="R coding language" style="font-weight:bold;color:#154C84">
       <i class="fab fa-r-project"></i>
-    </a> and <a href="https://BioRender.com" target="_blank" rel="noopener" aria-label="BioRender software" style="color:#154C84"> BioRender</a>
+    </a> and <a href="https://BioRender.com" target="_blank" rel="noopener" aria-label="BioRender software" style="font-weight:bold;color:#154C84"> BioRender</a>
     {{ end }}
     </p>
   </p>
@@ -32,5 +33,9 @@
   <!-- Simple Analytics - 100% privacy-first analytics -->
   <script defer src="https://simpleapi.isobelbeasley.com/latest.js"></script>
 <noscript><img src="https://simpleapi.isobelbeasley.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
-  
+
+<!-- JS right before the closing </body> tag -->
+<script>
+document.querySelector("#year").textContent = new Date().getFullYear();
+</script>
 </footer>
