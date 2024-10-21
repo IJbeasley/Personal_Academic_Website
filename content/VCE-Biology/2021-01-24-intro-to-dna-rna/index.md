@@ -19,6 +19,7 @@ projects: []
 output: 
   html_document:
     toc: true 
+meta_summary: "Learn about DNA and RNA in this detailed overview, covering nucleotide structure, the double-stranded DNA helix, and the key differences between DNA and RNA. Explore interactive content, videos, and exam tips to help you understand nucleic acids and their roles in protein synthesis, designed to align with VCAA (2022-2026) Study Design."
 ---
 
 <h1 style="color:#D32F2F"> Content Overview </h2>
