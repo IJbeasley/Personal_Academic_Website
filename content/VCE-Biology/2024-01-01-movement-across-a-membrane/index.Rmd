@@ -24,9 +24,14 @@ math: true
 Relevant VCAA 2022 Study Design Dot Points:    
 </h2> 
 
-Unit 1 (Area of study 1): Cellular structure and function
-
-- *the structure and function of the plasma membrane in the passage of water, hydrophilic and hydrophobic substances via osmosis, facilitated diffusion and active transport* 
+<aside>
+<b> Unit 1 (Area of study 1): Cellular structure and function </b>
+<ul>
+<li>
+<i> the structure and function of the plasma membrane in the passage of water, hydrophilic and hydrophobic substances via osmosis, facilitated diffusion and active transport </i>
+</li>
+</ul>
+</aside>
 
 <br> 
 
@@ -34,7 +39,11 @@ Unit 1 (Area of study 1): Cellular structure and function
  
 How do smaller molecules get into and out of the cell? 
 
+<img src="phospholipid_bilayer_components_diagram_unlab.svg" width="100%" alt="Unlabeled diagram depicting the phospholipid bilayer of the cell membrane">
+
+<!--
 ![Unlabeled diagram depicting the phospholipid bilayer of the cell membrane](phospholipid_bilayer_components_diagram_unlab.svg)
+-->
  
 ...Well, through the plasma membrane, of course! 
 
@@ -49,7 +58,7 @@ But not every small molecule, across every time / context will travel through th
 
 <h3> Drawing Time (~20 mins) </h3>
 
-For VCE Biology you will often need to draw a plasma membrane, and in particular the phospholipids which comprise most of the plasma membrane. On a piece of paper, or an electronic whiteboard, let's draw these important features together. 
+For VCE Biology final exams or SACs you may need to draw a plasma membrane, and in particular the phospholipids which comprise most of the plasma membrane. On a piece of paper, or an electronic whiteboard, let's draw these important features together. 
 
 
 <h3> Questions to check you know how to draw the important features questions: </h3>
@@ -59,16 +68,16 @@ For VCE Biology you will often need to draw a plasma membrane, and in particular
 <details> 
          <summary> Unlabelled diagram hint </summary>
          
-<img src="phospholipid_unlab.svg" alt="Diagram of a phospholipid molecule, drawn as a circle attached to two parallel lines" style="width: 175px; height: 250px;">
+<img src="phospholipid_unlab.svg" alt="Diagram of a phospholipid molecule, drawn as a circle attached to two parallel lines" width="20%">
 
 </details>
 
 <details> 
          <summary> Final labelled diagram solution </summary>
 
-<img src="phospholipid_lab.svg" alt="Diagram of a phospholipid molecule, labeling the round hydrophillic head and the two hydrophobic tails" style="width: 425px; height: 500px;">
+<img src="phospholipid_lab.svg" alt="Diagram of a phospholipid molecule, labeling the round hydrophillic head and the two hydrophobic tails" width="50%">
 
-Phospholipids need their hydrophilic head and hydrophobic tails (x2)
+Phospholipids need their hydrophilic head and 2 hydrophobic tails. 
 
 </details> 
 
@@ -78,14 +87,14 @@ Phospholipids need their hydrophilic head and hydrophobic tails (x2)
 <details> 
          <summary> Unlabeled diagram hint </summary>
   
-<img src="phospholipid_bilayer_components_diagram_unlab.svg" alt="Unlabeled diagram depicting the phospholipid bilayer of the cell membrane"> 
+<img src="phospholipid_bilayer_components_diagram_unlab.svg" alt="Unlabeled diagram depicting the phospholipid bilayer of the cell membrane" width="100%"> 
    
 </details>   
 
 <details> 
          <summary> Final labelled diagram answer </summary>
                   
-<img src="phospholipid_bilayer_components_diagram_lab.svg" alt="Labelled diagram depicting the phospholipid bilayer of the cell membrane. Labelled arrows point to the following components: channel protein, cholesterol, glycoprotein, phospholipid."> 
+<img src="phospholipid_bilayer_components_diagram_lab.svg" alt="Labelled diagram depicting the phospholipid bilayer of the cell membrane. Labelled arrows point to the following components: channel protein, cholesterol, glycoprotein, phospholipid." width="120%"> 
 
 
 </details>      
@@ -128,10 +137,11 @@ Phospholipids need their hydrophilic head and hydrophobic tails (x2)
 <h2 style="color:#D32F2F"> Movement Across a Membrane (~20 mins) </h2>
 
                   
-<img src="factors_movement_membrane.svg" alt=" "> 
+<img src="factors_movement_membrane.svg" alt="Diagram of three arrows: two pointing upwards with labels 'Size' and 'Polarity', and one pointing downwards labeled 'Ease of movement across a membrane'. Thus, this diagram indicates that as molecules become bigger and/or more polar, the harder it becomes for them to travel across the plasma membrane." width="100%"> 
                   
-There are three things which impact how easily a substance is able to cross a membrane. 
+There are three factors which impact how easily a substance is able to cross a membrane:
 
+<p> </p>
 
 <div>
 <details> 
@@ -159,9 +169,9 @@ There are three things which impact how easily a substance is able to cross a me
 
 </details> 
 
+<p> </p>
 
-
-It is the combination of these factors that determines whether a substance can just pass directly across a membrane, or whether it needs some extra protein help. Ridiculously big things or when we have lots and lots of small things moving at once use vesicles to get into and out the cell.  
+These factors, in combination, determine whether a substance can just pass directly across a membrane, or whether it needs some extra protein help. Ridiculously big things or when we have lots and lots of small things moving at once use vesicles to get into and out the cell.  
 
 When your teacher or VCAA asks you to predict the type of transport for substance, or explain why a particular substance travels in a particular method - you need to *include all three components in your answer.* 
 

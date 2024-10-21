@@ -5,7 +5,7 @@ author: 'Isobel Beasley'
 date: '202-01-24'
 slug: how-to-make-a-protein-from-dna
 categories: ['High school','VCE', 'Biology', 'Unit 3']
-tags: ['High school','VCE', 'Transcription', 'Translation', 'Gene expression', 'Tutoring']
+tags: ['High school','VCE', 'Transcription', 'Translation', 'Gene Expression', 'Tutoring']
 subtitle: 'Transcription, translation - and all the steps in between'
 summary: 'Transcription, translation, and everything in between'
 authors: ['Isobel Beasley']

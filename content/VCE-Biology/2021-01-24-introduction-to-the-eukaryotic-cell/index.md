@@ -6,7 +6,7 @@ date: '2024-10-20'
 slug: introduction-to-the-eukaryotic-cell
 categories: ['High school', 'VCE', 'Biology', 'Unit 3', 'Area of Study 1']
 tags: ['VCE', 'Biology', 'Unit 3', 'Organelles', 'Cells', 'Eurkaryotic', 'Endoplasmic Reticulum', 'Golgi Apparatus', 'Vesicles']
-subtitle: 'The Important Organelles to Know for the Exam'
+subtitle: 'The important organelles to know for the final exam'
 summary: 'How is it that such a small unit is able to build, organise and export such complex proteins?'
 authors: ['Isobel Beasley']
 lastmod: '2024-10-20T02:41:23+11:00'
@@ -42,11 +42,16 @@ Overview:
 Relevant VCAA 2022 Study Design Dot Points:    
 </h2> 
 
-Unit 3 (Outcome 1): The relationship between nucleic acids and proteins
+<aside>
+<b>Unit 3 (Outcome 1): The relationship between nucleic acids and proteins</b>
+<ul>
+<li>
+<i>the role of rough endoplasmic reticulum, Golgi apparatus and associated vesicles in the export of proteins from a cell via the protein secretory pathway</i>
+</li>
+</ul>
+</aside>
 
-- *the role of rough endoplasmic reticulum, Golgi apparatus and associated vesicles in the export of proteins from a cell via the protein secretory pathway*               
 <br> 
-<br>
 <br> 
 
 <h2 style="color:#D32F2F">
@@ -55,16 +60,13 @@ Learning Objectives:
 
 </h2>
 
-*By the end of this page you should be able to:* 
+<b>*By the end of this page you should be able to:* </b>
 
-- Correctly label essential components of Eukaryotic cells *(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
-- Define the roles of essential components of Eukaryotic cells *(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
+- Correctly <b>label essential components</b> of Eukaryotic cells *(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
+- <b>Define the role of each essential component</b> of Eukaryotic cells *(plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, vesicles)*
 
 <br>
 <br>
-<br>
-
-
 
 
 <h2 style="color:#D32F2F"> Structures within the Eurkaryotic cell </h2>
@@ -84,6 +86,8 @@ Eukaryote cells contain membrane bound organelles and a nucleus (which contains 
 Plant Cell Outline, Credit: Isobel Beasley, and Andreas Dorsch 2020 
 </p>
 
+
+<br> 
 
 <h2 style="color:#D32F2F"> Introductory understanding questions </h2>
 
@@ -126,7 +130,6 @@ Try to answer the questions yourself before reading the provided answers. The qu
     Hopefully because you're made of them. Because you need them to survive. Because they're really <em> really </em> tiny blobs of different shapes, sizes, roles, and which manage and run billions of different chemical reactions which are happening in you right now. Cells are the reason that you can be here right now reading this. Thank you cells!
 </details>
 
-<br>
 <br>
 <br>
 
