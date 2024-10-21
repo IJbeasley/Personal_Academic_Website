@@ -1,26 +1,29 @@
 ---
 weight: 2
-title: Introduction to some of the components of the Eurkaryotic cell
+title: 'Introduction to Eurkaryotic cell components'
 author: 'Isobel Beasley'
-date: '2021-01-26'
+date: '2024-10-20'
 slug: introduction-to-the-eukaryotic-cell
 categories: ['High school', 'VCE', 'Biology', 'Unit 3', 'Area of Study 1']
 tags: ['VCE', 'Biology', 'Unit 3', 'Organelles', 'Cells', 'Eurkaryotic', 'Endoplasmic Reticulum', 'Golgi Apparatus', 'Vesicles']
 subtitle: 'The Important Organelles to Know for the Exam'
 summary: 'How is it that such a small unit is able to build, organise and export such complex proteins?'
 authors: ['Isobel Beasley']
-lastmod: '2024-06-26T02:41:23+11:00'
+lastmod: '2024-10-20T02:41:23+11:00'
 featured: no
 image: 
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
+meta_summary: "Explore the key components and functions of Eukaryotic cells in this VCE Biology study guide. 
+Learn about essential organelles like the plasma membrane, ribosomes, endoplasmic reticulum, Golgi apparatus, and vesicles, and understand their roles in cell function and protein synthesis. 
+Test your knowledge with interactive activities and exam-friendly definitions"
 ---
 
 <aside>
 
-<b> Note: </b> To develop the content for this page I adapted a learning plan I wrote in 2021 for VCE summer school. It's now better targeted to the 2022-2026 VCAA study design, but it is still not a perfect match for this study desgin. 
+<b> Note: </b> To develop the content for this page I adapted a learning plan I wrote in 2021 for VCE summer school. It's now better targeted to the 2022-2026 VCAA study design, but it is still not a perfect match for this study design. 
 
 </aside>
 
