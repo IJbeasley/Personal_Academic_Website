@@ -33,7 +33,6 @@
   version = "0.4.25"
   sri = "sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs="
   url = "https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/%s/gmaps.min.js"
-  defer = true
 [js.leaflet]
   version = "1.7.1"
   sri = "sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA=="
@@ -79,7 +78,6 @@
   version = "1.55.2"
   sri = "sha512-gttPT9uTUiaLBj6XZdcB0ydKXiDaBwstInkN4Qvp1Nz3iwXNc8TTQplIEPIGxyJBDqERjwkKxf2OyO47/0EHbQ=="
   url = "https://cdnjs.cloudflare.com/ajax/libs/plotly.js/%s/plotly.min.js"
-  async = true
 
 # CSS
 [css.fontAwesome]
