@@ -1,10 +1,10 @@
 ---
 weight: 6
 title: How to make a protein from DNA
-author: ''
+author: 'Isobel Beasley'
 date: '202-01-24'
 slug: how-to-make-a-protein-from-dna
-categories: ['VCE', 'Biology', 'Unit 3']
+categories: ['High school','VCE', 'Biology', 'Unit 3']
 tags: ['High school','VCE', 'Transcription', 'Translation', 'Gene expression', 'Tutoring']
 subtitle: 'Transcription, translation - and all the steps in between'
 summary: 'Transcription, translation, and everything in between'
@@ -16,6 +16,8 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+meta_summary: 'Learn how cells make proteins from genes through the processes of transcription, RNA processing, and translation. 
+This guide uses interactive questions, videos, and step-by-step explanations targeted at VCE biology students studying in the 2022-2026 study design version.'
 ---
 
 <aside>
