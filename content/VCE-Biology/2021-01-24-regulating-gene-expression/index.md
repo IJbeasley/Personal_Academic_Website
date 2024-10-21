@@ -30,6 +30,7 @@ the structure of genes: exons, introns and promoter and operator regions
 the basic elements of gene regulation: prokaryotic trp operon as a simplified example of a regulatory process 
 </li>
 </i>
+</ul>
 </aside>
 <br>
 
