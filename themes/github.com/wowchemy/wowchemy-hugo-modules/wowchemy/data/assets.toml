@@ -15,6 +15,7 @@
   version = "10.2.0"
   sri = "sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw=="
   url = "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/%s/highlight.min.js"
+  async = true
 [js.mathJax]
   version = "3"
   sri = ""  # No SRI as dynamically generated.
@@ -32,6 +33,7 @@
   version = "0.4.25"
   sri = "sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs="
   url = "https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/%s/gmaps.min.js"
+  defer = true
 [js.leaflet]
   version = "1.7.1"
   sri = "sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA=="
@@ -77,17 +79,19 @@
   version = "1.55.2"
   sri = "sha512-gttPT9uTUiaLBj6XZdcB0ydKXiDaBwstInkN4Qvp1Nz3iwXNc8TTQplIEPIGxyJBDqERjwkKxf2OyO47/0EHbQ=="
   url = "https://cdnjs.cloudflare.com/ajax/libs/plotly.js/%s/plotly.min.js"
+  async = true
 
 # CSS
-
 [css.fontAwesome]
   version = "6.6.0"
   sri = "sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
   url =  "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/%s/css/all.min.css"
+  async = true
 [css.academicons]
   version = "1.9.0"
   sri = "sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg=="
   url = "https://cdnjs.cloudflare.com/ajax/libs/academicons/%s/css/academicons.min.css"
+  async = true
 [css.leaflet]
   version = "1.7.1"
   sri = "sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA=="
