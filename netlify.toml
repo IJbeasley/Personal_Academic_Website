@@ -8,9 +8,15 @@ HUGO_VERSION = "0.80.0"
 [[plugins]]
 
 package = "@netlify/plugin-sitemap"
+package = "netlify-plugin-inline-critical-css"
 
   [plugins.inputs]
   
+  fileFilter = ["*.html"]
+
+  # A filter used to target or ignore specific directories in the publish directory. This option is passed onto the readdirp library, see https://github.com/paulmillr/readdirp#options for more info.
+  directoryFilter = ["!css", "!js", "!media", "!post", "!category", "!publication_type", "!science-communication/golgi-post-introduction-to-the-golgi-for-primary-school-kids-and-beyond"]
+
   buildDir = "public"
   
   # change sitemap index url
