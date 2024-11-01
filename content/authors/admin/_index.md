@@ -55,15 +55,18 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ijbeasley
-- icon: envelope
-  icon_pack: fas
-  link: mailto:isobel[dot]beasley[at]ucsf[dot]edu
-- icon: github
-  icon_pack: fab
-  link: https://github.com/IJbeasley
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6857-1692
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=GeVIH8UAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/IJbeasley
+- icon: envelope
+  icon_pack: fas
+  link: mailto:isobel[dot]beasley[at]ucsf[dot]edu
 # - icon: graduation-cap
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

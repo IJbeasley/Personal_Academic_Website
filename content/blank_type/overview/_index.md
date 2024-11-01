@@ -9,21 +9,32 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://x.com/ijbeasley
-- icon: envelope
-  icon_pack: fas
-  link: mailto:isobel[dot]beasley[at]ucsf[dot]edu
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6857-1692 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=GeVIH8UAAAAJ
 - icon: github
   icon_pack: fab
-  # link: https://github.com/IJbeasley
+  link: https://github.com/IJbeasley
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.unimelb.edu.au/ibeasley
 - icon: osf
   icon_pack: ai
   link: https://osf.io/7qb8m/
+# - icon: envelope
+#   icon_pack: fas
+#   link: mailto:isobel[dot]beasley[at]ucsf[dot]edu
+# - icon: psyarxiv
+#   icon_pack: custom
+#   name: ello
+#   description: "ok"
+# - description: Microclimate conditions are key to understanding how organisms respond to warming, yet they are frequently neglected in ecological research. We aim to unravel the drivers and impact of microclimate conditions on species range dynamics
+#   icon: psyarxiv
+#   icon_pack: custom
+#   name: Microclimate ecology
   
 meta_summary: 'Isobel Beasley: UCSF PhD student in Biological Informatics. Explore research, science blogs, and teaching resources on genetics, health equity, and data science.'
 ---
