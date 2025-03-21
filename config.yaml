@@ -1,7 +1,7 @@
 theme: starter-academic
 title: Isobel Beasley 🧬
-baseurl: 'isobelbeasley.com'
-copyright: ''
+baseurl: https://www.isobelbeasley.com/
+copyright:  "Isobel Beasley 2021 - &copy;"
 enableGitInfo: no
 defaultContentLanguage: en
 hasCJKLanguage: no
