@@ -1,0 +1,47 @@
+---
+title: "Converting SNP coordinates: rsIDs or LiftOver?"
+author: "Isobel Beasley"
+date: '2024-12-15'
+slug: rsid-vs-liftover
+categories: ['Resources','Bioinformatics Blogs']
+tags: ['R', 'Code', 'rsID', 'dbSNP', 'LiftOver']
+subtitle: "I use code I produced to perform a quick check in my research to wade in the rsID vs liftOver debate for converting SNP genomic coordinates across reference genomes."
+output: html_document
+---
+
+
+
+<p>A while ago* there was a lot of debate on Twitter on the best approach to converting SNP genomic coordinates between hg19 and hg38 reference genomes. Was it rsIDs or UCSC’s LiftOver tool?</p>
+<p>Those advocating for LiftOver complained about the surprising inconsistency for some rsIDs. rsIDs are a set of IDs hosted in the Single Nucleotide Polymorphism Database (dbSNP). NCBI and NHGRI developed this ID system to provide a unique reference number for each genetic variant to help scientists compare studies by providing consistent variant names. However, this development goal doesn’t reflect how rsIDs change over time. From one dbSNP version to the next, IDs can be depreciated, merged, replaced - and even refer to different genomic positions.</p>
+<p>Those in team rsID point out that LiftOver is also far from a perfect tool. As anyone who has used LiftOver can tell you, it drops a lot of SNPs. There are many genomic regions that the liftover tool struggles to map fromone reference to another, so these regions just get left behind. This problem has inspired software packages (e.g., <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5998006/">segment_liftover</a>). The problem is so significant for SNPs that even LiftOver’s inventor, UCSC, <a href="https://genome.ucsc.edu/FAQ/FAQreleases.html#snpConversion">recommends converting genomic coordinates using rsIDs</a>.</p>
+<p>In this blog post, I will dip my toes into the liftover vs rsID debate for SNPs … from the pro-rsID side. To show you why I joined the dark side, I’ll walk you through some coding work I did to double-check that I’d made the right decision to use rsIDs when converting SNP coordinates in my work (unsurprising spoiler alert: yes).</p>
+<p>While I’m advocating for rsIDs in this post, I’ll add a little disclaimer first: rsID matching will not always be the preferred method. Each approach has different weaknesses, so the right choice ultimately depends on what problems are most problematic for your situation. And … if you have the time, a hybrid approach to converting coordinates using both methods is likely the best option.</p>
+<p><br></p>
+<div id="the-problem-i-faced" class="section level2">
+<h2>The problem I faced</h2>
+<p>At the time, I was trying to compare effect sizes between two whole-blood eQTL studies: <a href="">GTEx 2020</a> and <a href="https://www.cell.com/ajhg/fulltext/S0002-9297(21)00437-7?uuid=uuid%3A34f88455-0115-42e8-9a38-cdff18064471">Natri et al. 2022</a>. To make these comparisons using each study’s summary statistics, I needed to merge their summary statistics. This step presented me with a problem: Natri et al. mapped variants to the hg19 genomic reference, but GTEx mapped variants to hg38. How could I compare the effect size for each variant-gene pair between the two studies when each variant’s location was listed differently in each study?</p>
+<p>I initially didn’t give this decision much thought. I had decided to focus only on SNPs. Both studies provided rsIDs for each tested SNP. rsIDs were unique IDs like gene Ensemble IDs (I believed), it seemed obvious: match SNPs by rsID - the same way I did for gene IDs.</p>
+<p>Months later, I relayed this decision to my supervisor, and they responded with concern. “Uhhhhhh…. Can you even do that? Shouldn’t you be using LiftOver to convert coordinates?”</p>
+<p>As I’d already seen the Twitter debate, I responded to their query with relative certainty. “Yeah, it’s not a perfect approach, but it’s simpler than LiftOver and recommended by UCSC for bed files, so I think it’s the right choice here.”</p>
+<p>My supervisor then asked me to do a small, quick check to confirm the results of matching rsIDs were consistent with LiftOver for this problem, and I obliged.</p>
+<p><br></p>
+</div>
+<div id="the-check" class="section level2">
+<h2>The check</h2>
+<p>All relevant code for my analysis can be found <a href="https://igr-lab.pages.gitlab.unimelb.edu.au/pop_spec_eqtl_ml/check_match_rsid_impact.html">here</a>. Additionally, all data used is publicly available: Natri et al. <a href="https://www.cell.com/ajhg/fulltext/S0002-9297(21)00437-7?uuid=uuid%3A34f88455-0115-42e8-9a38-cdff18064471">here</a>, GTEx 2020 <a href="https://github.com/eQTL-Catalogue/eQTL-Catalogue-resources/blob/master/tabix/tabix_ftp_paths.tsv">here</a>.</p>
+<p>I made this check only on one chromosome (21) … because this is the smallest chromosome, and loading a chromosome at a time is relatively easy by using data.table**.</p>
+<p>Firstly, I checked the proportion of SNPs dropped from the Natri et al. by matching by rsID with GTEx 2020: ~12%. This proportion is much lower than what would have been lost from downstream analysis if I had used LiftOver - indicating that matching rsIDs was the better approach.</p>
+<p>That being said, my analysis also indicated LiftOver could improve rsID coordinate conversion. For instance, I could recover ~5% of the dropped SNPs if I applied LiftOver to these SNPs specifically.</p>
+<p><br></p>
+</div>
+<div id="why-were-snps-dropped" class="section level2">
+<h2>Why were SNPs dropped?</h2>
+<p>In this case, we expect SNPs to be dropped even with perfect conversion tools. Our two studies, GTEx 2020 and Natri et al. 2022. have two different sampling populations (Indonesian vs primarily European American). As a result, the underlying allele frequencies of these two populations are different. These differences in allele frequency mean that slightly different sets of variants in each population will be common enough (&gt;=5%) to be tested in eQTL studies. Even when the populations are the same, we would expect tested SNP differences between any two studies because of sampling variability.</p>
+<p>So, does population explain most of the differences? Or do biases in the rsID changes over time explain more? Or is another technical bias most important?</p>
+<p>It’s hard to be conclusive when addressing this question, but my analyses suggest that rsID biases aren’t the problem. In total, &lt;1% of SNPs dropped because they have multiple listed rsIDs (because of multiple alternative alleles) or because their rsID changed name between dbSNP versions.</p>
+<p><br>
+<br>
+<br></p>
+<p>*I can’t find references to the debate anymore, please send them over if you do so I can cite it. I believe the debate was happening in 2023, roughly April-May.</p>
+<p>**I don’t show this here, but I did get the same qualitative results when I reran the analyses using chromosome 9.</p>
+</div>
