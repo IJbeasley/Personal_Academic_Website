@@ -180,8 +180,7 @@
   <link rel="icon" type="image/png" href="{{(partial "functions/get_icon" 32).RelPermalink}}">
   <link rel="apple-touch-icon" type="image/png" href="{{(partial "functions/get_icon" 192).RelPermalink}}">
 
-  {{/* replacing <link rel="canonical" href="{{ .Permalink }}"> - to force hugo to use baseurl in congfig.toml ... hopefully }}
-  <link rel="canonical" href="{{ .Site.BaseURL | relURL }}{{ .RelPermalink }}">
+  <link rel="canonical" href="{{ .Permalink }}">
 
 
   {{/* Get page image for sharing. */}}
