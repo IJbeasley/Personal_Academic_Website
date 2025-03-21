@@ -8,9 +8,7 @@ HUGO_VERSION = "0.80.0"
 [[plugins]]
   package = "netlify-plugin-inline-source"
   
-  
   [plugins.inputs]
-  
     attribute = "false"
 
 
@@ -18,7 +16,6 @@ HUGO_VERSION = "0.80.0"
   package = "netlify-plugin-inline-critical-css"
 
   [plugins.inputs]
-  
    fileFilter = ['index.html']
    directoryFilter = ['!*']
 
@@ -26,7 +23,6 @@ HUGO_VERSION = "0.80.0"
   package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
-
    buildDir = "public"
   
    # change sitemap index url
@@ -106,8 +102,6 @@ HUGO_VERSION = "0.80.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
-command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_prod.txt /opt/build/repo/public/robots.txt"
-
 # netlify.toml (non-production environment)
 [context.deploy-preview]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /opt/build/repo/public/robots.txt"
@@ -115,3 +109,8 @@ command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /op
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /opt/build/repo/public/robots.txt"
 
+[[redirects]]
+  from = "https://main--isobelbeasley.netlify.app/*"
+  to = "https://isobelbeasley.com/:splat"
+  status = 301
+  force = true
