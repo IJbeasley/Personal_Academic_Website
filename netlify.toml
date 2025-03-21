@@ -1,6 +1,7 @@
 [build]
 publish = "public"
-command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects && mv robots_prod.txt /opt/build/repo/public/robots.txt"
+command = "hugo -b https://isobelbeasley.com --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects && mv robots_prod.txt /opt/build/repo/public/robots.txt"
+#command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects && mv robots_prod.txt /opt/build/repo/public/robots.txt"
 
 [build.environment]
 HUGO_VERSION = "0.80.0"
@@ -104,10 +105,12 @@ HUGO_ENABLEGITINFO = "true"
 
 # netlify.toml (non-production environment)
 [context.deploy-preview]
-command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /opt/build/repo/public/robots.txt"
+command = "hugo -b https://isobelbeasley.com --buildFuture && mv robots_prod.txt /opt/build/repo/public/robots.txt"
+#command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /opt/build/repo/public/robots.txt"
 
 [context.branch-deploy]
-command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /opt/build/repo/public/robots.txt"
+command = "hugo -b https://isobelbeasley.com --buildFuture && mv robots_prod.txt /opt/build/repo/public/robots.txt"
+#command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /opt/build/repo/public/robots.txt"
 
 [[redirects]]
   from = "https://main--isobelbeasley.netlify.app/*"
