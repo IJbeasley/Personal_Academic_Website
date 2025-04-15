@@ -72,7 +72,7 @@ The most glaring obstacle to the more widespread use of personalised medicine is
 One way to improve the equitability of these precision medicine models is to better understand which genetic associations are likely to differ across human groups and why they differ. Towards this overarching goal, I developed machine learning models that predict whether or not one type of genetic association (expression quantitative trait loci, eQTL) is likely to be different across human groups.
 
 
-<img src="/media/project/thesis_methods_figure.png" width="689.25px" height="900px" alt="Figure of the method steps taken">
+<img src="thesis_methods_figure.svg" width="689.25px" height="900px" alt="Figure of the method steps taken">
 <b> Method Workflow Steps </b> 
 <br> 
 <b> (A): </b>  Integrate summary statistics from published eQTL studies. </b> <br>
