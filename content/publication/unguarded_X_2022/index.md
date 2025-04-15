@@ -4,14 +4,15 @@ authors:
 - Tim Connallon
 - Isobel J. Beasley
 - Yasmine McDonough
+- Filip Ruzicka
 date: "2022-08-01T00:00:00Z"
 doi: "10.1002/evl3.292"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 
   focal_point: ""
   preview_only: false
-projects: []
+projects: [monash_journalclub]
 publication: 'Evolution Letters'
 publication_short: ""
 publication_types:
