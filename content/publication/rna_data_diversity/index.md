@@ -14,7 +14,7 @@ date: "2024-07-13T00:00:00Z"
 doi: "10.1101/2024.10.11.617967"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 
   focal_point: ""
   preview_only: false
 projects: []
