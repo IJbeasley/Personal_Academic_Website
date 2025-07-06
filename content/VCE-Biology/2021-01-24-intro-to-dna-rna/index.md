@@ -9,12 +9,13 @@ tags: ['High school','VCE', 'RNA', 'DNA', 'Genetics', 'Nucleic Acids', 'Tutoring
 subtitle: 'Introduction to the structure and function of the molecules of life: DNA, mRNA, tRNA, and rRNA'
 summary: 'Introduction to the structure and function of the molecules of life: DNA, mRNA, tRNA, and rRNA'
 authors: ['Isobel Beasley']
-lastmod: '2024-08-26T04:46:14+11:00'
-featured: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+lastmod: '2025-07-06T04:46:14+11:00'
+featured: yes
+image: 
+  filename: featured.png
+  caption: "Diagram depicting DNA nucleotide, labelling pentose sugar, nitrogenous base and phosophate group."
+  focal_point: "Center"
+  preview_only: yes
 projects: []
 output: 
   html_document:
@@ -22,7 +23,7 @@ output:
 meta_summary: "Learn about DNA and RNA in this detailed overview, covering nucleotide structure, the double-stranded DNA helix, and the key differences between DNA and RNA. Explore interactive content, videos, and exam tips to help you understand nucleic acids and their roles in protein synthesis, designed to align with VCAA (2022-2026) Study Design."
 ---
 
-<h1 style="color:#D32F2F"> Content Overview </h2>
+<h1 style="color:#D32F2F"> Content Overview </h1>
 
 - [DNA Introduction](#dna---the-miracle-molecule-of-life)
 - [DNA Nucleotides](#the-nucleotide)
@@ -54,32 +55,45 @@ Nucleic acids as information molecules that encode instructions for the synthesi
 
 # DNA - The Miracle Molecule of Life 
 
- Genetic science has infiltrated popular culture to such a degree I suspect that the first time you heard the word DNA was long before your first biology class. Perhaps you had even seen its spiral structure (called a helix) before you learned what the DNA acronym stood for (<b>D</b>eoxyribo<b>N</b>ucleic <b>A</b>cid - btw).
+Genetic science has infiltrated popular culture to such a degree I suspect that the first time you heard the word DNA was long before your first biology class. Perhaps you had even seen DNA's spiral structure (called a helix) before you learned what the DNA acronym stood for (<b>D</b>eoxyribo<b>N</b>ucleic <b>A</b>cid - btw).
 
 We will use more technical language and learn more specific information about the function and structure of DNA than any mainstream TV show. However, I hope you keep your prior knowledge of genetic science in mind as we go along; it will help you pick up this information more quickly and improve your motivation to study when the concepts start to feel more abstract. 
 
-For this reason, let's start by considering the purpose of DNA. Parts of your DNA were passed down to you from your biological parents, and much of it is shared with other humans and living beings. But more is needed to explain its function: <b> why do we, and most other organisms, have DNA? What is its function? </b>
+For this reason, let's start by considering the purpose of DNA. Parts of your DNA were passed down to you from your biological parents, and much of it is shared with other humans and living beings. But more is needed to explain DNA's function: <b> why do we, and most other organisms, have DNA? What is its function? </b>
 
-[Add your own answer to the set of anonymous student responses](
+[Add your own answer to the set of anonymous student responses below](
 https://PollEv.com/discourses/ODZWtjez9nXfAgQesfr9N/respond)
 
 <br>
 
-<iframe src="https://embed.polleverywhere.com/discourses/o7pm8rXqTyTr8dFpp0Vw2?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 120%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://embed.polleverywhere.com/discourses/o7pm8rXqTyTr8dFpp0Vw2?controls=none&short_poll=true" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 <br> 
 <br>
 <br>
 
-<details> <summary> Reveal a tutor's reponse to the question: <b> 'What role does DNA play in the cell or organism?' </b> </summary> 
+<details> <summary> Reveal a tutor's response to the question: <b> 'What role does DNA play in the cell or organism?' </b> </summary> 
 
-To store all necessary genetic material of a cell or organism by encoding for the specific order of amino acids that comprise the proteins the cell/organism needs to function. Through both sexual and asexual reproduction, DNA also facilitates the transmission of this genetic information from one generation to another. 
+<ul>
+<li> Encode for all proteins the cell/organism needs to function; this encoding includes the specific sequence of amino acids that comprise this protein, and when/where this protein is expressed (what cells, environmental conditions etc.)
+</li>
+<li> Through reproduction, DNA facilitates the transmission of this genetic protein blueprint from one generation to another. 
+</li>
 
 </details>
 
 <br>
 
-<h2 style="color:#D32F2F"> An introduction to DNA and its features by Khan academy </h2>
+<!-- <h2 style="color:#D32F2F"> An introduction to DNA and its features by Khan academy </h2> !-->
+<h2 style="color:#D32F2F"> Khan Academy: An Introduction to DNA and Its' Features </h2>
+
 
 <center>
 
@@ -170,7 +184,7 @@ Once this single strand is formed, a complementary strand can now anneal to it u
 
 <br>
 <br>
-The annealing of two complementary strands of DNA ultimately gives it its' helical shape. More precisely, after some time, the repulsive forces of the negatively charged backbones of each strand and the attractive forces of 'complementary base paring' will reach a kind of balanced state, where parts of the DNA molecule that are attracted to each other are as close to each other as they can be without forcing parts of the molecule which are repelled to be very close. Remarkably, this balancing act results in the spiral shape we know and love!
+The annealing of two complementary strands of DNA ultimately gives it a helical shape. More precisely, after some time, the repulsive forces of the negatively charged backbones of each strand and the attractive forces of 'complementary base paring' will reach a kind of balanced state, where parts of the DNA molecule that are attracted to each other are as close to each other as they can be without forcing parts of the molecule which are repelled to be very close. Remarkably, this balancing act results in the spiral shape we know and love!
 
 </details> 
 
@@ -246,9 +260,12 @@ Comparatively, RNA is a <b> short-lived </b> molecule that is <b> more easily tr
 <b> There are three main classes of RNAs </b> you should know about, each with different roles: 
 
 <ul> 
-<li> <b> mRNA: <i> "to carry specific amino acids to the ribosome for protein synthesis” </i> </b> (definition taken from prior VCAA examiners report) </li>
-<li> <b> rRNA: to be a <i> structural component of the ribosomes </i> </b> and catalyse the assembly of amino acids into protein chains  </li> 
-<li> <b> tRNA: <i> to carry information from the nucleus to the ribosome for protein synthesis </b> </i> (definition taken from prior VCAA examiners report) </li>
+<li><b>mRNA:</b> <i>to carry information from the nucleus to the ribosome for protein synthesis</i></li>
+<li> <b> rRNA: to be a <i> structural component of the ribosomes </i> </b> and catalyse the assembly of amino acids into protein chains  </li>
+<li><b>tRNA:</b> <i>to carry specific amino acids to the ribosome for protein synthesis</i></li>
+
+<!-- <li> <b> mRNA: <i> "to carry specific amino acids to the ribosome for protein synthesis” </i> </b> (definition taken from prior VCAA examiners report) </li> !-->
+<!-- <li> <b> tRNA: <i> to carry information from the nucleus to the ribosome for protein synthesis </b> </i> (definition taken from prior VCAA examiners report) </li> !-->
 </ul> 
 
 <br>
@@ -294,7 +311,16 @@ Submit your own answers or guesses [here](https://PollEv.com/discourses/W8DoB505
 
 <details> <summary> Reveal how students have responsed previously </summary>
 
-<iframe src="https://embed.polleverywhere.com/discourses/bnf9RhrM1atuCpYsq5P2E?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 120%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://embed.polleverywhere.com/discourses/bnf9RhrM1atuCpYsq5P2E?controls=none&short_poll=true"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+<!-- <iframe src="https://embed.polleverywhere.com/discourses/bnf9RhrM1atuCpYsq5P2E?controls=none&short_poll=true" width="800px" height="600px"></iframe> !-->
 
 
 </details> 
