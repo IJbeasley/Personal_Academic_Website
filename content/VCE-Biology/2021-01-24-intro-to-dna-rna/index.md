@@ -109,7 +109,8 @@ https://PollEv.com/discourses/ODZWtjez9nXfAgQesfr9N/respond)
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_-vZ_g7K6P0?si=IOEBW9XgpKdTa1Zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_-vZ_g7K6P0?si=IOEBW9XgpKdTa1Zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> !-->
 
 <br>
 DNA: Khan Academy Video 
@@ -123,11 +124,22 @@ DNA: Khan Academy Video
 
 Every DNA molecule is made up of many smaller subunit molecules called 'nucleotides'. You need to know the key features of nucleotides (and how to depict them in exams!) because they ultimately give rise to DNA's structure and properties.
 
-![Diagram of a DNA nucleotide, without labelling](nucleotide_unlab.svg)
+<br>
 
 <b> What are the key components of DNA nucleotides? </b> <i> (i.e. what do I need to be able to draw in an exam or test?) </i> </b>
 
-<details> <summary> Reveal key components </summary> 
+
+<details> 
+         <summary> Unlabeled diagram hint </summary>
+
+
+![Diagram of a DNA nucleotide, without labelling](nucleotide_unlab.svg)
+
+</details> 
+
+<details> 
+         <summary> Reveal key components </summary>
+
 <ul>
 
 
@@ -206,7 +218,16 @@ The annealing of two complementary strands of DNA ultimately gives it a helical 
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7Hk9jct2ozY?si=tUbFraR6Ku0iJxLK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.youtube-nocookie.com/embed/7Hk9jct2ozY?si=tUbFraR6Ku0iJxLK"
+    title="YouTube video player" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 <br> 
