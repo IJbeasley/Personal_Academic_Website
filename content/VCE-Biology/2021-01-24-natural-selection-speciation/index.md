@@ -60,7 +60,10 @@ What is a species? How do we know two groups of animals are different species?
 <details> 
  <summary> Reveal (evolutionary biologist's) definition of species </summary> 
 
-A category of organism (living thing) distinguishable from all other types of organisms by the fact that only if two individuals are members of the same species, do they have the potential to produce fertile, and viable offspring through sexual reproduction. 
+A species is a group or category of organisms (living thing) which are 
+distinguishable from all other types of organisms 
+because only members of this species have the potential to produce fertile, 
+and viable offspring through sexual reproduction with each other. 
 
 </details>
 
@@ -73,10 +76,15 @@ Organisms of a particular species, within a defined area.
 <br>
 <br>
 
-### <span style="color:#D32F2F"> So how do we form multiple species from one original specie? </spans>
+### <span style="color:#D32F2F"> So how do we form multiple species from one original species? </span>
 
 
-The process of forming a new species is called speciation. Speciation is complete when sufficient  genetic differences accumulate between populations of an original species, such that these populations are no longer capable of reproducing with each other produce fertile offspring even if they could physically meet. 
+The process of forming a new species is called speciation. 
+Speciation is complete when sufficient genetic differences accumulate between 
+populations the same original species.
+At this point, individuals are no longer capable 
+of reproducing with an individual from another population
+and producing fertile offspring - even if they could physically meet. 
 
 How do two or more populations of the same species get to be genetically diverged (different)? 
 
@@ -124,12 +132,10 @@ How do two or more populations of the same species get to be genetically diverge
 
 # Today's TL;DR
 
-- Genetic diversity helps populations deal with changing environmental pressures (often called selective agents)
-- Genetic drift (the bottleneck effect, the founder effect), natural selection all typically reduce genetic diversity
-- Mutations and gene flow typically increase genetic diversity
-- Point mutations are single nucleotide changes to a DNA sequence, block mutations are larger changes in to a whole segment of DNA
-- In allopatric speciation there are 3 big stages:  geographic isolation, mutation and natural selection, and reintroduction
-
+- In allopatric speciation there are 3 big stages:  
+  geographic isolation, mutation and natural selection, and reintroduction
+- In natural selection there are 4 big steps / requirements:
+  heritable variation, struggle to survive, herediable differential reproduction, change to population phenotypes and genotypes
 <br>
 
 # Extra Resources
