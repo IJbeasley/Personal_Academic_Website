@@ -2,7 +2,7 @@
 weight: 4
 title: How to make a protein from DNA
 author: 'Isobel Beasley'
-date: '202-01-24'
+date: '2022-01-24'
 slug: how-to-make-a-protein-from-dna
 categories: ['High school','VCE', 'Biology', 'Unit 3']
 tags: ['High school','VCE', 'Transcription', 'Translation', 'Gene Expression', 'Tutoring']
@@ -51,11 +51,14 @@ Disclaimer: OK...so I'm not VCAA so I don't really know but a short answer quest
 
 ## Transcription
 
-The process of making an pre-mRNA molecule from a gene (DNA sequence).
+The process of <b><i>making an pre-mRNA molecule from a gene</b></i> (DNA sequence).
 
 <br>
 
 ## Cellular location of transcription and translation
+
+
+
 
 <iframe style="width:100%;height:600px;"
 src="https://embed.polleverywhere.com/free_text_polls/yCOpqvJNbUdz3XqNZN2hm?controls=none&short_poll=true">
@@ -63,24 +66,36 @@ src="https://embed.polleverywhere.com/free_text_polls/yCOpqvJNbUdz3XqNZN2hm?cont
 
 <br>
 <br>
-
-## Videos to help you understand transcription
 <br>
 
+## Videos to help you understand transcription
+
+<br>
 <center> 
 
-<iframe width="100%" height="500"
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+   src="https://www.youtube-nocookie.com/embed/DA2t5N72mgw?si=7xfyhL5kfrI_za-f" 
+   title="YouTube video player" 
+   style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+   Allowfullscreen>
+   </iframe>
+</div>
+
+<!--<iframe width="100%" height="500"
 src="https://www.youtube-nocookie.com/embed/DA2t5N72mgw?si=7xfyhL5kfrI_za-f" 
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+!-->
 
-<!--style="width:100%;height:600px;" -->
+<!--style="width:100%;height:600px;" !-->
 <!--<iframe style="width="100%;height=500px;"
 src="https://www.youtube-nocookie.com/embed/DA2t5N72mgw?si=33N2PaQs2wpga9uX" 
 frameborder="0" 
 allow="accelerometer; autoplay; 
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; 
 web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-</iframe> -->
+</iframe> !-->
 
 <br>
 Animation showing transcription occurring in the cells nucleus.
@@ -91,14 +106,21 @@ Animation showing transcription occurring in the cells nucleus.
 <br>
 
 <center>
-
-<iframe width="100%" height="500" 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+   src="https://www.youtube-nocookie.com/embed/JQIwwJqF5D0?si=29h__DmwKDzzNxCa" 
+   title="YouTube video player" 
+   style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+   Allowfullscreen>
+   </iframe>
+</div>
+<!--<iframe width="100%" height="500" 
 src="https://www.youtube-nocookie.com/embed/JQIwwJqF5D0?si=29h__DmwKDzzNxCa" 
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+!-->
 
-<br>
-
-[Transcription video](https://www.youtube.com/watch?v=JQIwwJqF5D0)
+<!--[Transcription video](https://www.youtube.com/watch?v=JQIwwJqF5D0) -->
 
 </center>
 
