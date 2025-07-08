@@ -160,6 +160,14 @@ A mutation or change to the DNA that occurs in one your body cells (more correct
 <br> 
 <br>
 
+# TL;DR
+
+- Genetic diversity helps populations deal with changing environmental pressures (often called selective agents)
+- Genetic drift (the bottleneck effect, the founder effect), natural selection all typically reduce genetic diversity
+- Mutations and gene flow typically increase genetic diversity
+- Point mutations are single nucleotide changes to a DNA sequence, block mutations are larger changes in to a whole segment of DNA
+
+
 
 # Extra resources
 
