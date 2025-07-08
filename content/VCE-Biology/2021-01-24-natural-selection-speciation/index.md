@@ -54,25 +54,26 @@ What is a species? How do we know two groups of animals are different species?
 <iframe src="https://embed.polleverywhere.com/free_text_polls/n30LWJDNU8pNanxQ33Rux?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 </details> 
 
-<details> <summary> Reveal (evolutionary biologist's) definition of species </summary> 
+<br>
+<br>
 
-<br> 
+<details> 
+ <summary> Reveal (evolutionary biologist's) definition of species </summary> 
+
 A category of organism (living thing) distinguishable from all other types of organisms by the fact that only if two individuals are members of the same species, do they have the potential to produce fertile, and viable offspring through sexual reproduction. 
 
-<details>
-<br>
+</details>
 
-
-
-<details> <summary> What is a population? </summary>
-<br>
+<details> 
+ <summary> What is a population? </summary>
 Organisms of a particular species, within a defined area.
 
 </details>
+
 <br>
 <br>
 
-### So how do we form multiple species from one original specie?
+### <span style="color:#D32F2F"> So how do we form multiple species from one original specie? </spans>
 
 
 The process of forming a new species is called speciation. Speciation is complete when sufficient  genetic differences accumulate between populations of an original species, such that these populations are no longer capable of reproducing with each other produce fertile offspring even if they could physically meet. 
@@ -81,42 +82,44 @@ How do two or more populations of the same species get to be genetically diverge
 
 (One way) 
 
-1. Isolation 
-2. Natural selection + Mutation
-3. Lots of time / generations
+1. <b>Isolation</b>: there needs to be separation (no gene flow) between populations
+2. <b>Natural selection + Mutation</b>: there needs to be different selection pressures and genetic variation
+3. <b>Lots of time / generations</b>: there needs to be many generations to achieve sufficient genetic separation
 
-... this process is called allopatrick speciation
+... this process is called allopatric speciation
 <br> 
 <br>
 
-### Allopatric Speciation stages:
+### <span style="color:#D32F2F"> Allopatric Speciation stages: </span>
 
 - Two populations are divided by geographic barrier with no gene flow/migration between them
 - Each group experiences different selection pressures and different mutations accumulate, which allow differences in allele frequencies to develop
 - Over time, the populations, if reintroduced, would be unable to produce viable fertile offspring together
 
 <br>
+<br>
 
 # Natural selection 
 
 ## Stages:
 
-1. Heritable VARIATION:
+1. Heritable <b>VARIATION</b>:
     
     There must be genetic variation within a population which causes phenotypic variation
     
-2. Struggle to Survive:
+2. <b>Struggle</b> to Survive:
     
      Not all members of a population will survive long enough to reproduce.
     
-3.  HEREDITY and differential reproduction:
+3.  <b>HEREDITY</b> and differential reproduction:
     
     Individuals with phenotypes better equipped to suit their environment/selection pressures will be more likely to survive and reproduce. These genes will be inherited by their offspring.
     
-4. Change to population (genotypic / phenotypic) 
+4. <b>Change to population</b> (genotypic / phenotypic) 
     
     Over time the more successful phenotypic trait will become more common in the population (change in allele frequency)
 
+<br>
 <br>
 
 # Today's TL;DR
