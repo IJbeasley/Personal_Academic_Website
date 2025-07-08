@@ -44,6 +44,9 @@ the <b> factors that affect the rate of photosynthesis </b>: light availability,
 … this looks like a lot to know - but don’t worry, it’s actually not at all - it’s just boring.
 </aside>
 
+<br>
+<br>
+
 ## <span style="color:#D32F2F"> Learning Objectives </span>
 
 *By the end of this lesson you should be able to:*
@@ -58,9 +61,21 @@ the <b> factors that affect the rate of photosynthesis </b>: light availability,
 
 ## <span style="color:#D32F2F"> 🌻 Photosynthesis </span>
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/sQK3Yr4Sc_k?si=lEq2YQZhdwB8oG9K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+<div style="position: relative; padding-bottom: 56.25%; 
+            height: 0; overflow: hidden; max-width: 100%;">
+
+<iframe src="https://www.youtube-nocookie.com/embed/sQK3Yr4Sc_k?si=lEq2YQZhdwB8oG9K" 
+           title="YouTube video player" 
+           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" Allowfullscreen>
+
 </iframe>
 
+</div>
+
+<!--<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/sQK3Yr4Sc_k?si=lEq2YQZhdwB8oG9K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> !-->
+
+<br>
 <br>
 
 ### <span style="color:#D32F2F"> Important VCAA Note </span>
@@ -96,11 +111,11 @@ $$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + 
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tinytable_312zg7ot1n7kd5wyygmb</title>
+    <title>tinytable_dsn3yktj9nwt4b71t6nr</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-.table td.tinytable_css_9prght5wzpynhczou119, th.tinytable_css_9prght5wzpynhczou119 {    font-weight: bold; color: black; background-color: white; }
-.table td.tinytable_css_1z1odbupy0ujcda7zrbk, th.tinytable_css_1z1odbupy0ujcda7zrbk {    font-size: 21.3333333333333px; }
+.table td.tinytable_css_7zsui7ooez0pzx4wcvck, th.tinytable_css_7zsui7ooez0pzx4wcvck {    font-weight: bold; color: black; background-color: white; }
+.table td.tinytable_css_qqigiw68eckqy2c0i3ia, th.tinytable_css_qqigiw68eckqy2c0i3ia {    font-size: 21.3333333333333px; }
     </style>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -117,7 +132,7 @@ $$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + 
   </head>
 &#10;  <body>
     <div class="container">
-      <table class="table table-grid table-hover" id="tinytable_312zg7ot1n7kd5wyygmb" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
+      <table class="table table-grid table-hover" id="tinytable_dsn3yktj9nwt4b71t6nr" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
         <thead>
         &#10;              <tr>
                 <th scope="col">Stage</th>
@@ -144,23 +159,23 @@ $$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + 
     </div>
 &#10;    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-    function styleCell_tinytable_yozhw4uuskqa6edr8p1w(i, j, css_id) {
-      var table = document.getElementById("tinytable_312zg7ot1n7kd5wyygmb");
+    function styleCell_tinytable_3elc07i9ck51vsd6o63n(i, j, css_id) {
+      var table = document.getElementById("tinytable_dsn3yktj9nwt4b71t6nr");
       table.rows[i].cells[j].classList.add(css_id);
     }
     function insertSpanRow(i, colspan, content) {
-      var table = document.getElementById('tinytable_312zg7ot1n7kd5wyygmb');
+      var table = document.getElementById('tinytable_dsn3yktj9nwt4b71t6nr');
       var newRow = table.insertRow(i);
       var newCell = newRow.insertCell(0);
       newCell.setAttribute("colspan", colspan);
       newCell.innerText = content;
     }
-window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6edr8p1w(1, 0, 'tinytable_css_9prght5wzpynhczou119') })
-window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6edr8p1w(2, 0, 'tinytable_css_9prght5wzpynhczou119') })
-window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6edr8p1w(0, 0, 'tinytable_css_1z1odbupy0ujcda7zrbk') })
-window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6edr8p1w(0, 1, 'tinytable_css_1z1odbupy0ujcda7zrbk') })
-window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6edr8p1w(0, 2, 'tinytable_css_1z1odbupy0ujcda7zrbk') })
-window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6edr8p1w(0, 3, 'tinytable_css_1z1odbupy0ujcda7zrbk') })
+window.addEventListener('load', function () { styleCell_tinytable_3elc07i9ck51vsd6o63n(1, 0, 'tinytable_css_7zsui7ooez0pzx4wcvck') })
+window.addEventListener('load', function () { styleCell_tinytable_3elc07i9ck51vsd6o63n(2, 0, 'tinytable_css_7zsui7ooez0pzx4wcvck') })
+window.addEventListener('load', function () { styleCell_tinytable_3elc07i9ck51vsd6o63n(0, 0, 'tinytable_css_qqigiw68eckqy2c0i3ia') })
+window.addEventListener('load', function () { styleCell_tinytable_3elc07i9ck51vsd6o63n(0, 1, 'tinytable_css_qqigiw68eckqy2c0i3ia') })
+window.addEventListener('load', function () { styleCell_tinytable_3elc07i9ck51vsd6o63n(0, 2, 'tinytable_css_qqigiw68eckqy2c0i3ia') })
+window.addEventListener('load', function () { styleCell_tinytable_3elc07i9ck51vsd6o63n(0, 3, 'tinytable_css_qqigiw68eckqy2c0i3ia') })
     </script>
 &#10;  </body>
 &#10;</html>
@@ -168,68 +183,192 @@ window.addEventListener('load', function () { styleCell_tinytable_yozhw4uuskqa6e
 <br>
 <br>
 
-## Practice Questions
+## <span style="color:#D32F2F"> Practice Questions </span>
 
 <br>
 
-<iframe src="https://pollev-embeds.com/multiple_choice_polls/1YiMIkIauSrGHOJD96PnT/respond" width="800px" height="600px">
+### <span style="color:#D32F2F"> Multiple Choice </span>
+
+<div style="position: relative; width: 100%; padding-bottom: 100%; height: 0; overflow: hidden;">
+
+<iframe 
+    src="https://pollev-embeds.com/multiple_choice_polls/1YiMIkIauSrGHOJD96PnT/respond" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
 </iframe>
+
+</div>
+
+<br>
+<br>
+
+<!--<iframe src="https://pollev-embeds.com/multiple_choice_polls/1YiMIkIauSrGHOJD96PnT/respond" width="800px" height="600px"></iframe> !-->
 <details>
-</summar> Reveal prior student answers:
+<summary>
+Reveal prior student answers:
 </summary>
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/PqwwGadWO63hae2zCnlHw?controls=none&amp;short_poll=true" width="800px" height="600px">
+
+<div style="position: relative; width: 100%; padding-bottom: 100%; height: 0; overflow: hidden;">
+
+<iframe 
+    src="https://embed.polleverywhere.com/multiple_choice_polls/PqwwGadWO63hae2zCnlHw?controls=none&short_poll=true" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
 </iframe>
+
+</div>
+
+<!--<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/PqwwGadWO63hae2zCnlHw?controls=none&short_poll=true" width="800px" height="600px"></iframe> !-->
 </details>
 
 <br>
+<br>
+<br>
 
-<iframe src="https://pollev-embeds.com/multiple_choice_polls/5e1BZuBKSaTKXqQMVC4mL/respond" width="800px" height="600px">
+<div style="position: relative; width: 100%; padding-bottom: 100%; height: 0; overflow: hidden;">
+
+<iframe 
+    src="https://pollev-embeds.com/multiple_choice_polls/5e1BZuBKSaTKXqQMVC4mL/respond" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
 </iframe>
+
+</div>
+
+<!-- <iframe src="https://pollev-embeds.com/multiple_choice_polls/5e1BZuBKSaTKXqQMVC4mL/respond" width="800px" height="600px"></iframe> !-->
+
+<br>
+<br>
+
 <details>
-</summar> Reveal prior student answers:
+<summary>
+Reveal prior student answers:
 </summary>
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/uAy8I1jnzxJUsoOAifDbN?controls=none&amp;short_poll=true" width="800px" height="600px">
+
+<div style="position: relative; width: 100%; padding-bottom: 100%; height: 0; overflow: hidden;">
+
+<iframe 
+    src="https://embed.polleverywhere.com/multiple_choice_polls/uAy8I1jnzxJUsoOAifDbN?controls=none&short_poll=true" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
 </iframe>
+
+</div>
+
+<!-- <iframe src="https://embed.polleverywhere.com/multiple_choice_polls/uAy8I1jnzxJUsoOAifDbN?controls=none&short_poll=true" width="800px" height="600px"></iframe> !-->
 </details>
 
 <br>
+<br>
 
-<iframe src="https://pollev-embeds.com/multiple_choice_polls/BMR7NfN4nBF8EyVC0q3XX/respond" width="800px" height="600px">
+<!-- <iframe src="https://pollev-embeds.com/multiple_choice_polls/BMR7NfN4nBF8EyVC0q3XX/respond" width="800px" height="600px"></iframe> !-->
+
+<div style="position: relative; width: 100%; padding-bottom: 100%; height: 0; overflow: hidden;">
+
+<iframe 
+    src="https://pollev-embeds.com/multiple_choice_polls/BMR7NfN4nBF8EyVC0q3XX/respond" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
 </iframe>
+
+</div>
+
+<br>
+<br>
+
 <details>
-</summar> Reveal prior student answers:
+<summary>
+Reveal prior student answers:
 </summary>
-<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/ouJxK92E7RkVwxdqBvnIn?controls=none&amp;short_poll=true" width="800px" height="600px">
+
+<div style="position: relative; width: 100%; padding-bottom: 100%; height: 0; overflow: hidden;">
+
+<iframe 
+    src="https://embed.polleverywhere.com/multiple_choice_polls/ouJxK92E7RkVwxdqBvnIn?controls=none&short_poll=true" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
 </iframe>
+
+</div>
+
+<!-- <iframe src="https://embed.polleverywhere.com/multiple_choice_polls/ouJxK92E7RkVwxdqBvnIn?controls=none&short_poll=true" width="800px" height="600px"></iframe> !-->
 </details>
 
 <br>
 <br>
 
-### Locations
+### <span style="color:#D32F2F"> Locations </span>
 
-<iframe src="https://pollev-embeds.com/clickable_images/kX0KCmQ2gVGpr8XScK35g/respond" width="800px" height="600px">
+<br>
+
+<div style="position: relative; width: 100%; padding-bottom: 100%; height: 0; overflow: hidden;">
+
+<iframe 
+    src="https://pollev-embeds.com/clickable_images/kX0KCmQ2gVGpr8XScK35g/respond" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
 </iframe>
-<iframe src="https://pollev-embeds.com/clickable_images/LKrWxb8x82OgeV59Nsh44/respond" width="800px" height="600px">
+
+</div>
+
+<!-- <iframe src="https://pollev-embeds.com/clickable_images/kX0KCmQ2gVGpr8XScK35g/respond" width="800px" height="600px"></iframe> !-->
+
+<br>
+
+<div style="position: relative; width: 100%; padding-bottom: 100%; height: 0; overflow: hidden;">
+
+<iframe 
+    src="https://pollev-embeds.com/clickable_images/LKrWxb8x82OgeV59Nsh44/respond" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
 </iframe>
+
+</div>
+
+<!--
+<iframe src="https://pollev-embeds.com/clickable_images/LKrWxb8x82OgeV59Nsh44/respond" width="800px" height="600px"></iframe> !-->
+
+<br>
+<br>
+
 <details>
 <summary>
 Reveal answers
 </summary>
-<iframe src="https://embed.polleverywhere.com/clickable_images/5nr7fVM1UFtnDd74mjJgv?controls=none&amp;short_poll=true" width="800px" height="600px">
+
+<div style="position: relative; width: 100%; padding-bottom: 100%; height: 0; overflow: hidden;">
+
+<iframe 
+    src="https://embed.polleverywhere.com/clickable_images/5nr7fVM1UFtnDd74mjJgv?controls=none&short_poll=true" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
 </iframe>
+
+</div>
+
+<!-- <iframe src="https://embed.polleverywhere.com/clickable_images/5nr7fVM1UFtnDd74mjJgv?controls=none&short_poll=true" width="800px" height="600px"></iframe> !-->
 
 <br>
 
-<iframe src="https://embed.polleverywhere.com/clickable_images/fX6RkfdS4R6wCJUcVGkIm?controls=none&amp;short_poll=true" width="800px" height="600px">
+<div style="position: relative; width: 100%; padding-bottom: 100%; height: 0; overflow: hidden;">
+
+<iframe 
+    src="https://embed.polleverywhere.com/clickable_images/fX6RkfdS4R6wCJUcVGkIm?controls=none&short_poll=true" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
 </iframe>
+
+</div>
+
+<!--
+<iframe src="https://embed.polleverywhere.com/clickable_images/fX6RkfdS4R6wCJUcVGkIm?controls=none&short_poll=true" width="800px" height="600px"></iframe> !-->
 </details>
 
 <br>
 <br>
 <br>
 
-# <span style="color:#D32F2F"> Extra Resources </span>
+## <span style="color:#D32F2F"> Extra Resources </span>
 
 [FreeVCEnotes.com: Energy transformations](https://freevcenotes.com/biology/notes/energy-transformations)
 
