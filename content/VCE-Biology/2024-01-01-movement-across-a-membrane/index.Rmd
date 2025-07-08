@@ -57,6 +57,19 @@ How do smaller molecules get into and out of the cell?
 
 But not every small molecule, across every time / context will travel through the plasma membrane in the same way. Some small molecules travel directly in between the phospholipid molecules, some travel across the membrane with a little help from a protein, others need an energy (ATP) boost to make their way into or out of the cell. 
 
+
+<details> <summary> The structure of plasma membranes are often described a ‘fluid-mosaic’. Why? </summary>
+
+<ul>
+<li>
+The membrane is fluid, that is the phospholipid bi-layer is able to move and reform 
+</li>
+<li>
+The membrane is a mosaic, that is it is comprised of many different components (e.g. interspersed within the phospholipid bi-layer are cholesterol molecules, protein channels etc.)
+</li>
+</ul> 
+</details>
+
 <br>
 <br>
 <br>
