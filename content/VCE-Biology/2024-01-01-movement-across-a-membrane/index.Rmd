@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 3
 title: Movement across a membrane
 author: 'Isobel Beasley'
 date: '2024-10-20'

@@ -1,9 +1,10 @@
 ---
-title: 'Think like a researcher: Experimental Design'
+weight: 15
+title: 'Think like a researcher: Experimental design'
 author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: think-like-a-researcher-experimental-design
-categories: ['High School', 'VCE', 'Biology']
+categories: ['High School', 'VCE', 'Biology', 'Unit 4', 'Area of Study 3']
 tags: ['High School', 'Research design']
 subtitle: "An often overwhelming area for students - because memorisation won't help you much here"
 summary: "An often overwhelming area for students - because memorisation won't help you much here"
@@ -39,15 +40,21 @@ VCAA Psychology 2014 -‘A research hypothesis should state a prediction relatin
 - identify the independent and dependent variables respectively 
 - state the predicted direction of the results if the hypothesis were true'
 
+<br>
+<br>
+
 ### Dependant and Independant Varaible Definitions
 
-<b> Independent Variable: <b> <i> (The thing we are manipulating, or the thing we are studying) </i>
+<b> Independent Variable: </b> <i> (The thing we are manipulating, or the thing we are studying) </i>
 
 The variable in an experiment which has been deliberately manipulated in order to measure its effect on the dependent variable. 
 
 <b> Dependent Variable: </b> <i> (The result) </i>
 
 The dependent variable is the variable that is being measured in an experiment (such that we can see the effects of the independent variable on this variable).
+
+<br>
+<br>
 
 ### Control and Experimental Groups
 
@@ -58,34 +65,39 @@ The group/s that are experiencing the independent variable (there may be more th
 
 Ideally, there should only be one difference between the control group, and the experimental group/s - the independent variable. 
 
+<br>
+<br>
 
 ### Extraneous and Confounding Variables
 
-Extraneous Variable:
+<b> Extraneous Variable: </b>
 Any variable that could alter the result of the dependent variable, that is not the independent variable (this includes controlled for variables).  
 
-(Potential) Confounding variables:	
+<b> (Potential) Confounding variable/s:	</b>
 Any variable other than the independent variable that has had (or we believe it has had, or that it most likely had) an 
 ‘Potential’ is used because we haven’t controlled for this variable in the experimental design, and generally we are unware as to whether it is has or has not affected the results. We can only suggest/predict that it may have had an unwanted effect on the Dependent Variable. 
 
-
-
+<br>
 
 <iframe src="https://pollev-embeds.com/free_text_polls/H5RyQFk1R6pc1ZUNhnyUt/respond" width="800px" height="600px"></iframe>
 
 <iframe src="https://embed.polleverywhere.com/free_text_polls/H0t94y6fJlMzISMj88O4X?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 
+<br>
+<br>
 
-## Errors
+## Practice questions around errors
 
 <iframe src="https://pollev-embeds.com/multiple_choice_polls/znymO1EO5ut0K5d2Dd52H/respond" width="800px" height="600px"></iframe>
 
 <iframe src="https://embed.polleverywhere.com/multiple_choice_polls/AlnYyFrgkJce4jGQA8Xdc?controls=none&short_poll=true" width="800px" height="600px"></iframe>
 
 
+<br>
+<br>
 
-### Accuracy and precision
+### Practice questions around accuracy and precision
 
 <iframe src="https://pollev-embeds.com/multiple_choice_polls/KFzx5GDSACHOQZ4XBhzUr/respond" width="800px" height="600px"></iframe>
 
@@ -94,6 +106,9 @@ Any variable other than the independent variable that has had (or we believe it 
 <iframe src="https://pollev-embeds.com/free_text_polls/qEE2XJZEcnwCci4crGPVT/respond" width="800px" height="600px"></iframe>
 
 <iframe src="https://embed.polleverywhere.com/free_text_polls/acVOupmMIWVYV7KJJLoDu?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+<br>
+<br>
 
 ### Reliability and validity
 

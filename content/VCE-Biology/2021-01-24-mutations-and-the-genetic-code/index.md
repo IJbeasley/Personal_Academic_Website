@@ -1,6 +1,6 @@
 ---
 weight: 5
-title: 'Mutations and the Genetic Code'
+title: 'Mutations and the genetic code'
 author: 'Isobel Beasley'
 date: '2024-10-20T04:24:02+11:00'
 slug: mutations-and-the-genetic-code

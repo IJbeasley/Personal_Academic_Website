@@ -1,26 +1,28 @@
 ---
-title: 'Cellular Respiration'
+weight: 11
+title: 'Cellular respiration'
 author: 'Isobel Beasley'
-date: '2021-01-24'
+date: '2024-10-20'
 slug: cellular-respiration
-categories: ['VCE', 'Biology', 'Unit 3', 'Area of study 3']
+categories: ['High school', 'VCE', 'Biology', 'Unit 3', 'Area of study 2']
 tags: ['High school','VCE', 'Photosynthesis', 'Cellular Respiration', 'Tutoring']
 subtitle: "Don't let the details scare you; you need to learn less than you might think"
 summary: "Let's focus on what you actually need to know on everyone's favourite VCE Biology topic (sarcasm btw)"
 authors: ['Isobel Beasley']
-lastmod: '2023-01-24T04:14:47+11:00'
-featured: yes
+lastmod: '2024-10-20T04:14:47+11:00'
+featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
 toc: true
+math: true
 ---
 
 <aside>
 
-<b> Note: </b> To develop the content for this page I adapted a learning plan I wrote in 2021 for VCE summer school. It’s now better targeted to the 2022-2026 VCAA study design, but it is still not a perfect match for this study desgin.
+<b> Note: </b> To develop the content for this page I adapted a learning plan I wrote in 2021 for VCE summer school. It’s now better targeted to the 2022-2026 VCAA study design, but it is still not a perfect match for this study design.
 
 </aside>
 <aside>
@@ -51,7 +53,7 @@ the <b> factors that affect the rate of cellular respiration </b>: temperature, 
 
 - Contrast the purpose of aerobic respiration, anaerobic respiration and photosynthesis
 - List the main inputs and outputs for the light dependent and light independent stages of photosynthesis
-- List the main inputs, outputs and ATP yields for stages of cellular respiration *(glycolysis, anaerobic respiration, Kreb’s cycle, electron transport chain in yeast and in animals)*
+- List the main inputs, outputs and ATP yields for stages of cellular respiration *(glycolysis, anaerobic respiration, Krebs cycle, electron transport chain in yeast and in animals)*
 
 Bonus objectives:
 
@@ -90,7 +92,7 @@ Crash Course Introductory Video
 <br>
 
 Word equation:
-$$ \text{Oxygen} + \text{Glucose} + \text{ADP} + \text{Inorganic Phosphorus} → \text{Carbon Dixode} + \text{Water} + \text{ATP (avaliable energy)} $$
+$$ \text{Oxygen} + \text{Glucose} + \text{ADP} + \text{Inorganic Phosphorus} → \text{Carbon Dioxide} + \text{Water} + \text{ATP (available energy)} $$
 
 Chemical equation:
 
@@ -99,19 +101,21 @@ $$ 6O_{2} + C_{6}H_{12}O_{6} + 36ADP + 36P_{i} → 6CO_{2} + 6H_{2}O + 36ATP $$
 <br>
 <br>
 
-## <span style="color:#D32F2F"> Summary table (locations, steps, inputs and outputs\> </span>
+<!--## <span style="color:#D32F2F"> Summary table (locations, steps, inputs and outputs>) </span> !-->
+
+## <span style="color:#D32F2F">Summary table: locations, steps, inputs and outputs</span>
 
 <!DOCTYPE html> 
 <html lang="en">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tinytable_4cvwigs886oh1k73ifqi</title>
+    <title>tinytable_k1oma54b5e7ec78gw6zq</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-.table td.tinytable_css_wista4ecbhbhtlhxivkl, th.tinytable_css_wista4ecbhbhtlhxivkl {    font-weight: bold; color: black; background-color: white; }
-.table td.tinytable_css_e678qik87ghq5zwmoguy, th.tinytable_css_e678qik87ghq5zwmoguy {    font-size: 21.3333333333333px; }
-.table td.tinytable_css_teh4ld80n8jw0xc7aor5, th.tinytable_css_teh4ld80n8jw0xc7aor5 {    font-weight: bold; text-align: center; color: white; background-color: gray; }
+.table td.tinytable_css_7kolup9bzqtazggvsj14, th.tinytable_css_7kolup9bzqtazggvsj14 {    font-weight: bold; color: black; background-color: white; }
+.table td.tinytable_css_fnuxv4h56sc81y6iw172, th.tinytable_css_fnuxv4h56sc81y6iw172 {    font-size: 21.3333333333333px; }
+.table td.tinytable_css_exafx3peez4nya84j992, th.tinytable_css_exafx3peez4nya84j992 {    font-weight: bold; text-align: center; color: white; background-color: gray; }
     </style>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -128,7 +132,7 @@ $$ 6O_{2} + C_{6}H_{12}O_{6} + 36ADP + 36P_{i} → 6CO_{2} + 6H_{2}O + 36ATP $$
   </head>
 &#10;  <body>
     <div class="container">
-      <table class="table table-grid table-hover" id="tinytable_4cvwigs886oh1k73ifqi" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
+      <table class="table table-grid table-hover" id="tinytable_k1oma54b5e7ec78gw6zq" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
         <thead>
         &#10;              <tr>
                 <th scope="col">Stage</th>
@@ -140,7 +144,7 @@ $$ 6O_{2} + C_{6}H_{12}O_{6} + 36ADP + 36P_{i} → 6CO_{2} + 6H_{2}O + 36ATP $$
               </tr>
         </thead>
         <tfoot><tr><td colspan='6'><sup>i</sup> Glycolysis...</td></tr>
-<tr><td colspan='6'><sup>ii</sup> Kreb's Cycle ...</td></tr>
+<tr><td colspan='6'><sup>ii</sup> Krebs Cycle ...</td></tr>
 <tr><td colspan='6'><sup>iii</sup> Electron Transport Chain</td></tr>
 <tr><td colspan='6'><sup>iv</sup> Anaerobic Coenzyme Recycling</td></tr></tfoot>
         <tbody>
@@ -181,45 +185,45 @@ $$ 6O_{2} + C_{6}H_{12}O_{6} + 36ADP + 36P_{i} → 6CO_{2} + 6H_{2}O + 36ATP $$
     </div>
 &#10;    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-    function styleCell_tinytable_nls0tsus0dvb5mmd09t4(i, j, css_id) {
-      var table = document.getElementById("tinytable_4cvwigs886oh1k73ifqi");
+    function styleCell_tinytable_kfl6ik4r169s1hswum0u(i, j, css_id) {
+      var table = document.getElementById("tinytable_k1oma54b5e7ec78gw6zq");
       table.rows[i].cells[j].classList.add(css_id);
     }
-    function insertSpanRow_rbrhn61p5hnv31kmjvg4(i, colspan, content) {
-      var table = document.getElementById('tinytable_4cvwigs886oh1k73ifqi');
+    function insertSpanRow_mftpfyn035oi4h04gvok(i, colspan, content) {
+      var table = document.getElementById('tinytable_k1oma54b5e7ec78gw6zq');
       var newRow = table.insertRow(i);
       var newCell = newRow.insertCell(0);
       newCell.setAttribute("colspan", colspan);
       newCell.innerText = content;
     }
-window.addEventListener('load', function () { insertSpanRow_rbrhn61p5hnv31kmjvg4(4, 6, 'Anaerobic Specific Stages') });
-window.addEventListener('load', function () { insertSpanRow_rbrhn61p5hnv31kmjvg4(2, 6, 'Aerobic Specific Stages') });
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(1, 0, 'tinytable_css_wista4ecbhbhtlhxivkl') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(2, 0, 'tinytable_css_wista4ecbhbhtlhxivkl') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(3, 0, 'tinytable_css_wista4ecbhbhtlhxivkl') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(4, 0, 'tinytable_css_wista4ecbhbhtlhxivkl') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(5, 0, 'tinytable_css_wista4ecbhbhtlhxivkl') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(6, 0, 'tinytable_css_wista4ecbhbhtlhxivkl') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(7, 0, 'tinytable_css_wista4ecbhbhtlhxivkl') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(8, 0, 'tinytable_css_wista4ecbhbhtlhxivkl') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(0, 0, 'tinytable_css_e678qik87ghq5zwmoguy') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(0, 1, 'tinytable_css_e678qik87ghq5zwmoguy') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(0, 2, 'tinytable_css_e678qik87ghq5zwmoguy') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(0, 3, 'tinytable_css_e678qik87ghq5zwmoguy') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(0, 4, 'tinytable_css_e678qik87ghq5zwmoguy') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(0, 5, 'tinytable_css_e678qik87ghq5zwmoguy') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(2, 0, 'tinytable_css_teh4ld80n8jw0xc7aor5') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(5, 0, 'tinytable_css_teh4ld80n8jw0xc7aor5') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(2, 1, 'tinytable_css_teh4ld80n8jw0xc7aor5') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(5, 1, 'tinytable_css_teh4ld80n8jw0xc7aor5') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(2, 2, 'tinytable_css_teh4ld80n8jw0xc7aor5') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(5, 2, 'tinytable_css_teh4ld80n8jw0xc7aor5') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(2, 3, 'tinytable_css_teh4ld80n8jw0xc7aor5') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(5, 3, 'tinytable_css_teh4ld80n8jw0xc7aor5') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(2, 4, 'tinytable_css_teh4ld80n8jw0xc7aor5') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(5, 4, 'tinytable_css_teh4ld80n8jw0xc7aor5') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(2, 5, 'tinytable_css_teh4ld80n8jw0xc7aor5') })
-window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5mmd09t4(5, 5, 'tinytable_css_teh4ld80n8jw0xc7aor5') })
+window.addEventListener('load', function () { insertSpanRow_mftpfyn035oi4h04gvok(4, 6, 'Anaerobic Specific Stages') });
+window.addEventListener('load', function () { insertSpanRow_mftpfyn035oi4h04gvok(2, 6, 'Aerobic Specific Stages') });
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(1, 0, 'tinytable_css_7kolup9bzqtazggvsj14') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(2, 0, 'tinytable_css_7kolup9bzqtazggvsj14') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(3, 0, 'tinytable_css_7kolup9bzqtazggvsj14') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(4, 0, 'tinytable_css_7kolup9bzqtazggvsj14') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(5, 0, 'tinytable_css_7kolup9bzqtazggvsj14') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(6, 0, 'tinytable_css_7kolup9bzqtazggvsj14') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(7, 0, 'tinytable_css_7kolup9bzqtazggvsj14') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(8, 0, 'tinytable_css_7kolup9bzqtazggvsj14') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(0, 0, 'tinytable_css_fnuxv4h56sc81y6iw172') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(0, 1, 'tinytable_css_fnuxv4h56sc81y6iw172') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(0, 2, 'tinytable_css_fnuxv4h56sc81y6iw172') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(0, 3, 'tinytable_css_fnuxv4h56sc81y6iw172') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(0, 4, 'tinytable_css_fnuxv4h56sc81y6iw172') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(0, 5, 'tinytable_css_fnuxv4h56sc81y6iw172') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(2, 0, 'tinytable_css_exafx3peez4nya84j992') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(5, 0, 'tinytable_css_exafx3peez4nya84j992') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(2, 1, 'tinytable_css_exafx3peez4nya84j992') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(5, 1, 'tinytable_css_exafx3peez4nya84j992') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(2, 2, 'tinytable_css_exafx3peez4nya84j992') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(5, 2, 'tinytable_css_exafx3peez4nya84j992') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(2, 3, 'tinytable_css_exafx3peez4nya84j992') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(5, 3, 'tinytable_css_exafx3peez4nya84j992') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(2, 4, 'tinytable_css_exafx3peez4nya84j992') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(5, 4, 'tinytable_css_exafx3peez4nya84j992') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(2, 5, 'tinytable_css_exafx3peez4nya84j992') })
+window.addEventListener('load', function () { styleCell_tinytable_kfl6ik4r169s1hswum0u(5, 5, 'tinytable_css_exafx3peez4nya84j992') })
     </script>
 &#10;  </body>
 &#10;</html>
@@ -228,12 +232,41 @@ window.addEventListener('load', function () { styleCell_tinytable_nls0tsus0dvb5m
 <br>
 <br>
 
-## <span style="color:#D32F2F"> TL;DR </span>
+## Practice questions
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/mGXSfOYlJ28m1vLm6zBBx/respond" width="800px" height="600px">
+</iframe>
+<details>
+<summary>
+Reveal prior student answers
+</summary>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/MUZmrpy1Hc7KvxqZyc32O?controls=none&amp;short_poll=true" width="800px" height="600px">
+</iframe>
+</details>
+
+<br>
+
+<iframe src="https://pollev-embeds.com/multiple_choice_polls/6Jo90Q8Qs69O2p8UnZsBP/respond" width="800px" height="600px">
+</iframe>
+<details>
+<summary>
+Reveal prior student answers
+</summary>
+<iframe src="https://embed.polleverywhere.com/multiple_choice_polls/6LiMvUONICGaoQQ89wbP6?controls=none&amp;short_poll=true" width="800px" height="600px">
+</iframe>
+</details>
+
+<br>
+\## <span style="color:#D32F2F"> TL;DR </span>
 
 <br>
 <br>
 
 ## <span style="color:#D32F2F"> Extra Resources </span>
+
+[FreeVCEnotes.com: Energy transformations](https://freevcenotes.com/biology/notes/energy-transformations)
+
+<br>
 
 ## Douchy’s VCE Biology Podcast
 

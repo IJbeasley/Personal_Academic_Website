@@ -1,10 +1,10 @@
 ---
-weight: 3
+weight: 9
 title: Enzymes
 author: 'Isobel Beasley'
 date: '2024-06-27'
 slug: intro-enzymes
-categories: ['High school', 'VCE', 'Biology', 'Unit 3']
+categories: ['High school', 'VCE', 'Biology', 'Unit 3', 'Area of Study 2']
 tags: ['Enzymes', 'Tutoring', 'Proteins', 'Photosynthesis', 'Cellular respiration'
 ]
 subtitle: 'What are enzymes anyway? What factors change their functioning?'

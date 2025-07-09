@@ -1,10 +1,10 @@
 ---
-weight: 7
+weight: 10
 title: 'Photosynthesis'
 author: 'Isobel Beasley'
 date: '2024-10-20'
 slug: photosynthesis
-categories: ['High school', 'VCE', 'Biology', 'Unit 3', 'Area of study 3']
+categories: ['High school', 'VCE', 'Biology', 'Unit 3', 'Area of study 2']
 tags: ['High school','VCE', 'Photosynthesis', 'Cellular Respiration', 'Tutoring']
 subtitle: "Don't let the details overwhelm you; you need to learn less than you might think"
 summary: "Let's focus on what you actually need to know on everyone's favourite VCE Biology topic (sarcasm btw)"
@@ -111,11 +111,11 @@ $$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + 
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tinytable_dsn3yktj9nwt4b71t6nr</title>
+    <title>tinytable_d7ejts2vgf598gq9rl4b</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-.table td.tinytable_css_7zsui7ooez0pzx4wcvck, th.tinytable_css_7zsui7ooez0pzx4wcvck {    font-weight: bold; color: black; background-color: white; }
-.table td.tinytable_css_qqigiw68eckqy2c0i3ia, th.tinytable_css_qqigiw68eckqy2c0i3ia {    font-size: 21.3333333333333px; }
+.table td.tinytable_css_6llgwdbtgelkmqkxtmjh, th.tinytable_css_6llgwdbtgelkmqkxtmjh {    font-weight: bold; color: black; background-color: white; }
+.table td.tinytable_css_0c9smdwieol5q9p8cd14, th.tinytable_css_0c9smdwieol5q9p8cd14 {    font-size: 21.3333333333333px; }
     </style>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -132,7 +132,7 @@ $$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + 
   </head>
 &#10;  <body>
     <div class="container">
-      <table class="table table-grid table-hover" id="tinytable_dsn3yktj9nwt4b71t6nr" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
+      <table class="table table-grid table-hover" id="tinytable_d7ejts2vgf598gq9rl4b" style="width: auto; margin-left: auto; margin-right: auto;" data-quarto-disable-processing='true'>
         <thead>
         &#10;              <tr>
                 <th scope="col">Stage</th>
@@ -159,23 +159,23 @@ $$ 6CO_{2} + 6H_{2}O \text{ }    \xrightarrow{\text{light}} \text{ }   6O_{2} + 
     </div>
 &#10;    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-    function styleCell_tinytable_3elc07i9ck51vsd6o63n(i, j, css_id) {
-      var table = document.getElementById("tinytable_dsn3yktj9nwt4b71t6nr");
+    function styleCell_tinytable_w9h87cx60jwic9vfgpxo(i, j, css_id) {
+      var table = document.getElementById("tinytable_d7ejts2vgf598gq9rl4b");
       table.rows[i].cells[j].classList.add(css_id);
     }
     function insertSpanRow(i, colspan, content) {
-      var table = document.getElementById('tinytable_dsn3yktj9nwt4b71t6nr');
+      var table = document.getElementById('tinytable_d7ejts2vgf598gq9rl4b');
       var newRow = table.insertRow(i);
       var newCell = newRow.insertCell(0);
       newCell.setAttribute("colspan", colspan);
       newCell.innerText = content;
     }
-window.addEventListener('load', function () { styleCell_tinytable_3elc07i9ck51vsd6o63n(1, 0, 'tinytable_css_7zsui7ooez0pzx4wcvck') })
-window.addEventListener('load', function () { styleCell_tinytable_3elc07i9ck51vsd6o63n(2, 0, 'tinytable_css_7zsui7ooez0pzx4wcvck') })
-window.addEventListener('load', function () { styleCell_tinytable_3elc07i9ck51vsd6o63n(0, 0, 'tinytable_css_qqigiw68eckqy2c0i3ia') })
-window.addEventListener('load', function () { styleCell_tinytable_3elc07i9ck51vsd6o63n(0, 1, 'tinytable_css_qqigiw68eckqy2c0i3ia') })
-window.addEventListener('load', function () { styleCell_tinytable_3elc07i9ck51vsd6o63n(0, 2, 'tinytable_css_qqigiw68eckqy2c0i3ia') })
-window.addEventListener('load', function () { styleCell_tinytable_3elc07i9ck51vsd6o63n(0, 3, 'tinytable_css_qqigiw68eckqy2c0i3ia') })
+window.addEventListener('load', function () { styleCell_tinytable_w9h87cx60jwic9vfgpxo(1, 0, 'tinytable_css_6llgwdbtgelkmqkxtmjh') })
+window.addEventListener('load', function () { styleCell_tinytable_w9h87cx60jwic9vfgpxo(2, 0, 'tinytable_css_6llgwdbtgelkmqkxtmjh') })
+window.addEventListener('load', function () { styleCell_tinytable_w9h87cx60jwic9vfgpxo(0, 0, 'tinytable_css_0c9smdwieol5q9p8cd14') })
+window.addEventListener('load', function () { styleCell_tinytable_w9h87cx60jwic9vfgpxo(0, 1, 'tinytable_css_0c9smdwieol5q9p8cd14') })
+window.addEventListener('load', function () { styleCell_tinytable_w9h87cx60jwic9vfgpxo(0, 2, 'tinytable_css_0c9smdwieol5q9p8cd14') })
+window.addEventListener('load', function () { styleCell_tinytable_w9h87cx60jwic9vfgpxo(0, 3, 'tinytable_css_0c9smdwieol5q9p8cd14') })
     </script>
 &#10;  </body>
 &#10;</html>

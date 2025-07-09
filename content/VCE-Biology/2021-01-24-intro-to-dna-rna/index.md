@@ -34,6 +34,10 @@ meta_summary: "Learn about DNA and RNA in this detailed overview, covering nucle
 
 <br>
 
+<h2 style="color:#D32F2F">
+Relevant VCAA 2022-2026 Study Design Dot Points:    
+</h2> 
+
 <aside>
 💡 Associated VCAA (2022-2026) Study Design Dot Points:               <br> 
 <ul> <i> 

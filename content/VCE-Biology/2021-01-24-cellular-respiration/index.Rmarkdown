@@ -1,10 +1,10 @@
 ---
-weight:  7
-title: 'Cellular Respiration'
+weight: 11
+title: 'Cellular respiration'
 author: 'Isobel Beasley'
 date: '2024-10-20'
 slug: cellular-respiration
-categories: ['High school' 'VCE', 'Biology', 'Unit 3', 'Area of study 3']
+categories: ['High school', 'VCE', 'Biology', 'Unit 3', 'Area of study 2']
 tags: ['High school','VCE', 'Photosynthesis', 'Cellular Respiration', 'Tutoring']
 subtitle: "Don't let the details scare you; you need to learn less than you might think"
 summary: "Let's focus on what you actually need to know on everyone's favourite VCE Biology topic (sarcasm btw)"
@@ -53,7 +53,7 @@ the <b> factors that affect the rate of cellular respiration </b>:  temperature,
 
 - Contrast the purpose of aerobic respiration, anaerobic respiration and photosynthesis
 - List the main inputs and outputs for the light dependent and light independent stages of photosynthesis
-- List the main inputs, outputs and ATP yields for stages of cellular respiration *(glycolysis, anaerobic respiration, Kreb's cycle, electron transport chain in yeast and in animals)*
+- List the main inputs, outputs and ATP yields for stages of cellular respiration *(glycolysis, anaerobic respiration, Krebs cycle, electron transport chain in yeast and in animals)*
 
 Bonus objectives:
 
@@ -93,7 +93,7 @@ Crash Course Introductory Video
 <br> 
 
 Word equation:
-$$ \text{Oxygen} + \text{Glucose} + \text{ADP} + \text{Inorganic Phosphorus} → \text{Carbon Dixode} + \text{Water} + \text{ATP (avaliable energy)} $$ 
+$$ \text{Oxygen} + \text{Glucose} + \text{ADP} + \text{Inorganic Phosphorus} → \text{Carbon Dioxide} + \text{Water} + \text{ATP (available energy)} $$ 
 
 
 
@@ -105,7 +105,8 @@ $$ 6O_{2} + C_{6}H_{12}O_{6} + 36ADP + 36P_{i} → 6CO_{2} + 6H_{2}O + 36ATP $$
 <br> 
 <br> 
 
-## <span style="color:#D32F2F"> Summary table (locations, steps, inputs and outputs> </span> 
+<!--## <span style="color:#D32F2F"> Summary table (locations, steps, inputs and outputs>) </span> !-->
+## <span style="color:#D32F2F">Summary table: locations, steps, inputs and outputs</span>
 
 ```{r, include = FALSE, echo = FALSE}
 library(readr)
@@ -127,7 +128,7 @@ tt(what_to_know_for_cellular_respiration,
    notes = list(i = 
                     "Glycolysis...",
                 ii = 
-                    "Kreb's Cycle ...",
+                    "Krebs Cycle ...",
                 iii = "Electron Transport Chain",
                 iv = "Anaerobic Coenzyme Recycling")
    ) |> 
@@ -187,7 +188,7 @@ tt(what_to_know_for_cellular_respiration,
 <br>
 <br>
 
-## <span style="color:#D32F2F"> Extra Resources </span
+## <span style="color:#D32F2F"> Extra Resources </span>
 
 [FreeVCEnotes.com: Energy transformations](https://freevcenotes.com/biology/notes/energy-transformations)
 

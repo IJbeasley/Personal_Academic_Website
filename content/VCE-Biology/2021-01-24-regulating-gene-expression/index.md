@@ -1,10 +1,10 @@
 ---
-weight: 6
-title: Regulating Gene Expression
+weight: 7
+title: Regulating gene expression
 author: 'Isobel Beasley'
 date: '2024-10-20'
 slug: regulating-gene-expression
-categories: ['High school','VCE', 'Biology', 'Unit 3']
+categories: ['High school','VCE', 'Biology', 'Unit 3', 'Area of Study 1']
 tags: ['High school','VCE', 'Tutoring', 'Genetic Regulation', 'Gene Expression']
 subtitle: "Gene structure and function"
 summary: 'What is the structure of a gene? How does this relate to gene activity?'

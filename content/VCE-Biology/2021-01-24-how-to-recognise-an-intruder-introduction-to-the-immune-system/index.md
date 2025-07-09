@@ -1,9 +1,10 @@
 ---
+weight: 12
 title: How to recognise an intruder 
 author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: intro-to-innate-immune-system
-categories: ['High school','VCE', 'Biology', 'Unit 4']
+categories: ['High school','VCE', 'Biology', 'Unit 4', 'Area of Study 1']
 tags: ['Antigen', 'Immune Response', 'Innate Immunity', 
        'Non-specific Immunity', 'High school']
 subtitle: 'An introduction to the immune system'

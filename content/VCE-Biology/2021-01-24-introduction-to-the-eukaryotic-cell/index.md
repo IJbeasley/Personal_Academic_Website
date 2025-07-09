@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 4
 title: 'Introduction to eukaryotic cell components'
 author: 'Isobel Beasley'
 date: '2024-10-20'
@@ -39,11 +39,11 @@ Overview:
  
 
 <h2 style="color:#D32F2F">
-Relevant VCAA 2022 Study Design Dot Points:    
+Relevant VCAA 2022-2026 Study Design Dot Points:    
 </h2> 
 
 <aside>
-<b>Unit 3 (Outcome 1): The relationship between nucleic acids and proteins</b>
+<b>Unit 3 (Area of Study 1): The relationship between nucleic acids and proteins</b>
 <ul>
 <li>
 <i>the role of rough endoplasmic reticulum, Golgi apparatus and associated vesicles in the export of proteins from a cell via the protein secretory pathway</i>

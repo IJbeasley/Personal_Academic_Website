@@ -1,9 +1,10 @@
 ---
+weight: 8
 title: Manipulating DNA
 author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: manipulating-dna
-categories: ['VCE', 'Biology', 'Unit 4','Not updated for current study design']
+categories: ['VCE', 'Biology', 'Unit 3', 'Area of Study 1', 'Not updated for current study design']
 tags:  ['To be updated', 'High school','VCE', 'Tutoring']
 subtitle: ""
 summary: 'Restriction enzymes, ligases, PCR, gel electrophoresis ... and all that good stuff'

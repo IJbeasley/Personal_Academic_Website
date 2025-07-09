@@ -1,9 +1,10 @@
 ---
+weight: 14
 title: Natural selection and speciation 
 author: 'Isobel Beasley'
 date: '2021-01-24'
 slug: genetic-diversity-and-natural-selection
-categories: ['High school','VCE', 'Biology']
+categories: ['High school','VCE', 'Biology', 'Unit 4', 'Area of Study 2']
 tags: ['High school','VCE', 'Natural selection', 'Allopatric speciation']
 subtitle: 'How do new species form?'
 summary: 'How do new species form?'
