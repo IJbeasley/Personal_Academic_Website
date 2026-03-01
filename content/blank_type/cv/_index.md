@@ -4,9 +4,9 @@ social:
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/ijbeasley.bsky.social
-- icon: twitter
-  icon_pack: fab
-  link: https://x.com/ijbeasley
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://x.com/ijbeasley
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6857-1692 
@@ -16,12 +16,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/IJbeasley
-- icon: gitlab
-  icon_pack: fab
-  link: https://gitlab.unimelb.edu.au/ibeasley
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/7qb8m/
+# - icon: gitlab
+#   icon_pack: fab
+#   link: https://gitlab.unimelb.edu.au/ibeasley
+# - icon: osf
+#   icon_pack: ai
+#   link: https://osf.io/7qb8m/
   
 summary: "View Isobel Beasley's CV, showcasing her educational background, interdisciplinary research in Genomics and Bioinformatics, professional experience, academic publications, and contributions in science communication."
 ---

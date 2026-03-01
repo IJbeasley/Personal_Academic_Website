@@ -4,9 +4,9 @@ social:
 - icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/ijbeasley.bsky.social
-- icon: twitter
-  icon_pack: fab
-  link: https://x.com/ijbeasley
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://x.com/ijbeasley
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-6857-1692 
@@ -16,12 +16,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/IJbeasley
-- icon: gitlab
-  icon_pack: fab
-  link: https://gitlab.unimelb.edu.au/ibeasley
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/7qb8m/
+# - icon: gitlab
+#   icon_pack: fab
+#   link: https://gitlab.unimelb.edu.au/ibeasley
+# - icon: osf
+#   icon_pack: ai
+#   link: https://osf.io/7qb8m/
 ---
 
 My current research is motivated by the challenges I encountered during my <a href="/project/pop_spec_eqtl/"  style="color:#D90429"> master's thesis research</a> at Melbourne University. In that project, I struggled to build accurate models that predicted portability because incomplete statistical power confounded which genetic associations (specifically eQTLs) were labeled 'portable' from one human population to another. This experience made me want to explore ways to reduce the impact of power on such analyses, and thus it become the focus of my work as a research assistant at St Vincent's Institute of Medical research. 
