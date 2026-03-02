@@ -29,19 +29,19 @@ color: #D32F2F;
 }
 
 h3 {
-font-size: clamp(calc(max(18px,1.29em)), calc(2vw+1em), 10vmax)
+font-size: clamp(calc(max(18px,1.29em)), calc(2vw+1em), 10vmax);
 }
 
 p {
-font-size: clamp(calc(max(16px,1.15em)), calc(1.5vw+1em), 5vmax)
+font-size: clamp(calc(max(16px,1.15em)), calc(1.5vw+1em), 5vmax);
 }
 
 body {
-font-size: clamp(calc(max(14px,1em)), calc(1vw+1em), 5vmax)
+font-size: clamp(calc(max(14px,1em)), calc(1vw+1em), 5vmax);
 }
 
 title {
-  font-size: clamp(calc(max(30px,2.14em)), calc(3vw+5em), 70vmax)
+  font-size: clamp(calc(max(30px,2.14em)), calc(3vw+5em), 70vmax);
 }
 
 
@@ -126,7 +126,7 @@ title {
           animation: slide-from-right 0s forwards;
   -webkit-animation-delay: 100ms;
           animation-delay: 100ms;
-  color:#050505
+  color:#050505;
 }
   
   .interests-div {
@@ -179,7 +179,7 @@ title {
 
 
 .overview-icons{
-    opacity: 0;
+  opacity: 0;
   -webkit-animation: fade-in 1s forwards;
           animation: fade-in 1s forwards;
   -webkit-animation-delay: 0.2s;
@@ -187,7 +187,7 @@ title {
 }
 
 #overview-content { 
-   text-colour: #333333;
+   color: #333333;
     opacity: 0;
     -webkit-animation: fade-in 1s forwards;
           animation: fade-in 1s forwards;
@@ -407,5 +407,5 @@ input[type='checkbox'] {
 }
 
 .powered-by{
-  font-color:#121212
+  color:#121212;
 }
